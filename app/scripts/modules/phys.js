@@ -114,7 +114,9 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 					global.wheel.body.angularVelocity = 0;
 
 					var currentRotation = global.wheel.body.angle % (Math.PI * 2),
-						currentSegment = Math.floor(currentRotation / global.wheel.deltaPI + 0.5);
+						currentSegment = Math.abs(Math.floor(currentRotation / global.wheel.deltaPI + 0.5));
+
+					console.log((currentSegment + 7) % 10);
 
 					console.log(global.demos[(currentSegment + 7) % 10]);
 				}

@@ -26,12 +26,12 @@ define(function () {
 			var thumbFileName = thumbnail.substring(thumbnail.lastIndexOf("/"));
 			var thumbEntry = this.meta.files[decodeURIComponent(thumbFileName)];
 			if (thumbEntry === undefined) {
-				console.log("Unable to load full image, code 1", this.meta, decodeURIComponent(thumbFileName));
+				console.log("Unable to load full image, code 1 (unable to find catalog entry)", this.meta, decodeURIComponent(thumbFileName));
 				return thumbnail;
 			}
 			var originalFileName = thumbEntry.original;
 			if (originalFileName === undefined) {
-				console.log("Unable to load full image, code 2", thumbEntry);
+				console.log("Unable to load full image, code 2 (unable to find original)", thumbEntry);
 				return thumbnail;
 			}
 			return thumbnail.substring(0, thumbnail.lastIndexOf("/") + 1) + originalFileName;

@@ -127,7 +127,6 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 			}
 
 			function draw() {
-				// ctx.fillStyle = '#fff';
 				global.ctx.clearRect(0, 0, global.viewWidth, global.viewHeight);
 
 				global.wheel.draw();

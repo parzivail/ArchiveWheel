@@ -20,9 +20,6 @@ body {
   height: 850px;
 }
 
-.material-icons {
-}
-
 #loaderInfo {
   position: absolute;
   top: 50%;
@@ -145,7 +142,6 @@ body {
   right: 0;
   width: 100px;
   height: 100%;
-  box-shadow: 0 0 10px #29d, 0 0 5px #29d;
   opacity: 1.0;
   -webkit-transform: rotate(3deg) translate(0px, -4px);
   -moz-transform: rotate(3deg) translate(0px, -4px);
@@ -162,15 +158,15 @@ body {
   right: 56px;
   width: 56px;
   height: 56px;
-  border: solid 4px transparent;
+  border: solid 3px transparent;
   border-top-color: #FF7F00;
-  border-left-color: #FF7F00;
+  border-bottom-color: #FF7F00;
   border-radius: 50%;
-  -webkit-animation: pace-spinner 400ms linear infinite;
-  -moz-animation: pace-spinner 400ms linear infinite;
-  -ms-animation: pace-spinner 400ms linear infinite;
-  -o-animation: pace-spinner 400ms linear infinite;
-  animation: pace-spinner 400ms linear infinite;
+  -webkit-animation: pace-spinner 800ms linear infinite;
+  -moz-animation: pace-spinner 800ms linear infinite;
+  -ms-animation: pace-spinner 800ms linear infinite;
+  -o-animation: pace-spinner 800ms linear infinite;
+  animation: pace-spinner 800ms linear infinite;
 }
 
 @-webkit-keyframes pace-spinner {

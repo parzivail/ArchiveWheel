@@ -64,12 +64,16 @@ define(["modules/global"], function (global) {
 
 			global.ctx.rotate(-this.body.angle);
 
+			global.ctx.fillStyle = '#000';
+			global.ctx.strokeStyle = '#FF7F00';
+			global.ctx.lineWidth = 3;
+
 			for (var i = 0; i < this.segments; i++) {
-				global.ctx.fillStyle = "hsl(" + (i / this.segments * 360) + ",100%,60%)";
 				global.ctx.beginPath();
 				global.ctx.arc(0, 0, this.pRadius, i * this.deltaPI, (i + 1) * this.deltaPI);
 				global.ctx.lineTo(0, 0);
 				global.ctx.closePath();
+
 				global.ctx.fill();
 
 				global.ctx.save();
@@ -82,9 +86,11 @@ define(["modules/global"], function (global) {
 				global.ctx.drawImage(global.demos[i].image, 0, 0, global.demos[i].image.width, global.demos[i].image.height,     // source rectangle
 					0, 0, 500, (500 / global.demos[i].image.width) * global.demos[i].image.height); // destination rectangle
 				global.ctx.restore();
+
+				global.ctx.stroke();
 			}
 
-			global.ctx.fillStyle = '#111111';
+			global.ctx.fillStyle = '#FFF';
 
 			this.pPinPositions.forEach(function (p) {
 				global.ctx.beginPath();

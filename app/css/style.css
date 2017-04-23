@@ -16,6 +16,20 @@ body {
   width: 850px;
   height: 850px; }
 
+#loaderInfo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 48pt; }
+
+#possible {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translate(0, -50%);
+  font-size: 18pt; }
+
 .item {
   position: absolute;
   top: 50%;
@@ -30,13 +44,18 @@ body {
 .hidden {
   display: none; }
 
-.caption, .btns {
+.title, .btns {
   display: block;
   font-size: 24pt; }
 
-.caption2 {
+.description {
   display: block;
-  font-size: 12pt; }
+  font-size: 12pt;
+  text-align: justify; }
+
+.downloads {
+  display: block;
+  font-size: 10pt; }
 
 .overlay {
   position: absolute;
@@ -61,18 +80,18 @@ body {
 .btn:active {
   transform: translate(0px, 5px);
   -webkit-transform: translate(0px, 5px);
-  box-shadow: 0px 1px 0px 0px; }
+  box-shadow: 0 1px 0 0; }
 
 .blue {
   background-color: #55acee;
-  box-shadow: 0px 5px 0px 0px #3C93D5; }
+  box-shadow: 0 5px 0 0 #3C93D5; }
 
 .blue:hover {
   background-color: #6FC6FF; }
 
 .orange {
   background-color: #e67e22;
-  box-shadow: 0px 5px 0px 0px #CD6509; }
+  box-shadow: 0 5px 0 0 #CD6509; }
 
 .orange:hover {
   background-color: #FF983C; }
@@ -99,7 +118,7 @@ body {
 .pace .pace-progress-inner {
   display: block;
   position: absolute;
-  right: 0px;
+  right: 0;
   width: 100px;
   height: 100%;
   box-shadow: 0 0 10px #29d, 0 0 5px #29d;
@@ -114,14 +133,14 @@ body {
   display: block;
   position: fixed;
   z-index: 2000;
-  top: 19px;
-  right: 15px;
-  width: 14px;
-  height: 14px;
-  border: solid 2px transparent;
+  top: 56px;
+  right: 56px;
+  width: 56px;
+  height: 56px;
+  border: solid 4px transparent;
   border-top-color: #FF7F00;
   border-left-color: #FF7F00;
-  border-radius: 10px;
+  border-radius: 50%;
   -webkit-animation: pace-spinner 400ms linear infinite;
   -moz-animation: pace-spinner 400ms linear infinite;
   -ms-animation: pace-spinner 400ms linear infinite;
@@ -162,8 +181,6 @@ body {
 
 @keyframes pace-spinner {
   0% {
-    transform: rotate(0deg);
     transform: rotate(0deg); }
   100% {
-    transform: rotate(360deg);
     transform: rotate(360deg); } }

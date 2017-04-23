@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Archive Wheel</title>
 	<link rel="stylesheet" href="css/style.css"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/p2.js/0.6.0/p2.min.js"></script>
@@ -17,15 +18,26 @@
 
 <div class="item">
 	<img id="captionImg" src=""/>
-	<span class="caption"></span>
-	<span class="caption2"></span>
 	<br/>
-	<span class="btns"><a href="#" class="btn blue" id="play">Play</a><a href="#" class="btn orange" id="spinAgain">Spin Again</a></span>
+	<span class="title"></span>
+	<span class="description"></span>
+	<br/>
+	<span class="downloads"><span class="downloadCount"></span> downloads (<span class="downloadCountWeek"></span> this week)</span>
+	<br/>
+	<span class="btns"><a href="#" class="btn blue" id="play">Play This Demo</a><a href="#" class="btn orange"
+																				   id="spinAgain">Spin Again</a></span>
 </div>
 <div class="overlay"></div>
 
 <div id="container">
 	<canvas id="drawing_canvas"></canvas>
+</div>
+
+<div id="loaderInfo">
+	Loading 10 demos (of <span id="numDemos">a lot</span>)...
+</div>
+
+<div id="possible">
 </div>
 </body>
 </html>

@@ -24,8 +24,8 @@ define(["modules/global"], function (global) {
 
 	Wheel.prototype = {
 		createBody: function () {
-			this.body = new p2.Body({mass: 100, position: [this.x, this.y]});
-			this.body.angularDamping = 0.25;
+			this.body = new p2.Body({mass: 10, position: [this.x, this.y]});
+			this.body.angularDamping = 0.2;
 			this.body.addShape(new p2.Circle(this.radius));
 			this.body.shapes[0].sensor = true; //TODO use collision bits instead
 

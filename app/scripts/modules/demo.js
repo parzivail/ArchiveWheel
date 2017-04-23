@@ -8,8 +8,11 @@ define(function () {
 			this.meta = data;
 
 			this.image = new Image();
-			this.image.src = this.meta.misc.image;
+			this.image.src = this.getFullImageUrl();
 			this.image.onload = onLoad;
+
+			if (this.info.description.length > 1000)
+				this.info.description = this.info.description.substring(0, 700) + "[...]";
 
 		}, this));
 	}
@@ -17,7 +20,22 @@ define(function () {
 	Demo.prototype = {
 		image: null,
 		info: null,
-		meta: null
+		meta: null,
+		getFullImageUrl: function () {
+			var thumbnail = this.meta.misc.image;
+			var thumbFileName = thumbnail.substring(thumbnail.lastIndexOf("/"));
+			var thumbEntry = this.meta.files[decodeURIComponent(thumbFileName)];
+			if (thumbEntry === undefined) {
+				console.log("Unable to load full image, code 1", this.meta, decodeURIComponent(thumbFileName));
+				return thumbnail;
+			}
+			var originalFileName = thumbEntry.original;
+			if (originalFileName === undefined) {
+				console.log("Unable to load full image, code 2", thumbEntry);
+				return thumbnail;
+			}
+			return thumbnail.substring(0, thumbnail.lastIndexOf("/") + 1) + originalFileName;
+		}
 	};
 
 	return Demo;

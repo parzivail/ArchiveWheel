@@ -59,7 +59,7 @@ define(function () {
 		contactMaterial: contactMaterial,
 		wheelSpinning: wheelSpinning,
 		wheelStopped: wheelStopped,
-		particles: particles,
+		//particles: particles,
 		demos: demos,
 		currentIndex: 0,
 		getDemoForIndex: function (idx) {

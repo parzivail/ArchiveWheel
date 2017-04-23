@@ -91,46 +91,35 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 			}
 
 			function update() {
-				global.particles.forEach(function (p) {
-					p.update();
-					if (p.complete) {
-						global.particles.splice(global.particles.indexOf(p), 1);
-					}
-				});
-
-				// p2 does not support continuous collision detection :(
-				// but stepping twice seems to help
-				// considering there are only a few bodies, this is ok for now.
 				var steps = 3;
 				for (var i = 1; i <= steps; i++)
 					global.world.step(global.timeStep * (i / steps));
 
 				if (global.wheelSpinning === true && global.wheelStopped === false &&
-					Math.abs(global.wheel.body.angularVelocity) < 0.1) {
+					Math.abs(global.wheel.body.angularVelocity) < 0.01) {
 
 					global.wheelStopped = true;
 					global.wheelSpinning = false;
 
 					global.wheel.body.angularVelocity = 0;
-					global.world.step(global.timeStep);
 
 					var currentRotation = (global.wheel.body.angle / Math.PI * 180) % 360;
 					if (currentRotation < 0)
 						currentRotation = 360 + currentRotation;
 
-					var currentSegment = Math.ceil(currentRotation / 36 - 0.5) - 3;
+					var currentSegment = Math.ceil(currentRotation / 36 - 0.45) - 3;
 					if (currentSegment == 10)
 						currentSegment = 0;
 					else if (currentSegment < 0)
 						currentSegment = 10 + currentSegment;
 
-					if (global.currentIndex != currentSegment) {
-						global.currentIndex = currentSegment;
-						$(".caption").text(global.demos[currentSegment].info.title);
-						$(".caption2").text(global.demos[currentSegment].info.description);
-						$("#captionImg").attr("src", global.demos[currentSegment].meta.misc.image);
-						$("#captionImg").attr("width", 600);
-					}
+					global.currentIndex = currentSegment;
+					$(".title").text(global.demos[currentSegment].info.title);
+					$(".description").text(global.demos[currentSegment].info.description);
+					$(".downloadCount").text(global.demos[currentSegment].meta.item.downloads);
+					$(".downloadCountWeek").text(global.demos[currentSegment].meta.item.week);
+					$("#captionImg").attr("src", global.demos[currentSegment].getFullImageUrl());
+					$("#captionImg").attr("width", 600);
 
 					TweenLite.fromTo($(".item"), 0.5, {scaleX: 0, scaleY: 0}, {scaleX: 1, scaleY: 1});
 					TweenLite.fromTo($(".overlay"), 1, {opacity: 0}, {opacity: 0.9});
@@ -143,10 +132,6 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 
 				global.wheel.draw();
 				global.arrow.draw();
-
-				global.particles.forEach(function (p) {
-					p.draw();
-				});
 			}
 
 			function loop() {

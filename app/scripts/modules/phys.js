@@ -107,7 +107,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 					if (currentRotation < 0)
 						currentRotation = 360 + currentRotation;
 
-					var currentSegment = Math.ceil(currentRotation / 36 - 0.45) - 3;
+					var currentSegment = Math.ceil(currentRotation / 36 - 0.4) - 3;
 					if (currentSegment == 10)
 						currentSegment = 0;
 					else if (currentSegment < 0)

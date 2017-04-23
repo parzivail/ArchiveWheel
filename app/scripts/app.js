@@ -15,10 +15,10 @@ $(document).ready(function () {
 		var numNeededDemos = 10;
 		var numDemos = 0;
 
-		$.getJSON("http://archive.org/advancedsearch.php?q=%28demo%29+AND+collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=3000&page=1&output=json#raw", function (data) {
+		var loadJsonData = function (data) {
 			var docs = data.response.docs;
 			var numDemosTotal = data.response.docs.length;
-			console.log("Loaded " + numDemosTotal + "demos");
+			console.log("Loaded " + numDemosTotal + " demos");
 
 			$("#numDemos").text(numDemosTotal);
 
@@ -34,7 +34,20 @@ $(document).ready(function () {
 				var demo = new Demo(docs[item], demosLoaded);
 				global.demos.push(demo);
 			});
-		});
+		};
+
+		if (sessionStorage.getItem("demoCache") === null) {
+			console.log("Did not find a DemoCache, loading off web");
+			$.getJSON("http://archive.org/advancedsearch.php?q=%28demo%29+AND+collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=3000&page=1&output=json#raw", function (data) {
+				sessionStorage.setItem('demoCache', JSON.stringify(data));
+				console.log("Loaded DemoCache off web");
+				loadJsonData(data);
+			});
+		}
+		else {
+			console.log("Found a DemoCache, not loading off web");
+			loadJsonData(JSON.parse(sessionStorage.getItem("demoCache")));
+		}
 
 		function demosLoaded() {
 			numDemos++;

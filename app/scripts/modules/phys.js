@@ -9,10 +9,10 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 				global.drawingCanvas.height = global.viewHeight;
 				global.ctx = global.drawingCanvas.getContext('2d');
 
-				global.drawingCanvas.addEventListener('mousemove', updateMouseBodyPosition);
-				global.drawingCanvas.addEventListener('mousedown', checkStartDrag);
-				global.drawingCanvas.addEventListener('mouseup', checkEndDrag);
-				global.drawingCanvas.addEventListener('mouseout', checkEndDrag);
+				// global.drawingCanvas.addEventListener('mousemove', updateMouseBodyPosition);
+				// global.drawingCanvas.addEventListener('mousedown', checkStartDrag);
+				// global.drawingCanvas.addEventListener('mouseup', checkEndDrag);
+				// global.drawingCanvas.addEventListener('mouseout', checkEndDrag);
 			}
 
 			function updateMouseBodyPosition(e) {
@@ -78,8 +78,8 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 					arrowY = wheelY + wheelRadius + 0.625;
 
 				global.wheel = new Wheel(wheelX, wheelY, wheelRadius, 10, 0.25, wheelRadius - 0.3);
-				//wheel.body.angle = (Math.PI / 32.5);
-				//wheel.body.angularVelocity = -(8 + 5 * Math.random());
+				global.wheel.body.angle = (Math.PI / 32.5);
+				global.wheel.body.angularVelocity = -(8 + 5 * Math.random());
 				global.arrow = new Arrow(arrowX, arrowY, 0.5, 1.5);
 				global.arrow.body.angularDamping = 1;
 				global.mouseBody = new p2.Body();
@@ -101,24 +101,39 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 				// p2 does not support continuous collision detection :(
 				// but stepping twice seems to help
 				// considering there are only a few bodies, this is ok for now.
-				var steps = 4;
+				var steps = 3;
 				for (var i = 1; i <= steps; i++)
 					global.world.step(global.timeStep * (i / steps));
 
 				if (global.wheelSpinning === true && global.wheelStopped === false &&
-					Math.abs(global.wheel.body.angularVelocity) < 0.05) {
+					Math.abs(global.wheel.body.angularVelocity) < 0.1) {
 
 					global.wheelStopped = true;
 					global.wheelSpinning = false;
 
 					global.wheel.body.angularVelocity = 0;
+					global.world.step(global.timeStep);
 
-					var currentRotation = global.wheel.body.angle % (Math.PI * 2),
-						currentSegment = Math.abs(Math.floor(currentRotation / global.wheel.deltaPI + 0.5));
+					var currentRotation = (global.wheel.body.angle / Math.PI * 180) % 360;
+					if (currentRotation < 0)
+						currentRotation = 360 + currentRotation;
 
-					console.log((currentSegment + 7) % 10);
+					var currentSegment = Math.ceil(currentRotation / 36 - 0.5) - 3;
+					if (currentSegment == 10)
+						currentSegment = 0;
+					else if (currentSegment < 0)
+						currentSegment = 10 + currentSegment;
 
-					console.log(global.demos[(currentSegment + 7) % 10]);
+					if (global.currentIndex != currentSegment) {
+						global.currentIndex = currentSegment;
+						$(".caption").text(global.demos[currentSegment].info.title);
+						$(".caption2").text(global.demos[currentSegment].info.description);
+						$("#captionImg").attr("src", global.demos[currentSegment].meta.misc.image);
+						$("#captionImg").attr("width", 600);
+					}
+
+					TweenLite.fromTo($(".item"), 0.5, {scaleX: 0, scaleY: 0}, {scaleX: 1, scaleY: 1});
+					TweenLite.fromTo($(".overlay"), 1, {opacity: 0}, {opacity: 0.9});
 				}
 			}
 

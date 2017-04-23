@@ -3,6 +3,15 @@ $(document).ready(function () {
 		// init the modules
 		ui.init(window);
 
+		$("#spinAgain").click(function () {
+			location.reload();
+		});
+
+		$("#play").click(function () {
+			console.log(global.demos[global.currentIndex]);
+			window.open("https://archive.org/details/" + global.demos[global.currentIndex].info.identifier);
+		});
+
 		var numNeededDemos = 10;
 		var numDemos = 0;
 

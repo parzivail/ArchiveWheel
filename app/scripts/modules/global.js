@@ -61,6 +61,7 @@ define(function () {
 		wheelStopped: wheelStopped,
 		particles: particles,
 		demos: demos,
+		currentIndex: 0,
 		getDemoForIndex: function (idx) {
 			return demos[idx];
 		}

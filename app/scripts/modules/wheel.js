@@ -58,7 +58,7 @@ define(["modules/global"], function (global) {
 			global.ctx.translate(this.pX, this.pY);
 
 			global.ctx.beginPath();
-			global.ctx.fillStyle = '#707B7C';
+			global.ctx.fillStyle = '#FF7F00';
 			global.ctx.arc(0, 0, this.pRadius + 24, 0, Math.PI * 2);
 			global.ctx.fill();
 
@@ -74,13 +74,13 @@ define(["modules/global"], function (global) {
 
 				global.ctx.save();
 				global.ctx.rotate(i * this.deltaPI);
-				global.ctx.translate(250 / 2, 0);
+				global.ctx.translate(500 / 2, 0);
 				global.ctx.rotate(108 / 180 * Math.PI);
-				global.ctx.translate(-250 / 2 + 40, -(250 / global.getDemoForIndex(i).image.width) / 2 - 240);
+				global.ctx.translate(-500 / 2 + 40, -(500 / global.demos[i].image.width) / 2 - 150);
 
 				global.ctx.clip();
-				global.ctx.drawImage(global.getDemoForIndex(i).image, 0, 0, global.getDemoForIndex(i).image.width, global.getDemoForIndex(i).image.height,     // source rectangle
-					0, 0, 250, (250 / global.getDemoForIndex(i).image.width) * global.getDemoForIndex(i).image.height); // destination rectangle
+				global.ctx.drawImage(global.demos[i].image, 0, 0, global.demos[i].image.width, global.demos[i].image.height,     // source rectangle
+					0, 0, 500, (500 / global.demos[i].image.width) * global.demos[i].image.height); // destination rectangle
 				global.ctx.restore();
 			}
 

@@ -9,9 +9,6 @@ define(function () {
 			this.window = window;
 
 			this.window.setInterval($.proxy(this.cycleBg, this), 500);
-
-			var binder = $("#binder");
-			TweenLite.to(binder, 1.5, {scaleX: 2, scaleY: 2, y: -400, x: -250});
 		},
 		cycleBg: function () {
 			this.bgIndex++;

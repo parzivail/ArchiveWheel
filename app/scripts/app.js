@@ -38,7 +38,11 @@ $(document).ready(function () {
 
 		if (sessionStorage.getItem("demoCache") === null) {
 			console.log("Did not find a DemoCache, loading off web");
-			$.getJSON("http://archive.org/advancedsearch.php?q=%28demo%29+AND+collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=3000&page=1&output=json#raw", function (data) {
+
+			var demosUrl = "http://archive.org/advancedsearch.php?q=%28demo%29+AND+collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=3000&page=1&output=json#raw";
+			var allGamesUrl = "http://archive.org/advancedsearch.php?q=collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=99999&page=1&output=json#raw";
+
+			$.getJSON(demosUrl, function (data) {
 				sessionStorage.setItem('demoCache', JSON.stringify(data));
 				console.log("Loaded DemoCache off web");
 				loadJsonData(data);

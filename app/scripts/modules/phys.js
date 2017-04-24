@@ -119,7 +119,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 					$(".downloadCount").text(global.demos[currentSegment].meta.item.downloads);
 					$(".downloadCountWeek").text(global.demos[currentSegment].meta.item.week);
 					$("#captionImg").attr("src", global.demos[currentSegment].getFullImageUrl());
-					$("#captionImg").attr("width", 600);
+					$("#captionImg").attr("height", 450);
 
 					TweenLite.fromTo($(".item"), 0.5, {scaleX: 0, scaleY: 0}, {scaleX: 1, scaleY: 1});
 					TweenLite.fromTo($(".overlay"), 1, {opacity: 0}, {opacity: 0.9});

@@ -62,8 +62,25 @@ define(function () {
 		//particles: particles,
 		demos: demos,
 		currentIndex: 0,
-		getDemoForIndex: function (idx) {
-			return demos[idx];
+		get: function (site, callback) {
+			// If no url was passed, exit.
+			if (!site) {
+				return false;
+			}
+
+			// Request that YSQL string, and run a callback function.
+			// Pass a defined function to prevent cache-busting.
+			$.getJSON("https://cors-anywhere.herokuapp.com/" + site, function (data) { // TODO: self-host a cors-anywhere instance
+				// If we have something to work with...
+				if (data) {
+					callback(data);
+				}
+				// Else, Maybe we requested a site that doesn't exist, and nothing returned.
+				else throw new Error('Nothing returned from getJSON.');
+			});
+		},
+		status: function (status) {
+			$("#loadStatus").text(status);
 		}
 	}
 });

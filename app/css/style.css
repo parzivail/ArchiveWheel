@@ -4,7 +4,8 @@ body {
   padding: 0;
   overflow: hidden;
   font-family: "Roboto", sans-serif;
-  text-shadow: 0px 0px 4px #BBB; }
+  text-shadow: 0px 0px 4px #BBB;
+  background-image: url("../images/dd_bg1.png"); }
 
 .z0, .z1, .z2 {
   position: absolute; }
@@ -31,6 +32,10 @@ body {
   transform: translate(0, -50%);
   font-size: 18pt; }
 
+@media screen and (max-width: 1500px) {
+  #possible {
+    display: none; } }
+
 .item {
   position: absolute;
   top: 50%;
@@ -39,7 +44,6 @@ body {
   vertical-align: top;
   display: inline-block;
   text-align: center;
-  width: 600px;
   z-index: 2; }
 
 .item #captionImg {
@@ -48,7 +52,7 @@ body {
   box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75); }
 
 .hidden {
-  display: none; }
+  display: none !important; }
 
 .title, .btns {
   display: block;
@@ -107,12 +111,13 @@ body {
   pointer-events: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  user-select: none; }
+  user-select: none;
+  display: none; }
 
 .pace-inactive {
   display: none; }
 
-.pace .pace-activity {
+.activity {
   display: block;
   position: fixed;
   z-index: 2000;
@@ -129,6 +134,14 @@ body {
   -ms-animation: pace-spinner 800ms linear infinite;
   -o-animation: pace-spinner 800ms linear infinite;
   animation: pace-spinner 800ms linear infinite; }
+
+#loadStatus {
+  display: block;
+  position: fixed;
+  z-index: 2000;
+  bottom: 56px;
+  right: 56px;
+  color: #888; }
 
 @-webkit-keyframes pace-spinner {
   0% {

@@ -1,10 +1,10 @@
 /**
  * Created by Colby on 4/22/2017.
  */
-define(function () {
+define(['modules/global'], function (global) {
 	function Demo(parsedJson, onLoad) {
 		this.info = parsedJson;
-		$.getJSON("https://archive.org/details/" + this.info.identifier + "&output=json", $.proxy(function (data) {
+		global.get("https://archive.org/details/" + this.info.identifier + "&output=json", $.proxy(function (data) {
 			this.meta = data;
 
 			this.image = new Image();

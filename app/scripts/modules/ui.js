@@ -1,7 +1,7 @@
 /**
  * Created by Colby on 4/21/2017.
  */
-define(function () {
+define(['modules/global'], function (global) {
 	return {
 		window: null,
 		bgIndex: 0,

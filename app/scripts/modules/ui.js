@@ -8,7 +8,16 @@ define(function () {
 		init: function (window) {
 			this.window = window;
 
-			this.window.setInterval($.proxy(this.cycleBg, this), 500);
+			//this.window.setInterval($.proxy(this.cycleBg, this), 500);
+
+			$("#spinAgain").click(function () {
+				location.reload();
+			});
+
+			$("#play").click(function () {
+				console.log(global.demos[global.currentIndex]);
+				window.open("https://archive.org/details/" + global.demos[global.currentIndex].info.identifier);
+			});
 		},
 		cycleBg: function () {
 			this.bgIndex++;

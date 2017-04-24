@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif;
+  text-shadow: 0px 0px 4px #BBB; }
 
 .z0, .z1, .z2 {
   position: absolute; }
@@ -40,6 +41,11 @@ body {
   text-align: center;
   width: 600px;
   z-index: 2; }
+
+.item #captionImg {
+  -webkit-box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.75); }
 
 .hidden {
   display: none; }

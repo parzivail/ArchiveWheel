@@ -49,6 +49,9 @@ $(document).ready(function () {
 				tl2.to([l2, l3], 0.2, {scaleX: 0, scaleY: 0});
 				tl2.to([l2, l3], 0.1, {scaleX: 1.1, scaleY: 1.1});
 				tl2.to([l2, l3], 0.3, {scaleX: 1, scaleY: 1});
+				tl2.call(function () {
+					l3.css("transform", "translate(0, -50%)");
+				});
 				tl2.play();
 			});
 			tl.play();

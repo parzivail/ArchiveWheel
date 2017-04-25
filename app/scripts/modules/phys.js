@@ -185,6 +185,9 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 			tl.call(function () {
 				$("#loaderInfo").addClass("hidden");
 			});
+			tl.call(function () {
+				global.sound.play();
+			});
 			tl.to(l2, 0.3, {scaleX: 0, scaleY: 0});
 			tl.to(l2, 0.2, {scaleX: 1.1, scaleY: 1.1});
 			tl.to(l2, 0.4, {scaleX: 1, scaleY: 1});

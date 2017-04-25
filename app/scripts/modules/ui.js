@@ -18,6 +18,17 @@ define(['modules/global'], function (global) {
 				console.log(global.demos[global.currentIndex]);
 				window.open("https://archive.org/details/" + global.demos[global.currentIndex].info.identifier);
 			});
+
+			var vivus = new Vivus('loaderInfo', {file: 'images/archivewheel.svg'}, function () {
+			});
+
+			Pace.on("done", function () {
+				vivus.setFrameProgress(1);
+			});
+
+			Pace.on("update", function (percent) {
+				vivus.setFrameProgress(Math.min(percent / 50, 1));
+			});
 		},
 		cycleBg: function () {
 			this.bgIndex++;

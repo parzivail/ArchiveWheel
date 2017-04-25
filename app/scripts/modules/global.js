@@ -61,6 +61,7 @@ define(function () {
 		wheelStopped: wheelStopped,
 		//particles: particles,
 		demos: demos,
+		sound: null,
 		currentIndex: 0,
 		get: function (site, callback) {
 			// If no url was passed, exit.

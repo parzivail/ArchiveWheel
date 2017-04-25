@@ -9,6 +9,10 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 
 			global.status("Initializing...");
 
+			global.sound = new Howl({
+				src: ['/sound/demodisk.mp3']
+			});
+
 			var loadJsonData = function (data) {
 				var docs = data.response.docs;
 				var numDemosTotal = data.response.docs.length;

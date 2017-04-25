@@ -63,16 +63,7 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					phys.begin();
 					console.log("Began phys routine");
 					$(".activity").addClass("hidden");
-
-					$("#possible").append("<div><b>Possibilities:</b></div>");
-					global.status("Done");
-					$.each(global.demos, function (idx, item) {
-						var t = item.info.title;
-						if (t.length > 40)
-							t = t.substring(0, 40) + "...";
-
-						$("#possible").append('<div><i class="material-icons">chevron_right</i> ' + t + "</div>");
-					});
+					$("#loadStatus").addClass("hidden");
 					global.status("");
 				}
 			}

@@ -31,7 +31,7 @@ body {
   position: absolute;
   top: 50%;
   left: 10px;
-  transform: translate(0, -50%) scale(0, 0);
+  transform: translate(0, -50%);
   font-size: 18pt; }
 
 @media screen and (max-width: 1500px) {
@@ -90,9 +90,8 @@ body {
   display: inline-block; }
 
 .btn:active {
-  transform: translate(0px, 5px);
-  -webkit-transform: translate(0px, 5px);
-  box-shadow: 0 1px 0 0; }
+  transform: translate(0px, 2px);
+  -webkit-transform: translate(0px, 2px); }
 
 .blue {
   background-color: #55acee;

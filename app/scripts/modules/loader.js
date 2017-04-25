@@ -58,7 +58,6 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					global.status("Starting physics engine...");
 					phys.begin();
 					console.log("Began phys routine");
-					$("#loaderInfo").addClass("hidden");
 					$(".activity").addClass("hidden");
 
 					$("#possible").append("<div><b>Possibilities:</b></div>");

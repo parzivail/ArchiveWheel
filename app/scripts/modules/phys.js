@@ -79,7 +79,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 
 				global.wheel = new Wheel(wheelX, wheelY, wheelRadius, 10, 0.25, wheelRadius - 0.3);
 				global.wheel.body.angle = (Math.PI / 32.5);
-				global.wheel.body.angularVelocity = -(8 + 5 * Math.random());
+				global.wheel.body.angularVelocity = -(10 + 8 * Math.random());
 				global.arrow = new Arrow(arrowX, arrowY, 0.5, 1.5);
 				global.arrow.body.angularDamping = 1;
 				global.mouseBody = new p2.Body();
@@ -144,6 +144,51 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 			initPhysics();
 
 			requestAnimationFrame(loop);
+
+			const circle = new mojs.Shape({
+				stroke: '#FF9C00',
+				strokeWidth: {400: 0},
+				fill: 'none',
+				timeline: {delay: 200},
+				scale: {0: 1},
+				radius: 400,
+				duration: 500,
+				easing: 'cubic.out'
+			});
+
+			const bgBurst = new mojs.Burst({
+				radius: {0: 400},
+				angle: 45,
+				count: 14,
+				duration: 500,
+				children: {
+					radius: 10,
+					fill: '#FF7F00',
+					scale: {1: 0, easing: 'quad.in'},
+					pathScale: [.8, null],
+					degreeShift: [20, null],
+					duration: [500, 700],
+					easing: 'quint.out'
+				}
+			});
+
+			var l = $("#loaderInfo");
+			var l2 = $("#container");
+			var tl = new TimelineLite();
+			tl.to(l, 0.4, {scaleX: 2, scaleY: 2});
+			tl.to(l, 0.2, {scaleX: 2.5, scaleY: 2.5});
+			tl.call(function () {
+				bgBurst.play();
+				circle.play();
+			});
+			tl.to(l, 0.3, {scaleX: 0, scaleY: 0});
+			tl.call(function () {
+				$("#loaderInfo").addClass("hidden");
+			});
+			tl.to(l2, 0.3, {scaleX: 0, scaleY: 0});
+			tl.to(l2, 0.2, {scaleX: 1.1, scaleY: 1.1});
+			tl.to(l2, 0.4, {scaleX: 1, scaleY: 1});
+			tl.play();
 		}
 	}
 });

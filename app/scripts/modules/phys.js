@@ -1,7 +1,7 @@
 /**
  * Created by Colby on 4/22/2017.
  */
-define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, Wheel, Arrow) {
+define(['modules/global', 'modules/wheel', 'modules/arrow', 'modules/ui'], function (global, Wheel, Arrow, ui) {
 	return {
 		begin: function () {
 			function initDrawingCanvas() {
@@ -114,15 +114,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 						currentSegment = 10 + currentSegment;
 
 					global.currentIndex = currentSegment;
-					$(".title").text(global.demos[currentSegment].info.title);
-					$(".description").text(global.demos[currentSegment].info.description);
-					$(".downloadCount").text(global.demos[currentSegment].meta.item.downloads);
-					$(".downloadCountWeek").text(global.demos[currentSegment].meta.item.week);
-					$("#captionImg").attr("src", global.demos[currentSegment].getFullImageUrl());
-					$("#captionImg").attr("height", 450);
-
-					TweenLite.fromTo($(".item"), 0.5, {scaleX: 0, scaleY: 0}, {scaleX: 1, scaleY: 1});
-					TweenLite.fromTo($(".overlay"), 1, {opacity: 0}, {opacity: 0.9});
+					ui.showDemo();
 				}
 			}
 
@@ -145,67 +137,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow'], function (global, W
 
 			requestAnimationFrame(loop);
 
-			const circle = new mojs.Shape({
-				stroke: '#FF9C00',
-				strokeWidth: {400: 0},
-				fill: 'none',
-				timeline: {delay: 200},
-				scale: {0: 1},
-				radius: 400,
-				duration: 500,
-				easing: 'cubic.out'
-			});
-
-			const bgBurst = new mojs.Burst({
-				radius: {0: 400},
-				angle: 45,
-				count: 14,
-				duration: 500,
-				children: {
-					radius: 10,
-					fill: '#FF7F00',
-					scale: {1: 0, easing: 'quad.in'},
-					pathScale: [.8, null],
-					degreeShift: [20, null],
-					duration: [500, 700],
-					easing: 'quint.out'
-				}
-			});
-
-			var l = $("#loaderInfo");
-			var l2 = $("#container");
-			var tl = new TimelineLite();
-			tl.to(l, 0.4, {scaleX: 2, scaleY: 2});
-			tl.to(l, 0.2, {scaleX: 2.5, scaleY: 2.5});
-			tl.call(function () {
-				bgBurst.play();
-				circle.play();
-			});
-			tl.to(l, 0.3, {scaleX: 0, scaleY: 0});
-			tl.call(function () {
-				$("#loaderInfo").addClass("hidden");
-				global.sound.play();
-			});
-			tl.to(l2, 0.3, {scaleX: 0, scaleY: 0});
-			tl.to(l2, 0.2, {scaleX: 1.1, scaleY: 1.1});
-			tl.to(l2, 0.4, {scaleX: 1, scaleY: 1});
-			var poss = $("#possible");
-			tl.call(function () {
-				global.status("Done");
-
-				poss.append("<div><b>Possibilities:</b></div>");
-				$.each(global.demos, function (idx, item) {
-					var t = item.info.title;
-					if (t.length > 40)
-						t = t.substring(0, 40) + "...";
-
-					poss.append('<div><i class="material-icons">chevron_right</i> ' + t + "</div>");
-				});
-
-				poss.css("left", -poss.width() + "px");
-			});
-			tl.add(new TweenLite.to(poss, 0.5, {left: 10, ease: Power3.easeOut}));
-			tl.play();
+			ui.doAnim();
 		}
 	}
 });

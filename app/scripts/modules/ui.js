@@ -39,6 +39,9 @@ define(['modules/global'], function (global) {
 			$(".z2").css("z-index", (this.bgIndex + 2) % 3 - 3);
 		},
 		doAnim: function () {
+			var l2 = $("#container"),
+				poss = $("#circle-text");
+
 			const circle = new mojs.Shape({
 				stroke: '#FF9C00',
 				strokeWidth: {300: 0},
@@ -63,12 +66,17 @@ define(['modules/global'], function (global) {
 					degreeShift: [20, null],
 					duration: [500, 700],
 					easing: 'quint.out'
+				},
+				onComplete: function () {
+					var tl = new TimelineLite();
+					tl.to([l2, poss], 0.3, {scaleX: 1.1, scaleY: 1.1});
+					tl.to([l2, poss], 0.5, {scaleX: 1, scaleY: 1});
+					tl.play();
 				}
 			});
 
 			global.status("Done");
 
-			var poss = $("#circle-text");
 			var nChar = 270,
 				demoNum = 1;
 
@@ -93,7 +101,6 @@ define(['modules/global'], function (global) {
 			TweenLite.set(poss, {scaleX: 0, scaleY: 0});
 
 			var l = $("#loaderInfo");
-			var l2 = $("#container");
 			var tl = new TimelineLite();
 			tl.addDelay(3);
 			tl.to(l, 0.2, {scaleX: 1.5, scaleY: 1.5});
@@ -107,8 +114,6 @@ define(['modules/global'], function (global) {
 				if (global.enableSound)
 					global.sound.play();
 			});
-			tl.to([l2, poss], 0.5, {scaleX: 1.1, scaleY: 1.1});
-			tl.to([l2, poss], 0.9, {scaleX: 1, scaleY: 1});
 			tl.play();
 		},
 		showDemo: function () {

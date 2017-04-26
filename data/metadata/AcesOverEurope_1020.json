@@ -1,0 +1,346 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/24/items/AcesOverEurope_1020",
+  "metadata": {
+	"identifier": [
+	  "AcesOverEurope_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "Take to the skies with the valient men who will be forever remembered as the Aces over Europe. You'll be in the cockpit for some of the most dramatic dogfighting of World War II. Fly for the RAF, the USAAF or the Luftwaffe as you patrol the front lines, target supply depots and come face-to-face with moving ground targets and fortified artillery bunkers. Features over 20 meticulously modeled aircraft, including the Messerschmitt 262, Supermarine Spitfire IX, Arado-234B, DeHaviland Mosquito VI and the P-47D Thunderbolt."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Aces Over Europe Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:58:26"
+	],
+	"addeddate": [
+	  "2012-09-04 00:58:26"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444837524",
+	  "size": "274918",
+	  "md5": "e9e8b4b0a585a7d14cbda9a009a3517c",
+	  "crc32": "6a413953",
+	  "sha1": "f93e009eabce054c3bc76b7556f1053b5149b582",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444837576",
+	  "size": "5614",
+	  "md5": "22d7a9413f2b6e20029b99d00c824e1c",
+	  "crc32": "084f7e5e",
+	  "sha1": "a6c54c6b17583cc3451b8c2940ebd7d8d1fd712a"
+	},
+	"\/AcesOverEurope_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444837552",
+	  "size": "94092",
+	  "md5": "b26c7687608bde428c7a4d3804dd572f",
+	  "crc32": "420fd841",
+	  "sha1": "d500edce6df4be140704ebc66ee083724716a5e8",
+	  "format": "Animated GIF"
+	},
+	"\/AcesOverEurope_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "a885f1eeaf6654393520a7f56724629f2b73561f",
+	  "mtime": "1471791844",
+	  "size": "5629",
+	  "md5": "dfc55a669288ebdfedb638c32f93ae60",
+	  "crc32": "9cbf69ea",
+	  "sha1": "9514cdc8c17ef980f3c18a7c50bae1a461f44b14",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AcesOverEurope_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5fa4c0e14cd598893f41b6300af3ae4c"
+	},
+	"\/AcesOverEurope_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444837563",
+	  "size": "13312",
+	  "md5": "ea64fbb23d921f18dcdf7eb7133010d5",
+	  "crc32": "4d5bf06e",
+	  "sha1": "05c715800f9a089a86c723c535fe086846449248",
+	  "format": "Metadata"
+	},
+	"\/AcesOverEurope_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471791843",
+	  "size": "1395",
+	  "md5": "ab94d1b1afa05af8dc9472af8c22a00e",
+	  "crc32": "08135928",
+	  "sha1": "cfdaddf5c1425b6e1e25ff3ff87c37410eeb3474"
+	},
+	"\/aoe.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346720312",
+	  "size": "243000",
+	  "md5": "cb5ab445e995936b01be5582b5291afa",
+	  "crc32": "d7fc4662",
+	  "sha1": "12f0d47b467e6910d3075ab6556ad79da96dbbf5"
+	},
+	"\/aoe.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346720312",
+	  "size": "1208",
+	  "md5": "82df1ff048ea93615cbba2f12ed1a4cb",
+	  "crc32": "fc46d408",
+	  "sha1": "f6c4b30a5214e05ca76adb0236e0c6dc80e38370"
+	},
+	"\/aoe_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444837557",
+	  "size": "553403",
+	  "md5": "adfaf912c791dc07819a44b45fefbd58",
+	  "crc32": "7278e2eb",
+	  "sha1": "bb8d229e9617b757a923f124c0251a8c25b3d5d2",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1080.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346720520",
+	  "size": "18960",
+	  "md5": "8cd1d3f4dda92e3bf95fddee28b30d93",
+	  "crc32": "c4384099",
+	  "sha1": "9d8eb213e8e3dfe24d4bae7a6631b7ee85ccfa8f",
+	  "rotation": "0"
+	},
+	"\/resource_item_1080.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346720520",
+	  "size": "272",
+	  "md5": "6e8851f90cd21036b08fa08e9a2273f1",
+	  "crc32": "dca90812",
+	  "sha1": "03931b667665d2d7473ed6a5dc6e45024b8bae79"
+	},
+	"\/resource_item_1080_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1080.jpg",
+	  "mtime": "1346721527",
+	  "size": "5528",
+	  "md5": "9afdf33294be75d3654b37f5eb65d4c0",
+	  "crc32": "997a683d",
+	  "sha1": "618a35f8d9cb468159118960dcf4061405a3617a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444837527",
+	  "size": "235450",
+	  "md5": "2d2231493baaff172e9836064687318e",
+	  "crc32": "5dc42d70",
+	  "sha1": "446592ae8cd4425752284da94e6633b70a6b2379",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444837577",
+	  "size": "4513",
+	  "md5": "534e7c1d93141af4ab4ece6c83b17bf8",
+	  "crc32": "7d25e896",
+	  "sha1": "8603c998584dc6b52782ff01aba6386fb711b2ae"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444837531",
+	  "size": "1161",
+	  "md5": "9f207205471b4d2ce3579c9909f69f9d",
+	  "crc32": "66e52dd4",
+	  "sha1": "6a64f266f114156ebf17d4adb037c4ffb1037a1a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444837574",
+	  "size": "602",
+	  "md5": "aa078176c6e19857468da5fb2ae33c5f",
+	  "crc32": "ca016ef2",
+	  "sha1": "38908775e712a70ddf78bf9696cce34655a0717b"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444837534",
+	  "size": "264651",
+	  "md5": "1dac6fdb2b51813a1075bb68139addd9",
+	  "crc32": "16212392",
+	  "sha1": "12f9add8602e163c4617c0b66aa3e36643e538b4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444837575",
+	  "size": "4216",
+	  "md5": "2068bf359e2608c3f577fdc5cd4ba252",
+	  "crc32": "c994e539",
+	  "sha1": "4dcfb0e94c62ca988ddbea44f98d141474029681"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444837536",
+	  "size": "25857",
+	  "md5": "91496653e8bf39c0ea4f0859b50c3f3c",
+	  "crc32": "87224ec2",
+	  "sha1": "6597713c7bac55ef11c88b946a859052287bc776",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444837578",
+	  "size": "1535",
+	  "md5": "fdcb9e7be97b8d07add5147d3dfbb302",
+	  "crc32": "65d6be33",
+	  "sha1": "f473ab80b61eca5c390a5cc47ca9195ed8081a69"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444837539",
+	  "size": "274918",
+	  "md5": "e9e8b4b0a585a7d14cbda9a009a3517c",
+	  "crc32": "6a413953",
+	  "sha1": "f93e009eabce054c3bc76b7556f1053b5149b582",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444837581",
+	  "size": "5614",
+	  "md5": "22d7a9413f2b6e20029b99d00c824e1c",
+	  "crc32": "084f7e5e",
+	  "sha1": "a6c54c6b17583cc3451b8c2940ebd7d8d1fd712a"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444837543",
+	  "size": "220427",
+	  "md5": "9f198b6a5ca16d4e1d4c443766ab01e9",
+	  "crc32": "845ff001",
+	  "sha1": "ce6515191e7225212fe25a4de3265e963937fd85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444837582",
+	  "size": "4383",
+	  "md5": "ba8e6ee674af4913c376597d8c07573b",
+	  "crc32": "c2c98b4c",
+	  "sha1": "0e99effa0ad2e648858dbbfadf3061809df9922a"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444837546",
+	  "size": "48620",
+	  "md5": "aaf47263f920f6b7c9cb5a0a5f25c5fa",
+	  "crc32": "c1da2123",
+	  "sha1": "d736edda46f8b8fa97f47dc97b7b40153dde009d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444837579",
+	  "size": "1995",
+	  "md5": "8603da87114743c83b3bb276bfaeccfa",
+	  "crc32": "af1429a8",
+	  "sha1": "dd3d6b619ada265b973c6919c02d85fd2e60fd78"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444837548",
+	  "size": "230628",
+	  "md5": "1639f07117409e777a9ffa1190dd6446",
+	  "crc32": "800429d3",
+	  "sha1": "3d644f292be98c5f1253d01a22399f245ef1ef39",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444837580",
+	  "size": "3111",
+	  "md5": "8a5c1c8c07ee1daeb4f56907679d6c45",
+	  "crc32": "fc58d343",
+	  "sha1": "0daead716d0707aec07dddd69e8e8a16b10788ea"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/24\/items\/AcesOverEurope_1020\/AcesOverEurope_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1595,
+	"week": 7,
+	"month": 25
+  }
+}

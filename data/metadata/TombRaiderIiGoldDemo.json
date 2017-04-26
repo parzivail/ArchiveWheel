@@ -1,0 +1,132 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/18/items/TombRaiderIiGoldDemo",
+  "metadata": {
+	"identifier": [
+	  "TombRaiderIiGoldDemo"
+	],
+	"title": [
+	  "Tomb Raider II Gold Demo"
+	],
+	"creator": [
+	  "Core Design"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "The unstoppable Lara Croft is back with four NEW LEVELS on Tomb Raider II Gold! Help her explore an abandoned mine complex in Alaska and discover a strange and hidden world. Many more surprises await as Lara discovers the secret of the Golden Mask. Includes the original quest for the Dagger of Xian, reputed to possess the power of an ancient dragon. Warrior Monks and crazed cult members plot to stop Lara as she travels to the remote mountain peaks of Tibet, canals of Venice and even to the bottom of the sea."
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"publicdate": [
+	  "2012-02-21 16:54:42"
+	],
+	"addeddate": [
+	  "2012-02-21 05:05:22"
+	],
+	"publisher": [
+	  "Eidos Interactive"
+	],
+	"updatedate": [
+	  "2012-02-21 19:20:23"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_8"
+	],
+	"notes": [
+	  "TR2GOLD.EXE - This is the US demo which includes a cold war level\n\ntr2gfuk.exe - This is the UK demo which features a different level"
+	]
+  },
+  "files": {
+	"\/TR2GOLD.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1329800698",
+	  "size": "10763742",
+	  "md5": "5fd732e3822722949ce5980808b81af3",
+	  "crc32": "d31c4b01",
+	  "sha1": "235a32d72026359cada7737fd4e244da63feddf4",
+	  "title": "Tomb Raider II Gold Demo"
+	},
+	"\/TombRaiderIiGold.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Tomb Raider II Gold Screenshot",
+	  "mtime": "1329800673",
+	  "size": "31353",
+	  "md5": "0b025fbf1b7dfce2af088803ab2f4e83",
+	  "crc32": "f533261d",
+	  "sha1": "ae5f228126d086f3b88ceeb4fc22efeccf862398",
+	  "rotation": "0"
+	},
+	"\/TombRaiderIiGoldDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "41452c6ed73f6b60ecc2a9615a8f5fd1911b6250",
+	  "mtime": "1492494899",
+	  "size": "3117",
+	  "md5": "14f47ae0995c498d409f6fda5d53d7e4",
+	  "crc32": "809d0660",
+	  "sha1": "f5979e9a6f87145d2b27a770fb4331987efa335e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TombRaiderIiGoldDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "838cde28b77c548c4dc9d7fee75c9e0c"
+	},
+	"\/TombRaiderIiGoldDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1492494898",
+	  "size": "1514",
+	  "md5": "b73b52b8dbb414768b5fa42d79e92db6",
+	  "crc32": "bfb8aeec",
+	  "sha1": "2184ee3ff667cbdeff6c4164e5eef5bd1ca79403"
+	},
+	"\/TombRaiderIiGold_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TombRaiderIiGold.jpg",
+	  "mtime": "1329843271",
+	  "size": "4045",
+	  "md5": "791c5d5d3a159087f55a9316919327bd",
+	  "crc32": "d44635b1",
+	  "sha1": "079cb111810b7e19ea94e31383b87ed2b758434a"
+	},
+	"\/tr2gfuk.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1492494841",
+	  "size": "17498751",
+	  "md5": "6d55bc56f402648c45f2879ef10689a3",
+	  "crc32": "111991c4",
+	  "sha1": "12f488fe683542f88bf30dfc31ceac1f915ee4b2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/18\/items\/TombRaiderIiGoldDemo\/TombRaiderIiGold_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1147,
+	"week": 22,
+	"month": 70
+  }
+}

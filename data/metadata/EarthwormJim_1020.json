@@ -1,0 +1,139 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/7/items/EarthwormJim_1020",
+  "metadata": {
+	"identifier": [
+	  "EarthwormJim_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Shiny Entertainment"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Earthworm Jim Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:55:06"
+	],
+	"addeddate": [
+	  "2012-09-04 06:55:06"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Jim wasn't always a studly super-worm. He was once just a spineless, dirt-eater with no real mission in his life...\n\nBut then something unexpected happened. The evil Psy-Crow was transporting a super suit, built by the genius Professor Monkey-For-A-Head, to Queen Pulsating, Bloated, Festering, Sweaty, Pus-Filled, Malformed, Slug-For-A-Butt, but along the way it was stolen by a rebel. Although Psy-Crow killed the rebel, the suit fell down to Earth, landing on an Earth Worm. That cosmic twist of fate placed Jim in control of an ultra-high-tech-indestructible-super-space-cyber-suit.\n\nAnyway, Earthworm Jim found out that Princess What's-Her-Name had been captured and set out to save her. Meanwhile, there's a bounty on Jimmy and plenty of people are in line to take Queen Slug-For-A-Butt up on her offer.\n\nNow Jim must make it to the princess and stay clear of Psy-Crow, the intergalactic bounty hunter, until the final battle with Queen Slug-For-A-Butt. To accomplish this, you'll have to use every weapon and ability at your disposal to wriggle your way through dozens of original and just plain weird levels. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "EWJ\\ewj1.exe -f"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/EWJ.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1478122176",
+	  "size": "2553278",
+	  "md5": "0f6d7772dbc5e1f9c38f12f33f9ff8b5",
+	  "crc32": "ebcf2ec4",
+	  "sha1": "ae06d097c5ea86fa0fc81fd297162acef173e78d"
+	},
+	"\/EWJ.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741731",
+	  "size": "657",
+	  "md5": "85370e3842320c6d99a2be038bee836c",
+	  "crc32": "5f81bbc6",
+	  "sha1": "8b1a8ff239a27fc500df32595a2076db4d914c0a"
+	},
+	"\/EarthwormJim_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d9bc273eaf299c998c42f9f536ba707c92b5ac20",
+	  "mtime": "1478122223",
+	  "size": "1940",
+	  "md5": "bc5f18fcc18fe2f815359c8fd17c4150",
+	  "crc32": "1d6f6037",
+	  "sha1": "e11c58ea8acda06f571b4f9b21c9982ef3087fcd",
+	  "format": "Archive BitTorrent"
+	},
+	"\/EarthwormJim_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4c8409ad47e2127c08df5f7754a46537"
+	},
+	"\/EarthwormJim_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1478122222",
+	  "size": "1996",
+	  "md5": "4bf517744be287e39d63d34629f76932",
+	  "crc32": "5079fd2c",
+	  "sha1": "bd8f64664560d3042905f79787bb7a6ccaeebcd2"
+	},
+	"\/resource_item_1888.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346741733",
+	  "size": "19646",
+	  "md5": "59b9ecfed9c241d21eacdc3473c06de3",
+	  "crc32": "e8828ae6",
+	  "sha1": "27565e7f43dbaaae95fa8290667e0d7a430d20b0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1888.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741733",
+	  "size": "272",
+	  "md5": "64b8f5fadd055aecbea069c598b9f007",
+	  "crc32": "5f838885",
+	  "sha1": "c1b0e10c8945b3561762defba745d105eeaed706"
+	},
+	"\/resource_item_1888_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1888.jpg",
+	  "mtime": "1346742679",
+	  "size": "6017",
+	  "md5": "b9e3af604bc6b3329e57563c20b6b90a",
+	  "crc32": "8a84cdde",
+	  "sha1": "c21b13b12ad3e221a8cdf4345356d750775e9bd6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/7\/items\/EarthwormJim_1020\/resource_item_1888_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 424,
+	"week": 4,
+	"month": 8
+  }
+}

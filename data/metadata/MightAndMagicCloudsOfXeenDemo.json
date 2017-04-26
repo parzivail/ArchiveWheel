@@ -1,0 +1,220 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/10/items/MightAndMagicCloudsOfXeenDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Might and Magic: Clouds of Xeen Demo"
+	],
+	"description": [
+	  "Explore a 3-D world that has fallen under the iron grip of a diabolic overlord. Create a personalized party of adventurers and journey to the four corners of your imagination as you strive to complete your mission. Throughout your explorations you will take on fantastic quests, fearsome monsters, and challenges beyond compare. When you are ready, journey to the cloud world and face the ultimate foe Lord Xeen himself.\n\nThe Best Just Got Better!"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "New World Computing"
+	],
+	"identifier": [
+	  "MightAndMagicCloudsOfXeenDemo"
+	],
+	"addeddate": [
+	  "2012-07-04 22:44:19"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "New World Computing"
+	],
+	"publicdate": [
+	  "2012-07-04 22:44:48"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "demo.bat"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": 0
+	},
+	"reviews": [
+	  {
+		"reviewbody": "A non-interactive, tentative test review",
+		"reviewtitle": "A non-interactive, rolling demo",
+		"reviewer": "7HFB",
+		"reviewdate": "2015-01-05 05:26:43"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444847192",
+	  "size": "124055",
+	  "md5": "5f467449431388f627c9fa35c95e965c",
+	  "crc32": "94adcbc4",
+	  "sha1": "274b0bd9c02f2c3f0c5bac03431fa2a33d32ae9b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444847213",
+	  "size": "4985",
+	  "md5": "f8582bb087e71ed16b0e77c0cfc3ae27",
+	  "crc32": "d30c5a22",
+	  "sha1": "ce07ac15807ce08a1c9eee3c67811a15d4c49673"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444847198",
+	  "size": "24069",
+	  "md5": "d0cf8142111e904391643eab4347e3d7",
+	  "crc32": "cbb34b06",
+	  "sha1": "a3853b7fa72b3499f2f798ebdca8eceeb99db46b",
+	  "format": "Animated GIF"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "13f2d6a35844c8e9d008b36bf83fe4fcd1b8f309",
+	  "mtime": "1466886306",
+	  "size": "3597",
+	  "md5": "9f213d5887c93c08b208c78ea3c68116",
+	  "crc32": "748b1ab0",
+	  "sha1": "beecf307ba515fd9f01a0ea56b54410580747ef2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "17ddc238f43b7dcefb5e90474104ca43"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444847204",
+	  "size": "10240",
+	  "md5": "ed5506656cd4e246c906da9f217e394b",
+	  "crc32": "6acb7c8d",
+	  "sha1": "4705de7e50cb64d7022fa88f3d650cf544588691",
+	  "format": "Metadata"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466886306",
+	  "size": "1365",
+	  "md5": "49f87da74c733783f353fdcb67034a44",
+	  "crc32": "e5eb81ff",
+	  "sha1": "c1448698d089c5c4ce22fe47f70f1efabf81aadf"
+	},
+	"\/MightAndMagicCloudsOfXeenDemo_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1420435604",
+	  "size": "495",
+	  "md5": "fcdbb7e20ad1764c16a0481964f0f229",
+	  "crc32": "eb748f8c",
+	  "sha1": "b43345bd9751b4fe2b463a3cc04432951fdfa37e",
+	  "format": "Metadata"
+	},
+	"\/XEEN.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432841956",
+	  "size": "2550016",
+	  "md5": "138a4c2d40aaeb6c6681d5fcb4157e61",
+	  "crc32": "b3ab285d",
+	  "sha1": "34417c08d6d6a85b291f497140ca32fd44d9e0fa"
+	},
+	"\/mightmagic4.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341441824",
+	  "size": "2812514",
+	  "md5": "d0f3cb066a1eb754826f03b126105f01",
+	  "crc32": "8a6ced0a",
+	  "sha1": "e7333cc8d581db20e99816feeb4414af9cdb9641"
+	},
+	"\/mightmagic4_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444847200",
+	  "size": "31411",
+	  "md5": "5af20e1413d73bdfa386fee98f2f0105",
+	  "crc32": "d98748a0",
+	  "sha1": "6f9ab65b771572cfe4a18fbc0e5aaf5e55a79798",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_122.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341441797",
+	  "size": "24222",
+	  "md5": "b69ef234cc2ac59c9b7109ee67bb32ce",
+	  "crc32": "c727b5f4",
+	  "sha1": "cacba3ccaa4df7bb80b8dd3a6188921492099bac",
+	  "rotation": "0"
+	},
+	"\/resource_item_122_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_122.jpg",
+	  "mtime": "1341441869",
+	  "size": "6593",
+	  "md5": "af557b8a38f944c71d776f912974f63c",
+	  "crc32": "bf0c05ff",
+	  "sha1": "2de79a5e76bded6b7b19a43164341abb32b21be1"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444847195",
+	  "size": "124055",
+	  "md5": "5f467449431388f627c9fa35c95e965c",
+	  "crc32": "94adcbc4",
+	  "sha1": "274b0bd9c02f2c3f0c5bac03431fa2a33d32ae9b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444847214",
+	  "size": "4985",
+	  "md5": "f8582bb087e71ed16b0e77c0cfc3ae27",
+	  "crc32": "d30c5a22",
+	  "sha1": "ce07ac15807ce08a1c9eee3c67811a15d4c49673"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/10\/items\/MightAndMagicCloudsOfXeenDemo\/MightAndMagicCloudsOfXeenDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1064,
+	"week": 4,
+	"month": 7
+  }
+}

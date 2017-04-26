@@ -1,0 +1,272 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/9/items/GabrielKnightSinsoftheFathers_1020",
+  "metadata": {
+	"identifier": [
+	  "GabrielKnightSinsoftheFathers_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Gabriel Knight: Sins of the Fathers Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:01:51"
+	],
+	"addeddate": [
+	  "2012-09-04 04:01:51"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"He started out writing a book on voodoo. Now he's fighting for his very soul.\n\nGabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, he is tormented by terrifying nightmares.\n\nNow he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "sierra\/democd\/demo.bat"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444847439",
+	  "size": "98793",
+	  "md5": "7d12f3a024e92e32b9824650bf9e4b2b",
+	  "crc32": "e4da52dd",
+	  "sha1": "8f1a9f16a02591d69d190deb512dd25a0ba8ae9e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444847474",
+	  "size": "2662",
+	  "md5": "eac258b1588bfe40bfa39e3affb691b8",
+	  "crc32": "ce61dd18",
+	  "sha1": "242d672861e671b0677d611fc76cf47ede673bd9"
+	},
+	"\/GabrielKnightSinsoftheFathers_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444847452",
+	  "size": "26240",
+	  "md5": "8a32cc049a9824a152b9fc9c191c2478",
+	  "crc32": "e7d899dd",
+	  "sha1": "9caa8239d99d5a8649b84101b4eb3bc222226268",
+	  "format": "Animated GIF"
+	},
+	"\/GabrielKnightSinsoftheFathers_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "1c89eb21d5abd6630a249c972ce773958912c561",
+	  "mtime": "1471791840",
+	  "size": "5040",
+	  "md5": "c7d9d47ed9009de23d70354d50ffaa59",
+	  "crc32": "a0f77105",
+	  "sha1": "d5d229b11a05d7b1b0eb11a6f0c743e455f41530",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GabrielKnightSinsoftheFathers_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "35e6e50b668480de0dc897374e351c07"
+	},
+	"\/GabrielKnightSinsoftheFathers_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444847463",
+	  "size": "11264",
+	  "md5": "327b8af7a6a3902d48a7e4408b1fb656",
+	  "crc32": "0a515f90",
+	  "sha1": "81cc3ee67ad4d447e92d07004e043f8ddf0021b0",
+	  "format": "Metadata"
+	},
+	"\/GabrielKnightSinsoftheFathers_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471791839",
+	  "size": "1330",
+	  "md5": "80e6bc268b275a262a11e195381efefe",
+	  "crc32": "36695631",
+	  "sha1": "fec7b244e73e4c954f9e33ab1644f363e533edd9"
+	},
+	"\/gkdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731380",
+	  "size": "7010299",
+	  "md5": "f2a252e55556ccf453c0c19c5f0d5017",
+	  "crc32": "cf2241d5",
+	  "sha1": "d3f9dc350e9cb137a30204df8158c393bfcba1c9"
+	},
+	"\/gkdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731380",
+	  "size": "640",
+	  "md5": "308656e25a2b3555e0a8859cb33d5b04",
+	  "crc32": "3ef7ea57",
+	  "sha1": "bf71ae05aae890408211a90e37d4efbcfb1830a7"
+	},
+	"\/gkdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444847456",
+	  "size": "111101",
+	  "md5": "e44bb6b9e4f6f2bda95a114ee34ce001",
+	  "crc32": "5d49b36d",
+	  "sha1": "71bedef0c926f67b274d075eeb2ea504ed8e0040",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1562.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731382",
+	  "size": "12592",
+	  "md5": "7226e726e53d5b389721ae210a3d1eb1",
+	  "crc32": "eb1ecac6",
+	  "sha1": "4c80489259b676c804fba354dec107659688b735",
+	  "rotation": "0"
+	},
+	"\/resource_item_1562.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731382",
+	  "size": "272",
+	  "md5": "3d693be4eade3e57e284b0d2badd1340",
+	  "crc32": "7eba39d7",
+	  "sha1": "d189543c515033b71e1f8473f662b08871e4bc89"
+	},
+	"\/resource_item_1562_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1562.jpg",
+	  "mtime": "1346732972",
+	  "size": "4133",
+	  "md5": "2114b0abc2bcacfde78b83627ec65aa4",
+	  "crc32": "7d8bd07e",
+	  "sha1": "3daf1dbc0e35b30672328b0d474dc3222c9bd589"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444847442",
+	  "size": "31642",
+	  "md5": "176a20a4eaddeb43ec7c9827eda0b588",
+	  "crc32": "2442617a",
+	  "sha1": "7312249653c44a55bc076fd0e2a2d569fa1acd71",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444847475",
+	  "size": "1580",
+	  "md5": "ec977d0a82d112c48578bd60ed79d364",
+	  "crc32": "580aefe6",
+	  "sha1": "652bbe42e17e41716cc6807589c79af011f20813"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444847444",
+	  "size": "60173",
+	  "md5": "77c2ac6fb7b36774a0b4d365f82e7caa",
+	  "crc32": "2f630b8b",
+	  "sha1": "55f43c94b8f0ab660ec5cfbaaf922229f42a563e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444847476",
+	  "size": "2023",
+	  "md5": "8753e8d904314dd5b9b7865d6efd7e05",
+	  "crc32": "35a4e070",
+	  "sha1": "aa91fe71cb7ea16e1c2c33b4f989f3ec84103b7f"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444847447",
+	  "size": "98036",
+	  "md5": "1a5a69cf717bfc495080c7774e5e3c8e",
+	  "crc32": "29a3a5fc",
+	  "sha1": "de8d81ed118ffc1c771a63842fcaa33a05bf19ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444847477",
+	  "size": "2644",
+	  "md5": "1b0036c50961419126ddc7fae77a0588",
+	  "crc32": "79abaafe",
+	  "sha1": "3ff28a56278b9995376fcfb85bc0a765521f1ed4"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444847449",
+	  "size": "98793",
+	  "md5": "7d12f3a024e92e32b9824650bf9e4b2b",
+	  "crc32": "e4da52dd",
+	  "sha1": "8f1a9f16a02591d69d190deb512dd25a0ba8ae9e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444847478",
+	  "size": "2662",
+	  "md5": "eac258b1588bfe40bfa39e3affb691b8",
+	  "crc32": "ce61dd18",
+	  "sha1": "242d672861e671b0677d611fc76cf47ede673bd9"
+	},
+	"\/sierra.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432843365",
+	  "size": "7178938",
+	  "md5": "6f1805e2d542efbe7024f3d0884afd08",
+	  "crc32": "f9ba5c3a",
+	  "sha1": "ed73be7dc80bbbf805b9c6c77434be2ce8baece5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/9\/items\/GabrielKnightSinsoftheFathers_1020\/GabrielKnightSinsoftheFathers_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1595,
+	"week": 3,
+	"month": 20
+  }
+}

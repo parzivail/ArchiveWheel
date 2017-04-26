@@ -1,0 +1,211 @@
+{
+  "server": "ia801905.us.archive.org",
+  "dir": "/5/items/swizzle_demu_Ubb",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_Ubb"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Team17 Software"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "The ultimate in Body Blows! Featuring 22 key characters fighting over incredible detailed background graphics. Includes option of Arcade, 1 player, 2 player, Tag Team and Tournament modes."
+	],
+	"publisher": [
+	  "Team17 Software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Ultimate Body Blows Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2013-02-04 00:29:56"
+	],
+	"addeddate": [
+	  "2013-02-04 00:29:56"
+	],
+	"notes": [
+	  "The demo is limited to one background and two fighters."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 0.8"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232513[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "UBB_DEMO\/ULTIMATE.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905605_32"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475667471",
+	  "size": "103124",
+	  "md5": "40cad4ef69faaed4684497cc82084a46",
+	  "crc32": "ac8ccb91",
+	  "sha1": "7b66745c9a751825bb54c5645777654eacd3d63a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475667499",
+	  "size": "3602",
+	  "md5": "67f08329487f130f79131f339f0b258d",
+	  "crc32": "264d2374",
+	  "sha1": "9ceeeeae7e311ed929bfb1f9503f69761136b9b2"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475667475",
+	  "size": "103124",
+	  "md5": "40cad4ef69faaed4684497cc82084a46",
+	  "crc32": "ac8ccb91",
+	  "sha1": "7b66745c9a751825bb54c5645777654eacd3d63a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475667501",
+	  "size": "3602",
+	  "md5": "67f08329487f130f79131f339f0b258d",
+	  "crc32": "264d2374",
+	  "sha1": "9ceeeeae7e311ed929bfb1f9503f69761136b9b2"
+	},
+	"\/swizzle_demu_Ubb.gif": {
+	  "source": "original",
+	  "mtime": "1475667478",
+	  "size": "21198",
+	  "md5": "1c03bbb8b8d0123404329c9c7abd9cd6",
+	  "crc32": "3532ec41",
+	  "sha1": "4fd296660aa6b6d2895cc61d4acae3b6a20b6f26",
+	  "format": "Animated GIF"
+	},
+	"\/swizzle_demu_Ubb_archive.torrent": {
+	  "source": "original",
+	  "btih": "2c97ea9fac1a03d79be63469acdb13f890c341f6",
+	  "mtime": "1475667503",
+	  "size": "3114",
+	  "md5": "0c8a3ed509a820b1af73d5b3c509e959",
+	  "crc32": "7852558e",
+	  "sha1": "f2bf0bf446c421a57e929ed8494dad3067eb6eab",
+	  "format": "Archive BitTorrent"
+	},
+	"\/swizzle_demu_Ubb_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b062882adf2b2119226e3e9cea5bbbb0"
+	},
+	"\/swizzle_demu_Ubb_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475667493",
+	  "size": "8192",
+	  "format": "Metadata",
+	  "md5": "128936b441ec3381833f21bd23a73718",
+	  "crc32": "fc7fc1d2",
+	  "sha1": "0bb994162e7293bb2a164ef292e679be8bd5d0e6"
+	},
+	"\/swizzle_demu_Ubb_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473913688",
+	  "size": "1191",
+	  "md5": "a0bde2d9ea384009df80bec480d577a3",
+	  "crc32": "7249a248",
+	  "sha1": "5b1d7b9e410b1aaa154969f7def1a43d37edba5b"
+	},
+	"\/ubb.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1359937795",
+	  "size": "1149022",
+	  "md5": "33e5321d9f73868773c30026f377dd98",
+	  "crc32": "c596c973",
+	  "sha1": "2a68d43575b1b022acfa70782f6803232d6178e1"
+	},
+	"\/ubb.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359937795",
+	  "size": "1419",
+	  "md5": "be542b0aecf986a3bcf74b091f83bff7",
+	  "crc32": "92e0a92c",
+	  "sha1": "723791cdc5d47a2af8cb25c5d30c7c86590d1958"
+	},
+	"\/ubb_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475667487",
+	  "size": "51003",
+	  "md5": "eeed734e63ee3d56c8e80b9651991402",
+	  "crc32": "a15ac65e",
+	  "sha1": "c59d367db3068250330a8720d0ccc2f0d7828840",
+	  "format": "Emulator Screenshot"
+	},
+	"\/ultimate_002.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1359937805",
+	  "size": "15447",
+	  "md5": "d93f36c288ed016b2a65c94f3daff49c",
+	  "crc32": "e8523d16",
+	  "sha1": "523a584d239be2f006ba99f13ecac6a5696998dc"
+	},
+	"\/ultimate_002.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359937805",
+	  "size": "1398",
+	  "md5": "584889e96b69fea31cea944402d78791",
+	  "crc32": "3c24e62f",
+	  "sha1": "d47742ae9441e6862d9e42a174deeef1e711bab6"
+	},
+	"\/ultimate_002_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ultimate_002.png",
+	  "mtime": "1359937814",
+	  "size": "5057",
+	  "md5": "9601ddf022f593207ef9083b5fe6dc57",
+	  "crc32": "c5cbd480",
+	  "sha1": "9fd8322ecb136a88497bbb4b46abe8d73c812fbe"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia801905.us.archive.org\/5\/items\/swizzle_demu_Ubb\/swizzle_demu_Ubb.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 175,
+	"week": 3,
+	"month": 5
+  }
+}

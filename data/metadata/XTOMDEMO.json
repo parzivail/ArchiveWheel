@@ -1,0 +1,116 @@
+{
+  "server": "ia600201.us.archive.org",
+  "dir": "/7/items/XTOMDEMO",
+  "metadata": {
+	"identifier": [
+	  "XTOMDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Jamie System Development"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Xtom3D is a typical 3D arcade shooter.<\/div><div>You can experience feeling of arcade game center.<\/div>"
+	],
+	"publisher": [
+	  "Jamie System Development"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Xtom 3D Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-14 17:19:11"
+	],
+	"addeddate": [
+	  "2014-02-14 17:19:11"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234035[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_11"
+	]
+  },
+  "files": {
+	"\/XTOMDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392398379",
+	  "size": "14711201",
+	  "md5": "b3afee533230530bc88023816ac861fd",
+	  "crc32": "6012b350",
+	  "sha1": "035ef4a413be62557c4573d58e34ad4fd8fecee3"
+	},
+	"\/XTOMDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f1285424cbb68f85002e5539493b2ac1"
+	},
+	"\/XTOMDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392398384",
+	  "size": "10240",
+	  "md5": "7d12fcbde6f7b07aae1392cefbc73f57",
+	  "crc32": "28c7e22d",
+	  "sha1": "1325993056fc13e21cc4979545bcbc883525a4ab"
+	},
+	"\/XTOMDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471910064",
+	  "size": "989",
+	  "md5": "d32e4a9dd13a6ac767a7e34718efe415",
+	  "crc32": "317a0e46",
+	  "sha1": "6fda856810e5faf5c9cb152aede6f86fb55be0a9"
+	},
+	"\/xtomdemo.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1392398350",
+	  "size": "83372",
+	  "md5": "3b35088c7bbbd85ee3bd3c79f29e102e",
+	  "crc32": "a7d72adb",
+	  "sha1": "30489a32c87aaea6d1b4fcc4d8cc07dc87cdee40"
+	},
+	"\/xtomdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "xtomdemo.PNG",
+	  "mtime": "1392398433",
+	  "size": "3979",
+	  "md5": "60955d37665ddc2780b54b3441865163",
+	  "crc32": "3da7ecd4",
+	  "sha1": "16525469d8c0af465ecd5cb42da8887c011a103f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600201.us.archive.org\/7\/items\/XTOMDEMO\/xtomdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 617,
+	"week": 6,
+	"month": 56
+  }
+}

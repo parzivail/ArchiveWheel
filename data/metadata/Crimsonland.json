@@ -1,0 +1,105 @@
+{
+  "server": "ia800803.us.archive.org",
+  "dir": "/4/items/Crimsonland",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Crimsonland Demo"
+	],
+	"description": [
+	  "Thousands of aliens, giant spiders, mutant lizards, and more are on the attack - can you survive the onslaught? You will consistently unlock new and better perks that improve your ability to use a devastating arsenal. Crimsonland features 3 modes of play, Internet high score posting, and endless hours of pressure packed fun."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "10Tons"
+	],
+	"identifier": [
+	  "Crimsonland"
+	],
+	"addeddate": [
+	  "2012-05-28 17:27:41"
+	],
+	"publicdate": [
+	  "2012-05-28 17:28:04"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"publisher": [
+	  "Reflexive Entertainment"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234126[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_6"
+	]
+  },
+  "files": {
+	"\/CrimsonlandSetup.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338226043",
+	  "size": "7271169",
+	  "md5": "ac94342d206c1ac17c72cf54be655da1",
+	  "crc32": "bb5c6da7",
+	  "sha1": "0bead00ecd1287cb5ec6de1f126eb081ec0de006"
+	},
+	"\/CrimsonlandSetup.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338226044",
+	  "size": "106721",
+	  "md5": "ceacbd0d77e0c234460c6856b168e2cb",
+	  "crc32": "e81a8511",
+	  "sha1": "07bf2dbb465a3b111e83c29a4866e726d9ee939e",
+	  "rotation": "0"
+	},
+	"\/CrimsonlandSetup_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "CrimsonlandSetup.jpg",
+	  "mtime": "1338226079",
+	  "size": "4483",
+	  "md5": "09b388d7039c9cba468dee2b9767af1f",
+	  "crc32": "e3d6c240",
+	  "sha1": "cf26a0a4087846f5a9d97d4530d4068a95006673"
+	},
+	"\/Crimsonland_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2603325911eadae819eb9bf351df1bd9"
+	},
+	"\/Crimsonland_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465789874",
+	  "size": "1110",
+	  "md5": "cc2d1ce27dd3db30ddcfce214c3d7678",
+	  "crc32": "e5464d62",
+	  "sha1": "272cb2ad9569f457c7a5643b52a0bac00c2e2adb"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800803.us.archive.org\/4\/items\/Crimsonland\/CrimsonlandSetup_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 332,
+	"week": 2,
+	"month": 12
+  }
+}

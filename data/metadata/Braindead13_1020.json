@@ -1,0 +1,133 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/11/items/Braindead13_1020",
+  "metadata": {
+	"identifier": [
+	  "Braindead13_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "ReadySoft"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "ReadySoft"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Brain Dead 13 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:35:32"
+	],
+	"addeddate": [
+	  "2012-09-04 06:35:32"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Deep in the bowels of the sinister castle, evil is brewing...\n\nAs Lance, the world's hippest computer repair guru, you're called to the mysterious castle of the disembodied brain, Dr. Nero Neurosis. You learn of the Doctor's master plan...\n\nThere's no turning back now! Race through the evil playground of the demented Doctor's twisted castle and battle the ultimate mishaps of science: Moose, Vivi, and Fritz, the half-human half-pet of Dr. Neurosis. \""
+	],
+	"notes": [
+	  "This demo also includes non-playable movies of Dragon's Lair and Space Ace."
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/BRAIN13.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346741413",
+	  "size": "91344883",
+	  "md5": "82939548adb832ff5f7d2a5959b828c7",
+	  "crc32": "0caf3769",
+	  "sha1": "d01dafdc5dd8d91626f6f2b501e39f76a39921d8"
+	},
+	"\/BRAIN13.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741413",
+	  "size": "649",
+	  "md5": "f4c3b5aac2db18e167f768d5c5383fd5",
+	  "crc32": "6dc8bdf1",
+	  "sha1": "ee4f0260ba26c9a679314719fd023f616bc75250"
+	},
+	"\/Braindead13_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "42f18e79af17ebcc9739f680b6d7d60ef668c43c",
+	  "mtime": "1465754140",
+	  "size": "5340",
+	  "md5": "64fc2486a2cbc2606767e8069c7783a2",
+	  "crc32": "8658b949",
+	  "sha1": "0961b1c9ce445fd5b4cf014b86390bb040ffe8fb",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Braindead13_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e02658572c49181a6c4f73a1ce2916c6"
+	},
+	"\/Braindead13_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465754139",
+	  "size": "1299",
+	  "md5": "7b96e7ba1fcf3242df87412f79c6dd05",
+	  "crc32": "b991561f",
+	  "sha1": "794573d752fffaf4c402938edd301d2933d54043"
+	},
+	"\/resource_item_1852.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346741415",
+	  "size": "8946",
+	  "md5": "64b126381f9e94c9f143800fafbf47cc",
+	  "crc32": "96c5362e",
+	  "sha1": "f5f14389fa748ab3e18082f92e14c7db284bc543",
+	  "rotation": "0"
+	},
+	"\/resource_item_1852.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741415",
+	  "size": "271",
+	  "md5": "0c571705f7f1dcae5737acd19a4eb91b",
+	  "crc32": "7fd1b768",
+	  "sha1": "e8e7ea9d3e12b5f775ae4a7c6149443f35e16007"
+	},
+	"\/resource_item_1852_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1852.jpg",
+	  "mtime": "1346742073",
+	  "size": "3180",
+	  "md5": "d0e404981a55ab9cb3cc6af0325cdec8",
+	  "crc32": "a17da822",
+	  "sha1": "78753a56535c09e34eb9bb713e54253a3cdc81a1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/11\/items\/Braindead13_1020\/resource_item_1852_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 825,
+	"week": 8,
+	"month": 22
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia800500.us.archive.org",
+  "dir": "/35/items/crashdemo",
+  "metadata": {
+	"identifier": [
+	  "crashdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Prolific Publishing"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Smash and crash your way across a movie studio lot and create outrageous 3D crashes with your favorite Hot Wheels vehicles. The wilder you make the stunt crashes, the more you can watch your points sky-rocket.<\/div><div><br \/><\/div><div>Features include: 12 Hot Wheels vehicles to smash and crash;14 different movie-lot environments--construction site, donut shop, fireworks factory, and more; 25 challenging levels; additional levels from the Internet; and a special Hot Wheels Car.<\/div>"
+	],
+	"publisher": [
+	  "Mattel Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Hot Wheels: Crash! Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-01-28 15:55:17"
+	],
+	"addeddate": [
+	  "2014-01-28 15:55:17"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233741[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/crashdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390924516",
+	  "size": "5329408",
+	  "md5": "b425f1ffe2f4270baff1d83719a838d4",
+	  "crc32": "9a751b86",
+	  "sha1": "9f71df5ec670ddb388c276fa75aef3a312073baf"
+	},
+	"\/crashdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390924529",
+	  "size": "26344",
+	  "md5": "370bfa53c226161f0f38514cb7582fa0",
+	  "crc32": "5e1e600c",
+	  "sha1": "12d89e658f2efb3182fdd7955a85023a1cec0507",
+	  "rotation": "0"
+	},
+	"\/crashdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8a310d22437caf33ad825501f9521cd6"
+	},
+	"\/crashdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390924535",
+	  "size": "15360",
+	  "md5": "dd788c563bd5339c7da63ae433a1f503",
+	  "crc32": "3e12ecca",
+	  "sha1": "fd17f8c9b5265080b787999b3da4096f94dde37f"
+	},
+	"\/crashdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473453902",
+	  "size": "1393",
+	  "md5": "4c72ad5ae48af1e181e0260d24a9e212",
+	  "crc32": "0e05e4d2",
+	  "sha1": "afafffdf3c911c1758dcb5af8a1cc769ea7e138a"
+	},
+	"\/crashdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "crashdemo.jpg",
+	  "mtime": "1390927291",
+	  "size": "6660",
+	  "md5": "4a59f50b911e922b52ba09bd91cc1203",
+	  "crc32": "56d42351",
+	  "sha1": "0a57db67ec6ca6bc9593f8e295b33d6c2c718f00"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/35\/items\/crashdemo\/crashdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 310,
+	"week": 9,
+	"month": 23
+  }
+}

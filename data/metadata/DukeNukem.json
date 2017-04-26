@@ -1,0 +1,331 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/22/items/DukeNukem",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Duke Nukem"
+	],
+	"description": [
+	  "\"An incredible EGA game (VGA compatible) with large animated characters, and huge levels. Your mission is to stop Dr. Proton, a madman bent on ruling the world with his army of Techbots. As the irrepressible hero Duke Nukem, you'll chase Dr. Proton deep into the Earth, then to his lunar space station, and eventually into the Earth's nuclear ravished future.\n\nThis is an astonishing Sega Genesis style game with amazing animation! Also features dual scrolling play fields, with huge 3D-like backdrops. Watch Duke somersault and cling on to ceilings as he escapes traps and battles Proton's robot guards. This game is a real show stopper!\n\nOther features include four-way scrolling levels, cinematic effects, demo mode, built-in hint mode, arcade sound effects, joystick support, high score chart, save\/restore up to nine games, unlimited continues, keyboard reconfigure, sound on\/off toggle, cheat mode, and much more.\n\nThis is a game that spawned a gaming legend! \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Apogee Software"
+	],
+	"identifier": [
+	  "DukeNukem"
+	],
+	"addeddate": [
+	  "2012-07-24 03:00:14"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"publisher": [
+	  "Apogee Software"
+	],
+	"license": [
+	  "shareware"
+	],
+	"publicdate": [
+	  "2012-07-24 03:00:53"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233848[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "dn1"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia903904_3"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475247528",
+	  "size": "455574",
+	  "md5": "0ed6922f50a01320c548ccb79e0cbb82",
+	  "crc32": "53fbfe77",
+	  "sha1": "5e8fa8dac81f981f5c024386d3593cc4cb36f2af",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475247577",
+	  "size": "10373",
+	  "md5": "42cbf38179ded2858e1d62e79bf02f4e",
+	  "crc32": "98fce376",
+	  "sha1": "f8280362b46bafc972e1ed563895762fac06cd05"
+	},
+	"\/DukeNukem-EpisodeOne-SharpnelCity1991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukem- Episode One- Sharpnel City (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353054",
+	  "size": "218021",
+	  "md5": "c7a169b24fd00f1c4bc4b1eaaebd1956",
+	  "crc32": "d7f1bdc4",
+	  "sha1": "ccc69fc2fd5d12a9e0d680e04859304d7034834b"
+	},
+	"\/DukeNukem-EpisodeOne-SharpnelCity1991apogeeSoftwareLtd.action_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475247575",
+	  "size": "190505",
+	  "md5": "7d143dbc0c04ffeef826335cfab2c730",
+	  "crc32": "1efc64e5",
+	  "sha1": "fae5f126b512755f60ca219f203a9faaf04b1e42",
+	  "format": "Emulator Screenshot"
+	},
+	"\/DukeNukem-EpisodeOne-SharpnelCityinstaller1991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukem- Episode One- Sharpnel City (Installer) (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353055",
+	  "size": "267142",
+	  "md5": "e33ae29f152e5f8f53fa63928c26dd3e",
+	  "crc32": "c263410b",
+	  "sha1": "3e0ccd3969ac8505671e58d62afb1ab50c4bdccc"
+	},
+	"\/DukeNukem.gif": {
+	  "source": "original",
+	  "mtime": "1475247564",
+	  "size": "37474",
+	  "md5": "01857e0ae829a8bad75b6661f252ce32",
+	  "crc32": "53e780d9",
+	  "sha1": "141a9197ad760b3b2e70b1f847809efe303e40f7",
+	  "format": "Animated GIF"
+	},
+	"\/DukeNukem_archive.torrent": {
+	  "source": "original",
+	  "btih": "94e1ab07afb18513f3d3a0701bbf5d9aeb21eec1",
+	  "mtime": "1475247598",
+	  "size": "6122",
+	  "md5": "80b948cb1a980fa27bde7111fd7542b0",
+	  "crc32": "65d8ec94",
+	  "sha1": "a9cc398db167e7a69930f9f84aad4936e8b0c6b7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DukeNukem_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "35f39defd606f7c7ba84f7eb77d95c90"
+	},
+	"\/DukeNukem_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475247597",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "2114ea47f8ed64ce3291c76c25bab5ac",
+	  "crc32": "7561f944",
+	  "sha1": "2eea7c000a7fa80334f2d762da3b653e15b1c7d7"
+	},
+	"\/DukeNukem_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465696196",
+	  "size": "1832",
+	  "md5": "3ebf3d68825cf232c761079ca1f1a81d",
+	  "crc32": "c1e57e3b",
+	  "sha1": "8c7747abf76a94c7337b7b24e1791729a811359f"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.01991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353056",
+	  "size": "242163",
+	  "md5": "650f8ea57c914a9e97ce7fcb75b2b5b0",
+	  "crc32": "59cefa1c",
+	  "sha1": "f9c17e47d109d606dbcd072744c2e7123b84d626"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.0installer1991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (Installer) (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353057",
+	  "size": "221370",
+	  "md5": "57cbf7acb295b34047fd08ae039b3619",
+	  "crc32": "5f50f997",
+	  "sha1": "e3da30a9d5d10d79602455f253ae1923c5ae5cbe"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.0installera11991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (Installer) [a1] (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353058",
+	  "size": "281606",
+	  "md5": "7ad7cdc7fb2eded77d4045399c5803e2",
+	  "crc32": "bd68f96b",
+	  "sha1": "bb917230b5b53656345c0b1bb03e5c1ab259e424"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.0installera21991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (Installer) [a2] (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353058",
+	  "size": "247825",
+	  "md5": "c66f9c37be57cba22a48b36d3dbf87b9",
+	  "crc32": "03c3f684",
+	  "sha1": "f5d025aebc0590eb6d4d250feb7ff386fb4984ae"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.0installera31991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (Installer) [a3] (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353059",
+	  "size": "316899",
+	  "md5": "5b17a4d18dab8d6ee121bba619b339dd",
+	  "crc32": "06de8c4b",
+	  "sha1": "96ef26e062617ba45934ece1b7476232ed2e132b"
+	},
+	"\/DukeNukum-EpisodeOne-SharpnelCityV2.0installera41991apogeeSoftwareLtd.action.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Duke Nukum- Episode One- Sharpnel City v2.0 (Installer) [a4] (1991)(Apogee Software, Ltd.) [Action]",
+	  "mtime": "1370353060",
+	  "size": "313066",
+	  "md5": "fbe62f51c5a5264ade23418566202d2b",
+	  "crc32": "f9451857",
+	  "sha1": "cc151cd974245ff3f24963df57e529913d58907b"
+	},
+	"\/d1.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452446206",
+	  "size": "218021",
+	  "md5": "c7a169b24fd00f1c4bc4b1eaaebd1956",
+	  "crc32": "d7f1bdc4",
+	  "sha1": "ccc69fc2fd5d12a9e0d680e04859304d7034834b"
+	},
+	"\/resource_item_344.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343098771",
+	  "size": "16112",
+	  "md5": "b34e3dc2cd64f2dfb4a64fa2290ba2ef",
+	  "crc32": "ef5c5c19",
+	  "sha1": "6adeaa1b41d81722023b5b9d15ef591f0f51d9a5",
+	  "rotation": "0"
+	},
+	"\/resource_item_344_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_344.jpg",
+	  "mtime": "1343098834",
+	  "size": "5359",
+	  "md5": "0f4697aff3d4012b4a1f01c120a73686",
+	  "crc32": "4cee9923",
+	  "sha1": "5066c6259653d6fe677d0e14bd98f85d97266622"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475247530",
+	  "size": "234030",
+	  "md5": "77e51f7be0c38abce8666ac2ec0886f7",
+	  "crc32": "105a338e",
+	  "sha1": "8a41495fe9d2d2ac4653853d5723f68f4899e16e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475247581",
+	  "size": "6497",
+	  "md5": "0abdd25d742e2e34cca1b92c518fbb5c",
+	  "crc32": "0e041821",
+	  "sha1": "f504481d08cf02ca296b5b489339a116d56c261b"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475247539",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475247583",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475247548",
+	  "size": "431213",
+	  "md5": "83ba34545f7cf5eaa6ec04978f20804a",
+	  "crc32": "a2ec26da",
+	  "sha1": "75916f4300d4495a76c45457042f16350af29e8e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475247585",
+	  "size": "6189",
+	  "md5": "bbe6eb13fb3a3e62a077acb0e581e7b5",
+	  "crc32": "03f3423d",
+	  "sha1": "c246503602af06245caf176d8452fce170f619bb"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475247554",
+	  "size": "455574",
+	  "md5": "0ed6922f50a01320c548ccb79e0cbb82",
+	  "crc32": "53fbfe77",
+	  "sha1": "5e8fa8dac81f981f5c024386d3593cc4cb36f2af",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475247588",
+	  "size": "10373",
+	  "md5": "42cbf38179ded2858e1d62e79bf02f4e",
+	  "crc32": "98fce376",
+	  "sha1": "f8280362b46bafc972e1ed563895762fac06cd05"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800805.us.archive.org\/22\/items\/DukeNukem\/DukeNukem.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 6412,
+	"week": 67,
+	"month": 240
+  }
+}

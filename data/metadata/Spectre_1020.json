@@ -1,0 +1,247 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/23/items/Spectre_1020",
+  "metadata": {
+	"identifier": [
+	  "Spectre_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Peninsula Gameworks"
+	],
+	"date": [
+	  "1992"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Spectre Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:59:04"
+	],
+	"addeddate": [
+	  "2012-09-04 03:59:04"
+	],
+	"year": [
+	  "1992",
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"description": [
+	  "Spectre is a 3D shooter where the player drives a tank and blasts away enemies. The gameplay is similar to Battlezone."
+	],
+	"publisher": [
+	  "Velocity"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "SPECTRE\/SPECTRE.BAT"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475493999",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475494033",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/Spectre_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475494014",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/Spectre_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "2a6b4bc557ff9d721c7ac88068c83d82a2754db8",
+	  "mtime": "1475494038",
+	  "size": "3766",
+	  "md5": "81250dbb4c68e95525de115eab369192",
+	  "crc32": "0dd46feb",
+	  "sha1": "47d9a6a9003fec3d1d8a3ce94d31ccf2212e9f72",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Spectre_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f9bcbe4d4da4c1a7f367b0d362fb20cc"
+	},
+	"\/Spectre_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475494022",
+	  "size": "9216",
+	  "md5": "4008d059acefbee05029f7d5ded4a4dc",
+	  "crc32": "700d48b9",
+	  "sha1": "658c00f0346bfcf59163f65a4d1d847813139994",
+	  "format": "Metadata"
+	},
+	"\/Spectre_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471126350",
+	  "size": "1006",
+	  "md5": "593e55634f311f00c4359bcff38e9ef0",
+	  "crc32": "0e1377d2",
+	  "sha1": "ad14b4dc0408ca1eb8aefd323a2126d20e6dc9fc"
+	},
+	"\/resource_item_1552.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731655",
+	  "size": "7942",
+	  "md5": "c234b60b083e52ccbafc981215638d73",
+	  "crc32": "cbb9c117",
+	  "sha1": "800e4dc9ad2288db5aea4f112048c1b73783e20a",
+	  "rotation": "0"
+	},
+	"\/resource_item_1552.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731655",
+	  "size": "271",
+	  "md5": "33424cb9a40271c827f070b3d36916cb",
+	  "crc32": "37ebd374",
+	  "sha1": "59373d8c666e2e9107872dcd2aae3b1def7a8fdd"
+	},
+	"\/resource_item_1552_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1552.jpg",
+	  "mtime": "1346733066",
+	  "size": "2646",
+	  "md5": "56815ad4e667bae40b60f4975a364c08",
+	  "crc32": "1f311caf",
+	  "sha1": "b74adbc8e2cfb1ff5692955d8b61f75c6a75e778"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475494001",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475494034",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475494005",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475494035",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475494010",
+	  "size": "79355",
+	  "md5": "9340e4732b847fa98b84892fac185166",
+	  "crc32": "e2002459",
+	  "sha1": "8f2825995c95e3ac09308c1d955b1df8cc8f862b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475494036",
+	  "size": "1801",
+	  "md5": "8255ec9e441f03a994c7700e9b2afc2a",
+	  "crc32": "09ee0a49",
+	  "sha1": "429ff45269ba1cf054145ed15fb41a0952cfdf22"
+	},
+	"\/spectre.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731150",
+	  "size": "385389",
+	  "md5": "c2d6c61f21de23f9369e3c3eba2ffc0f",
+	  "crc32": "e4925f92",
+	  "sha1": "5c78fbcf4c19e2f1045efa991343ee3c25ea619f"
+	},
+	"\/spectre.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731150",
+	  "size": "602",
+	  "md5": "2ef8575ec0dc6586323474eed10f06e1",
+	  "crc32": "a93a185a",
+	  "sha1": "70b3612bdadde9580494cb33750b6bfdcbe9cac7"
+	},
+	"\/spectre_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475494018",
+	  "size": "164931",
+	  "md5": "821a761d32eaf631c4fe70e8fc26020c",
+	  "crc32": "62841a04",
+	  "sha1": "7250689485d52214de121fdc451c715394b50e55",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/23\/items\/Spectre_1020\/Spectre_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 162,
+	"week": 4,
+	"month": 5
+  }
+}

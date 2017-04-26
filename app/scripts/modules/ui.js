@@ -22,13 +22,13 @@ define(['modules/global'], function (global) {
 			var vivus = new Vivus('loaderInfo', {file: 'images/archivewheel.svg'}, function () {
 			});
 
-			Pace.on("done", function () {
-				vivus.setFrameProgress(1);
-			});
-
-			Pace.on("update", function (percent) {
-				vivus.setFrameProgress(Math.min(percent / 50, 1));
-			});
+			// Pace.on("done", function () {
+			// 	vivus.setFrameProgress(1);
+			// });
+			//
+			// Pace.on("update", function (percent) {
+			// 	vivus.setFrameProgress(Math.min(percent / 50, 1));
+			// });
 		},
 		cycleBg: function () {
 			this.bgIndex++;
@@ -69,8 +69,8 @@ define(['modules/global'], function (global) {
 			var l = $("#loaderInfo");
 			var l2 = $("#container");
 			var tl = new TimelineLite();
-			tl.to(l, 0.4, {scaleX: 2, scaleY: 2});
-			tl.to(l, 0.2, {scaleX: 2.5, scaleY: 2.5});
+			tl.addDelay(3);
+			tl.to(l, 0.2, {scaleX: 1.5, scaleY: 1.5});
 			tl.call(function () {
 				bgBurst.play();
 				circle.play();
@@ -78,7 +78,8 @@ define(['modules/global'], function (global) {
 			tl.to(l, 0.3, {scaleX: 0, scaleY: 0});
 			tl.call(function () {
 				$("#loaderInfo").addClass("hidden");
-				global.sound.play();
+				if (global.enableSound)
+					global.sound.play();
 			});
 			tl.to(l2, 0.2, {scaleX: 1.1, scaleY: 1.1});
 			tl.to(l2, 0.4, {scaleX: 1, scaleY: 1});
@@ -103,8 +104,6 @@ define(['modules/global'], function (global) {
 		showDemo: function () {
 			$(".title").text(global.demos[global.currentIndex].info.title);
 			$(".description").text(global.demos[global.currentIndex].info.description);
-			$(".downloadCount").text(global.demos[global.currentIndex].meta.item.downloads);
-			$(".downloadCountWeek").text(global.demos[global.currentIndex].meta.item.week);
 			$("#captionImg").attr("src", global.demos[global.currentIndex].getFullImageUrl());
 			$("#captionImg").attr("height", 450);
 

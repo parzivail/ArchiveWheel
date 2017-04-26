@@ -1,0 +1,95 @@
+{
+  "server": "ia801507.us.archive.org",
+  "dir": "/10/items/nswpatch",
+  "metadata": {
+	"identifier": [
+	  "nswpatch"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "This file will patch the v0.36 Necrodome demo to v0.40"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows extras"
+	],
+	"title": [
+	  "Necrodome Demo v0.36 to v0.40 Patch"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2017-04-18 23:12:36"
+	],
+	"addeddate": [
+	  "2017-04-18 23:12:36"
+	]
+  },
+  "files": {
+	"\/nswpatch.exe": {
+	  "source": "original",
+	  "mtime": "1492557156",
+	  "size": "351072",
+	  "md5": "b719d9c559aa808231533bd1f8c5ddce",
+	  "crc32": "b301ddcd",
+	  "sha1": "4c0060027ffe53fb3d83af12aebe1b6890e426b8",
+	  "format": "Windows Executable"
+	},
+	"\/nswpatch_archive.torrent": {
+	  "source": "original",
+	  "btih": "168944808c20bd73e85b767f0f073761e577d705",
+	  "mtime": "1492557173",
+	  "size": "1607",
+	  "md5": "e1d5a55679aa876e00b455ef256079e2",
+	  "crc32": "36a18606",
+	  "sha1": "1693c5d347f3d81e129918082ec16be8fdd77c29",
+	  "format": "Archive BitTorrent"
+	},
+	"\/nswpatch_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a639021272bd1cc33628ce11ecf37754"
+	},
+	"\/nswpatch_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1492557168",
+	  "size": "9216",
+	  "md5": "2fd9a96715a526713f745fac3b4056cd",
+	  "crc32": "08cb645d",
+	  "sha1": "4a48a807f01c6a685a390932304fa211dd5a5d8d",
+	  "format": "Metadata"
+	},
+	"\/nswpatch_meta.xml": {
+	  "source": "original",
+	  "mtime": "1492557157",
+	  "size": "573",
+	  "md5": "e31824f6b6c5e3346b8d4979d8d44b4a",
+	  "crc32": "6a29c9ce",
+	  "sha1": "280b44b65d1aea74d91420c14671b2a1b61c7848",
+	  "format": "Metadata"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/classicpcgames&fallback=1",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 9,
+	"week": 9,
+	"month": 9
+  }
+}

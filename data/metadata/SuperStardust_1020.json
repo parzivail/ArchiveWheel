@@ -1,0 +1,139 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/0/items/SuperStardust_1020",
+  "metadata": {
+	"identifier": [
+	  "SuperStardust_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Housemarque"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Super Stardust Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 08:39:53"
+	],
+	"addeddate": [
+	  "2012-09-04 08:39:53"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "\"Objective: BLAST EVERYTHING IN SIGHT!\n\nCollect weapons and power-ups to help you on your quest. Fight your way through 5 worlds and 4 warp gates to reach the end and take on Dr. Schaumund the psycho-mutant professor whose starship has entered Earth space. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "demo.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/SSTARDUS.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748029",
+	  "size": "647",
+	  "md5": "87f2b3be20b87d6bfc30daf162b40c53",
+	  "crc32": "fe302698",
+	  "sha1": "64dafc2eba5b4e70ce2c796254135ff4e8bf6829"
+	},
+	"\/SSTARDUS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475790552",
+	  "size": "3500326",
+	  "md5": "9bfdff206b77cdeb32c00b131a526910",
+	  "crc32": "0d04754d",
+	  "sha1": "e320e3167aee2b1824f2541f1a9ef86a21cbc07b"
+	},
+	"\/SuperStardust_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "3534ec94836c8f402610cbc6f36614d5484c7d01",
+	  "mtime": "1475790592",
+	  "size": "1994",
+	  "md5": "eb66cdc9f7bf4d5112e7da546f2dce22",
+	  "crc32": "812a8818",
+	  "sha1": "c2b985a7e2cabc3c2a5759a85ac8b270d1cc0549",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SuperStardust_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "69d1661a93c3ccb2e1ce3891bdf23585"
+	},
+	"\/SuperStardust_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475790591",
+	  "size": "1119",
+	  "md5": "98379bd374f45a7eea77d1feb6d7075b",
+	  "crc32": "a84f4269",
+	  "sha1": "69d8d9984051bc22697ea92c41074818a9dc8b7e"
+	},
+	"\/resource_item_2016.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346748031",
+	  "size": "16954",
+	  "md5": "cece0143adb93aa97b96a617a6d1e08a",
+	  "crc32": "c6eb74ea",
+	  "sha1": "86e0cfef23e4fac98235e10d825893ff3def3317",
+	  "rotation": "0"
+	},
+	"\/resource_item_2016.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748031",
+	  "size": "272",
+	  "md5": "5245c2172a77480b6811a2af1ffade3f",
+	  "crc32": "2687fe0c",
+	  "sha1": "b9c36fbda86314ec4708342a0fc8129ed0aac5a6"
+	},
+	"\/resource_item_2016_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2016.jpg",
+	  "mtime": "1346748789",
+	  "size": "5967",
+	  "md5": "c62071a223a8b0621cfab13a8e4888ef",
+	  "crc32": "a71d50e0",
+	  "sha1": "e7592fff467dde4e732a2077e06cf7528454f8dd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/0\/items\/SuperStardust_1020\/resource_item_2016_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 129,
+	"week": 3,
+	"month": 5
+  }
+}

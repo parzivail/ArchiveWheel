@@ -1,0 +1,213 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/9/items/BlackThorne",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "BlackThorne Demo"
+	],
+	"description": [
+	  "\"Vengeance: Sometimes it's the only answer\n\nI return to my world, this dark and rotting place, to cleanse it of the evil which nests in the heart of the land and to restore my family's rightful reign. Traveling through underground caverns and rain soaked forests, my blood boils at the sights I have beheld renegade humans killing for food and shelter, goblin hordes marching across the land and mutant beasts enslaving my people through torture and starvation.\n\nBy my oath, this evil will end. Their violence shall be met with violence and the blood of my enemies will pool upon the earth. The destroyers of this world will be called to answer for their deeds and they shall know the vengeance of Kyle Blackthorne.\n\nImagine Prince of Persia with a shotgun and a bad attitude, and you've got a good idea what Blackthorne is all about. -PC Gamer \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Blizzard Entertainment"
+	],
+	"identifier": [
+	  "BlackThorne"
+	],
+	"addeddate": [
+	  "2012-07-25 05:45:00"
+	],
+	"publicdate": [
+	  "2012-07-25 05:45:19"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234030[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903904_5"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "bthorneg.bat"
+	],
+	"notes": [
+	  "Cycles must manually be increased for this game to run.  Once emulation has been started click in the window and press CTRL + F12 a few times to do so."
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475189701",
+	  "size": "96619",
+	  "md5": "941313f180c8ad914125d1c2d242199f",
+	  "crc32": "38e24226",
+	  "sha1": "8d3a40a6b1a8d7376ab0b6e1228cf5d4e0a73d14",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475189731",
+	  "size": "5385",
+	  "md5": "8e3ea08a3d384ae9a65b8a1209267d63",
+	  "crc32": "3f81d213",
+	  "sha1": "3b2732bc5a37bfa32cef5cb8d58d470e2a2b625c"
+	},
+	"\/BTHORNE.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473297020",
+	  "size": "1104319",
+	  "md5": "dd1997bec2d59537b9bd98eb009e05f3",
+	  "crc32": "00ba92e4",
+	  "sha1": "cc01ac8c27c95047e34d00fa4dbd1666af5c7fac"
+	},
+	"\/BlackThorne.gif": {
+	  "source": "original",
+	  "mtime": "1475189713",
+	  "size": "17685",
+	  "md5": "1b1a85094d9525583deaa16ce1a5c6aa",
+	  "crc32": "5972022d",
+	  "sha1": "82257db889e402e8de8b6c571064fb958060885e",
+	  "format": "Animated GIF"
+	},
+	"\/BlackThorne_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1ba1986bd4ccdb812729a4b94657cadd"
+	},
+	"\/BlackThorne_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475189722",
+	  "size": "9216",
+	  "md5": "432523ca28d9c4480f84905693cdce73",
+	  "crc32": "6c0a9975",
+	  "sha1": "d1a6820d7b28382dfa9cd5de2c83818f3e21a282",
+	  "format": "Metadata"
+	},
+	"\/BlackThorne_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473297281",
+	  "size": "1910",
+	  "md5": "eaeee173dc17ab0240e3362f75b57b33",
+	  "crc32": "b5718f12",
+	  "sha1": "cad3b529d1b68a56baff68adc6a18d2030cf25be"
+	},
+	"\/btdemo-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1343195077",
+	  "size": "1158753",
+	  "md5": "9ea5fdf81bfdba9cdc562e49839852f1",
+	  "crc32": "9a87704e",
+	  "sha1": "cddfb0801714a4854ca9502d97cf97d906c1c065"
+	},
+	"\/btdemo-installer_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475189718",
+	  "size": "42399",
+	  "md5": "be120c6d64b7f85d005794685f405ef6",
+	  "crc32": "4c833f34",
+	  "sha1": "7b0ec4e07049ad47a6b78967c17f4851b3023976",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_363.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343195080",
+	  "size": "18560",
+	  "md5": "036f427642561ae5af3fff9be7ca19b0",
+	  "crc32": "2a99a727",
+	  "sha1": "9b5599116ebc50720c5941714f8d7e5b2814f27a",
+	  "rotation": "0"
+	},
+	"\/resource_item_363_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_363.jpg",
+	  "mtime": "1343195113",
+	  "size": "5614",
+	  "md5": "c3062ad2e625d8a3f46b6fb32e786a26",
+	  "crc32": "68abc939",
+	  "sha1": "0963bd9a36a114519b80559fb60e243ebfb24241"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475189706",
+	  "size": "96606",
+	  "md5": "5dcfbb87d3817329d864158bcdd19857",
+	  "crc32": "fa3c8e7c",
+	  "sha1": "9670d3d283f6ddc963058e040d2b8c76e722526f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475189732",
+	  "size": "5380",
+	  "md5": "ac406f21c371c3f6ee96a52f79030ccf",
+	  "crc32": "6dfec9b2",
+	  "sha1": "65e72070302ec0ef384974cab66a1dbba760a04f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475189709",
+	  "size": "96619",
+	  "md5": "941313f180c8ad914125d1c2d242199f",
+	  "crc32": "38e24226",
+	  "sha1": "8d3a40a6b1a8d7376ab0b6e1228cf5d4e0a73d14",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475189734",
+	  "size": "5385",
+	  "md5": "8e3ea08a3d384ae9a65b8a1209267d63",
+	  "crc32": "3f81d213",
+	  "sha1": "3b2732bc5a37bfa32cef5cb8d58d470e2a2b625c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/9\/items\/BlackThorne\/BlackThorne.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 575,
+	"week": 4,
+	"month": 9
+  }
+}

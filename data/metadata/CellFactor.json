@@ -1,0 +1,121 @@
+{
+  "server": "ia600701.us.archive.org",
+  "dir": "/24/items/CellFactor",
+  "metadata": {
+	"identifier": [
+	  "CellFactor"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "AGEIA"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "CellFactor: Combat Training is a physics-intensive game originally developed as a demo for the Ageia PhysX chipset. Gameplay in the interactive concept demo uses the wildly powerful new technology for multiplayer mayhem in a physics-rich environment.\u00a0"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "CellFactor: Combat Training"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-03-24 03:26:53"
+	],
+	"addeddate": [
+	  "2014-03-24 03:26:53"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231833[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_28"
+	]
+  },
+  "files": {
+	"\/CellFactor.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1395631613",
+	  "size": "486632392",
+	  "md5": "d69205717a5f8a73c362694fc40cebc3",
+	  "crc32": "003688e9",
+	  "sha1": "4bad947078be51189dc8b4d6ea9daaa7f3c9a09e"
+	},
+	"\/CellFactor.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1395631625",
+	  "size": "79117",
+	  "md5": "f0e05d549224885a705cad5fc426d473",
+	  "crc32": "f8c59317",
+	  "sha1": "b316c2cb21d0e841f538e87cb2f99c18a4432ce3",
+	  "rotation": "0"
+	},
+	"\/CellFactor_archive.torrent": {
+	  "source": "original",
+	  "btih": "100e9a206874affe11df37e8acf1e59db27871a9",
+	  "mtime": "1473346609",
+	  "size": "20538",
+	  "md5": "8e1097fb70f9a686ee94fc2d9ca2ccae",
+	  "crc32": "840a1fbb",
+	  "sha1": "727099b5b30a1e2326869047a8c0e694928f6e15",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CellFactor_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "018d18c508b4cf7f87b99faebd857a31"
+	},
+	"\/CellFactor_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1395631637",
+	  "size": "12288",
+	  "md5": "96f7eeb4b4f5dfab424f9409c1aa9d5b",
+	  "crc32": "48c6966e",
+	  "sha1": "5150e5f46707c78f0a18f47bce3383208e4dc03e"
+	},
+	"\/CellFactor_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473346603",
+	  "size": "1012",
+	  "md5": "4ddf60c2df60646f2c7964eef5ed45e1",
+	  "crc32": "cc6b2abd",
+	  "sha1": "bc1abc47b71b311a5f78b09a4e8e00461cb7293c"
+	},
+	"\/CellFactor_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "CellFactor.jpg",
+	  "mtime": "1395631712",
+	  "size": "3900",
+	  "md5": "5825fcec5b61156835491016bb620cc8",
+	  "crc32": "51cb1d85",
+	  "sha1": "be187fd37b67b132173f83b19bfb5140e84117b2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600701.us.archive.org\/24\/items\/CellFactor\/CellFactor_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1658,
+	"week": 13,
+	"month": 54
+  }
+}

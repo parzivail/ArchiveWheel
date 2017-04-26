@@ -1,0 +1,246 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/31/items/XF5700MantisExperimentalFighter_1020",
+  "metadata": {
+	"identifier": [
+	  "XF5700MantisExperimentalFighter_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Paragon Software"
+	],
+	"date": [
+	  "1992"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "XF5700 Mantis Experimental Fighter Demo"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-05 01:30:42"
+	],
+	"addeddate": [
+	  "2012-09-05 01:30:42"
+	],
+	"description": [
+	  "\"The Outer Space Adventure Of The Year!\n\nEarth had no warning.\n\nOut of nowhere, an army of insect-like creatures from a distant world, using technologically advanced space weapons, ambushed and devastated Earth. Perhaps more horrendous than the nearly three billion deaths, was the portion of the remaining population that was used as host bodies for gestating alien offspring. The Fist of Earth world government was formed to defend humanity and repel the looming alien threat.\n\nYou're a member of FOE's elite fighter corps - a recruit fresh from the Academy. You've studied diligently, spent countless hours in simulations, and prepared yourself in every way possible for battle. But, until recently, the alien technology and firepower were far superior to Earth's.\n\nNow, you've been assigned to the XF 5700 Experimental Fighter (codename: Mantis). The ship is heavily armed with Mass Driver cannons and an impressive array of missiles. Sporting a shock-proof electro-luminiscent HUD, Quad-Jump drives, and a sophisticated navigational system, the Mantis is the weapon Earth desperately needs.\n\nThe fate of the world now rests in your hands. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "MANTIS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475618930",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475618978",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/MANTIS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471115893",
+	  "size": "223722",
+	  "md5": "755d155f911999d1d2bc1d13eb4a7818",
+	  "crc32": "b9cc5669",
+	  "sha1": "264fd9df46808028bfad3d9c1ca03c0a406bfe73"
+	},
+	"\/MANTIS_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475618952",
+	  "size": "158002",
+	  "md5": "0bfbb0cf215e705a9bd84f37e4d72762",
+	  "crc32": "cb3a73f9",
+	  "sha1": "e8fe9af0b8c1aba74d77acdf15386a9ea80eaa5a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/XF5700MantisExperimentalFighter_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475618947",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/XF5700MantisExperimentalFighter_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b824d2330adf04969f25ca7ca293691d0fdb4754",
+	  "mtime": "1475618987",
+	  "size": "4004",
+	  "md5": "5ed914854bdb3a7c0ff1b194433edc7b",
+	  "crc32": "9220ef33",
+	  "sha1": "a1efb3fff9513f45f8cb4b6ed53ed88c42a284d3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/XF5700MantisExperimentalFighter_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f44dd060aff2a9e822e7c9cc2d427755"
+	},
+	"\/XF5700MantisExperimentalFighter_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475618956",
+	  "size": "9216",
+	  "md5": "c51a4363cb71a06affb025e41aaa3469",
+	  "crc32": "26cf73ef",
+	  "sha1": "9c1a467fc41041abfc86450bf61fb8ae3e0df3da",
+	  "format": "Metadata"
+	},
+	"\/XF5700MantisExperimentalFighter_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471115853",
+	  "size": "2058",
+	  "md5": "7d53550e6c20504972e7a34ea7607f0d",
+	  "crc32": "f63d6c9c",
+	  "sha1": "69855c4688996e59d3450078c37662df36248b1a"
+	},
+	"\/mantis.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808648",
+	  "size": "704",
+	  "md5": "4acddcaac5f7e0123c9dc59599c466df",
+	  "crc32": "bbff0512",
+	  "sha1": "dcceccf9093b89333b43f5b03604faeb4e508a4b"
+	},
+	"\/resource_item_2799.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346809051",
+	  "size": "5940",
+	  "md5": "7290985d1531e33eaf58e5142ee5ec02",
+	  "crc32": "a3573eae",
+	  "sha1": "ddbf47b9ccaa9ddfce8506c76e7e8846e54e5383",
+	  "rotation": "0"
+	},
+	"\/resource_item_2799.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346809051",
+	  "size": "271",
+	  "md5": "20f2bbb37da9fd115e9c5c4ef78f4de6",
+	  "crc32": "ac915b05",
+	  "sha1": "2b4ae91b619339f16750b0640502cb745877f35f"
+	},
+	"\/resource_item_2799_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2799.jpg",
+	  "mtime": "1346820217",
+	  "size": "2090",
+	  "md5": "26c548f0879eba683e21ac3ea0150898",
+	  "crc32": "1ab52e8e",
+	  "sha1": "cf231991f967aa4a562d625b74fde540355c41a3"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475618933",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475618980",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475618940",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475618983",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475618943",
+	  "size": "51293",
+	  "md5": "214c0b85df5d3dc083dea90de1e6ccbe",
+	  "crc32": "5f3272ae",
+	  "sha1": "d599f9f1ad6d711e425379f887dda7f3fe1a57d8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475618984",
+	  "size": "1586",
+	  "md5": "c3181e8f40d615e67f065bdff48c63cd",
+	  "crc32": "7cd5bb96",
+	  "sha1": "18b83e07fa2c6f7d0bfc616eadbd9e2f4254275b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/31\/items\/XF5700MantisExperimentalFighter_1020\/XF5700MantisExperimentalFighter_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 168,
+	"week": 2,
+	"month": 3
+  }
+}

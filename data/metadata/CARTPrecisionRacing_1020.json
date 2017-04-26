@@ -1,0 +1,123 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/5/items/CARTPrecisionRacing_1020",
+  "metadata": {
+	"identifier": [
+	  "CARTPrecisionRacing_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Terminal Reality"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "CART Precision Racing Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-04 19:24:35"
+	],
+	"addeddate": [
+	  "2012-09-04 19:24:35"
+	],
+	"description": [
+	  "\"Engage in authentic CART action. Race open-wheeled cars -- modeled to six degrees freedom of movement -- for all the excitement of real CART racing. Advanced vehicle and independent tire physics capture the responsive handling of a 900 horsepower Indy car.\n\nExperience true-to-life driver views. Out-the-window views pan realistically as you pivot to look into the apex of each turn. Stunning 3-D graphics give you the most realistic re-creation of every track and racing line.\n\nAnalyze your race performance. Improve lap times with telemetry software derived from Pi Research, the world leader in race car data analysis. Each car features a photo-realistic cockpit that includes an accurately modeled Pi LCD instrument display. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235140[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/CARTPrecisionRacing_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ccf7c760295ba9feee29cce9cb258d54"
+	},
+	"\/CARTPrecisionRacing_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463593229",
+	  "size": "1538",
+	  "md5": "2de0a94387ef792f45d593b6f45562a3",
+	  "crc32": "a7dbfd9e",
+	  "sha1": "92b645fbbe2b637e978398733804a74803441d5f"
+	},
+	"\/MSCART.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346786823",
+	  "size": "15164869",
+	  "md5": "250ca1d0e38574622de22f16724ae484",
+	  "crc32": "73db4c23",
+	  "sha1": "b7c695f1514bee6ea50d7a0cba3bb04c4261d1e6"
+	},
+	"\/MSCART.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786823",
+	  "size": "696",
+	  "md5": "063df166e92ce4507a636be06c771765",
+	  "crc32": "84c6cb85",
+	  "sha1": "2edacbad09500c14836d9c99f021c0a9e503b90f"
+	},
+	"\/resource_item_2446.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346786826",
+	  "size": "14672",
+	  "md5": "b679a26f684f3c92ef1d281a7f7b83ba",
+	  "crc32": "8eff52f6",
+	  "sha1": "45211e562b25b1e1e1867679abfd272c01c0764e",
+	  "rotation": "0"
+	},
+	"\/resource_item_2446.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786826",
+	  "size": "272",
+	  "md5": "b87ebec733dc9592b3b45cbbbe869608",
+	  "crc32": "8edfdad2",
+	  "sha1": "189f399f881161ac7a76b7c3a50bfb20c0a2c4fa"
+	},
+	"\/resource_item_2446_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2446.jpg",
+	  "mtime": "1346819375",
+	  "size": "5438",
+	  "md5": "94f1ceb7800e77028691e0458ab6cfde",
+	  "crc32": "04c52459",
+	  "sha1": "ff691e479bd84461aee48e4050f21fba7c0f7e0e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/5\/items\/CARTPrecisionRacing_1020\/resource_item_2446_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 601,
+	"week": 12,
+	"month": 30
+  }
+}

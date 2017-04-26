@@ -1,0 +1,117 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/21/items/swizzle_demu_Sin",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_Sin"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ritual Entertainment"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Sin is the fully-integrated first-person 3D experience that will push you over the edge. Sin features a character-driven story and revolutionary multiplayer gameplay powered by an enhanced version of id software's Quake II engine. You will blast your way through complex levels of unholy terror as you investigate the secret source of the crime epidemic plaguing the city. Sin features six distinct game world regions enriched with convincing graphic detail and a rich interwoven story line."
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "SiN Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-15 21:33:13"
+	],
+	"addeddate": [
+	  "2014-02-15 21:33:13"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234106[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_13"
+	]
+  },
+  "files": {
+	"\/Sin.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392499992",
+	  "size": "35471872",
+	  "md5": "721389ac005ca313f765dce2a45f832b",
+	  "crc32": "a0e48e94",
+	  "sha1": "81a6145811b2f0d51357559aaef8e1e386ed7840"
+	},
+	"\/sin.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392500004",
+	  "size": "47142",
+	  "md5": "f34ac9dd5444a16579e5aed44786cdcc",
+	  "crc32": "cc44e9d2",
+	  "sha1": "e957e231eae4f1044ec67c03e57cacdef9d8336c",
+	  "rotation": "0"
+	},
+	"\/sin_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sin.jpg",
+	  "mtime": "1392500039",
+	  "size": "3952",
+	  "md5": "cbb57250811b063e70096349d2202d50",
+	  "crc32": "ca416943",
+	  "sha1": "1e0f512547cf7bcae397e0d3cc5ce0f1b286463d"
+	},
+	"\/swizzle_demu_Sin_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f1459bd9adbcf96ce6bbd3711a6d1f9f"
+	},
+	"\/swizzle_demu_Sin_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392500022",
+	  "size": "14336",
+	  "md5": "b032f3560c86bdfc7a659360df782024",
+	  "crc32": "ddb14cbb",
+	  "sha1": "d32cdb11828c9b9f7e7a8b02b7705b031a64b7f6"
+	},
+	"\/swizzle_demu_Sin_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473696662",
+	  "size": "1333",
+	  "md5": "526cb09f5338410e660acdee1f1f0cb6",
+	  "crc32": "c0536f72",
+	  "sha1": "490e0080dcb34b431a552d64d0b01b2c2a3362af"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/21\/items\/swizzle_demu_Sin\/sin_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 571,
+	"week": 17,
+	"month": 37
+  }
+}

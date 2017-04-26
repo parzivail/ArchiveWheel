@@ -1,0 +1,457 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/22/items/BattleChess4000Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Battle Chess 4000 Demo"
+	],
+	"description": [
+	  "Battle Chess 4000 takes the classic game of chess and rushes it headlong into the future. Chess pieces become animated space age characters, created from state-of-the-art, digitized clay model; with the pieces animated moves being both intriguing and hilarious. Not only that but Battle Chess 4000 has a library of over 300,000 opening moves and an artificial intelligence that can handle any level of opponent."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "BattleChess4000Demo"
+	],
+	"addeddate": [
+	  "2012-07-05 02:41:44"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"publicdate": [
+	  "2012-07-05 02:42:12"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "bc4000.exe"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444829910",
+	  "size": "485953",
+	  "md5": "f290fc07a7a969ea1316788ec57011ef",
+	  "crc32": "1b61d57e",
+	  "sha1": "011279f75624d69f2c6800a4e6bdeefba8760e0d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444829997",
+	  "size": "7869",
+	  "md5": "eef70f6a4980b4f895307d64cf28da81",
+	  "crc32": "d6088b82",
+	  "sha1": "2c5cc4dfb0d61c08f96ff6f76523e8a9a0d3f3a9"
+	},
+	"\/BC4DEMO.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432848568",
+	  "size": "1401369",
+	  "md5": "93a35a9a93e33038ca2635b1d7d1355c",
+	  "crc32": "45f79fda",
+	  "sha1": "70ee30b85670ec5a8cb0703ea3527e4bb89b407e"
+	},
+	"\/BattleChess4000Demo.gif": {
+	  "source": "original",
+	  "mtime": "1444829973",
+	  "size": "118224",
+	  "md5": "29c6441f6360b7ed08704f92c3c662ad",
+	  "crc32": "95caf96f",
+	  "sha1": "c970388edd08d222a809e891879ca43afec7e7e3",
+	  "format": "Animated GIF"
+	},
+	"\/BattleChess4000Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2d1b478520d74a2ea4644ab7966cc5f11c03e77c",
+	  "mtime": "1466229825",
+	  "size": "8260",
+	  "md5": "2d3d3fc2c1e8ed637c362e560fb0982c",
+	  "crc32": "0b5f483f",
+	  "sha1": "619d62304e24742f2453f38a613f9e37e85966c4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BattleChess4000Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "45b19bc316b0af676d93522d5a6c5410"
+	},
+	"\/BattleChess4000Demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444830018",
+	  "size": "16384",
+	  "format": "Metadata",
+	  "md5": "739ebbcfb3c5afb581f0f048eec71121",
+	  "crc32": "da009d5e",
+	  "sha1": "48a1f951d3401bb244f9350aadd938db48717df1"
+	},
+	"\/BattleChess4000Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466229823",
+	  "size": "1281",
+	  "md5": "f5fe5829e8ffbef087e2ba91277d079c",
+	  "crc32": "308f8356",
+	  "sha1": "f050a64d1a43f2bb820176f2fbb90e834963730d"
+	},
+	"\/bc4demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341456079",
+	  "size": "1426773",
+	  "md5": "814f034412677f1ebb75dd8c97fdb9bf",
+	  "crc32": "9b7f241c",
+	  "sha1": "167007d2071fa427f329c30e7c61fe32b457ea9d"
+	},
+	"\/bc4demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444830000",
+	  "size": "1646146",
+	  "md5": "d595477b6a9f15009769f121076c10b3",
+	  "crc32": "5571eac0",
+	  "sha1": "56e3ba55202eeebea1264204a8f7027cf34dd5a4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_170.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341456065",
+	  "size": "27123",
+	  "md5": "dd062345b08cadc8d0d8dca04bfbb75b",
+	  "crc32": "a0546d99",
+	  "sha1": "f51a67defb63d4aa9512e1a8c832dc1280cb47ef",
+	  "rotation": "0"
+	},
+	"\/resource_item_170_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_170.jpg",
+	  "mtime": "1341456119",
+	  "size": "7200",
+	  "md5": "b3e7417b46c2ff7c11de91a37581e5a4",
+	  "crc32": "a0c93b67",
+	  "sha1": "dbbd524a4804a29eb2f7dc9bfd6c8abb5d7265f8"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444829914",
+	  "size": "326600",
+	  "md5": "4d8f0bc45bccca6d86e067e860aa2a24",
+	  "crc32": "eb68cfbf",
+	  "sha1": "5c149489a6af5df9737783c264c61d9aa30e496a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444829994",
+	  "size": "5034",
+	  "md5": "f82d3d32b9a04afba805629ab3c07772",
+	  "crc32": "53cc9d38",
+	  "sha1": "d9aa8c7e2d5a538f170e8a096f42ec3a96709bc8"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444829919",
+	  "size": "350095",
+	  "md5": "979cb3ac7e3f465019fb7941dd376421",
+	  "crc32": "6b69786b",
+	  "sha1": "3a5871d9fe138e87921292fb7ecad65a0deff420",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444829999",
+	  "size": "6374",
+	  "md5": "f44f18032f6714fc2bb6c95ca74f376b",
+	  "crc32": "2f89795d",
+	  "sha1": "af805a113fa29ae508d1f706bca60ba6edd2484c"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444829922",
+	  "size": "475183",
+	  "md5": "ff77f7f92c9368c3de42b2d48832694d",
+	  "crc32": "93ae2d7e",
+	  "sha1": "1eef42b4a4a76aaf0f6847393aae70e9ccc40dbe",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444829993",
+	  "size": "7769",
+	  "md5": "844fb1141eb7c78c97e9ba7494f9320e",
+	  "crc32": "77341bf6",
+	  "sha1": "6f6b36e32727a51cd10809a6973b3e0f8d66dd2b"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444829928",
+	  "size": "480911",
+	  "md5": "598f4eca85a509b5132e7273512905d6",
+	  "crc32": "5cc25dc1",
+	  "sha1": "36e611adbdbc4b0d87f3b9352b89fbbac0cb34e0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444829995",
+	  "size": "7814",
+	  "md5": "4791a3e1769cdcde0517a8eb5db552bd",
+	  "crc32": "b5bfa9e7",
+	  "sha1": "736ea272f1ec7a362797f7cf1268cd51860e4828"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444829932",
+	  "size": "462802",
+	  "md5": "800ce59d5fdc697aa1461b09d60298bc",
+	  "crc32": "f1179ced",
+	  "sha1": "84c60c64c692c0ea88da8807918bed3a54fd46ea",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444829998",
+	  "size": "8247",
+	  "md5": "4a8940141ed571e002e4b9598d0878d1",
+	  "crc32": "373fadbf",
+	  "sha1": "2fca8852bdfff9a7195b3a87a9269454c0b7c2d9"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444829942",
+	  "size": "481071",
+	  "md5": "ec95b417abc2de372fea1bf942c6ce9b",
+	  "crc32": "bce91939",
+	  "sha1": "0e141a64b5178a362c5db9ef72032f548dabc96a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444829996",
+	  "size": "7829",
+	  "md5": "a19ea3686caf2d345a155e9159d965fb",
+	  "crc32": "1242082c",
+	  "sha1": "cdb102760bcd03acebbe8445371c155620f12fce"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444829945",
+	  "size": "482773",
+	  "md5": "2fc2bedfff14eb417b4af273da9b1171",
+	  "crc32": "a8a8fca6",
+	  "sha1": "97d89ed23746364ccecb9465c2d0fb48f5152307",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444830000",
+	  "size": "7835",
+	  "md5": "81cea127efc56e901a7cd6d1bb4187a4",
+	  "crc32": "6f1aa4a2",
+	  "sha1": "7840cba0e8c24abe3d13d92865806885e96a19f9"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444829949",
+	  "size": "470719",
+	  "md5": "22fc54b8ad018e48430cdc3d230a4e96",
+	  "crc32": "80494fde",
+	  "sha1": "d53108561305d7854dc40c57f3a105fe11d71aaa",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444830006",
+	  "size": "8022",
+	  "md5": "b3f2dce53b535c5cbf310a4fcebc3ec8",
+	  "crc32": "858d279b",
+	  "sha1": "6023c8e8b09f38614fb0ed19de6ba110993519cf"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444829952",
+	  "size": "483369",
+	  "md5": "32d111c0645867ff72a136be4cb49c4a",
+	  "crc32": "2faf3035",
+	  "sha1": "67b2200669c347ea28beb931cce6b898a6d0905b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444830002",
+	  "size": "7840",
+	  "md5": "3ef7b2355a2d52cf112685f08addb3b9",
+	  "crc32": "2e50782c",
+	  "sha1": "74cda97df1e4bd7e381db8be4ed2a2e308696138"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444829956",
+	  "size": "483614",
+	  "md5": "9947889a0f9fe18e3062f0a0401b6623",
+	  "crc32": "fb73bc95",
+	  "sha1": "c8bd88f393b08b134ba1178d156a4e82b0dfd8da",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444830007",
+	  "size": "7849",
+	  "md5": "0d8ef4ef4a5b350ef1281f84b9a2f1f6",
+	  "crc32": "0f1c67ab",
+	  "sha1": "132b297fb30f0b9fa4260865b33899921a63d7b1"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1444829961",
+	  "size": "484575",
+	  "md5": "ef1886d0279216bfd8749bb1022d71bd",
+	  "crc32": "5c162024",
+	  "sha1": "d32405c7ffd1e46c4485e8706a9927cc561f52ee",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1444830001",
+	  "size": "7861",
+	  "md5": "24a64fb8e1e439c9fce11f51b0c63f79",
+	  "crc32": "36466543",
+	  "sha1": "34b801a949d233405ac42d6f9a8ca4920e99a9c2"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1444829965",
+	  "size": "485113",
+	  "md5": "2ece387d60cf879e9c43dd485da576ab",
+	  "crc32": "7fe2963d",
+	  "sha1": "84f583b2d37aca3b6fd478b934bc8a4fb4fb2978",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1444830003",
+	  "size": "7871",
+	  "md5": "e8e800425d748334efa5ff593b0842ae",
+	  "crc32": "5ba95db6",
+	  "sha1": "91f8a2ba85b7740658fb8db75f0cd1b7b5fe6238"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1444829969",
+	  "size": "485953",
+	  "md5": "f290fc07a7a969ea1316788ec57011ef",
+	  "crc32": "1b61d57e",
+	  "sha1": "011279f75624d69f2c6800a4e6bdeefba8760e0d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1444830006",
+	  "size": "7869",
+	  "md5": "eef70f6a4980b4f895307d64cf28da81",
+	  "crc32": "d6088b82",
+	  "sha1": "2c5cc4dfb0d61c08f96ff6f76523e8a9a0d3f3a9"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1444829971",
+	  "size": "468429",
+	  "md5": "1487d7f48200edbeadfbd141fcf37278",
+	  "crc32": "76b90874",
+	  "sha1": "0ce2558bc578779b7a5f41db915b6ea5b2da96b8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1444830005",
+	  "size": "8403",
+	  "md5": "d62dbf60774cfa17972b6ee6bbefcf96",
+	  "crc32": "aedd9ce4",
+	  "sha1": "e37b4b0c6a9434a1fad739dc1363a7524fa4d098"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/22\/items\/BattleChess4000Demo\/BattleChess4000Demo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1342,
+	"week": 9,
+	"month": 26
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/7/items/Screamer_1020",
+  "metadata": {
+	"identifier": [
+	  "Screamer_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Graffiti"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Virgin Interactive Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Screamer Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 08:44:28"
+	],
+	"addeddate": [
+	  "2012-09-04 08:44:28"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Lights blur. The crowd whizzes past. Your helmet rattles against the roll bar and the competition switches into overdrive. Tears stream from your eyes as the race moves into extreme speed. Tears of sweat. The same stuff that's seeping out of your palms and onto the steering wheel. Get a grip. You're sliding into a turn at 200 miles per hour and centrifugal force will only carry you so far.\n\nThis is velocity-driven, pedal-to-the-metal arcade auto racing. It ain't no simulation. Find out how your PC really handles 'cause you've never been allowed to go this fast before. Maneuver through a twisted landscape, along six snakin' tracks with other racers breathing down your neck, and post a time that's warped. Strapped into a personally chosen, made-for-the-autobahn racing machine, you'll scream to redefine fast in this winding 3-D ride of pure rocketing fun.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234232[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "screamer.exe"
+	]
+  },
+  "files": {
+	"\/SCREAMER.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748284",
+	  "size": "667",
+	  "md5": "f0fcbe65d3f65e86ac1b366712155edc",
+	  "crc32": "c03e9ab6",
+	  "sha1": "0c1330659612e433264fc7c28f2fe5eec2b06aab"
+	},
+	"\/SCREAMER.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476404796",
+	  "size": "1361660",
+	  "md5": "81de651cd4cc7877784daaaef223a4fc",
+	  "crc32": "f905f85f",
+	  "sha1": "a9ba74929daa7d928c7566c71754178cfec0ee2a"
+	},
+	"\/Screamer_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "92d9093ecb8634aa3971d54a10034617"
+	},
+	"\/Screamer_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476404829",
+	  "size": "1773",
+	  "md5": "f4ed2cce99dbf54d8ddcdf43ba4ea40a",
+	  "crc32": "f09ab606",
+	  "sha1": "d163f601222a2b3e29eaed65da90e1f4bfbf046d"
+	},
+	"\/resource_item_2013.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346748286",
+	  "size": "19929",
+	  "md5": "40fb0c59308442920a804d7f1a34be00",
+	  "crc32": "fc55572e",
+	  "sha1": "0bb134455ab0ba2d5862975103a7dac487868e93",
+	  "rotation": "0"
+	},
+	"\/resource_item_2013.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748286",
+	  "size": "272",
+	  "md5": "032bf1a62e6a110e595b8ff9bf2fa4ac",
+	  "crc32": "a2d4ec84",
+	  "sha1": "2d2b237058c7b9fcaa541c59227eb52a6c166a5a"
+	},
+	"\/resource_item_2013_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2013.jpg",
+	  "mtime": "1346749230",
+	  "size": "5758",
+	  "md5": "017e8727bbd9f04690a1c7c6ea6f3a87",
+	  "crc32": "c0549ce1",
+	  "sha1": "b3d5f625f1a96884ec46db72987278f280bd93ea"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/7\/items\/Screamer_1020\/resource_item_2013_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 433,
+	"week": 3,
+	"month": 6
+  }
+}

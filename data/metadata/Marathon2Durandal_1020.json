@@ -1,0 +1,123 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/19/items/Marathon2Durandal_1020",
+  "metadata": {
+	"identifier": [
+	  "Marathon2Durandal_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bungie"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Bungie"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Marathon 2: Durandal Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-04 16:25:19"
+	],
+	"addeddate": [
+	  "2012-09-04 16:25:19"
+	],
+	"description": [
+	  "\"Razor-sharp graphics, wicked-smooth speed, movement through multiple elevations with five degrees of freedom (looking up and down), 16-bit sound in active panning stereo (which gives cues to your location and situation), and the ambient sounds of howling winds and raging rivers that heighten the realism of outdoor and underwater environments are the high points of Marathon 2: Durandal.\n\nJaded gamers will appreciate features rare in the first-person genre: motion sensors, a realistic physics model, non-player characters that speak and fight with you, eight-player networkability, and network game scenarios like King of the Hill and Kill the Guy with the Ball which require more strategy and cunning than the standard network shootout. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235748[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/M2DEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346776090",
+	  "size": "17811101",
+	  "md5": "7b14a009746c479f046f947ca6dcbbb0",
+	  "crc32": "502ca281",
+	  "sha1": "55d993ec78a1ddc9f5fcb3948ed3ccd3e064b08b"
+	},
+	"\/M2DEMO.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346776091",
+	  "size": "678",
+	  "md5": "e02f90b6516ffef32bc8d8107b0f304b",
+	  "crc32": "34df518e",
+	  "sha1": "63c74bce6d1e4a5abad36815188195d2143442ab"
+	},
+	"\/Marathon2Durandal_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b88b069095691fb7bc4f3841993d910a"
+	},
+	"\/Marathon2Durandal_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465005145",
+	  "size": "1530",
+	  "md5": "9b40ba5dbd78a48a1f35f49b18c24172",
+	  "crc32": "5206e351",
+	  "sha1": "7ca4f3096479a8f45e37cebf88698092dcb0a934"
+	},
+	"\/resource_item_2320.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346776093",
+	  "size": "22028",
+	  "md5": "d60299e21b57717e08b624b00e55b312",
+	  "crc32": "a001fcef",
+	  "sha1": "e74e64ab1872fb76c89804dadb37cac4301e38ac",
+	  "rotation": "0"
+	},
+	"\/resource_item_2320.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346776093",
+	  "size": "272",
+	  "md5": "0e79e13fe3094d112c7753032bdf0c1f",
+	  "crc32": "b7d00858",
+	  "sha1": "f892c73afebe6faa3fa7dab048c3ea426019c7bf"
+	},
+	"\/resource_item_2320_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2320.jpg",
+	  "mtime": "1346777542",
+	  "size": "6796",
+	  "md5": "0ee692e37cb5070553f2103447a5e264",
+	  "crc32": "90fdbce0",
+	  "sha1": "2d6dbd1760cfe1ad06d80b705d3a0c387ad2cf38"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/19\/items\/Marathon2Durandal_1020\/resource_item_2320_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 272,
+	"week": 5,
+	"month": 14
+  }
+}

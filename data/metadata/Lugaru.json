@@ -1,0 +1,117 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/23/items/Lugaru",
+  "metadata": {
+	"identifier": [
+	  "Lugaru"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Wolfire Games"
+	],
+	"date": [
+	  "2005"
+	],
+	"description": [
+	  "As Turner, a well-trained ninja rabbit, you fight through a detailed 3D world to avenge the death of your wife and daughter and to expose a deadly lupine conspiracy. Be advised that this game contains brutal, bloody, rabbit combat."
+	],
+	"publisher": [
+	  "Wolfire Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Lugaru Demo"
+	],
+	"year": [
+	  "2005"
+	],
+	"publicdate": [
+	  "2014-02-16 17:30:19"
+	],
+	"addeddate": [
+	  "2014-02-16 17:30:19"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235143[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_14"
+	]
+  },
+  "files": {
+	"\/Lugaru.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392571819",
+	  "size": "24990445",
+	  "md5": "90fb76fd3055af0b485ebf38f24f0525",
+	  "crc32": "4c3d467c",
+	  "sha1": "9be34eecc0f565e732006e64fd3fb92b8a2b291b"
+	},
+	"\/Lugaru.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392571831",
+	  "size": "61901",
+	  "md5": "06556840ede9ad93196c46db701d486b",
+	  "crc32": "bd227d38",
+	  "sha1": "71d380db3b68445515c55230262e7c377dc3bbf4",
+	  "rotation": "0"
+	},
+	"\/Lugaru_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "50d3621378f63fcc7292bfd131c5aa59"
+	},
+	"\/Lugaru_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392571838",
+	  "size": "12288",
+	  "md5": "838606458ac7bc47f7a6f96270783ab0",
+	  "crc32": "6891699d",
+	  "sha1": "8f5da20f27f6a191a2a4d45b0fc7225cac0ef794"
+	},
+	"\/Lugaru_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473435348",
+	  "size": "1062",
+	  "md5": "a2036dd0e5569fd24eb82203b69eec70",
+	  "crc32": "7e7f952d",
+	  "sha1": "545ae33ba789ed38637758b4f51ae928f0f5f887"
+	},
+	"\/Lugaru_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Lugaru.jpg",
+	  "mtime": "1392571847",
+	  "size": "4216",
+	  "md5": "0e48cd047445663a24f249952812291b",
+	  "crc32": "6815bdfd",
+	  "sha1": "b2ec5459494fa50e9ebe33418b62ec73dc9fd494"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/23\/items\/Lugaru\/Lugaru_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 468,
+	"week": 15,
+	"month": 29
+  }
+}

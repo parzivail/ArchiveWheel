@@ -1,0 +1,215 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/20/items/StuntIslandDemo",
+  "metadata": {
+	"identifier": [
+	  "StuntIslandDemo"
+	],
+	"title": [
+	  "Stunt Island Demo"
+	],
+	"creator": [
+	  "The Assembly Line"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Fly it! Film it! Edit it! STUNT ISLAND sets the new standard for simulations, combining a first-rate flight simulator with an extraordinary Hollywood film-making module. Play STUNT ISLAND as a campaign, where you compete 32 challenging stunt flying assignments. Or let your imagination run wild as you create your own action-packed films!"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:10:34"
+	],
+	"addeddate": [
+	  "2012-02-23 02:10:15"
+	],
+	"publisher": [
+	  "Disney Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:10:58"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "playone.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475510648",
+	  "size": "69143",
+	  "md5": "049c8d4325cd40d69a9df7e4d82976ff",
+	  "crc32": "76753fe1",
+	  "sha1": "8a523adddaa881ecfaad4180bcb491c80693415e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475510699",
+	  "size": "2831",
+	  "md5": "6d6159c060fcd6552dd2fd993aba442e",
+	  "crc32": "0cc017ae",
+	  "sha1": "7aca2346a06199265679b240363e74c3ca7e453a"
+	},
+	"\/StuntIslandDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475510656",
+	  "size": "37088",
+	  "md5": "b5d533e3135b0792d5f298a135037245",
+	  "crc32": "d04f8eba",
+	  "sha1": "1900201c2b874a235dea660d130c4548bb900956",
+	  "format": "Animated GIF"
+	},
+	"\/StuntIslandDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "9f23a5c932e21dcd473433f8b63a7a706f33c8ec",
+	  "mtime": "1475510706",
+	  "size": "3455",
+	  "md5": "d8741a08f39c9bcc4a0c2d485b56151d",
+	  "crc32": "bfbd25fe",
+	  "sha1": "3b38c2028daf7746d41872556470ba29afe4d666",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StuntIslandDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b75a80820c46ce6521c01a63a0fe098a"
+	},
+	"\/StuntIslandDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475510667",
+	  "size": "9216",
+	  "md5": "46cba4f8bf8f9c27d6f1678e72b53c23",
+	  "crc32": "e028eded",
+	  "sha1": "0d72bef77ad1c174b11feb31660a5681961e9ff3",
+	  "format": "Metadata"
+	},
+	"\/StuntIslandDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471112195",
+	  "size": "1293",
+	  "md5": "5f5414165c3880a1cfe9d1de70ac592c",
+	  "crc32": "b11a9933",
+	  "sha1": "4472fe904041800e226d042b3e54b13d596100f2"
+	},
+	"\/StuntIslandScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Stunt Island Screenshot",
+	  "mtime": "1329962985",
+	  "size": "7932",
+	  "md5": "be527bf056db81e1fcd37d96ef1f0733",
+	  "crc32": "5b6f6af",
+	  "sha1": "39a4f6573820c3d788d23c183be81f0c50259dcf",
+	  "rotation": "0"
+	},
+	"\/StuntIslandScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "StuntIslandScreenshot.jpg",
+	  "mtime": "1329963028",
+	  "size": "2951",
+	  "md5": "4d9489f58dd7b6f72248fbbcf995363b",
+	  "crc32": "f5a1ea11",
+	  "sha1": "06a6cb6963adfb056ad8bbe3386d531b364f80c5"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475510651",
+	  "size": "69143",
+	  "md5": "049c8d4325cd40d69a9df7e4d82976ff",
+	  "crc32": "76753fe1",
+	  "sha1": "8a523adddaa881ecfaad4180bcb491c80693415e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475510701",
+	  "size": "2831",
+	  "md5": "6d6159c060fcd6552dd2fd993aba442e",
+	  "crc32": "0cc017ae",
+	  "sha1": "7aca2346a06199265679b240363e74c3ca7e453a"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475510653",
+	  "size": "69123",
+	  "md5": "2b24be0a785ac3d9d456aaf5d088dcbf",
+	  "crc32": "ab77157d",
+	  "sha1": "a0cd5f77858c0e6bff7cfd69c4be079ceef59cfc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475510702",
+	  "size": "2838",
+	  "md5": "bd37d3d670893b3e7720db7f39872497",
+	  "crc32": "f3bad639",
+	  "sha1": "1aceb8599166767770e06e618a3956d4cc0e75d5"
+	},
+	"\/stisldem.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471112298",
+	  "size": "375542",
+	  "md5": "2c70c29e9bcdba874c5c3dae043338d2",
+	  "crc32": "f0c54491",
+	  "sha1": "01fa95ad2d88372e141585688a5c1d4ef3239657"
+	},
+	"\/stisldem_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475510664",
+	  "size": "47047",
+	  "md5": "f07aa32d30d1dcbaa23dad0413fd6b3d",
+	  "crc32": "a32c52e9",
+	  "sha1": "fcf549de1abfdc1b1372e82ad55f78f00cb985d8",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/20\/items\/StuntIslandDemo\/StuntIslandDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 243,
+	"week": 3,
+	"month": 5
+  }
+}

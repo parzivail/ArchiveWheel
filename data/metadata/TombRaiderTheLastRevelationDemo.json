@@ -1,0 +1,114 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/11/items/TombRaiderTheLastRevelationDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tomb Raider: The Last Revelation Demo"
+	],
+	"description": [
+	  "Lara embarks on a journey of discovery across Egypt, where she must overcome the most ingenious puzzles and infernal traps ever devised, and face terrifying evil from beyond the grave... With more twists and turns than an Egyptian labyrinth, this is heart stopping action-adventure; a Tomb Raider that truly offers..."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Core Design"
+	],
+	"identifier": [
+	  "TombRaiderTheLastRevelationDemo"
+	],
+	"addeddate": [
+	  "2012-03-07 00:17:23"
+	],
+	"publicdate": [
+	  "2012-03-07 00:17:43"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"publisher": [
+	  "Eidos Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_31"
+	]
+  },
+  "files": {
+	"\/TombRaiderTheLastRevelationDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "89ccfd5799ce9bf0782799087ccab28c5fe26e7a",
+	  "mtime": "1462088111",
+	  "size": "2439",
+	  "md5": "0bdab4c0b82a104dee7282963ddd3657",
+	  "crc32": "c8d60199",
+	  "sha1": "789ba2248ce6d34af478df65499f63f7e033b04f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TombRaiderTheLastRevelationDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "09d33f0f11331f6451b255f80e20d6c2"
+	},
+	"\/TombRaiderTheLastRevelationDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462088110",
+	  "size": "1115",
+	  "md5": "8a07955bbc636cdacd41673c9109ce40",
+	  "crc32": "dd03f166",
+	  "sha1": "abd3b011ae091e3c5a3d4caf97f6df123f4e6080"
+	},
+	"\/tlrdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1331079430",
+	  "size": "12397568",
+	  "md5": "ddf46dfab18d961a515fc4c772c6c451",
+	  "crc32": "cf27931d",
+	  "sha1": "7a5df870f57fe7365933aaf5582ce389a94927ae",
+	  "title": "Tomb Raider: The Last Revelation Demo"
+	},
+	"\/tlrdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1331079434",
+	  "size": "260247",
+	  "md5": "bab5483d2cbf355651a8227dea3ffbcc",
+	  "crc32": "40096df6",
+	  "sha1": "1f7379308436ae6fb71cc77f9ddf12990f361351",
+	  "title": "Tomb Raider: The Last Revelation Screenshot",
+	  "rotation": "0"
+	},
+	"\/tlrdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "tlrdemo.jpg",
+	  "mtime": "1331079456",
+	  "size": "4054",
+	  "md5": "8536772106a9a2ec24842109b24d3d60",
+	  "crc32": "f608a07c",
+	  "sha1": "82546744d022f0fbaf742e46bee6ad970a23152c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/11\/items\/TombRaiderTheLastRevelationDemo\/tlrdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 938,
+	"week": 10,
+	"month": 26
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "server": "ia800503.us.archive.org",
+  "dir": "/23/items/WW2FDEMO",
+  "metadata": {
+	"identifier": [
+	  "WW2FDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "It's 1944, and World War II is closing in on its do-or-die conclusion. For some, it's a last-ditch effort to keep the enemy from overwhelming their forces. For others, it's their best chance to end the war and reclaim all they've lost. For you, it's climbing into the cockpit and flying into the face of death. You know the odds are stacked against you. Can you survive to see the end?\u00a0"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Jane's Combat Simulations: WWII Fighters Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 04:05:52"
+	],
+	"addeddate": [
+	  "2014-02-07 04:05:52"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233748[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_33"
+	]
+  },
+  "files": {
+	"\/WW2FDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391746044",
+	  "size": "59096628",
+	  "md5": "3472a16472b6f25eb1897cce24add112",
+	  "crc32": "5c58c7ac",
+	  "sha1": "15adb6c46dfc1389d7f55121c1d089c1dac66105"
+	},
+	"\/WW2FDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "21877e229fd361bd80117818a0395acd"
+	},
+	"\/WW2FDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391746049",
+	  "size": "14336",
+	  "md5": "1864580bcd9a8030d99bb1283215a0fe",
+	  "crc32": "c2dbbf18",
+	  "sha1": "de62a702c1dcfab5ba93bdc810e41f84aa440362"
+	},
+	"\/WW2FDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471573783",
+	  "size": "1262",
+	  "md5": "86fb230047e72d3f04729d4ec22413c8",
+	  "crc32": "eacc1177",
+	  "sha1": "3d85048def25c87b57b43b0829f1e04f2f668af4"
+	},
+	"\/ww2fdemo.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391745952",
+	  "size": "98416",
+	  "md5": "84cea10308ab0dba9c2842ec6fce1fa6",
+	  "crc32": "ceb88498",
+	  "sha1": "e9c9c3068fa8ac7763214625d4f8bd4576c7468b"
+	},
+	"\/ww2fdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ww2fdemo.PNG",
+	  "mtime": "1391746059",
+	  "size": "2643",
+	  "md5": "cf952d3882a09a85d90b6aa1ef153aa2",
+	  "crc32": "4e2cb5ea",
+	  "sha1": "99b84f1e38b4dcf95b4aae9e90246ed85f243ded"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800503.us.archive.org\/23\/items\/WW2FDEMO\/ww2fdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2109,
+	"week": 20,
+	"month": 75
+  }
+}

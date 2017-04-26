@@ -1,0 +1,117 @@
+{
+  "server": "ia600205.us.archive.org",
+  "dir": "/33/items/NHL2000",
+  "metadata": {
+	"identifier": [
+	  "NHL2000"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Thank you for trying out the NHL 2000 demo.<\/div><div><br \/><\/div><div>This demo lets you play one full game of NHL 2000 with 5 minute<\/div><div>periods using Dallas vs. Buffalo, with no line changes.<\/div>"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "NHL 2000 Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-07 20:43:55"
+	],
+	"addeddate": [
+	  "2014-02-07 20:43:55"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231922[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_34"
+	]
+  },
+  "files": {
+	"\/NHL2000.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391805905",
+	  "size": "44198971",
+	  "md5": "38e421dbb9c74e78eef6a5a84835c50d",
+	  "crc32": "a8b68264",
+	  "sha1": "6257484fb88c6f252e5e85f3c807fb1d2a2d173a"
+	},
+	"\/NHL2000_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ef6c3b5acfdc42075c79c78ee9fbb570"
+	},
+	"\/NHL2000_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391805911",
+	  "size": "12288",
+	  "md5": "d16f4fd4386d3242657222cbc2711912",
+	  "crc32": "324df1a3",
+	  "sha1": "f9e15e49a5829666e9715edb1392bd1420955edf"
+	},
+	"\/NHL2000_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473950313",
+	  "size": "1103",
+	  "md5": "5a9c71103abb8a43cd921690fb7266a9",
+	  "crc32": "4b3a37b1",
+	  "sha1": "acb752a8f6bd195a7334d0a4011d1503cf9e64ba"
+	},
+	"\/nhl2000.JPG": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1391805835",
+	  "size": "96655",
+	  "md5": "987f1edc4b186ffd41a4f5d190f4e391",
+	  "crc32": "465b07ed",
+	  "sha1": "253aa07a775774c39177e9371d0c62d282c60b55",
+	  "rotation": "0"
+	},
+	"\/nhl2000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "nhl2000.JPG",
+	  "mtime": "1391805923",
+	  "size": "5054",
+	  "md5": "4b7d6c0141b452bfe24080bf7c0c2140",
+	  "crc32": "3d095432",
+	  "sha1": "09c26df1b7b6dc78eb2e61eba3ba7fdf8a7d1ba1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600205.us.archive.org\/33\/items\/NHL2000\/nhl2000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1519,
+	"week": 29,
+	"month": 118
+  }
+}

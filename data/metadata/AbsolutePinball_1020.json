@@ -1,0 +1,226 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/22/items/AbsolutePinball_1020",
+  "metadata": {
+	"identifier": [
+	  "AbsolutePinball_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Unique Development Studios"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Absolute Pinball has fast-paced action and formidable pinball tables. This is a five-minute playable demo of the Desert run table, one of four tables featured in the full version of Absolute Pinball. The game features multiball mode to heighten your adrenaline rush, real-time ball reflections, a color transition technique that simulates glass ramps and special in-table devices, like magnets and moveable ball launchers."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "21st Century Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Absolute Pinball Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:02:40"
+	],
+	"addeddate": [
+	  "2012-09-04 03:02:40"
+	],
+	"year": [
+	  "1996"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "ABS_DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475706693",
+	  "size": "92413",
+	  "md5": "aa0986814a821f320e71fe9f5bfdc978",
+	  "crc32": "bcda547c",
+	  "sha1": "91cf80810ce7ae5657be89e444c2c7bda0a077a2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475706730",
+	  "size": "1885",
+	  "md5": "b46fee1bb4a4a5c4e6da00d00bcfe95b",
+	  "crc32": "d45f93f7",
+	  "sha1": "d1342fdd188e8f21729277a650fafd855b66202f"
+	},
+	"\/AbsolutePinball_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475706705",
+	  "size": "32697",
+	  "md5": "13460a2f0a85e2ec52834970017d705b",
+	  "crc32": "7b0b663a",
+	  "sha1": "5985bbd50f608f25609127da9be637810690bd0a",
+	  "format": "Animated GIF"
+	},
+	"\/AbsolutePinball_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "112d1881e72e3baa944954c5f5b2b31856940835",
+	  "mtime": "1475706734",
+	  "size": "3563",
+	  "md5": "9cf9e18903fa573c097cfe8c5b4e7eb6",
+	  "crc32": "1b1e33eb",
+	  "sha1": "06932a26f291d2d526e62c09524cba5011885a2d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AbsolutePinball_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "be85d8b375c4a70014ccfc6317522cc9"
+	},
+	"\/AbsolutePinball_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475706713",
+	  "size": "9216",
+	  "md5": "a43e98ffffde57f23d287df3f2522b43",
+	  "crc32": "7d6502d2",
+	  "sha1": "49bba0d87e4e7f5c1afcebf5066a5adc0f724ca5",
+	  "format": "Metadata"
+	},
+	"\/AbsolutePinball_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475597093",
+	  "size": "1329",
+	  "md5": "c0b6202a07f7aa9bd6cde00f68affbb9",
+	  "crc32": "bef8e8f4",
+	  "sha1": "295bdbcb4e96ca2488c9569fcba96344f865722f"
+	},
+	"\/abs_demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475597170",
+	  "size": "2114952",
+	  "md5": "5e8e1c061d698faee7d66eeace592aa5",
+	  "crc32": "5e3c6436",
+	  "sha1": "d1944b9509304cba678b7c4e5236b606e6b61860"
+	},
+	"\/abs_demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727781",
+	  "size": "1138",
+	  "md5": "ea93647a87bc7a00326a9b85e94009ec",
+	  "crc32": "1998fe1d",
+	  "sha1": "8b14f9863cba521a7b4627ce8163ce0e1e2b99ea"
+	},
+	"\/abs_demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475706709",
+	  "size": "84295",
+	  "md5": "f6b216bf2097634eda2664c54e43e932",
+	  "crc32": "e7537939",
+	  "sha1": "c745e591567e8d858a69005478fcc55e6f096b10",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1497.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346727783",
+	  "size": "24638",
+	  "md5": "b7aea19f7db4fd8d0f451cede2e88f54",
+	  "crc32": "8e9db7bf",
+	  "sha1": "91501785f16c638b3873f1455c74ba2b223ed956",
+	  "rotation": "0"
+	},
+	"\/resource_item_1497.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727783",
+	  "size": "272",
+	  "md5": "587950013a602f39e330161e1d2138c0",
+	  "crc32": "24b36e72",
+	  "sha1": "c1d005f6b9390ded3b9653946f4901e9928f8c73"
+	},
+	"\/resource_item_1497_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1497.jpg",
+	  "mtime": "1346728698",
+	  "size": "7354",
+	  "md5": "8d416b65d9d89570e65f596189aad4e0",
+	  "crc32": "9e341477",
+	  "sha1": "6dbaca235d70e9c5abd0497cc2e0a545685c56f5"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475706695",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475706731",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475706702",
+	  "size": "92413",
+	  "md5": "aa0986814a821f320e71fe9f5bfdc978",
+	  "crc32": "bcda547c",
+	  "sha1": "91cf80810ce7ae5657be89e444c2c7bda0a077a2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475706732",
+	  "size": "1885",
+	  "md5": "b46fee1bb4a4a5c4e6da00d00bcfe95b",
+	  "crc32": "d45f93f7",
+	  "sha1": "d1342fdd188e8f21729277a650fafd855b66202f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/22\/items\/AbsolutePinball_1020\/AbsolutePinball_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 426,
+	"week": 4,
+	"month": 6
+  }
+}

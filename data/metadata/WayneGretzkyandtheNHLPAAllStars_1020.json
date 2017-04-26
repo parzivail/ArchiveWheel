@@ -1,0 +1,139 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/11/items/WayneGretzkyandtheNHLPAAllStars_1020",
+  "metadata": {
+	"identifier": [
+	  "WayneGretzkyandtheNHLPAAllStars_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Time Warner Interactive"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "If your looking for the fastest, most realistic, action-packed ice hockey game in the world, you don't have to take a slap-shot in the dark.  Just team up with the legendary Wayne Gretzky and enjoy the hottest sport ever to hit the ice!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Time Warner Interactive"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Wayne Gretzky and the NHLPA All-Stars Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-04 16:11:53"
+	],
+	"addeddate": [
+	  "2012-09-04 16:11:53"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "wghock.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/WAYNEGR.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476469291",
+	  "size": "5131757",
+	  "md5": "15376aa56182c8b710a0a11c65ac6830",
+	  "crc32": "7245c4c7",
+	  "sha1": "4cc3731b5c1f0327457e5d49a0c995755987caa7"
+	},
+	"\/WAYNEGR.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775165",
+	  "size": "989",
+	  "md5": "dff23c86fc35032978bd17be98d2533d",
+	  "crc32": "20c6a96d",
+	  "sha1": "29bfa63c92f08b8b4fa0152f32cbd20b82885efb"
+	},
+	"\/WayneGretzkyandtheNHLPAAllStars_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "3b6450dc9e429fe2027de9ba26b993efe4841af1",
+	  "mtime": "1476469416",
+	  "size": "2199",
+	  "md5": "c0fef7d9d1356c9ebb31fa468bf440d8",
+	  "crc32": "4490e9f4",
+	  "sha1": "623dc605fb705e63244a650e53f57c6e331b2754",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WayneGretzkyandtheNHLPAAllStars_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9c47ab2d4ccd4c351be2a2e99830f33b"
+	},
+	"\/WayneGretzkyandtheNHLPAAllStars_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476469416",
+	  "size": "1168",
+	  "md5": "fb59287a634c65490b04b9ed4d6e0aeb",
+	  "crc32": "73387564",
+	  "sha1": "419f167c50dd1aa77ab66c7fbace631059f3828a"
+	},
+	"\/resource_item_2303.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346775167",
+	  "size": "13734",
+	  "md5": "b0b148e0a002a4a5189ed9e83ec3ad3d",
+	  "crc32": "cae1c649",
+	  "sha1": "e21f34da0448292f4534405a2783b9a148589c4c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2303.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775167",
+	  "size": "272",
+	  "md5": "4205996343af6fe0a2d55854b77ca0be",
+	  "crc32": "f89f15eb",
+	  "sha1": "11c46c0b781d2f48d1e377b6c998585cacbb7229"
+	},
+	"\/resource_item_2303_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2303.jpg",
+	  "mtime": "1346776338",
+	  "size": "4561",
+	  "md5": "e52ca507991103048f39b16edb147891",
+	  "crc32": "f9972a2c",
+	  "sha1": "6e86ed0a52922f1f6fdaf59cffcc9dd9b0faf792"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/11\/items\/WayneGretzkyandtheNHLPAAllStars_1020\/resource_item_2303_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 199,
+	"week": 7,
+	"month": 7
+  }
+}

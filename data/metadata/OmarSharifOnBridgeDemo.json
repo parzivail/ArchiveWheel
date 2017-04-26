@@ -1,0 +1,248 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/27/items/OmarSharifOnBridgeDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Omar Sharif on Bridge Demo"
+	],
+	"description": [
+	  "\"Imagine yourself at the tables of Monte Carlo, playing bridge with the masters of the game... with Omar Sharif, world famous bridge columnist and card player, as your partner and personal tutor!\n\nOmar Sharif On Bridge is the world's first talking bridge game that features full VGA graphics, major sound board support, an on-disk tutorial, and an easy-to-use, point and click interface.\n\nYou'll hear Omar Sharif congratulate you on a bold finesse, or suggest another lead if your game needs some fine-tuning. Full VGA graphics allow you to select from several types of card decks while the user-friendly interface makes bidding and playing fast and intuitive.\n\nOmar Sharif On Bridge's many features allow you complete control over the game. You can set up your own hands to practice slams, no trump hands, defensive play, or work on specific weaknesses of your game. Explore \"\"What If?\"\" scenarios with the \"\"Take Back\"\" and \"\"Rebid\"\" features. And with the on-disk tutorial, Omar Sharif On Bridge is the perfect way to learn to play the world's greatest card game... with Omar Sharif as your own personal tutor.\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"creator": [
+	  "Oxford Softworks"
+	],
+	"identifier": [
+	  "OmarSharifOnBridgeDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 19:51:19"
+	],
+	"publicdate": [
+	  "2012-08-05 19:51:44"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "BRIDGE.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475398684",
+	  "size": "354944",
+	  "md5": "dd24ad020355ebab75157bb9dfb9b8a7",
+	  "crc32": "ae48b885",
+	  "sha1": "ac3a7a0c4534308b4ab2a622b43ab549e4323414",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475398721",
+	  "size": "5828",
+	  "md5": "4fe4e4e3fc34b9d568c8a3074f7467d8",
+	  "crc32": "c647a2c8",
+	  "sha1": "9ca494e56299077fbb46159109f27c9c1fd82a79"
+	},
+	"\/OmarSharifOnBridgeDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475398698",
+	  "size": "39134",
+	  "md5": "c21d476c3e12557d662888381fe33fcc",
+	  "crc32": "dafee782",
+	  "sha1": "a8504213ca4394600bc2a03dd4705c4264a2dee2",
+	  "format": "Animated GIF"
+	},
+	"\/OmarSharifOnBridgeDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "c4bfc3ec924b468c1f3555b54245b4d25b3bb3b9",
+	  "mtime": "1475398728",
+	  "size": "4281",
+	  "md5": "ad80e08075fa2e7033ae818deb2485cc",
+	  "crc32": "b320dd5a",
+	  "sha1": "f815d2809e934a193f594f0304ba622a28bfb763",
+	  "format": "Archive BitTorrent"
+	},
+	"\/OmarSharifOnBridgeDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5687eea426d1102345df2cebbe7f6a31"
+	},
+	"\/OmarSharifOnBridgeDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475398709",
+	  "size": "10240",
+	  "md5": "64af7121d663e31d9a35ebe1dde92794",
+	  "crc32": "116f5500",
+	  "sha1": "f36e564d5553d2ba189111f3ebfe4c0f655c5bf0",
+	  "format": "Metadata"
+	},
+	"\/OmarSharifOnBridgeDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1470073591",
+	  "size": "1995",
+	  "md5": "5ed785f396c2c8bcd55a343eff6f8643",
+	  "crc32": "136e769d",
+	  "sha1": "3bc202cbeca74b99c52a1404dff1bae0c006350f"
+	},
+	"\/omardemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344196254",
+	  "size": "394058",
+	  "md5": "138cef332003566c7da611dbcd30e649",
+	  "crc32": "8dbcd7ba",
+	  "sha1": "61c644e49c8f5369f7b9c48ca3e820cff6f15581"
+	},
+	"\/omardemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475398705",
+	  "size": "281383",
+	  "md5": "16238b8c2b02e54e939484c4fe0e00a1",
+	  "crc32": "5d2099d7",
+	  "sha1": "2101c1959d90a375b666378203b3c83d31ad57fe",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_498.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344196247",
+	  "size": "17682",
+	  "md5": "e38912020e4e5b9e52e916eb28131195",
+	  "crc32": "dc742626",
+	  "sha1": "095d86e83a600e498294b8c00b9657d9adca23a0",
+	  "rotation": "0"
+	},
+	"\/resource_item_498_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_498.jpg",
+	  "mtime": "1344196298",
+	  "size": "5208",
+	  "md5": "35e40a69acff867891bcc22da7b80999",
+	  "crc32": "d7ece3d8",
+	  "sha1": "8f920846ae7167710df2c657584f6690d0578cab"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475398687",
+	  "size": "354944",
+	  "md5": "dd24ad020355ebab75157bb9dfb9b8a7",
+	  "crc32": "ae48b885",
+	  "sha1": "ac3a7a0c4534308b4ab2a622b43ab549e4323414",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475398722",
+	  "size": "5828",
+	  "md5": "4fe4e4e3fc34b9d568c8a3074f7467d8",
+	  "crc32": "c647a2c8",
+	  "sha1": "9ca494e56299077fbb46159109f27c9c1fd82a79"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475398689",
+	  "size": "303354",
+	  "md5": "2b6671040df175e6273cd91163705f98",
+	  "crc32": "0cb55874",
+	  "sha1": "bcf6adcbd69ed5009aced8064975403d6915658f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475398723",
+	  "size": "5455",
+	  "md5": "16877b9053ccbb28904c1173e299f73d",
+	  "crc32": "5db7620a",
+	  "sha1": "bee811fe27cbf050e7c9d64b9994f89f35ab0db8"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475398692",
+	  "size": "303309",
+	  "md5": "6e793a78ed933fbfd77345af78fff045",
+	  "crc32": "762a861f",
+	  "sha1": "87372a29b453a48736f44611b9289366e361af27",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475398725",
+	  "size": "5456",
+	  "md5": "039ba301330bca4d1b07ac3f210011a5",
+	  "crc32": "12a1708c",
+	  "sha1": "a23613c3fda2d90340c8a66f5599a3937b6e78d1"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475398694",
+	  "size": "315754",
+	  "md5": "d0739bbda75343819a4d12e4a57479d9",
+	  "crc32": "d802c744",
+	  "sha1": "6172fa6ab470a842510825b248b417529776c32e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475398726",
+	  "size": "5524",
+	  "md5": "2b988b0ca748864d1070a1c92f446927",
+	  "crc32": "8c00c2f0",
+	  "sha1": "d1b5492157c86673a3ad3be3b40ab2ef06697b5f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/27\/items\/OmarSharifOnBridgeDemo\/OmarSharifOnBridgeDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 175,
+	"week": 4,
+	"month": 6
+  }
+}

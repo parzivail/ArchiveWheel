@@ -1,0 +1,206 @@
+{
+  "server": "ia600802.us.archive.org",
+  "dir": "/33/items/FrontPageSportsBaseball94_1020",
+  "metadata": {
+	"identifier": [
+	  "FrontPageSportsBaseball94_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "The first Baseball game developed under Dynamix's Front Page Sports brand name."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Front Page Sports: Baseball '94 Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 04:58:28"
+	],
+	"addeddate": [
+	  "2012-09-05 04:58:28"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "PLAYBALL.COM -sb"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475268978",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475269007",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/FrontPageSportsBaseball94_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475268987",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/FrontPageSportsBaseball94_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b80959ad3024f01a28a089ffb75bf45420adfb8f",
+	  "mtime": "1475269010",
+	  "size": "3301",
+	  "md5": "c455213cfe3adbb05d108d727eff57ad",
+	  "crc32": "96dd24d4",
+	  "sha1": "1080c6c2162d03195eb4ccca1c822397e143a807",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FrontPageSportsBaseball94_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b937044a47024688f0f91b0fec296aba"
+	},
+	"\/FrontPageSportsBaseball94_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475268997",
+	  "size": "8192",
+	  "md5": "fc1260ecbb1465bf559b3695cb41f5b5",
+	  "crc32": "8856fd63",
+	  "sha1": "6ed31ab3329b0e4f3b78039df95246bd09687ccd",
+	  "format": "Metadata"
+	},
+	"\/FrontPageSportsBaseball94_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473367391",
+	  "size": "980",
+	  "md5": "7e28eb66b21808a95f4164391408bbb4",
+	  "crc32": "eb19b7bd",
+	  "sha1": "71dd96f54937a19a96b2792fa3dcd1a1d49f1637"
+	},
+	"\/fpsbaseball.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346821123",
+	  "size": "1418614",
+	  "md5": "694d515dcaadfb6cf5a1a79ba4cfe90d",
+	  "crc32": "58b6e93e",
+	  "sha1": "86502019cf01ad79207b1c5bff230f7088cff481"
+	},
+	"\/fpsbaseball.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821123",
+	  "size": "801",
+	  "md5": "d92c58d0adbb2869704a6cd9daeb49c0",
+	  "crc32": "3510a3ec",
+	  "sha1": "a9be643fc8e1f65d1db78191402b3cb7b77312b1"
+	},
+	"\/fpsbaseball_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475268994",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3135.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346821125",
+	  "size": "13948",
+	  "md5": "eea390eb3e2e3cc8160f37b2a6f1fe62",
+	  "crc32": "27c3301b",
+	  "sha1": "326758456fb257d748f90838b10ecca85e3648f9",
+	  "rotation": "0"
+	},
+	"\/resource_item_3135.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821125",
+	  "size": "272",
+	  "md5": "f0335efda14e3dd6898ecae96add7df5",
+	  "crc32": "12d23b6c",
+	  "sha1": "b49c95ec5536baa34054279c17ebbc2caa6b1ce1"
+	},
+	"\/resource_item_3135_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3135.jpg",
+	  "mtime": "1346833201",
+	  "size": "4657",
+	  "md5": "391ae6560ff01103a8f496d7dc363ddd",
+	  "crc32": "dbd46a54",
+	  "sha1": "792ac584711d0fd8f8f5d85e9f5918827cc47a88"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475268982",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475269008",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600802.us.archive.org\/33\/items\/FrontPageSportsBaseball94_1020\/FrontPageSportsBaseball94_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 323,
+	"week": 6,
+	"month": 6
+  }
+}

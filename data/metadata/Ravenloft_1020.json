@@ -1,0 +1,386 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/5/items/Ravenloft_1020",
+  "metadata": {
+	"identifier": [
+	  "Ravenloft_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "DreamForge Intertainment"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Ravenloft Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:29:39"
+	],
+	"addeddate": [
+	  "2012-09-04 00:29:39"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"error Awaits...\n\nIt waits in the form of Strahd, one of the most nefarious of all gothic characters ever imagined. Unveil and defeat this malevolent figure or you will never escape the terror of AD&D Ravenloft game world!\n\nExperience gothic horror role-playing at its very best in this visually stunning game! Immerse yourself in an eerily gorgeous gamescape, where subtle yet dramatically effective use of light enhances the macabre atmostphere. Interior and exterior visuals are simply breathtaking, animated sequences exquisitely smooth. Presented in beautiful High Resolution 320x400 256-color VGA. Strahd's Possession delivers twice the quality of VGA without the cost of a Super-VGA card. Graphics stay razor-sharp and distortion-free, even close-up and at edges of the display. This riveting tale unfolds in an exceptionally large 3-D gaming window. Explore bone-chilling dungeons. Challenge authentic Ravenloft game world creatures. Cast a multitude of mage and priest spells. Let auto-mapping keep track of your travels with maps that print - complete with any notations you made on them along the way. And, you'll love the frustration-free interface which includes inventory management for the entire party on one screen, and an intuitive point-and-click object manipulation system. All this plus a story-driven character generator, a haunting musical score, digitized speech and sound effects will keep you on the edge of your seat for hours and hours!\n\nJust be careful - things get pretty eerie when the sun sets! \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "RLOFT.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475442932",
+	  "size": "338844",
+	  "md5": "b7f90418bcfcca2d7b3d2d1cfc39568f",
+	  "crc32": "766119cd",
+	  "sha1": "0207bd6753a6c8ff940edb1eed08025908af7a48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475443006",
+	  "size": "4778",
+	  "md5": "ae7c318a6cbadbc9759bd5db34b4859b",
+	  "crc32": "f31f7015",
+	  "sha1": "4d105800f1f0a89e7bb404cd0baef3485d66983f"
+	},
+	"\/Ravenloft_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475442972",
+	  "size": "109715",
+	  "md5": "8caa51b704355c5065e20b712627a1ab",
+	  "crc32": "467f8ed6",
+	  "sha1": "3fc603e433b398b33f2a9aa77f625954c2ca351a",
+	  "format": "Animated GIF"
+	},
+	"\/Ravenloft_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "98fd3736b498e70504cf03d8ee90926004e1c268",
+	  "mtime": "1475443034",
+	  "size": "6320",
+	  "md5": "71e1b68c258f8b52caa583ee23cfed2c",
+	  "crc32": "9d73d31f",
+	  "sha1": "c9dc3129b0227455aebca4f545cde61f43a79d95",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Ravenloft_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "966fbe90ad569960e8c0680163e162e7"
+	},
+	"\/Ravenloft_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475442982",
+	  "size": "13312",
+	  "md5": "88ddce6e6e1846f365bddbf3dbbb4189",
+	  "crc32": "06939b6f",
+	  "sha1": "d3a0f0e8c43752af921379d4e3cfa34d034a9022",
+	  "format": "Metadata"
+	},
+	"\/Ravenloft_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475443034",
+	  "size": "2400",
+	  "md5": "7b15ef71eccb465094e56c3686ee9aba",
+	  "crc32": "33c288b1",
+	  "sha1": "266f81630ce4b5c359626e66bc27c194c7038c6e"
+	},
+	"\/ravdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346718592",
+	  "size": "1388944",
+	  "md5": "2483c5abce6f22628bd6cec325d76b3c",
+	  "crc32": "5e077918",
+	  "sha1": "14b6b321d3a17d8382f256adb28615d30a50ab13"
+	},
+	"\/ravdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718592",
+	  "size": "657",
+	  "md5": "b93b7db4dabc229774a0d4b1a2afa605",
+	  "crc32": "b9117737",
+	  "sha1": "be7c763350954cd3ddd0b65b25e0b2986af306c4"
+	},
+	"\/ravdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475442977",
+	  "size": "375194",
+	  "md5": "92210063754583d008df4044690a94c3",
+	  "crc32": "be84ee4e",
+	  "sha1": "a4f342953305629d707b7ac09f153f14fa5944e8",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1077.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346718594",
+	  "size": "14689",
+	  "md5": "497baeda7dce8d5d7ef889525c24a635",
+	  "crc32": "f3b85a2b",
+	  "sha1": "3883cb9b3c8f60df3d1e24035fc47025a09b7b3f",
+	  "rotation": "0"
+	},
+	"\/resource_item_1077.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718594",
+	  "size": "272",
+	  "md5": "d48c59d0f7b642882283edbce1b9ba47",
+	  "crc32": "3bfa48d4",
+	  "sha1": "025d1720656b0752d07ca7367f671403ff173034"
+	},
+	"\/resource_item_1077_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1077.jpg",
+	  "mtime": "1346719989",
+	  "size": "4937",
+	  "md5": "4a021c3940945f21d85cb48f345dc364",
+	  "crc32": "6e157914",
+	  "sha1": "732a3e7052e5b4a8fa67210dda7d122ad849bf53"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475442935",
+	  "size": "96207",
+	  "md5": "49c6deb82e5ff073ea25e331ff1a0cd1",
+	  "crc32": "53fa9b37",
+	  "sha1": "b8e3d3a9330fe6add9d516db9eb13a642dfd0663",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475443007",
+	  "size": "5243",
+	  "md5": "e27ed2c8e0403d98812e9e74c5cbbc4c",
+	  "crc32": "608ef9e8",
+	  "sha1": "436200f9b952ff35bdd43ed127111e7a20de32ed"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475442938",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475443001",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475442941",
+	  "size": "115098",
+	  "md5": "bf8a1e0741587f9e2e6e00fd0e7a9cc2",
+	  "crc32": "a956d6c3",
+	  "sha1": "4396cd6a6f4c3f7cd4de662c071d2663e269992e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475443002",
+	  "size": "4661",
+	  "md5": "82127c4b55627308e0658f72f3cf94e8",
+	  "crc32": "6d09bc5b",
+	  "sha1": "231648c2270f7369bac9a1696da07b1ef3451b74"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475442946",
+	  "size": "118557",
+	  "md5": "f51b5c37090bc4752970a2370cb4c123",
+	  "crc32": "ee30b5d0",
+	  "sha1": "fa505a8b8b0965f3fb737785d41fd25527d4ffd3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475443004",
+	  "size": "5020",
+	  "md5": "da1e42052cb69e72e761ccd278b6a8da",
+	  "crc32": "72b9f285",
+	  "sha1": "524e64a4e8a15701c490cb6ef228868dcf7ecc13"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475442951",
+	  "size": "68207",
+	  "md5": "26c5671db28407e8de6c3cd952201151",
+	  "crc32": "59c56def",
+	  "sha1": "4efd9c667e406de9cbba01af4aaca9f829cce824",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475443009",
+	  "size": "1945",
+	  "md5": "c7142f4870f888897ce36ab7cbdf0685",
+	  "crc32": "2fa61087",
+	  "sha1": "32a0705c45ba50143a2dc7aea11576f3e2c828cd"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475442954",
+	  "size": "28871",
+	  "md5": "0418c62a3a855d5940a5be473641254f",
+	  "crc32": "c5dcac37",
+	  "sha1": "f999ed7c5bc23c77b0d8fbd07b6b7ce1cf8eb82c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475443015",
+	  "size": "1446",
+	  "md5": "a5a2adbc005c84e30605db99af442bfd",
+	  "crc32": "71158535",
+	  "sha1": "68e59189b113941f5dcdd8bf9445833eaa02ca83"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475442957",
+	  "size": "72812",
+	  "md5": "a6f761db507471739a23833cbfe4faa0",
+	  "crc32": "f80d433d",
+	  "sha1": "995f039f59d912a7bc142807dc9d9edc34aa5898",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475443016",
+	  "size": "2120",
+	  "md5": "fcc7cd1c75e6b6b901142592f63fd30e",
+	  "crc32": "861b93c0",
+	  "sha1": "f13c8c8b60b76099e153c8fc2118ae784168a012"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475442959",
+	  "size": "76816",
+	  "md5": "d356837a414d5b99f4126fe489bf7dd8",
+	  "crc32": "da95f820",
+	  "sha1": "ab7afa3ead7c3edb8d980d7ad88372151171d134",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475443010",
+	  "size": "2229",
+	  "md5": "affdaae800f50d0f64d47e6abaedf0f8",
+	  "crc32": "5e8d0a42",
+	  "sha1": "52e2ba7d81d5ec715692de48bb3aae157f4fb9d0"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475442966",
+	  "size": "4986",
+	  "md5": "e70f6c02b0199d0477700b74ff47f4cd",
+	  "crc32": "ceec4b41",
+	  "sha1": "a05cdc4d977d9ca7d5aa0f51cea0726cede762c2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475443012",
+	  "size": "1076",
+	  "md5": "0c13e423f8696bda5c16f2695f3bf333",
+	  "crc32": "db5e3451",
+	  "sha1": "c29e4011911fbace1bc073246f16e344193b7b6e"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475442969",
+	  "size": "338844",
+	  "md5": "b7f90418bcfcca2d7b3d2d1cfc39568f",
+	  "crc32": "766119cd",
+	  "sha1": "0207bd6753a6c8ff940edb1eed08025908af7a48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475443013",
+	  "size": "4778",
+	  "md5": "ae7c318a6cbadbc9759bd5db34b4859b",
+	  "crc32": "f31f7015",
+	  "sha1": "4d105800f1f0a89e7bb404cd0baef3485d66983f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/5\/items\/Ravenloft_1020\/Ravenloft_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 339,
+	"week": 4,
+	"month": 8
+  }
+}

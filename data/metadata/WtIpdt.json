@@ -1,0 +1,150 @@
+{
+  "server": "ia601901.us.archive.org",
+  "dir": "/12/items/WtIpdt",
+  "metadata": {
+	"identifier": [
+	  "WtIpdt"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Twilight Zone Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Before\u00a0dinosaurs\u00a0ruled on Earth, the overlynxes lived on the island of Atlantis. They evolved from primitive lynxes into brilliant creatures with technology that was unmatched by any other race in the galaxy quadrant. Their beautiful cities and vast space stations, reflected the wealth and prosperity of the Earth. The overlynxes had learned to live in harmony with the nature and had not polluted their mother planet. In spite of the overlynxes peaceful nature they developed terrible weapons they hoped would never have to be used.<br \/><\/div><div><br \/><\/div><div>Meanwhile,light-years away, on the planet Denedola the inhabitants were completing an evil and insane experiment. By manipulating DNA, they created a new race of living beings: humans. They found a place for them to infest: the Earth. The first humans were sent to battle, equipped with weapons of mass destruction. Their goal was simple: exterminate the overlynxes.<br \/><\/div><div><br \/><\/div><div>Only one overlynx had the guts to strike back!<br \/><\/div>"
+	],
+	"publisher": [
+	  "Webfoot Technologies"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Interpose Tiny Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2013-03-18 06:57:11"
+	],
+	"addeddate": [
+	  "2013-03-18 06:57:11"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232520[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905608_11"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "ipdemo.exe"
+	]
+  },
+  "files": {
+	"\/IPDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476640129",
+	  "size": "3687604",
+	  "md5": "458b209c16c33c70bf2fe51d8af32e86",
+	  "crc32": "555e4e3f",
+	  "sha1": "ab4259a556745a24072df018195f826e7230806b"
+	},
+	"\/WtIpdt_archive.torrent": {
+	  "source": "original",
+	  "btih": "6a27f19d02b2bc3885cb6dd987bb45f8a547e81b",
+	  "mtime": "1476640788",
+	  "size": "2210",
+	  "md5": "140377ffe9d9f2506536057477a77d19",
+	  "crc32": "6d2bcaff",
+	  "sha1": "f422e6f390fb51528e51bc994f1646e7cede4d89",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WtIpdt_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7aa1324dd2b9c08bcb17c0ad8f9fb518"
+	},
+	"\/WtIpdt_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476640787",
+	  "size": "2039",
+	  "md5": "f2b7cffb4d73b7bf92fee4770f507435",
+	  "crc32": "cd4c8354",
+	  "sha1": "8884da5aa21e35fc4e83eeab65adebcb6746b2b9"
+	},
+	"\/wt_ipdt-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1363589830",
+	  "size": "3773125",
+	  "md5": "db4e511866ca3227b77ae0747f314306",
+	  "crc32": "06294390",
+	  "sha1": "e97b15ecc81c30760ff68e8989624bd6ea6bddeb"
+	},
+	"\/wt_ipdt.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1363589842",
+	  "size": "7966",
+	  "md5": "da5cea38be2849311e881bddb917819a",
+	  "crc32": "5698eb7e",
+	  "sha1": "a462d3aa552dbf01be67bbf6a20fc1c628235bc0"
+	},
+	"\/wt_ipdt.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1363589842",
+	  "size": "2663",
+	  "md5": "7bbfd92f104d198b9fd558149a358b61",
+	  "crc32": "52ffa162",
+	  "sha1": "843c317890a69683cb19de9581ba4beb462494e2"
+	},
+	"\/wt_ipdt.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1363589831",
+	  "size": "2695",
+	  "md5": "8bea4f10c20922ee593e9b2324c08da0",
+	  "crc32": "159e3236",
+	  "sha1": "cb26d775b1d1211a25b53328580b5370327cc033"
+	},
+	"\/wt_ipdt_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "wt_ipdt.png",
+	  "mtime": "1363589850",
+	  "size": "4506",
+	  "md5": "c28a48fb79a15579748eb9e61d0b68c3",
+	  "crc32": "caa6a911",
+	  "sha1": "060b4dbcb76325052a5d7665ad9a85db2efe4b09"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601901.us.archive.org\/12\/items\/WtIpdt\/wt_ipdt_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 79,
+	"week": 4,
+	"month": 5
+  }
+}

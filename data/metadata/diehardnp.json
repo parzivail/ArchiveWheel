@@ -1,0 +1,118 @@
+{
+  "server": "ia600505.us.archive.org",
+  "dir": "/19/items/diehardnp",
+  "metadata": {
+	"identifier": [
+	  "diehardnp"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Piranha Games"
+	],
+	"date": [
+	  "2002"
+	],
+	"description": [
+	  "<div>Die Hard: Nakatomi Plaza combines the exciting elements of the original blockbuster movie with a pulse-pounding adventure game set in an interactive 3D environment. John McClane, a brash New York cop, is in Los Angeles to reconcile with his estranged wife. Arriving at her company Christmas party high atop the Nakatomi Plaza, his efforts are interrupted when terrorists seize the skyscraper as part of a daring heist. You take on the role of McClane--jetlagged, barefoot and out of your jurisdiction.<\/div>"
+	],
+	"publisher": [
+	  "Fox Interactive",
+	  "Sierra Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Die Hard: Nakatomi Plaza Demo"
+	],
+	"year": [
+	  "2002"
+	],
+	"publicdate": [
+	  "2014-03-05 23:02:36"
+	],
+	"addeddate": [
+	  "2014-03-05 23:02:36"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231921[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_4"
+	]
+  },
+  "files": {
+	"\/diehardnp.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1394060552",
+	  "size": "87799828",
+	  "md5": "b515a9b820104365c48a956e80f110e1",
+	  "crc32": "87ae51fc",
+	  "sha1": "b631965f159fedd90a54a86c00cc6dc189c6bbae"
+	},
+	"\/diehardnp.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1394060568",
+	  "size": "57456",
+	  "md5": "357812c09379391a2c1195a83be6930c",
+	  "crc32": "f7d5d04e",
+	  "sha1": "b4952f695533a35008722b7d736db43f5ee6c68e",
+	  "rotation": "0"
+	},
+	"\/diehardnp_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1382fc3b0a751f9b5b9a7e7f0e8b3c8c"
+	},
+	"\/diehardnp_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1394060578",
+	  "size": "14336",
+	  "md5": "565a05446ed5e43c426547cd17666b9d",
+	  "crc32": "7ea2a39a",
+	  "sha1": "7e0e4f74a7a7c79e7e1f623f85d1d4b6dcaa6212"
+	},
+	"\/diehardnp_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474775535",
+	  "size": "1423",
+	  "md5": "b4f40d6f70a00fe3b324462ec7660677",
+	  "crc32": "a6ea74d9",
+	  "sha1": "7e6f58bacd94c8000aa5b53d476cc1d08e58299c"
+	},
+	"\/diehardnp_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "diehardnp.jpg",
+	  "mtime": "1394060590",
+	  "size": "3757",
+	  "md5": "0a8fc19f591a3924f1b9549e9c3f6971",
+	  "crc32": "35cfe210",
+	  "sha1": "4d3ab4cfeb865c28acac74229b66a44686633d16"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800505.us.archive.org\/19\/items\/diehardnp\/diehardnp_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 7586,
+	"week": 56,
+	"month": 255
+  }
+}

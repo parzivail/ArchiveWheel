@@ -1,0 +1,121 @@
+{
+  "server": "ia902506.us.archive.org",
+  "dir": "/25/items/vandemo",
+  "metadata": {
+	"identifier": [
+	  "vandemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "K-D Lab Game Development"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>Beyond reality as we know it, worlds of danger and mystery await. There, all roads lead to adventure, and whoever rules the roads decides the future.<\/div><div><br \/><\/div><div>Join the Vangers, Masters of the Road, and embark on an action-packed adventure like nothing you've ever known.<\/div>"
+	],
+	"publisher": [
+	  "Interactive Magic"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Vangers Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-06-22 01:08:02"
+	],
+	"addeddate": [
+	  "2014-06-22 01:08:02"
+	],
+	"backup_location": [
+	  "ia905809_16"
+	]
+  },
+  "files": {
+	"\/vandemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1403399282",
+	  "size": "47188992",
+	  "md5": "3db2936b4d8168b26f789554984026f7",
+	  "crc32": "f599bd6e",
+	  "sha1": "3a62ad22a31d187e510096a34f92843c78affabe"
+	},
+	"\/vandemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1403399293",
+	  "size": "223798",
+	  "md5": "f265cd394479ed1460359d60bf8ae265",
+	  "crc32": "cb3e07e1",
+	  "sha1": "a31e21d2efaa73fe997c5c0d64ee37f8420755f2",
+	  "rotation": "0"
+	},
+	"\/vandemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "026cb7d98dda993c0f94701b0cc974ee5f0b3b7a",
+	  "mtime": "1473679138",
+	  "size": "3739",
+	  "md5": "10bafc4aa45dc12a0902fb19b37bcc28",
+	  "crc32": "4cd569e7",
+	  "sha1": "0220fb94ff55c0f218d13bb1b2460ba9e63ca534",
+	  "format": "Archive BitTorrent"
+	},
+	"\/vandemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "269287b26fae42c2c4c8ab749979e787"
+	},
+	"\/vandemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1403399299",
+	  "size": "14336",
+	  "md5": "7dde08cc9bbb8ccb89a3ee5f08c87b74",
+	  "crc32": "58a073e1",
+	  "sha1": "a59c0a8264d4951dfd5c3bd9f7dff2bcf57a5b26"
+	},
+	"\/vandemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473679137",
+	  "size": "1016",
+	  "md5": "53ecfff5de974b67d2db38bfb259d985",
+	  "crc32": "157c082c",
+	  "sha1": "06be2adfb4da709f6584680b25fc770ddc78ac7c"
+	},
+	"\/vandemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "vandemo.jpg",
+	  "mtime": "1403399310",
+	  "size": "4446",
+	  "md5": "eddf501a5a85498f07f797d27af74ebb",
+	  "crc32": "46a387fd",
+	  "sha1": "f1dfd23cbd7505160fd94dd58cce59d82b5ef3e3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902506.us.archive.org\/25\/items\/vandemo\/vandemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 275,
+	"week": 6,
+	"month": 17
+  }
+}

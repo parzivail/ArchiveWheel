@@ -1,0 +1,206 @@
+{
+  "server": "ia600808.us.archive.org",
+  "dir": "/28/items/LordsoftheRealm_1020",
+  "metadata": {
+	"identifier": [
+	  "LordsoftheRealm_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Impressions Games"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Impressions Games"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Lords of the Realm Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 02:06:07"
+	],
+	"addeddate": [
+	  "2012-09-05 02:06:07"
+	],
+	"description": [
+	  "\"Leap into our medieval tapestry and the grandeur of a unique strategy epic. The English throne lies empty in 1268 A.D. You and 5 lords are locked in a struggle for the crown. Reap benefits of successful feudal governing, castle-building, castle-sieging, and land battles to conquer your rivals and claim the kingdom.\n\nKeep your serfs fed and happy. Assign them to farming, herding, building, military and other tasks. Design your own castles or build them using actual historical blueprints. Then lay siege to your neighbors' castles and fight out land battles in tactical detail.\n\nNo other medieval strategy game delivers this much in all areas of game play! Exquisite 256 color graphics and extensive animations combine with period music to offer an authentic atmosphere unprecedented in strategy gaming. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "LORDS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475346037",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475346067",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/LordsoftheRealm_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475346045",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/LordsoftheRealm_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "6e508d55b85e9511879ad613fe15c1dec9f1c0df",
+	  "mtime": "1475346070",
+	  "size": "3279",
+	  "md5": "5ed3cbfe7a21e993d6b238fc128a76c3",
+	  "crc32": "5bce135e",
+	  "sha1": "a9aae7599431fd0457fcc8420b61978950c3c659",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LordsoftheRealm_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ea19af7ae656d97554c01c8c98ec14d9"
+	},
+	"\/LordsoftheRealm_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475346052",
+	  "size": "8192",
+	  "md5": "082b99cc7d7772e00d061cde10dde8b5",
+	  "crc32": "a6a79661",
+	  "sha1": "7e9b76ef4d260a06d70a42c4b7f9e19ab9ecda92",
+	  "format": "Metadata"
+	},
+	"\/LordsoftheRealm_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473295124",
+	  "size": "1695",
+	  "md5": "af6415336eca55447967516eeacd8212",
+	  "crc32": "0f7008a3",
+	  "sha1": "cac7fa22cf6667a1e3dc3c5b07d25dcb276381b6"
+	},
+	"\/lordsoftherealmdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346810795",
+	  "size": "2853646",
+	  "md5": "f637cde15fd97a6ea4db14b077334d56",
+	  "crc32": "72c17b65",
+	  "sha1": "ab490a1a3779b3aa2a7c9080fb58dbfebfc3e943"
+	},
+	"\/lordsoftherealmdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346810795",
+	  "size": "695",
+	  "md5": "7b6fd4abb8664760b35c7cb7821cbf7b",
+	  "crc32": "cac422cd",
+	  "sha1": "4d8df6254758c89e658b4103927e739bc4a5a1a6"
+	},
+	"\/lordsoftherealmdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475346048",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3064.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346810799",
+	  "size": "22443",
+	  "md5": "b610768a2190bb5f7b07f2cade23da22",
+	  "crc32": "5a3bb05a",
+	  "sha1": "d7a5ea318115592b162249f16a01eb36dd51c768",
+	  "rotation": "0"
+	},
+	"\/resource_item_3064.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346810799",
+	  "size": "272",
+	  "md5": "9ba7280233f83daef60b404e58894cb4",
+	  "crc32": "df8904ab",
+	  "sha1": "dded6ad1a0105001458efbd4117dc22b4088034f"
+	},
+	"\/resource_item_3064_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3064.jpg",
+	  "mtime": "1346820229",
+	  "size": "5896",
+	  "md5": "08ade3e2872173d8834a7bb97b36581c",
+	  "crc32": "669fbf79",
+	  "sha1": "51a09c18cf582bb5976337ae94418e45611e8959"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475346041",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475346068",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600808.us.archive.org\/28\/items\/LordsoftheRealm_1020\/LordsoftheRealm_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 713,
+	"week": 3,
+	"month": 4
+  }
+}

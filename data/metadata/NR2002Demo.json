@@ -1,0 +1,117 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/34/items/NR2002Demo",
+  "metadata": {
+	"identifier": [
+	  "NR2002Demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Papyrus Design Group"
+	],
+	"date": [
+	  "2002"
+	],
+	"description": [
+	  "The NASCAR 2002 Season Demo puts you in the driver's seat of a 750 horsepower stock car. Challenge top NASCAR drivers at the Atlanta Motor Speedway and Richmond International Raceway in single race mode."
+	],
+	"publisher": [
+	  "Sierra Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "NASCAR Racing 2002 Season Demo"
+	],
+	"year": [
+	  "2002"
+	],
+	"publicdate": [
+	  "2014-03-06 18:50:50"
+	],
+	"addeddate": [
+	  "2014-03-06 18:50:50"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234126[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_5"
+	]
+  },
+  "files": {
+	"\/NR2002Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "89af243d2ec0a39cb7ebd740c563af12"
+	},
+	"\/NR2002Demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1394131870",
+	  "size": "12288",
+	  "md5": "7837054582ef96e66e0742b2cc6a201a",
+	  "crc32": "56e7ec44",
+	  "sha1": "b9098f1ea45bf2bee09469820c3b27048485d4a8"
+	},
+	"\/NR2002Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475420386",
+	  "size": "1070",
+	  "md5": "6af960cc84d938c85d5713bccab06726",
+	  "crc32": "eb3b920f",
+	  "sha1": "98c878f0380afeb7b8bd89bd7f1f05ad21e1f227"
+	},
+	"\/NR2002_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1394131849",
+	  "size": "58721947",
+	  "md5": "ca2ddf72cc8b259192e362e2b9e07fb8",
+	  "crc32": "cfa89179",
+	  "sha1": "722b9775d27adcb687ab903a097ea09209592976"
+	},
+	"\/NR2002_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1394131862",
+	  "size": "140474",
+	  "md5": "0fb2fc2d3a767abdf5a71d2ab549c74d",
+	  "crc32": "6ca987dc",
+	  "sha1": "c90f9213e511d7aa30ac0e8a3a3ed88340dc52bb",
+	  "rotation": "0"
+	},
+	"\/NR2002_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "NR2002_demo.jpg",
+	  "mtime": "1394131886",
+	  "size": "4480",
+	  "md5": "6eae24a4368afbafedd046d5ffa26173",
+	  "crc32": "b2b03cf2",
+	  "sha1": "31dd36f6f40a026d802bbb60c453f1b14ac9f283"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/34\/items\/NR2002Demo\/NR2002_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 654,
+	"week": 7,
+	"month": 24
+  }
+}

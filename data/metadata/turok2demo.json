@@ -1,0 +1,117 @@
+{
+  "server": "ia802306.us.archive.org",
+  "dir": "/28/items/turok2demo",
+  "metadata": {
+	"identifier": [
+	  "turok2demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Iguana Entertainment"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Turok 2: Seeds of Evil is a 3D action game that involves battling dinosaurs. The demo version fully supports Gamespy Lite (play in one multiplayer Rok Match level over the Internet with other demo downloaders; in the full version you get more than 30 levels in any of five game modes). It has a single- and multiplayer level and offers gamers a chance to sample hard-core weaponry, fierce enemies, and beautifully rendered textures.<\/div>"
+	],
+	"publisher": [
+	  "Acclaim Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Turok 2: Seeds of Evil Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-01-27 02:42:21"
+	],
+	"addeddate": [
+	  "2014-01-27 02:42:21"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233738[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/turok2demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390790541",
+	  "size": "23873852",
+	  "md5": "0b5af928bd5e3f8d23e5d7bc779e8236",
+	  "crc32": "32dd9d56",
+	  "sha1": "d985ae568ad2f5dfc50f7592681ba10201278020"
+	},
+	"\/turok2demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390790553",
+	  "size": "85049",
+	  "md5": "c4033b4d6c6f08a45cb72ec34be73afc",
+	  "crc32": "6df7701b",
+	  "sha1": "c99d6fd44f92e61706f02edf48ad9d6321102ff7",
+	  "rotation": "0"
+	},
+	"\/turok2demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c8e522fdcf8957a9277536de5f90f7db"
+	},
+	"\/turok2demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390790563",
+	  "size": "14336",
+	  "md5": "07bc313d1505a2404d20b49a59d607b9",
+	  "crc32": "460b0fb0",
+	  "sha1": "d5d8dc625162f2acc5c36da5d3610e96e9268d2d"
+	},
+	"\/turok2demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474523590",
+	  "size": "1321",
+	  "md5": "d612f1b1067021e54615f09bf6c8472f",
+	  "crc32": "63338de5",
+	  "sha1": "06151acc7410b9f3a4313e096eb29edc127596bc"
+	},
+	"\/turok2demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "turok2demo.jpg",
+	  "mtime": "1390790582",
+	  "size": "4565",
+	  "md5": "120bc9e8aba4806f5d13ec2fea0b4f38",
+	  "crc32": "d2c39222",
+	  "sha1": "e227f28be59ee599418d87c17706571acf3da301"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902306.us.archive.org\/28\/items\/turok2demo\/turok2demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 13049,
+	"week": 72,
+	"month": 351
+  }
+}

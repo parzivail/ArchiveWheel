@@ -1,0 +1,117 @@
+{
+  "server": "ia600506.us.archive.org",
+  "dir": "/8/items/icinst",
+  "metadata": {
+	"identifier": [
+	  "icinst"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Clickteam"
+	],
+	"date": [
+	  "2003"
+	],
+	"description": [
+	  "Install Creator is simply the easiest installation distribution tool in existence. Spend your time developing your creations not building the installers. Download the fully functional freeware version of Install Creator and create your first installation in less than one minute! Then you decide which way is better!"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows applications"
+	],
+	"title": [
+	  "Install Creator 2.0 Demo"
+	],
+	"year": [
+	  "2003"
+	],
+	"publicdate": [
+	  "2015-06-08 22:12:10"
+	],
+	"addeddate": [
+	  "2015-06-08 22:12:10"
+	],
+	"backup_location": [
+	  "ia905306_25"
+	]
+  },
+  "files": {
+	"\/Clipboard-20150608-05.png": {
+	  "source": "original",
+	  "mtime": "1433801530",
+	  "size": "40675",
+	  "md5": "d85042ed277a9ed6332c419e8fbd3683",
+	  "crc32": "6460c6dd",
+	  "sha1": "4005de770f5e48e1ee7bf52a61a785726cab4e61",
+	  "format": "PNG"
+	},
+	"\/Clipboard-20150608-05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Clipboard-20150608-05.png",
+	  "mtime": "1433801552",
+	  "size": "5417",
+	  "md5": "b3ba2f42e96cebf2fb2fb3bc954ca485",
+	  "crc32": "886ecda8",
+	  "sha1": "3d2be3db9b56d8f8826a086eae9423a8f5d9bd7d"
+	},
+	"\/icinst.exe": {
+	  "source": "original",
+	  "mtime": "1433801541",
+	  "size": "2431395",
+	  "md5": "bb450e6af74ba745bff11bd71b6c42f7",
+	  "crc32": "aac7b553",
+	  "sha1": "defbc48c1d5103b08964f3dcac286f3869507867",
+	  "format": "Windows Executable"
+	},
+	"\/icinst_archive.torrent": {
+	  "source": "original",
+	  "btih": "c3c8c170fe8fa46b4bb9cd601cb1255e8e144e50",
+	  "mtime": "1484664086",
+	  "size": "2031",
+	  "md5": "19dbeea3510fbb85fdffe9cb64bc346a",
+	  "crc32": "109ef6a6",
+	  "sha1": "cfa266d4c66eb2d392d82d181306d18795818945",
+	  "format": "Archive BitTorrent"
+	},
+	"\/icinst_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f49a374bdbee71cd7910a69ef999e8d9"
+	},
+	"\/icinst_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1433801545",
+	  "size": "12288",
+	  "md5": "121f702e7d2542440fcd79f98e963f68",
+	  "crc32": "20c87ede",
+	  "sha1": "eee843d0f064805a23b0fbb7d13b7f86cedc0597",
+	  "format": "Metadata"
+	},
+	"\/icinst_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484664085",
+	  "size": "913",
+	  "format": "Metadata",
+	  "md5": "9cf38592bdb2111e45b625c0e627ab1b",
+	  "crc32": "0453bab5",
+	  "sha1": "ee4474680cb495fa1c388f985dc712e0790070f2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600506.us.archive.org\/8\/items\/icinst\/Clipboard-20150608-05_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 113,
+	"week": 3,
+	"month": 5
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "server": "ia601904.us.archive.org",
+  "dir": "/30/items/CiscoHeatAllAmericanPoliceCarRace",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Cisco Heat: All American Police Car Race Demo"
+	],
+	"description": [
+	  "Take the wheel of a high powered police car in this race around the famous areas of San Francisco.\n\nThe Golden Gate Bridge, Fisherman's Wharf, China Town, Twin Peaks all flash by with exciting realism.\n\nBlast the horn to shift other cars out of the way, as you tackle 5 levels of non stop action, but only the best can make it - so hit the gas and race for glory."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Jaleco"
+	],
+	"identifier": [
+	  "CiscoHeatAllAmericanPoliceCarRace"
+	],
+	"addeddate": [
+	  "2013-02-04 00:01:22"
+	],
+	"publicdate": [
+	  "2013-02-04 00:01:28"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"notes": [
+	  "In this demo you can only play through the first race, and can only choose from two playable cars."
+	],
+	"publisher": [
+	  "Image Works"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232513[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "CISCO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905605_32"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475214086",
+	  "size": "76483",
+	  "md5": "7341d6977f95e12019b7ef97ab41f49c",
+	  "crc32": "20c56fa4",
+	  "sha1": "f543fbd0b8468932409c8fe0471e4048e065705a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475214110",
+	  "size": "4815",
+	  "md5": "785152aa5840edd1c7833b9a296b8404",
+	  "crc32": "78abe45a",
+	  "sha1": "b5f7f89ef0e7cbc0915c729799c648544ad2f93c"
+	},
+	"\/CiscoHeatAllAmericanPoliceCarRace.gif": {
+	  "source": "original",
+	  "mtime": "1475214092",
+	  "size": "7679",
+	  "md5": "5e4c9f268b08f4bb1c95ecd91171281f",
+	  "crc32": "942984c3",
+	  "sha1": "08aeb95e7540c783f58897a974ac951c3562215a",
+	  "format": "Animated GIF"
+	},
+	"\/CiscoHeatAllAmericanPoliceCarRace_archive.torrent": {
+	  "source": "original",
+	  "btih": "e8b7dea343f73b53805fa594b6b8b58bfcb9e6f1",
+	  "mtime": "1475214113",
+	  "size": "3235",
+	  "md5": "bfe65c3e5823820815f063a3be05d2f2",
+	  "crc32": "a503e825",
+	  "sha1": "23606f130f880326f28245b6fbe2ac419bbd8028",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CiscoHeatAllAmericanPoliceCarRace_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5b53d2dc7a23eb10dc0b4d1a050d123c"
+	},
+	"\/CiscoHeatAllAmericanPoliceCarRace_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475214100",
+	  "size": "8192",
+	  "md5": "28554f90c6e1d10f39227b4bfadb50a3",
+	  "crc32": "7e547075",
+	  "sha1": "924279137cece4c1d973f5b866a9b20b85df5225",
+	  "format": "Metadata"
+	},
+	"\/CiscoHeatAllAmericanPoliceCarRace_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473858954",
+	  "size": "1365",
+	  "md5": "c0786a5153287f29ae226633b2cd977a",
+	  "crc32": "7127b6e1",
+	  "sha1": "910ea3ab2a4de8e440432d965d6a9112c7153c8f"
+	},
+	"\/cisco.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1470943840",
+	  "size": "142338",
+	  "md5": "8bb2d8e15ae16f0d1d90294380645050",
+	  "crc32": "d75e8908",
+	  "sha1": "4476f6b861b21f6a760035d187ca98229a3f3cde"
+	},
+	"\/cisco_001.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1359935949",
+	  "size": "8610",
+	  "md5": "7b96e7a09372cd5db6530b1abf02647d",
+	  "crc32": "a32d957d",
+	  "sha1": "41c1065158f7b1e9c4c8609b15c004f120d40e94"
+	},
+	"\/cisco_001_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "cisco_001.png",
+	  "mtime": "1359936090",
+	  "size": "5699",
+	  "md5": "2701a0a1b3cf9460272a886078eac4ea",
+	  "crc32": "129403d4",
+	  "sha1": "e73a34f8ca24e663fe13aa1a8759c511ace16939"
+	},
+	"\/cisco_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475214096",
+	  "size": "18471",
+	  "md5": "c6fe041010710b8109f716501f7a5646",
+	  "crc32": "5e85eb0b",
+	  "sha1": "dd5e82828068edb655bf4373e54542b1a852ccd8",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475214089",
+	  "size": "76483",
+	  "md5": "7341d6977f95e12019b7ef97ab41f49c",
+	  "crc32": "20c56fa4",
+	  "sha1": "f543fbd0b8468932409c8fe0471e4048e065705a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475214112",
+	  "size": "4815",
+	  "md5": "785152aa5840edd1c7833b9a296b8404",
+	  "crc32": "78abe45a",
+	  "sha1": "b5f7f89ef0e7cbc0915c729799c648544ad2f93c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601904.us.archive.org\/30\/items\/CiscoHeatAllAmericanPoliceCarRace\/CiscoHeatAllAmericanPoliceCarRace.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 121,
+	"week": 2,
+	"month": 4
+  }
+}

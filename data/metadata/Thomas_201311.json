@@ -1,0 +1,117 @@
+{
+  "server": "ia801004.us.archive.org",
+  "dir": "/15/items/Thomas_201311",
+  "metadata": {
+	"identifier": [
+	  "Thomas_201311"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Hasbro Interactive"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Introduces the concepts of color matching, shape sorting and counting with seven different activities. With Cranky the Crane, you unload packages from Bulstrode the Barge. Plus, help Harold the Helicopter clear the tracks of debris, put together fairground rides, and much more!"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Thomas & Friends: The Great Festival Adventure Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2013-11-30 00:24:19"
+	],
+	"addeddate": [
+	  "2013-11-30 00:24:19"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233556[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_20"
+	]
+  },
+  "files": {
+	"\/Thomas_201311_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "052be10525f14e0b412df36f4448c5f2"
+	},
+	"\/Thomas_201311_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385771082",
+	  "size": "14336",
+	  "md5": "8490f7c638e9f104b898ada691688a9f",
+	  "crc32": "6830d96b",
+	  "sha1": "a5a0d13b26130fea36f3c9956d65d1cff1401d23"
+	},
+	"\/Thomas_201311_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475164138",
+	  "size": "1167",
+	  "md5": "0cd549ce028c3524fcb55a1573401914",
+	  "crc32": "67da0273",
+	  "sha1": "f3dd2c55483bd9abe03a5f756796f8d3b5d7c93a"
+	},
+	"\/thomas.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385771075",
+	  "size": "5458432",
+	  "md5": "217491251599d69d8ee1377ec3e1ac0f",
+	  "crc32": "9249133d",
+	  "sha1": "799ca5260221710dc214f39ec8a32b3d8b5bc35d"
+	},
+	"\/thomas.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385771059",
+	  "size": "27801",
+	  "md5": "14510fd2cf9b55aef59543e9cdcff149",
+	  "crc32": "694f5130",
+	  "sha1": "61e18348813fef3c7029100b95b3b10091abde3a",
+	  "rotation": "0"
+	},
+	"\/thomas_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "thomas.jpg",
+	  "mtime": "1385771088",
+	  "size": "6933",
+	  "md5": "a276b9fc5fa3cf9948a87670d7814a2e",
+	  "crc32": "5c4032de",
+	  "sha1": "08a3e99c10c6e2d005747572d7caf1d1a2e8ade3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601004.us.archive.org\/15\/items\/Thomas_201311\/thomas_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 713,
+	"week": 6,
+	"month": 21
+  }
+}

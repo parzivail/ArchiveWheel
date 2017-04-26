@@ -1,0 +1,226 @@
+{
+  "server": "ia600808.us.archive.org",
+  "dir": "/2/items/SpaceKids_1020",
+  "metadata": {
+	"identifier": [
+	  "SpaceKids_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Evryware"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "SpaceKids Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:44:05"
+	],
+	"addeddate": [
+	  "2012-09-04 00:44:05"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"SpaceKids is the story of a brother and sister who live on the Moon with their grandfather. One day Grandpa leaves to explore Earth. When he does not come back, the SpaceKids fly to Earth to search for him. Along the way, they discover a strange and wonderful world filled with fantastic characters.\n\nSpaceKids is an interactive cartoon where you help the kids find their grandfather.  The story changes depending on your actions and decisions.  Every time that you play, you will see something new.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "skdemo.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475487012",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475487041",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/SPKIDS.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719461",
+	  "size": "645",
+	  "md5": "37bdf296c6f26600ad3f1a042bd970f3",
+	  "crc32": "52e4c213",
+	  "sha1": "63ac03063546bd873ed1e8d550ad1e6ef7f1d0bb"
+	},
+	"\/SPKIDS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473374200",
+	  "size": "1356683",
+	  "md5": "84d4aba36178c30b8d9f076359218b52",
+	  "crc32": "d31edeb1",
+	  "sha1": "5305cc5b67ae9486f41e40973f843b68960a47c3"
+	},
+	"\/SPKIDS_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475487024",
+	  "size": "118835",
+	  "md5": "a5f79f92275e32f75c9fcf7d9f35fe84",
+	  "crc32": "aa03b335",
+	  "sha1": "71d36c9c3a7f32f6d302ab08a439faa74caf4963",
+	  "format": "Emulator Screenshot"
+	},
+	"\/SpaceKids_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475487021",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/SpaceKids_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "638af5f82c2bff082d6972003c3d886a9b991bfd",
+	  "mtime": "1475487045",
+	  "size": "3476",
+	  "md5": "5ee52603c10aa422da141ed00940349d",
+	  "crc32": "64933bd9",
+	  "sha1": "726601069fed4e93115caea8a49410b77d28b061",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SpaceKids_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8a787a072637aadfef9030dd503eaad9"
+	},
+	"\/SpaceKids_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475487029",
+	  "size": "9216",
+	  "md5": "d82cd9019958f9026d82331ab1720cf5",
+	  "crc32": "45edc5a3",
+	  "sha1": "e429c65aa49d4dd3aa533c57cce6fa259b4516dd",
+	  "format": "Metadata"
+	},
+	"\/SpaceKids_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473374270",
+	  "size": "1358",
+	  "md5": "ab5e6d086aa7c3f07917273deb629498",
+	  "crc32": "74714208",
+	  "sha1": "e8513de41e2698eabf5c910e67ca6acbb433d39e"
+	},
+	"\/resource_item_1088.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346719463",
+	  "size": "4628",
+	  "md5": "fb78ef00d93a94da41d872f443c7d0dc",
+	  "crc32": "9fd15749",
+	  "sha1": "ff4664afca09a25465baea87c798b1b4d6a2bfd2",
+	  "rotation": "0"
+	},
+	"\/resource_item_1088.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719463",
+	  "size": "271",
+	  "md5": "eec11054807e81bfb5d6b4518a2145a6",
+	  "crc32": "d748d895",
+	  "sha1": "bd888c369a11f0aaa29e7adb195a344bc7903a19"
+	},
+	"\/resource_item_1088_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1088.jpg",
+	  "mtime": "1346720441",
+	  "size": "2126",
+	  "md5": "410524d10fbca619e4a3229cb4e79ab4",
+	  "crc32": "34b2fd74",
+	  "sha1": "c87770589e7c04ff19fd5b4da875cd30b16f2fc8"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475487016",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475487042",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475487018",
+	  "size": "85942",
+	  "md5": "34476c1f6181bcff2dbc1cf053185367",
+	  "crc32": "4d059a5f",
+	  "sha1": "347bf909e0fc783b5aa7c89dc87410e876848517",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475487043",
+	  "size": "1998",
+	  "md5": "79e029029e68962971c8608e0a491c1a",
+	  "crc32": "42904b14",
+	  "sha1": "e4eb4089ee3f7e10fff77d14b66c8c064f2637cd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600808.us.archive.org\/2\/items\/SpaceKids_1020\/SpaceKids_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 278,
+	"week": 2,
+	"month": 6
+  }
+}

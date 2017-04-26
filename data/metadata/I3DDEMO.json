@@ -1,0 +1,126 @@
+{
+  "server": "ia601909.us.archive.org",
+  "dir": "/5/items/I3DDEMO",
+  "metadata": {
+	"identifier": [
+	  "I3DDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Jim O'Keane"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "<div>I3D is a tool kit that provides a high speed, texture mapped, 3D virtual environment. I3D can be used to create MS-DOS or MS Windows applications.\u00a0<\/div><div><br \/><\/div><div>I3D has been tested with the Borland C\/C++ v3.1, Microsoft Visual C++ v1.0, and Watcom C\/C++ 32 bit v9.5 compilers.<\/div><div><br \/><\/div><div>Due to the highly interactive nature of I3D, it requires a 386 or better processor and a VGA or SVGA graphics card to run. Windows performance is directly proportional to the speed of the Windows display driver.<\/div><div><br \/><\/div><div><div>I3D supports the following features:\u00a0<\/div><div><br \/><\/div><div>\u00a0* High speed texture mapping of walls, floors and ceilings.<\/div><div><br \/><\/div><div>\u00a0* Animated texture maps.<\/div><div><br \/><\/div><div>\u00a0* Transparent textures.<\/div><div><br \/><\/div><div>\u00a0* 64 x 64, 128 x 128, or 256 x 256 pixel texture maps.<\/div><div><br \/><\/div><div>\u00a0* Reading of PCX 256 color files.<\/div><div><br \/><\/div><div>\u00a0* Variable window size.<\/div><div><br \/><\/div><div>\u00a0* Multiple windows.<\/div><div><br \/><\/div><div>\u00a0* Compatible with 3rd party graphics libraries.<\/div><div><br \/><\/div><div>\u00a0* Moving objects.<\/div><div><br \/><\/div><div>\u00a0* Actor objects that look different from various viewing angles.<\/div><div><br \/><\/div><div>\u00a0* Collision detection (viewer with walls, objects).<\/div><div><br \/><\/div><div>\u00a0* Joystick, keyboard and mouse support for navigation.<\/div><div><br \/><\/div><div>\u00a0* Pick (hit) detection (use spacebar in demos).<\/div><div><br \/><\/div><div>\u00a0* Full screen 320x200 VGA mode in Windows.<\/div><div><br \/><\/div><div>\u00a0* Large world maps, world maps can be edited as bitmaps.<\/div><div><br \/><\/div><div>\u00a0* Look up \/ look down (Page Up \/ Page Down keys in demos).<\/div><div><br \/><\/div><div>\u00a0* Full C source code to demo programs.<\/div><div><br \/><\/div><div>\u00a0* Printed manual.<\/div><\/div>"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS applications; Windows applications; Vintage computer applications"
+	],
+	"title": [
+	  "I3D (Interactive 3D) Tool Kit Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2016-11-19 20:17:36"
+	],
+	"addeddate": [
+	  "2016-11-19 20:17:36"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "demo_dos.exe"
+	]
+  },
+  "files": {
+	"\/I3DDEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "9af44f67f2b5ad510996c4136860cb4de332b517",
+	  "mtime": "1479586729",
+	  "size": "1942",
+	  "md5": "a8dba7f9b336de7bf5ed15de6c71c596",
+	  "crc32": "aac32fbc",
+	  "sha1": "eb31bd017bda90ed5fa6dfcd643474ded388ed99",
+	  "format": "Archive BitTorrent"
+	},
+	"\/I3DDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "db9882d9c768bc4572b6421c839bf698"
+	},
+	"\/I3DDEMO_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1479586669",
+	  "size": "22528",
+	  "md5": "54b10fd048803f5a9705c4ef0343177f",
+	  "crc32": "d01c69d1",
+	  "sha1": "67a40f879642bd798f6bc3d640407f5d1f25ca85",
+	  "format": "Metadata"
+	},
+	"\/I3DDEMO_meta.xml": {
+	  "source": "original",
+	  "mtime": "1479586728",
+	  "size": "3292",
+	  "format": "Metadata",
+	  "md5": "447af8c50fd4a455f6fcefb829ec72be",
+	  "crc32": "fe849a96",
+	  "sha1": "de540aa3120c8255338c548c05ffb3c6082f95fa"
+	},
+	"\/I3D_DEMO.zip": {
+	  "source": "original",
+	  "mtime": "1479586656",
+	  "size": "111438",
+	  "md5": "ed7583291c62c33351c1fb1ac2e602dd",
+	  "crc32": "42c89a18",
+	  "sha1": "a4aadc9c338925087a2d351655ada3023eadbf28",
+	  "format": "ZIP"
+	},
+	"\/demo_dos_002.png": {
+	  "source": "original",
+	  "mtime": "1479586667",
+	  "size": "7255",
+	  "md5": "e4a2065f215b932aedf5082069bba1cc",
+	  "crc32": "460b82a1",
+	  "sha1": "56d6371961af9eda18528700ee5dac068301f21f",
+	  "format": "PNG"
+	},
+	"\/demo_dos_002_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "demo_dos_002.png",
+	  "mtime": "1479586679",
+	  "size": "4043",
+	  "md5": "51f1278573c2f017e6324191b233f250",
+	  "crc32": "d2d3712d",
+	  "sha1": "2a1281715dcd9aa259a82787dfc6075ae585fefb"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601909.us.archive.org\/5\/items\/I3DDEMO\/demo_dos_002_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 40,
+	"week": 6,
+	"month": 8
+  }
+}

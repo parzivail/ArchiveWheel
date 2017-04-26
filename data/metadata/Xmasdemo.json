@@ -1,0 +1,132 @@
+{
+  "server": "ia601901.us.archive.org",
+  "dir": "/3/items/Xmasdemo",
+  "metadata": {
+	"identifier": [
+	  "Xmasdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Axe Productions"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "This demo plays\u00a0Christmas\u00a0music while snow falls and messages appear on the screen."
+	],
+	"named-persons": [
+	  "Scott Haag"
+	],
+	"subject": [
+	  "DOS extras"
+	],
+	"title": [
+	  "Christmas Graphics Snowing Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2013-02-04 02:50:15"
+	],
+	"addeddate": [
+	  "2013-02-04 02:50:15"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 0.8"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233012[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905605_32"
+	]
+  },
+  "files": {
+	"\/Xmasdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1359946215",
+	  "size": "331046",
+	  "md5": "2b5f392d1ccd1c05bc9582134e577d75",
+	  "crc32": "7e43f281",
+	  "sha1": "90387599918462addba8b65c2d1a0457990b87ad"
+	},
+	"\/Xmasdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359946215",
+	  "size": "1295",
+	  "md5": "3faf8b098b88c230caa5298a5c5bfb85",
+	  "crc32": "23f75c4f",
+	  "sha1": "070b20499ad7f0dc1196108162519fcb699b9a6f"
+	},
+	"\/Xmasdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6e76fd1558dbf4cc6230f4c24b11a1f05ec1af8f",
+	  "mtime": "1474320589",
+	  "size": "1778",
+	  "md5": "63150a1e8ad648bcaaf188e9c12f40ad",
+	  "crc32": "e88c4354",
+	  "sha1": "7f5340551cb93e4568d6a8dc1c1a5ebc6b326211",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Xmasdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "729e4c57472627984e6c7e3b876f6716"
+	},
+	"\/Xmasdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474320588",
+	  "size": "858",
+	  "md5": "622e47c9626ee1c9ffab3128e396a09f",
+	  "crc32": "207c6be4",
+	  "sha1": "a5289a69a5cfaf09818112eb006cfd209a064bdc"
+	},
+	"\/xmasdemo_001.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1359946224",
+	  "size": "4164",
+	  "md5": "1b2ffd126d575a288523e70ec4744614",
+	  "crc32": "5db082f6",
+	  "sha1": "a71e210f976fade8a696d9ebae84bfde87608305"
+	},
+	"\/xmasdemo_001.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359946224",
+	  "size": "1269",
+	  "md5": "843a60877a94d8836c52d5b8551449c5",
+	  "crc32": "d442e903",
+	  "sha1": "a0fc8829c33f71c720bb53afe65651966f2bf4b1"
+	},
+	"\/xmasdemo_001_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "xmasdemo_001.png",
+	  "mtime": "1359946233",
+	  "size": "3924",
+	  "md5": "c62c2e39d4b466540ea6c29e727295e3",
+	  "crc32": "5659bfca",
+	  "sha1": "e33eddee7bb1d2dbf51d0715f669961f97ac4a92"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601901.us.archive.org\/3\/items\/Xmasdemo\/xmasdemo_001_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 92,
+	"week": 4,
+	"month": 6
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "server": "ia800702.us.archive.org",
+  "dir": "/4/items/TigerWoodsPgaTour2003Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tiger Woods PGA Tour 2003 Demo"
+	],
+	"description": [
+	  "The new Tiger Woods PGA Tour 2003 trial version is here!  This demo will give you a chance to experience Tiger Woods first-hand, while playing holes 16-18 on the world famous TPC at Sawgrass, home of The Players Championship.  Get in the game!"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"creator": [
+	  "Headgate Studios"
+	],
+	"identifier": [
+	  "TigerWoodsPgaTour2003Demo"
+	],
+	"addeddate": [
+	  "2012-05-28 06:32:56"
+	],
+	"publicdate": [
+	  "2012-05-28 06:33:14"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002",
+	  "2003"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/Tiger2003Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338186677",
+	  "size": "68076811",
+	  "md5": "a4ebf181ed88edfa89d16baa2dbbaebb",
+	  "crc32": "d9f2e64f",
+	  "sha1": "cb1a58ae8b0ec29d89e2dafe2d708a6d81e0c274"
+	},
+	"\/Tiger2003Demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338186678",
+	  "size": "81521",
+	  "md5": "4d6cf46acce28d4a8058bb7b9aa3665d",
+	  "crc32": "d3cb5e84",
+	  "sha1": "947e30110872e9c52a0eed09d2a04ad63e60a5fd",
+	  "rotation": "0"
+	},
+	"\/Tiger2003Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Tiger2003Demo.jpg",
+	  "mtime": "1338186788",
+	  "size": "4599",
+	  "md5": "38194036c965e4b0ca13650100e8a3ca",
+	  "crc32": "0baecd09",
+	  "sha1": "3f9c55d8464fa922b94cce262514cef2f0dad824"
+	},
+	"\/TigerWoodsPgaTour2003Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "ff048905a629609a32a414953c2ba3d3903d0ff8",
+	  "mtime": "1463424090",
+	  "size": "4527",
+	  "md5": "8d091c9db7c97144e2000ea21fad343d",
+	  "crc32": "393ccc4b",
+	  "sha1": "23e51742dc81d7c1ca63e2336b8a11fc9b823a65",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TigerWoodsPgaTour2003Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2009c3409751ba584591bfe5d1dba982"
+	},
+	"\/TigerWoodsPgaTour2003Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463424089",
+	  "size": "1050",
+	  "md5": "f3c3bb3d9d5b88ca10f975658294e4e2",
+	  "crc32": "e9de85c5",
+	  "sha1": "dc2412b7b990b526381b421aa9bc0aa60963b22c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800702.us.archive.org\/4\/items\/TigerWoodsPgaTour2003Demo\/Tiger2003Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 419,
+	"week": 3,
+	"month": 9
+  }
+}

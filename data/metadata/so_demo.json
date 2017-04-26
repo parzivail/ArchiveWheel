@@ -1,0 +1,117 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/29/items/so_demo",
+  "metadata": {
+	"identifier": [
+	  "so_demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Zombie"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>Spec Ops: Rangers Lead the Way is the first in a series of action-packed, real-time, 3D, first-person games based on actual Special Forces activities and missions. The game uses the proprietary Viper game engine, and the gameplay centers on learning how to control your team of rangers, eliminating opposing forces while completing mission subtasks in the time allotted. Arcade action, a visible sense of pressure, and a feeling of unfinished action will keep you on the edge of your seat.<\/div>"
+	],
+	"publisher": [
+	  "Ripcord Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Spec Ops: Rangers Lead the Way Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-01-26 22:24:50"
+	],
+	"addeddate": [
+	  "2014-01-26 22:24:50"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233733[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/so_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390775089",
+	  "size": "7905280",
+	  "md5": "55518dd73dd00f8052b0b8308dbcc7d2",
+	  "crc32": "008785cd",
+	  "sha1": "04cb912ebaa3e36cd6bd2ca3fe91af2cc1355d17"
+	},
+	"\/so_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390775107",
+	  "size": "87880",
+	  "md5": "75faa8bd52fc0e8826b8d3f388e04282",
+	  "crc32": "87614b99",
+	  "sha1": "c91c488d2c1829f959b6c68c6f3e76a4afa13e7b",
+	  "rotation": "0"
+	},
+	"\/so_demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6360f8d1588570a4d954a51a1b38e5ff"
+	},
+	"\/so_demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390775112",
+	  "size": "15360",
+	  "md5": "4e46ff3e5bab5811ff41013519dc355e",
+	  "crc32": "86748afc",
+	  "sha1": "7812545de78206136b15275d8fa1bd5cf35bf34b"
+	},
+	"\/so_demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473955458",
+	  "size": "1361",
+	  "md5": "3f5b891a1ce6c337efca09fdada097ca",
+	  "crc32": "5880dd0b",
+	  "sha1": "381519b3bacadeb7a7e64dccde87917cd1be0a7f"
+	},
+	"\/so_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "so_demo.jpg",
+	  "mtime": "1390775135",
+	  "size": "4072",
+	  "md5": "3f04e027110981079e2ba17bfeff0061",
+	  "crc32": "13408ab6",
+	  "sha1": "181262ef6133a48bce3e43b84a953d90c3b0123c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/29\/items\/so_demo\/so_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2329,
+	"week": 17,
+	"month": 71
+  }
+}

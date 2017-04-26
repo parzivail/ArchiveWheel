@@ -1,0 +1,105 @@
+{
+  "server": "ia800301.us.archive.org",
+  "dir": "/6/items/QuakeIiiArenaDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Quake III: Arena Demo"
+	],
+	"description": [
+	  "Welcome to the Arena, where high-ranking warriors are transformed into spineless mush. Abandoning every ounce of common sense and any trace of doubt, you lunge onto a stage of harrowing landscapes and veiled abysses. Your new environment rejects you with lava pits and atmospheric hazards as legions of foes surround you, testing the gut reaction that brought you here in the first place. Your new mantra: Fight or be finished."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "id Software"
+	],
+	"identifier": [
+	  "QuakeIiiArenaDemo"
+	],
+	"addeddate": [
+	  "2012-04-02 23:35:01"
+	],
+	"publicdate": [
+	  "2012-04-02 23:35:25"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232914[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903801_6"
+	]
+  },
+  "files": {
+	"\/Q3ADemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1333409328",
+	  "size": "48907862",
+	  "md5": "044b6b00452ef34b2598834166f8f45a",
+	  "crc32": "53810021",
+	  "sha1": "95fb0e8f595506dd30b57635db151f2e0762be02"
+	},
+	"\/QuakeIiiArenaDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0c7d7a5216f6caf999d1cca1e98536d0"
+	},
+	"\/QuakeIiiArenaDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463465572",
+	  "size": "1215",
+	  "md5": "0b89f2ec69f8166c45056c3f88a2d8df",
+	  "crc32": "668dc70e",
+	  "sha1": "4af4eb7e7123541a7ae5fcb73d79dbcb22818c27"
+	},
+	"\/q3ademo.jpeg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1333409328",
+	  "size": "37439",
+	  "md5": "8e857c4b097c01b5606f7a22a10da314",
+	  "crc32": "6becc3c8",
+	  "sha1": "a8c4b120b2ffc760774bbf63660a22db36ccf316",
+	  "rotation": "0"
+	},
+	"\/q3ademo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "q3ademo.jpeg",
+	  "mtime": "1333409718",
+	  "size": "5412",
+	  "md5": "88bb01ddc0a29ce1536c0b2362992e37",
+	  "crc32": "96ca2101",
+	  "sha1": "d974c307c3ab8d635556dd59f8972c87ad281d56"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800301.us.archive.org\/6\/items\/QuakeIiiArenaDemo\/q3ademo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 12925,
+	"week": 164,
+	"month": 647
+  }
+}

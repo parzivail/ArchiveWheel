@@ -1,0 +1,376 @@
+{
+  "server": "ia902506.us.archive.org",
+  "dir": "/0/items/BAM2DEMOWindows",
+  "metadata": {
+	"identifier": [
+	  "BAM2DEMOWindows"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Taito"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "BUST-A-MOVE 2 is the lightning-quick, ultra-intense, 100% addictive, arcade puzzler that's gonna grab you and never let go! As the balls descend, you're gonna need sharp eyes and quick reflexes to match 3 or more balls and pop them...fast! Insane two-player action pits you against an opponent in a race to bust or be busted!!"
+	],
+	"publisher": [
+	  "Acclaim Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Bust-A-Move 2: Arcade Edition Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-06-28 21:49:42"
+	],
+	"addeddate": [
+	  "2014-06-28 21:49:42"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "bam2.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905809_26"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475708283",
+	  "size": "299465",
+	  "md5": "26a5e278f7d61a47b6079c197b374c06",
+	  "crc32": "cb2fcfbe",
+	  "sha1": "ca90c7d3ae8f8604360d8c9b6a8cae7a51db9cc1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475708345",
+	  "size": "7919",
+	  "md5": "47c9958399f71d317a767ffdfeb86127",
+	  "crc32": "8150b127",
+	  "sha1": "7bb67d5a1a71e77f3310564b633ee7cd8a27a828"
+	},
+	"\/BAM2DEMO-Windows.rar": {
+	  "source": "original",
+	  "format": "RAR",
+	  "mtime": "1403992195",
+	  "size": "4591968",
+	  "md5": "119879a663fb8bf0f7e6239e8ef2e1f2",
+	  "crc32": "fbdbf11a",
+	  "sha1": "382eb7eefa042713577f3f2f511571e1ff997f4b"
+	},
+	"\/BAM2DEMOWindows.gif": {
+	  "source": "original",
+	  "mtime": "1475708314",
+	  "size": "63632",
+	  "md5": "6c9d9c172c86c303475a5ead0b02030c",
+	  "crc32": "e95958cd",
+	  "sha1": "8c04de4c9be041e276491f8a88ca1fb559a1adb3",
+	  "format": "Animated GIF"
+	},
+	"\/BAM2DEMOWindows_archive.torrent": {
+	  "source": "original",
+	  "btih": "52ca8188d45b207ed23aee2da51231c6f88b155f",
+	  "mtime": "1475898442",
+	  "size": "6745",
+	  "md5": "d0ef7fc7594b23c03fb4ee9fa3d625b0",
+	  "crc32": "53ce638d",
+	  "sha1": "b62584d5e27acfebf2169bcbcb01316829fafbaf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BAM2DEMOWindows_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1f70b3f1df49501a32324fd41e03ec02"
+	},
+	"\/BAM2DEMOWindows_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475708324",
+	  "size": "19456",
+	  "md5": "e326540d0b212e84be9c44944890541d",
+	  "crc32": "6611ab30",
+	  "sha1": "0b782e9a2004ce727036eb1e987b0e3bcd7e5ad0"
+	},
+	"\/BAM2DEMOWindows_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475898441",
+	  "size": "1138",
+	  "md5": "57b47e2768183a40f71d91ee6e7f4e3d",
+	  "crc32": "b8d1d628",
+	  "sha1": "8bb0e2a7fd3bf697c7e117799ffc482b9f49f2e6"
+	},
+	"\/BAM2DOS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475596493",
+	  "size": "3736505",
+	  "md5": "36dfff587350a20592323491b6cbba4f",
+	  "crc32": "fe278fbc",
+	  "sha1": "6d06c583391fe46ba8f4280f50884bcb5c9b8e6d"
+	},
+	"\/BAM2DOS_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475708321",
+	  "size": "328477",
+	  "md5": "a77518263c61b407926ff02461f39654",
+	  "crc32": "e7b1756d",
+	  "sha1": "6c48bdc267ba659d14aa767172866d685578a23b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/bam2dos.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1403992197",
+	  "size": "26193",
+	  "md5": "9bfc924c8bd5b26781602ba1dec99386",
+	  "crc32": "5fcf84b9",
+	  "sha1": "390320bd229547aed1977505ce4e8cc25ba1a54f"
+	},
+	"\/bam2dos_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bam2dos.png",
+	  "mtime": "1403992212",
+	  "size": "8549",
+	  "md5": "14a568c8d29b2591e6ea8cd77c7132e9",
+	  "crc32": "43ddb212",
+	  "sha1": "67477814ff6e16049e7484fa42faa6f4f3081c9a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475708285",
+	  "size": "131742",
+	  "md5": "20968d679de2da7aa3d27e5c58335b46",
+	  "crc32": "6b7e90a8",
+	  "sha1": "ea40b1f56d6be1d85221d7d4250ddfb1c496491f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475708347",
+	  "size": "4980",
+	  "md5": "e7faccfcc038dd7d5bf372f87ade1640",
+	  "crc32": "b40f3d17",
+	  "sha1": "8786816c2a972c695fda6ae32f2e64602abdcdaf"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475708288",
+	  "size": "131714",
+	  "md5": "443e9bf1e93bcd5945e47fc95bfc5ea9",
+	  "crc32": "36583a24",
+	  "sha1": "3608948f4dc447445223fa6da6c085d81fbdf316",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475708348",
+	  "size": "4978",
+	  "md5": "d2f0c36369065b31fe268c7a781f311b",
+	  "crc32": "dd8ce12a",
+	  "sha1": "75cb2e5bce428c84df6d74ce4e6ae3b8b022ec10"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475708290",
+	  "size": "3344",
+	  "md5": "93d5b312274946def60f8517f994f6f1",
+	  "crc32": "233180a6",
+	  "sha1": "e0f00c3527d0c666ad2c2b79814bc954e18926a8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475708350",
+	  "size": "1011",
+	  "md5": "f818b3bf910e19a6035f892d85616795",
+	  "crc32": "acb9e222",
+	  "sha1": "93bf5ad2a39276576ec479e3c31d21708f842da1"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475708292",
+	  "size": "34846",
+	  "md5": "d936739e38ef42281258d8e8f3b5b556",
+	  "crc32": "f3206eeb",
+	  "sha1": "b5afcfbd82e715d76bd5020922228fe5208b4cf9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475708352",
+	  "size": "1673",
+	  "md5": "1343bba35c3a1247c3fb952509ab41cd",
+	  "crc32": "5a3eb908",
+	  "sha1": "ee9d8eaf320da27d9964e955823b0bb2b4efec1a"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475708295",
+	  "size": "39293",
+	  "md5": "dd08de03a75cf3ef42f1bc4be337fec8",
+	  "crc32": "e9c66739",
+	  "sha1": "a44febb62e58cb8cec92e80d15184c49375d7236",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475708353",
+	  "size": "1908",
+	  "md5": "4f23bd7cd712640a2f53158e2287f9a5",
+	  "crc32": "97443ca3",
+	  "sha1": "f2f25ea461a42af663aada95b67bfcdf26fdb84b"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475708297",
+	  "size": "35251",
+	  "md5": "55a12ef1951792b4332a23d80cb80ce6",
+	  "crc32": "d67e0ee7",
+	  "sha1": "8e7ad8641f9496ea93af11a0bc62931d0d590fa2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475708355",
+	  "size": "2389",
+	  "md5": "fe3a1867bdb7ac891ec16de251df7742",
+	  "crc32": "7484b3c4",
+	  "sha1": "c77628df7827bb486dc688ecd4941c67c4344e8b"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475708300",
+	  "size": "29731",
+	  "md5": "312181d6432522964a393c774e801ea3",
+	  "crc32": "fcb9e1e6",
+	  "sha1": "5d3d68fe45c8183768a679150e4fbba180cdb042",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475708357",
+	  "size": "1855",
+	  "md5": "e6000dcca906e60ecd9c7fb1be1cce17",
+	  "crc32": "67a23dfe",
+	  "sha1": "b879eeea8795cf3f2033861f7f373fc611e153e3"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475708303",
+	  "size": "291850",
+	  "md5": "d9ea3b26641ec4716bb3e6913c234486",
+	  "crc32": "7d65cc9e",
+	  "sha1": "d3fb905c058ff1099952ef839a3aa7b47c906c5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475708359",
+	  "size": "7801",
+	  "md5": "0b2b3a792a7c4438fcbefc130df2a683",
+	  "crc32": "405ec5c5",
+	  "sha1": "adc2df230226cf0985285e8f84b73904abce3653"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475708305",
+	  "size": "299465",
+	  "md5": "26a5e278f7d61a47b6079c197b374c06",
+	  "crc32": "cb2fcfbe",
+	  "sha1": "ca90c7d3ae8f8604360d8c9b6a8cae7a51db9cc1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475708360",
+	  "size": "7919",
+	  "md5": "47c9958399f71d317a767ffdfeb86127",
+	  "crc32": "8150b127",
+	  "sha1": "7bb67d5a1a71e77f3310564b633ee7cd8a27a828"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475708307",
+	  "size": "26682",
+	  "md5": "2fd665a6f2de61e3fcc68c65a0a255ed",
+	  "crc32": "53355659",
+	  "sha1": "e8b595bf133b7efb8b72e4184876daa9a9c32316",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475708362",
+	  "size": "1352",
+	  "md5": "e93522bc0dd86b71de09bbd2fb088c1c",
+	  "crc32": "af392bc2",
+	  "sha1": "3f45e0458abada5e9b1dce8794084945fe20bc64"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902506.us.archive.org\/0\/items\/BAM2DEMOWindows\/BAM2DEMOWindows.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 478,
+	"week": 10,
+	"month": 18
+  }
+}

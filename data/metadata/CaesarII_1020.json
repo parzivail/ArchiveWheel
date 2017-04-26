@@ -1,0 +1,135 @@
+{
+  "server": "ia902704.us.archive.org",
+  "dir": "/10/items/CaesarII_1020",
+  "metadata": {
+	"identifier": [
+	  "CaesarII_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Impressions Games"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Caesar II Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 07:16:50"
+	],
+	"addeddate": [
+	  "2012-09-04 07:16:50"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "Caesar II is the sequel to the original Caesar, the hit \nsimulation of city-building in the Roman Empire.  As in that \ngame, you take on the role of Governor of a Roman province, \ncommitted to expanding the Empire through the conquest of \ndistant lands.  You are responsible for building the capital \ncity of a province, as well as connecting that city to other \ntowns and resources within the province.  You must also \ndefend that province from incursions of raiding barbarians, \nboth passively by building walls and towers, and actively by \nraising armies to do battle against them.  Your career is of \nvital importance, and is linked to your success in ruling \nyour lands; if you achieve the required ratings in Peace, \nCulture, Prosperity and Empire for your current province, \nthen you are offered promotion to another, more challenging \nprovince and expected to achieve even higher ratings.  When \nyou have conquered enough provinces, then you achieve the \nultimate promotion and are crowned Caesar -- Emperor of \nRome."
+	],
+	"notes": [
+	  "Welcome to our playable demo of Caesar II.  This demo lets \nyou try many of the features of the finished game, and has \nbeen set to easy mode to make exploring the game fun.  These \nnotes will help you learn what different features in the \ngame do, and give you some tips for doing well."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235111[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "c2.bat"
+	]
+  },
+  "files": {
+	"\/CaesarII_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4bb2a6d708f4be2e77eb3cc0d04cf443"
+	},
+	"\/CaesarII_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476203917",
+	  "size": "2213",
+	  "md5": "e5c8497f1841157b5fc7d35ed30d3492",
+	  "crc32": "a383b21e",
+	  "sha1": "f5e2c2f3c3abda7dc2f053489509f25bab8cdb60"
+	},
+	"\/caesar2demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476204029",
+	  "size": "2807649",
+	  "md5": "e8c8bd1512a89dd1be3883be0005cb20",
+	  "crc32": "3e031553",
+	  "sha1": "c3732a8aa7ac761125712a159002c083c70d2ed5"
+	},
+	"\/caesar2demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743042",
+	  "size": "649",
+	  "md5": "88dd91ebe10990ccf10cdbdd4d6d75e6",
+	  "crc32": "b9c2e181",
+	  "sha1": "e048d0dc3ccfbac1f8210254019fa3068fb1122e"
+	},
+	"\/resource_item_1827.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346743044",
+	  "size": "17403",
+	  "md5": "f369e617b4c1aa27a2c45d6d80b7acb6",
+	  "crc32": "20d87860",
+	  "sha1": "724aa617e0a49232cd30357890196e275e47425e",
+	  "rotation": "0"
+	},
+	"\/resource_item_1827.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743045",
+	  "size": "272",
+	  "md5": "07f80cadd43518608a3c929e7f15d8e9",
+	  "crc32": "71888db1",
+	  "sha1": "163c7665c76c75d315109102829c589fb6341d29"
+	},
+	"\/resource_item_1827_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1827.jpg",
+	  "mtime": "1346743754",
+	  "size": "5052",
+	  "md5": "42272bdc2c52902bf5ea20c309a9a694",
+	  "crc32": "051da43c",
+	  "sha1": "66760a82fa157c139de33dae496fa999bcb447c9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902704.us.archive.org\/10\/items\/CaesarII_1020\/resource_item_1827_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 776,
+	"week": 8,
+	"month": 12
+  }
+}

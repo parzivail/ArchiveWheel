@@ -1,0 +1,252 @@
+{
+  "server": "ia800807.us.archive.org",
+  "dir": "/34/items/BattleChessIiChineseChessDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Battle Chess II: Chinese Chess Demo"
+	],
+	"description": [
+	  "Cannons thunder, chariots race over grassy fields, and dragons hurl fireballs at opposing forces in the latest animated strategy game from Interplay Productions. Watch as dragons toast hapless knights, counsellors flatten pawns with enormous mallets hidden in their robes, and cannons merrily blast away at opponents cowering behind other pieces.\n\nIt is entertainment that will prove the words of the famous Oriental Philosopher\/Chef Kung Pao, who said, War is fun!"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "BattleChessIiChineseChessDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 02:36:51"
+	],
+	"publicdate": [
+	  "2012-07-05 02:37:09"
+	],
+	"date": [
+	  "1990"
+	],
+	"year": [
+	  "1990"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "chess"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "3.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "wsx",
+		"reviewtitle": "wsx",
+		"reviewer": "420350982",
+		"reviewdate": "2012-09-14 06:14:34",
+		"stars": "3"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1481048013",
+	  "size": "297363",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "69cb96742036a2c0f0c3e6d9c8166b36",
+	  "crc32": "c779a400",
+	  "sha1": "eac014d9cf7405c0a2148df9dcf5611b2c6bb53c"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1481135281",
+	  "size": "3732",
+	  "md5": "68161eea9011124f16f0c2cfb3840cf3",
+	  "crc32": "5e87a0d6",
+	  "sha1": "372c1ffe86ca463ae811b91188dedf4bfde57353"
+	},
+	"\/BattleChessIiChineseChessDemo.gif": {
+	  "source": "original",
+	  "mtime": "1481048027",
+	  "size": "76757",
+	  "format": "Animated GIF",
+	  "md5": "7cbb0350a5c6c070f1d4e5ff05f3eab6",
+	  "crc32": "e8f3519f",
+	  "sha1": "9ab11c3a14d192d5434e4c8c29ca59821b3f9179"
+	},
+	"\/BattleChessIiChineseChessDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4e432c161e9882f3db19d1dd7010842d3961c0f9",
+	  "mtime": "1481135295",
+	  "size": "3977",
+	  "md5": "386fa356f5a73963c5ca1ee33596b2f8",
+	  "crc32": "e378be18",
+	  "sha1": "dab2e51c46ff2634ded45d48037e300df32871b7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BattleChessIiChineseChessDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7150adfd29d6b52b29f70504667485ad"
+	},
+	"\/BattleChessIiChineseChessDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1481048037",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "073b363d7d00ad86c90902ade1e9f8dc",
+	  "crc32": "8d3fae9b",
+	  "sha1": "e3604835cdb89db4c607ced08c0169b6f70fe7a8"
+	},
+	"\/BattleChessIiChineseChessDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466231427",
+	  "size": "1350",
+	  "md5": "7d5bfd434efcc1efcad4d0b48054764e",
+	  "crc32": "950bb672",
+	  "sha1": "d0aee80aed7e866fd35e8c10791914e212520a9e"
+	},
+	"\/BattleChessIiChineseChessDemo_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1347603276",
+	  "size": "438",
+	  "md5": "108dddacb4aec2aa66aa7ae64b97a0a8",
+	  "crc32": "b791b3c1",
+	  "sha1": "10117226f2d37f3e271b0fee3b3ae41c88db63fb",
+	  "format": "Metadata"
+	},
+	"\/bc2dem.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1458668470",
+	  "size": "633535",
+	  "md5": "ac8ab80394d13c63d3cc542378e945b8",
+	  "crc32": "8a070540",
+	  "sha1": "87be0a9f649a71e0a7710764012f9960c5c45188"
+	},
+	"\/bc2dem_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1481048032",
+	  "size": "136798",
+	  "format": "Emulator Screenshot",
+	  "md5": "54d67d7d94de7db0263bebeb885d63ed",
+	  "crc32": "543b8c22",
+	  "sha1": "0a0f42e4a65288723d8328fadbd3daed0e4d7d94"
+	},
+	"\/resource_item_168.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341455771",
+	  "size": "28068",
+	  "md5": "28f7679079c7d1072060d6c795866e4a",
+	  "crc32": "62f5e3b0",
+	  "sha1": "3c3354c890592ddbada397023ab00959af78a47f",
+	  "rotation": "0"
+	},
+	"\/resource_item_168_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_168.jpg",
+	  "mtime": "1341455823",
+	  "size": "6845",
+	  "md5": "12c4be368ac2c20d680c0b398ea4fc91",
+	  "crc32": "23e64302",
+	  "sha1": "ee3f0e7269a045446610bc3a6145f0cabd02df88"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1481048017",
+	  "size": "297363",
+	  "md5": "69cb96742036a2c0f0c3e6d9c8166b36",
+	  "crc32": "c779a400",
+	  "sha1": "eac014d9cf7405c0a2148df9dcf5611b2c6bb53c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1481135283",
+	  "size": "3732",
+	  "md5": "68161eea9011124f16f0c2cfb3840cf3",
+	  "crc32": "5e87a0d6",
+	  "sha1": "372c1ffe86ca463ae811b91188dedf4bfde57353"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1481048020",
+	  "size": "287282",
+	  "md5": "7b6382666defc7eaa659a47b7b06e4df",
+	  "crc32": "e4432d63",
+	  "sha1": "641ecaafb6603e42db24e3439e8f1ac928e2066a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1481135286",
+	  "size": "3728",
+	  "md5": "2e4d08819e26207d8c26cfb1cd4c231a",
+	  "crc32": "72cf08d0",
+	  "sha1": "6271306b5746c4247bdd1010a47c9cd3bcb4c9e8"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1481048023",
+	  "size": "63870",
+	  "md5": "3f286a38b1cf1ff132cc67984406cf47",
+	  "crc32": "c7eda97e",
+	  "sha1": "6423bfad1d5180309f7dd201437c5ab3137a963d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1481135290",
+	  "size": "1912",
+	  "md5": "b47777ec4093244417185704473a4b04",
+	  "crc32": "b271b710",
+	  "sha1": "c26d8f9ee32b3e2357414e66dc4b0f2ecafd13d6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800807.us.archive.org\/34\/items\/BattleChessIiChineseChessDemo\/BattleChessIiChineseChessDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 737,
+	"week": 2,
+	"month": 9
+  }
+}

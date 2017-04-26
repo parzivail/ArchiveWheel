@@ -1,0 +1,130 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/35/items/TotalMayhem_1020",
+  "metadata": {
+	"identifier": [
+	  "TotalMayhem_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Cinematix Studios"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Domark Software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Total Mayhem Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-05 05:06:17"
+	],
+	"addeddate": [
+	  "2012-09-05 05:06:17"
+	],
+	"description": [
+	  "\"Man is a slave race on a planet run entirely by machines. A small group of cyborg freedom fighters, calling themselves Mayhem Soldiers, wage a liberation war against the machines that hold society in a death grip. Using high technology weapons and strategic combat tactics, you control up to six soldiers simultaneously as you fight for survival.\n\nTotal Mayhem combines the best of shoot-to-kill action and brain-draining strategy.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/TotalMayhem_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "88fcd5fe0d37175520f3abebcdc2454fe492d4e6",
+	  "mtime": "1462743141",
+	  "size": "2078",
+	  "md5": "2260dc0554489f2d44925cecc0448490",
+	  "crc32": "0ae9de1a",
+	  "sha1": "3c7b0f50a5c845449613cf3aedf95813175e6091",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TotalMayhem_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "961f7caebcdd0abb030e8c697793f213"
+	},
+	"\/TotalMayhem_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462743140",
+	  "size": "1199",
+	  "md5": "b25cc6ebb86209f3addc06c738e12dbf",
+	  "crc32": "1e8c272c",
+	  "sha1": "38fcfed567a669823c6a94bc033e96c9d71195a0"
+	},
+	"\/resource_item_3156.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346821636",
+	  "size": "19255",
+	  "md5": "a380136ac6b4bf105d8c349d063494cc",
+	  "crc32": "3cac4440",
+	  "sha1": "802d4e6fea2452a04aef2ab00cd3acbeaaa81a97",
+	  "rotation": "0"
+	},
+	"\/resource_item_3156.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821636",
+	  "size": "272",
+	  "md5": "d3995729c0ab5b0c9dc1b4346e0de8d5",
+	  "crc32": "63db22aa",
+	  "sha1": "c45a13cea0c91eefc18c190c3b1f2a7e94c9772f"
+	},
+	"\/resource_item_3156_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3156.jpg",
+	  "mtime": "1346834998",
+	  "size": "6133",
+	  "md5": "eb793b490e153bc1bdaa500f308af23e",
+	  "crc32": "989e152a",
+	  "sha1": "2eba4bb6f708f798d1557f3b23b5f2d5c7023adb"
+	},
+	"\/tmdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346821633",
+	  "size": "5759655",
+	  "md5": "35b049adfd6fba7563bb35bd9550eea0",
+	  "crc32": "ac9937f4",
+	  "sha1": "701b1e682f858d7c927abd6fd26c633a2fe04947"
+	},
+	"\/tmdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821633",
+	  "size": "689",
+	  "md5": "29513bbecadf80bfe3f519155f803f54",
+	  "crc32": "00922082",
+	  "sha1": "0f86af8681808e753d48d8ce9c70b45e48d739ca"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/35\/items\/TotalMayhem_1020\/resource_item_3156_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 194,
+	"week": 5,
+	"month": 6
+  }
+}

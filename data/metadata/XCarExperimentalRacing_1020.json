@@ -1,0 +1,406 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/11/items/XCarExperimentalRacing_1020",
+  "metadata": {
+	"identifier": [
+	  "XCarExperimentalRacing_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bad Dog"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "XCAR: Experimental Racing is a new driving game that simulates characteristics of sports prototype racing and provides players with advanced levels of customization. The technology licensed by Bethesda Softworks is based on SciTech Display Doctor, the universal graphics card utility. SciTech Display Doctor unlocks the performance of graphics cards and allows all games and software applications to run at peak performance, without display problems."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Bethesda Softworks"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "XCar: Experimental Racing Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:30:47"
+	],
+	"addeddate": [
+	  "2012-09-04 00:30:47"
+	],
+	"year": [
+	  "1997"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "XCARPLAY.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475618788",
+	  "size": "486540",
+	  "md5": "a75a67cc47ae7d2da81a8d657a836c51",
+	  "crc32": "88eb7e53",
+	  "sha1": "be587866219721846a1f56c40c9739cbacd83970",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475618848",
+	  "size": "5119",
+	  "md5": "9dd437447aca213cb67afd504556bea0",
+	  "crc32": "5b22bc91",
+	  "sha1": "21292e294dfdfd6e15b448ea178127e5baa41545"
+	},
+	"\/XCarExperimentalRacing_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475618824",
+	  "size": "187149",
+	  "md5": "00df8ff636fab1e678795f59d37750c1",
+	  "crc32": "b9c1b334",
+	  "sha1": "e7c9e5090a5bba600a413fc78fad9af3fb130a46",
+	  "format": "Animated GIF"
+	},
+	"\/XCarExperimentalRacing_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "63fe5197eb39d80fada3a6895d587b27c4020a5c",
+	  "mtime": "1475618869",
+	  "size": "6969",
+	  "md5": "47dc2d2c2957fab3936ceffdaeff6777",
+	  "crc32": "48eb7cd5",
+	  "sha1": "f3dff47893d93e59cc976638113e95e6aeaea888",
+	  "format": "Archive BitTorrent"
+	},
+	"\/XCarExperimentalRacing_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e08f9e93133e92bb2023936e46703f4e"
+	},
+	"\/XCarExperimentalRacing_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475618835",
+	  "size": "13312",
+	  "md5": "8348961863290d1bcbbb4b80532a5fa6",
+	  "crc32": "b13db7db",
+	  "sha1": "92f082d34ae779ee2fd89955d73498f169b336b5",
+	  "format": "Metadata"
+	},
+	"\/XCarExperimentalRacing_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474905284",
+	  "size": "1342",
+	  "md5": "f0ff160195d16d22f2f1fb3e6aecb82f",
+	  "crc32": "c351538d",
+	  "sha1": "d6fdf76a416715f28650a0e78dbb2215a596a7d1"
+	},
+	"\/resource_item_1070.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346718673",
+	  "size": "11423",
+	  "md5": "813ba5bdb55f18af2049ee538b10af15",
+	  "crc32": "d4f6c5c4",
+	  "sha1": "796f950b6e5a7712336a827b90bbfb493344d9b2",
+	  "rotation": "0"
+	},
+	"\/resource_item_1070.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718673",
+	  "size": "272",
+	  "md5": "cf353cb32187b96992c57d155c191fc0",
+	  "crc32": "e65fa0ed",
+	  "sha1": "b9bfe82b5fedc41e92d578617e63845b84d75df7"
+	},
+	"\/resource_item_1070_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1070.jpg",
+	  "mtime": "1346719993",
+	  "size": "3831",
+	  "md5": "4a58c15bd93b7f8a1772fdf870a011fe",
+	  "crc32": "134262e6",
+	  "sha1": "5a766fa170e6f5c24cd5ba81fe59183b413c8529"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475618790",
+	  "size": "386073",
+	  "md5": "47f6c394c27d034daf9cc639b8e9df3b",
+	  "crc32": "ed352b1e",
+	  "sha1": "0cddc6dd177640072b543cec5585399f7e5d2a39",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475618850",
+	  "size": "3944",
+	  "md5": "cf34f29027c1a322d46f93ee632f1ce1",
+	  "crc32": "6e563c0c",
+	  "sha1": "a06ac7620bf7a8128a1f87dd0a051845cffb1baa"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475618792",
+	  "size": "3344",
+	  "md5": "93d5b312274946def60f8517f994f6f1",
+	  "crc32": "233180a6",
+	  "sha1": "e0f00c3527d0c666ad2c2b79814bc954e18926a8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475618852",
+	  "size": "1011",
+	  "md5": "f818b3bf910e19a6035f892d85616795",
+	  "crc32": "acb9e222",
+	  "sha1": "93bf5ad2a39276576ec479e3c31d21708f842da1"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475618797",
+	  "size": "388974",
+	  "md5": "4c5f982c1618cdbd840d0ed1d3690fce",
+	  "crc32": "291e6b24",
+	  "sha1": "064bec1da8be6c9d3bb93c8bcb0e46f345966a3c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475618853",
+	  "size": "4449",
+	  "md5": "60e5326dbde46210a5302e6874ab8a82",
+	  "crc32": "fabecd4f",
+	  "sha1": "e19e5f2f26249cd588d6a36ed45614e852307122"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475618799",
+	  "size": "382608",
+	  "md5": "69bf34ef935b42b783fa23722027ad85",
+	  "crc32": "2ad6f993",
+	  "sha1": "4dc92305e14f4b49bd3385228ffc6492a607e5de",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475618855",
+	  "size": "4302",
+	  "md5": "9c73626f90b26a528ab971320ad4a3ab",
+	  "crc32": "da309455",
+	  "sha1": "f70f85456c4daafe644c9e9198b696bdca8a036e"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475618802",
+	  "size": "195830",
+	  "md5": "a4fc76ed7816e75fb6471d37d3cd7812",
+	  "crc32": "25f37426",
+	  "sha1": "d3578b46e3bdcfd0a192abb6a765d25e31d33c19",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475618856",
+	  "size": "2715",
+	  "md5": "3a5921cac943ce442059cec70d966038",
+	  "crc32": "6543e295",
+	  "sha1": "a6b0d083616a0fd20200baf3cd117d2c08f91ceb"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475618805",
+	  "size": "486540",
+	  "md5": "a75a67cc47ae7d2da81a8d657a836c51",
+	  "crc32": "88eb7e53",
+	  "sha1": "be587866219721846a1f56c40c9739cbacd83970",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475618858",
+	  "size": "5119",
+	  "md5": "9dd437447aca213cb67afd504556bea0",
+	  "crc32": "5b22bc91",
+	  "sha1": "21292e294dfdfd6e15b448ea178127e5baa41545"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475618807",
+	  "size": "442168",
+	  "md5": "24829748e054d001bc7e7f7de566b23b",
+	  "crc32": "925d3fe9",
+	  "sha1": "b46bfdeab466c11f7b770e62dcd69cf317bc9622",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475618859",
+	  "size": "4544",
+	  "md5": "c3c7ed39887e6612b9df5666653b712d",
+	  "crc32": "239e48ca",
+	  "sha1": "a7a9df057021a016ed6c66af9ac71dad93fd88f7"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475618809",
+	  "size": "367931",
+	  "md5": "3a550cd2cc1d10092a9c9eb6d40eb35c",
+	  "crc32": "2066d9c7",
+	  "sha1": "309b613cd2d224edf43ca173190473975880498b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475618860",
+	  "size": "4036",
+	  "md5": "741b440ade92fcbd2d32b4c64e445b2e",
+	  "crc32": "41143388",
+	  "sha1": "fbe1899b12e95e7b702438ece5bc73d742ce54e1"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475618813",
+	  "size": "355236",
+	  "md5": "80877d9936d5c7fec63e925e8c056400",
+	  "crc32": "2d3ebc21",
+	  "sha1": "aee69083316f523d02e925a0991dbd3be77e9295",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475618862",
+	  "size": "4155",
+	  "md5": "076e8428b49fbd791149e6d2d95cc9dc",
+	  "crc32": "b66c8438",
+	  "sha1": "6f4e9dbabeb04b5e7607fc90188b4c25f10eda2d"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475618817",
+	  "size": "59651",
+	  "md5": "ed86e8520fb09aaf73665e0d00e868d4",
+	  "crc32": "87b35118",
+	  "sha1": "3b8c68847dbb8b546a1a9e955d2afc4178188f69",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475618864",
+	  "size": "1257",
+	  "md5": "167a2f98ebf2cf6f094445a3147607a7",
+	  "crc32": "579539ca",
+	  "sha1": "fdbec1c8998f55d26db98ff10da12ca379948dab"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475618820",
+	  "size": "458309",
+	  "md5": "e8ae3e2fed8cc97cc554f22831da053a",
+	  "crc32": "b1ee869b",
+	  "sha1": "4c8a12e1778d7995c270431bf007f268a2c152b4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475618865",
+	  "size": "4793",
+	  "md5": "0b630df6a477af85a344504d09af3f53",
+	  "crc32": "342739fb",
+	  "sha1": "54378e2875db1c240cf3111fa76377852ec2f3a2"
+	},
+	"\/xcardemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346718671",
+	  "size": "2389344",
+	  "md5": "73f53b7e03b8a0ac3ddbb18aa61c5d5a",
+	  "crc32": "7a2f6fc8",
+	  "sha1": "99ad5c0f60fafce730e75a62e1f8226c98ac8b01"
+	},
+	"\/xcardemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718671",
+	  "size": "1144",
+	  "md5": "6f4a51b2323f3588865dfae3d090d5dd",
+	  "crc32": "13bc3f20",
+	  "sha1": "a8af8215cb4b2f6346df43ce51d29e36d106662c"
+	},
+	"\/xcardemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475618832",
+	  "size": "1178782",
+	  "md5": "ef7b334c82cc6c7998393963a1924f05",
+	  "crc32": "9028bce4",
+	  "sha1": "a9a38a685808bd5bee55aeef013a0ab2258d7af3",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/11\/items\/XCarExperimentalRacing_1020\/XCarExperimentalRacing_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 231,
+	"week": 4,
+	"month": 4
+  }
+}

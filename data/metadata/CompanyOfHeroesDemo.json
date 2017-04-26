@@ -1,0 +1,112 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/0/items/CompanyOfHeroesDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Company of Heroes Demo"
+	],
+	"description": [
+	  "Delivering a visceral WWII gaming experience, Company of Heroes redefines real time strategy gaming by bringing the sacrifice of heroic soldiers, war-ravaged environments, and dynamic battlefields to life. Beginning with the D-Day Invasion of Normandy, players lead squads of Allied soldiers into battle against the German war machine through some of the most pivotal battles of WWII. Through a rich single player campaign, players experience the cinematic intensity and bravery of ordinary soldiers thrust into extraordinary events."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Relic Entertainment"
+	],
+	"identifier": [
+	  "CompanyOfHeroesDemo"
+	],
+	"addeddate": [
+	  "2012-09-02 16:39:27"
+	],
+	"publicdate": [
+	  "2012-09-02 16:42:37"
+	],
+	"date": [
+	  "2006"
+	],
+	"year": [
+	  "2006"
+	],
+	"publisher": [
+	  "THQ"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_35"
+	]
+  },
+  "files": {
+	"\/CoH.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1346603070",
+	  "size": "1632839146",
+	  "md5": "4ca55a76ab092d046476252959dafa55",
+	  "crc32": "8673f020",
+	  "sha1": "d0e38ac0318c9eec4d3f402261ab05b108dfa0f6"
+	},
+	"\/CompanyOfHeroesDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "b38d043c66b887fe72f612f54bc4ab868623c7ba",
+	  "mtime": "1465033006",
+	  "size": "33015",
+	  "md5": "4380f67fa916b4d651bded1715bff625",
+	  "crc32": "4631bb14",
+	  "sha1": "d20c7aabcea84d524c903fab7d14d18ae9508055",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CompanyOfHeroesDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "179766ac0fd33b6fe782517816caaca8"
+	},
+	"\/CompanyOfHeroesDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465032988",
+	  "size": "1300",
+	  "md5": "2f38bd25ffcc5bf18831bb2b582e58ac",
+	  "crc32": "bae4d8e5",
+	  "sha1": "667389f8471409efaa31f261f59b58c07210e6d1"
+	},
+	"\/coh-screenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346596833",
+	  "size": "465974",
+	  "md5": "f3491ca511252f631e46c4c420f2592e",
+	  "crc32": "24b660eb",
+	  "sha1": "d877510645981861ac7b5eb74d88d496d5bd56b4",
+	  "rotation": "0"
+	},
+	"\/coh-screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "coh-screenshot.jpg",
+	  "mtime": "1346604151",
+	  "size": "5738",
+	  "md5": "8f77c5f06a00bc449285fdd0bb5326cb",
+	  "crc32": "fc946865",
+	  "sha1": "d05aab169e3c96004a6a46c2b3ba82425e1d8e78"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/0\/items\/CompanyOfHeroesDemo\/coh-screenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1864,
+	"week": 19,
+	"month": 72
+  }
+}

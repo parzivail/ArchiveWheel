@@ -1,0 +1,468 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/22/items/3dMania_1020",
+  "metadata": {
+	"identifier": [
+	  "3dMania_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "3D-Mania is a strategy-game, which was raised from the idea of Tetris and which has been mixed with elements of role games. 3d-Mania offers many new interesting possibilities to test and\/or improve your strategic skill."
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "3d-Mania Demo v1.02"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2012-09-05 19:43:13"
+	],
+	"addeddate": [
+	  "2012-09-05 19:43:13"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "3DMANIA.EXE"
+	],
+	"creator": [
+	  "Microtech"
+	],
+	"named-persons": [
+	  "D. Geisenhoff"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475153019",
+	  "size": "324912",
+	  "md5": "32d3de7abc6e0e166a999914aaa136f6",
+	  "crc32": "1f6bde62",
+	  "sha1": "8ee32c5a3b90ccd6f3a96ea9ae045ab739344511",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475153108",
+	  "size": "6022",
+	  "md5": "6f36cac9d0322d390558c32d5e3a49eb",
+	  "crc32": "7a45a380",
+	  "sha1": "fb091be9640f08f1c79905b8a23662a9e2a8301c"
+	},
+	"\/3dMania_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475153080",
+	  "size": "97309",
+	  "md5": "cae3bfa85854cd3280d7f18f8c2786ba",
+	  "crc32": "8fa6b011",
+	  "sha1": "314a05952ace46b1a3225101872ee89601fe4638",
+	  "format": "Animated GIF"
+	},
+	"\/3dMania_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "2416dcce8ceb993ea0c8bdc71f3aa97809bdf883",
+	  "mtime": "1480275253",
+	  "size": "7844",
+	  "md5": "39928445fddefbb8509b5f729a70d986",
+	  "crc32": "ffe3171b",
+	  "sha1": "4d5aea6ad46051d8cf5c22689a196fdd8df7b60a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/3dMania_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "422de17427ffba3bd9069571f8ef585f"
+	},
+	"\/3dMania_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475153103",
+	  "size": "15360",
+	  "format": "Metadata",
+	  "md5": "c2f005444e5da9a35aee5475bd2e3bae",
+	  "crc32": "2f721ffc",
+	  "sha1": "99a69c6d710eba5eb1cf7a549774f57f75e5d6d4"
+	},
+	"\/3dMania_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1480275250",
+	  "size": "1120",
+	  "md5": "9b5b59d135a2a77446678dc3adc8246b",
+	  "crc32": "d163f214",
+	  "sha1": "31aa08979fb85ec9c5893373e9817f8e6efd087e"
+	},
+	"\/3dman102.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346874199",
+	  "size": "145432",
+	  "md5": "5cc651dc378ef9220b1bddeadbf8a23f",
+	  "crc32": "7ca8d265",
+	  "sha1": "caef74f677ff39b2eb15f24c52add9d8c8ef15b0"
+	},
+	"\/3dman102.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346874199",
+	  "size": "878",
+	  "md5": "5ec08f6a15c3376518d6555ccd56d2a9",
+	  "crc32": "a4873b99",
+	  "sha1": "48f901c3e6bdba0569545e549f66081cd1654e53"
+	},
+	"\/3dman102_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475153090",
+	  "size": "1601962",
+	  "md5": "36b44275d7241df4a14901528e46eb36",
+	  "crc32": "673e305a",
+	  "sha1": "475e920879e8773b973642903f4ec0d9cd73cabb",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3700.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346875889",
+	  "size": "45205",
+	  "md5": "0e6db8e0745cb965c949b62b2dc30371",
+	  "crc32": "be54c054",
+	  "sha1": "c00f7e6978edba7a5553a2ad4443e6fd4ef2be05"
+	},
+	"\/resource_item_3700.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875889",
+	  "size": "272",
+	  "md5": "db8dd49441640f35dc96829b7ebfc1fe",
+	  "crc32": "22a6aa3a",
+	  "sha1": "b7d68f373a84ca6ef7af4e5c103dbdd58cd0107f"
+	},
+	"\/resource_item_3700_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3700.png",
+	  "mtime": "1346936685",
+	  "size": "5980",
+	  "md5": "d0e58267a63a020786251818c8bc47fd",
+	  "crc32": "51fc8050",
+	  "sha1": "9059feb281812063eecc13d0247e23c8afc08428"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475153022",
+	  "size": "324562",
+	  "md5": "f798e15a054c0ccc6c89c376eb3782ff",
+	  "crc32": "29b0d44f",
+	  "sha1": "75ce99cb4c54b0ba8f6faa4884c1a192a41ca74a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475153110",
+	  "size": "6017",
+	  "md5": "49575b5034a1980de15e8d866e1a9345",
+	  "crc32": "5506c2f3",
+	  "sha1": "2164a1dfac5ba9941069bb505acc5a5f8e56ffef"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475153025",
+	  "size": "324685",
+	  "md5": "6de68c80ee149c61893a804bd1b3999a",
+	  "crc32": "c9231e20",
+	  "sha1": "8f8c8a0702f5e014819ea0b5e19aabd360e84c5b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475153111",
+	  "size": "6018",
+	  "md5": "5faefb26fa87e844392d7c3760720b7f",
+	  "crc32": "28be1998",
+	  "sha1": "f4a542028eb22ace3e9422821a45f4e05b2746bc"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475153029",
+	  "size": "324517",
+	  "md5": "dbf860f43e63fc892784ef3dd06fa1d7",
+	  "crc32": "ba42dadc",
+	  "sha1": "94fdfa1d7c4d69e05c28ae028ead606ddd522407",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475153113",
+	  "size": "6017",
+	  "md5": "afbb6ae0d58fc340a5ad28c00a854e34",
+	  "crc32": "856b331e",
+	  "sha1": "53bd384fe17c042ea59893ff37f4cbf3374dfc97"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475153035",
+	  "size": "324761",
+	  "md5": "0b35f46a5d1ebe5c2816c3d9a3ed4678",
+	  "crc32": "f427e8b7",
+	  "sha1": "484f0095429308c0ce5d53cb58a38f1de1b12625",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475153114",
+	  "size": "6024",
+	  "md5": "eee33e945ebadae606a817261d800c39",
+	  "crc32": "5d39061f",
+	  "sha1": "bc9e4ed7d9188146c42b45dd518e5e1a1e756e33"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475153041",
+	  "size": "324729",
+	  "md5": "286f1ac658a2e6b494473709cacc4ee9",
+	  "crc32": "9b6babbe",
+	  "sha1": "deca3ae1718bab4618e609662b1a812cfd6a9944",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475153115",
+	  "size": "6024",
+	  "md5": "9813677bd6d8ab271b3de04c9868c1bc",
+	  "crc32": "2dfa38f1",
+	  "sha1": "d152442ccfb5f461f09277c0489a30eeb01066db"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475153044",
+	  "size": "324776",
+	  "md5": "006513b4fdff138ca2c7045aec336d13",
+	  "crc32": "8e300ee3",
+	  "sha1": "4a54681f77e2ca5f9903537d4110f64d8cffed04",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475153116",
+	  "size": "6028",
+	  "md5": "7e1dc4243f678b35e715c3b179c86970",
+	  "crc32": "87f523a4",
+	  "sha1": "13f39cf7602965c9509e3d9b1c67e8e144f5fa56"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475153049",
+	  "size": "324677",
+	  "md5": "40de94450d110e17cf68d79401a009e9",
+	  "crc32": "23c9bedf",
+	  "sha1": "89321564c1649d8620630e84155ee9c9dc6a49c8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475153118",
+	  "size": "6019",
+	  "md5": "d6308920363bb41ebce1ac8d79913bef",
+	  "crc32": "137a51ee",
+	  "sha1": "cc80f4090f0a2dd466af1c8167522a5f59871cc2"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475153053",
+	  "size": "324863",
+	  "md5": "daf7e1fe85d1b83a2a1a6de744aa270f",
+	  "crc32": "b42eaef9",
+	  "sha1": "b502e15ac91bdaf733aef9029c02fcee2e413643",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475153119",
+	  "size": "6026",
+	  "md5": "ffd2d853f94f0b4064633c67c3003678",
+	  "crc32": "20fd355d",
+	  "sha1": "2e8974e51000fd73027d761e29b4454b688f7bea"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475153059",
+	  "size": "324844",
+	  "md5": "c7217ea461c363016067ed5dae6e9968",
+	  "crc32": "a2cc3393",
+	  "sha1": "4a37b3c9c5243952d0f2487002e78b8aabefd5e1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475153120",
+	  "size": "6029",
+	  "md5": "cc28d87f9ba436fdae2113ada9a7eb9b",
+	  "crc32": "562c28ca",
+	  "sha1": "8e7fa3760761b5e41e528c09a4b63bcbf577fe33"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475153061",
+	  "size": "324813",
+	  "md5": "5c9f81b61d250539749daaa0de4a3693",
+	  "crc32": "b385e9b3",
+	  "sha1": "aa4098d8e727dafda85bb3fe1813ea942f1c8597",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475153121",
+	  "size": "6024",
+	  "md5": "4b5cef373c3ffdbb2473a55c77ebfb60",
+	  "crc32": "796579ca",
+	  "sha1": "548e86ec2c5e23bb671e382551f906ae9f80c992"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475153063",
+	  "size": "324576",
+	  "md5": "b109f62d3717d5c5f18257d743f8715b",
+	  "crc32": "76e654f4",
+	  "sha1": "bba2c5639f10af1c513505ac086a8c6b4b9d3324",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475153123",
+	  "size": "6015",
+	  "md5": "63620f908b49365af56c1ec12ca6707e",
+	  "crc32": "21e09ce0",
+	  "sha1": "ffa8c01b838997bf6e5d5ce0f337366851cedc94"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475153066",
+	  "size": "324576",
+	  "md5": "ffe99d27b79ba5ad6990044a1fecd03d",
+	  "crc32": "f1a1bc4b",
+	  "sha1": "b3a83d0a241d6b34479a5d3d1c06ad710527c633",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475153124",
+	  "size": "6018",
+	  "md5": "6508f933d0a9a79435ac3c412fd9e4a6",
+	  "crc32": "1d771a6a",
+	  "sha1": "0c26652940dc074bea26e6f389a1f98137716c0e"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475153069",
+	  "size": "324912",
+	  "md5": "32d3de7abc6e0e166a999914aaa136f6",
+	  "crc32": "1f6bde62",
+	  "sha1": "8ee32c5a3b90ccd6f3a96ea9ae045ab739344511",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475153125",
+	  "size": "6022",
+	  "md5": "6f36cac9d0322d390558c32d5e3a49eb",
+	  "crc32": "7a45a380",
+	  "sha1": "fb091be9640f08f1c79905b8a23662a9e2a8301c"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475153074",
+	  "size": "324679",
+	  "md5": "2202c77cb0721ad4a084816567457b24",
+	  "crc32": "26e291c0",
+	  "sha1": "8b6a6b5c4d1b73f351029879f69a0706419b66d8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475153126",
+	  "size": "6018",
+	  "md5": "686153a9721fc88334e3dff98b3d6653",
+	  "crc32": "4775d3b7",
+	  "sha1": "03e75b2dfd6824e7ac6c1e471c7b88b9b428e8b6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/22\/items\/3dMania_1020\/3dMania_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 195,
+	"week": 3,
+	"month": 6
+  }
+}

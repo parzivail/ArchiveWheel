@@ -1,0 +1,209 @@
+{
+  "server": "ia800302.us.archive.org",
+  "dir": "/35/items/MicrosoftFlightSimulator5.1_1020",
+  "metadata": {
+	"identifier": [
+	  "MicrosoftFlightSimulator5.1_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Microsoft"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Feel the thrill of full-throttle flight. Revel in the freedom of soaring through the sky. Experience the white-knuckle intensity of a near-crash landing. With stunning photo-realistic scenery and authentic flight sounds, Microsoft Flight Simulator brings you and awesome flying adventure that's as real as it gets."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Microsoft Flight Simulator 5.1 Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-05 00:00:55"
+	],
+	"addeddate": [
+	  "2012-09-05 00:00:55"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "d:\\runapp FS51DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475370901",
+	  "size": "46220",
+	  "md5": "f5a5de04e0ec6c93c812478d2277a21e",
+	  "crc32": "de3fefba",
+	  "sha1": "c46ef916a8d01fcb38f4cb401f4d8cfb7c53a17c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475370931",
+	  "size": "3145",
+	  "md5": "490e47420907640e7c163e9f74d72560",
+	  "crc32": "70f8d1b1",
+	  "sha1": "27612dee7257c26719226df920473fae47730cb9"
+	},
+	"\/FLTSIM.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346803309",
+	  "size": "5684019",
+	  "md5": "ec65ae481516bd68596abd61c6487a1c",
+	  "crc32": "b6ce34b6",
+	  "sha1": "4d1a8d1dc7fe29bd3f33477dbc537648e58547f9"
+	},
+	"\/FLTSIM.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346803309",
+	  "size": "1040",
+	  "md5": "f98aa08f5e9658f54ae308096750ff1f",
+	  "crc32": "b6567659",
+	  "sha1": "e248df51683dc04e0d2210956a5943d744cb1515"
+	},
+	"\/FLTSIM_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475370908",
+	  "size": "27097",
+	  "md5": "e0e7b2825943d25ce1746ec41f853d3f",
+	  "crc32": "45d4f7a9",
+	  "sha1": "f7efb4c3ae88c015a5c4f2d54036ee7c8abf9644",
+	  "format": "Emulator Screenshot"
+	},
+	"\/MicrosoftFlightSimulator5.1_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475370905",
+	  "size": "13295",
+	  "md5": "baaf4b678b6088ac37bd4ba1453d4f7d",
+	  "crc32": "b101a518",
+	  "sha1": "1437e4cbca121834f7a294d7aadbee7f31bcb7ae",
+	  "format": "Animated GIF"
+	},
+	"\/MicrosoftFlightSimulator5.1_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b521e3f81219e8e2b8d822fe99e6057d077eb717",
+	  "mtime": "1475370936",
+	  "size": "3472",
+	  "md5": "0db78b6774f6b00d03c9acee5ae63a67",
+	  "crc32": "7283aefc",
+	  "sha1": "3af94b5281ec0ea2a6e0642132cbc4f9fb33e6fa",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MicrosoftFlightSimulator5.1_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1c052a8b20415639970829ad1a25b926"
+	},
+	"\/MicrosoftFlightSimulator5.1_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475370914",
+	  "size": "8192",
+	  "md5": "e96c674fb430bb97cfa2aa125ef2b1a6",
+	  "crc32": "3fcbf56f",
+	  "sha1": "a8135b5bba9405951c77d7d18749b5c503874461",
+	  "format": "Metadata"
+	},
+	"\/MicrosoftFlightSimulator5.1_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474261158",
+	  "size": "1288",
+	  "md5": "9e27115ef53372b4577961ad3ff78700",
+	  "crc32": "b1b169d1",
+	  "sha1": "df7f02f283a1e5c7f3eed71ec3daf5b76a718570"
+	},
+	"\/resource_item_2732.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346803312",
+	  "size": "17411",
+	  "md5": "0f0756b79c9d75cd460ed23556c43127",
+	  "crc32": "977b61eb",
+	  "sha1": "da3f4e69e478e275711e65843cb0265cd3deff2c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2732.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346803312",
+	  "size": "272",
+	  "md5": "92009300ea564e3c48cb495ff9a8654b",
+	  "crc32": "62d6059c",
+	  "sha1": "471d1fb4b31186b9716677d2720839bd19c05005"
+	},
+	"\/resource_item_2732_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2732.jpg",
+	  "mtime": "1346820145",
+	  "size": "5555",
+	  "md5": "32160e64386b8d2d18e44ed0bd9a3d46",
+	  "crc32": "27cd18f7",
+	  "sha1": "12eb3a7a9e879c7e265fd924cc83d9437722d5e1"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475370903",
+	  "size": "46220",
+	  "md5": "f5a5de04e0ec6c93c812478d2277a21e",
+	  "crc32": "de3fefba",
+	  "sha1": "c46ef916a8d01fcb38f4cb401f4d8cfb7c53a17c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475370933",
+	  "size": "3145",
+	  "md5": "490e47420907640e7c163e9f74d72560",
+	  "crc32": "70f8d1b1",
+	  "sha1": "27612dee7257c26719226df920473fae47730cb9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800302.us.archive.org\/35\/items\/MicrosoftFlightSimulator5.1_1020\/MicrosoftFlightSimulator5.1_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 9717,
+	"week": 37,
+	"month": 107
+  }
+}

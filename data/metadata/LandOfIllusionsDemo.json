@@ -1,0 +1,317 @@
+{
+  "server": "ia601904.us.archive.org",
+  "dir": "/24/items/LandOfIllusionsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Land of Illusions Demo"
+	],
+	"description": [
+	  "Land of Illusions is a role playing game, similar to that of\nthe Final Fantasy or Dragon Warrior series.\nSet in a medievil world, you will travel to many places like caves\ntowns, castles, and across the world of Iffalucia. You will talk to\npeople, make friends, find many legendary items, fight evil,\nand get drawn into in epic story.\n\nLand of Illusions is my first attempt at programming a game with the\nRPG 2.1 Engine. Once I finish the RPG 2.1 engine I can really get a\nlot done with LoI.\n\nCurrently the full version of Land of Illusions is about 7% complete"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Skywaffle Productions"
+	],
+	"identifier": [
+	  "LandOfIllusionsDemo"
+	],
+	"addeddate": [
+	  "2013-01-12 00:45:06"
+	],
+	"publicdate": [
+	  "2013-01-12 00:45:15"
+	],
+	"date": [
+	  "1998"
+	],
+	"year": [
+	  "1998"
+	],
+	"license": [
+	  "freeware"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia905604_25"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "RPG.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475334211",
+	  "size": "368660",
+	  "md5": "e23c717cc3a9a626fb8b56d469980057",
+	  "crc32": "80611623",
+	  "sha1": "f5df0b7ee2cfc3169e24347afc8ab4d8815551cc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475334263",
+	  "size": "4979",
+	  "md5": "ab72329ca64f05d73404f7ff90503c4f",
+	  "crc32": "93fef9cd",
+	  "sha1": "11e197c2926d8d0d8aa77581188a2f43719d00c4"
+	},
+	"\/LandOfIllusionsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475334243",
+	  "size": "128488",
+	  "md5": "2195f64d4d1571d6edc12bd2dba49581",
+	  "crc32": "3d2ed69e",
+	  "sha1": "d439eb99bb013d0b96aaf3d9aae1cf108b7c2e69",
+	  "format": "Animated GIF"
+	},
+	"\/LandOfIllusionsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "cf4ee587408aa672f4b074233d3d90671ff00211",
+	  "mtime": "1475334278",
+	  "size": "5493",
+	  "md5": "6e84cc51624b2316d4501b69014d2e57",
+	  "crc32": "4ac53a09",
+	  "sha1": "a7d9891d55f5096ca1044f813250a9bd03037a43",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LandOfIllusionsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "526a5970d2a93eb4fd5695a56325e944"
+	},
+	"\/LandOfIllusionsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475334258",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "5cbbd03c37211d12ff45770ad2ed8426",
+	  "crc32": "7afd9cb6",
+	  "sha1": "f41a02b01b9a0886263535d6e97629886aff9232"
+	},
+	"\/LandOfIllusionsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474826835",
+	  "size": "1439",
+	  "md5": "8ee27e508132a0416665711fbe645bd5",
+	  "crc32": "cc93fd5d",
+	  "sha1": "89ca6b15872771ad5e0d4e28f0f016432fab08d0"
+	},
+	"\/landofillusions.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1357951455",
+	  "size": "15563",
+	  "md5": "21354f1e24042d0387608d75b8f248d0",
+	  "crc32": "0f2ebc42",
+	  "sha1": "5060f90f475cb2db2a7d1bfa9b60c60c49170786"
+	},
+	"\/landofillusions.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1357951457",
+	  "size": "440898",
+	  "md5": "c59f595011bf3718658dacb5807c41b0",
+	  "crc32": "3f079464",
+	  "sha1": "5fc7b3dcf767fb1ded51b7b5494c84294a490bbb"
+	},
+	"\/landofillusions_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475334251",
+	  "size": "512087",
+	  "md5": "79548778f48878bf068a918af0d39d32",
+	  "crc32": "76481b6e",
+	  "sha1": "759bf396837b063ecf1c0fbb6b1cb91a9840e6f4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475334213",
+	  "size": "368660",
+	  "md5": "e23c717cc3a9a626fb8b56d469980057",
+	  "crc32": "80611623",
+	  "sha1": "f5df0b7ee2cfc3169e24347afc8ab4d8815551cc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475334265",
+	  "size": "4979",
+	  "md5": "ab72329ca64f05d73404f7ff90503c4f",
+	  "crc32": "93fef9cd",
+	  "sha1": "11e197c2926d8d0d8aa77581188a2f43719d00c4"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475334216",
+	  "size": "131603",
+	  "md5": "16964b54da2c3a7df1e5a39f191307aa",
+	  "crc32": "0340ffa2",
+	  "sha1": "264257509d8f55ed90732fa06f246c3c4fc5a718",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475334266",
+	  "size": "2731",
+	  "md5": "c1fb22cd93cedbedd24da1a47a2e7c0c",
+	  "crc32": "dea27ca5",
+	  "sha1": "54f2eb892f1dbda52ff5aa7e0132bc641c72f564"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475334219",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475334267",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475334221",
+	  "size": "164355",
+	  "md5": "3d6305a6105e87ba1facc164eaafcdb9",
+	  "crc32": "fb560ddc",
+	  "sha1": "1540fefdd4884508fd7f23b46264ac1b9b33e142",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475334269",
+	  "size": "1876",
+	  "md5": "e095aaa57bc256f1f320069435e06923",
+	  "crc32": "cc10d299",
+	  "sha1": "cd44cc28ef579417a19a6cc0fb60fa557fe87c65"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475334224",
+	  "size": "252698",
+	  "md5": "0b6cfd2df9405634eaa921a14b6e7980",
+	  "crc32": "1373579b",
+	  "sha1": "e493e7e01ea07515614c23222686a1eddd37d3c2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475334271",
+	  "size": "3126",
+	  "md5": "2430345a9bc43b61459db0c398e1673c",
+	  "crc32": "8af2ebaa",
+	  "sha1": "2edee696e0d0327be0fa8955fbfdbc5171973f41"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475334227",
+	  "size": "11686",
+	  "md5": "35c218dcf01c120744408acd95e8e9d0",
+	  "crc32": "19098d3a",
+	  "sha1": "1c926b477bbf8ca1abc3a891bf7b06c2de75de08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475334272",
+	  "size": "1055",
+	  "md5": "7cf31f837eaaafc5cb1e925d007cff39",
+	  "crc32": "ffd3dfce",
+	  "sha1": "cc90aa0fe5cb9565ed3a2359fd7baf227e6fbcc5"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475334234",
+	  "size": "191768",
+	  "md5": "7ed600f597e3c7a73777bca595b9447c",
+	  "crc32": "46cb8ba5",
+	  "sha1": "44aa8aba442acbf7ce38f548f3e11127acabf279",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475334273",
+	  "size": "1828",
+	  "md5": "663aa4fd297810e5a792c018d5b2b4dc",
+	  "crc32": "e034125c",
+	  "sha1": "524a5727109b94635a6c8db8b0c658bfa3fa99f3"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475334240",
+	  "size": "303654",
+	  "md5": "d1053795b3f6463b48972b23351950df",
+	  "crc32": "ad63d454",
+	  "sha1": "f03f3c6c1a183a942ea462210f4a3d6e20ac2ec0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475334275",
+	  "size": "3724",
+	  "md5": "c5062cd1613d18abbe421fb9c45d817f",
+	  "crc32": "3c81b7b4",
+	  "sha1": "d07995b0828cc2d98387e31133232bbce2690144"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601904.us.archive.org\/24\/items\/LandOfIllusionsDemo\/landofillusions.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 144,
+	"week": 2,
+	"month": 5
+  }
+}

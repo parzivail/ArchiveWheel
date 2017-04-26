@@ -1,0 +1,112 @@
+{
+  "server": "ia600703.us.archive.org",
+  "dir": "/15/items/StarWarsEmpireAtWarDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Star Wars: Empire at War Demo"
+	],
+	"description": [
+	  "It is a time of galactic civil war. Take up the reins of the Rebellion or assume control of the Empire. Whichever you choose, it will be up to YOU to steer your side to ultimate victory. Command everything from individual troops to starships and even the mighty Death Star as you execute campaigns on the ground, in space and across the galaxy. Forget tedious resource gathering - just jump straight into the heart of the action.You can even change Star Wars history! Every decision affects your next battle and every battle helps shape the fate of the galaxy."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Petroglyph Games"
+	],
+	"identifier": [
+	  "StarWarsEmpireAtWarDemo"
+	],
+	"addeddate": [
+	  "2012-06-24 09:43:21"
+	],
+	"publicdate": [
+	  "2012-06-24 09:45:36"
+	],
+	"date": [
+	  "2006"
+	],
+	"year": [
+	  "2006"
+	],
+	"publisher": [
+	  "LucasArts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903805_19"
+	]
+  },
+  "files": {
+	"\/EmpireAtWarDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1340530054",
+	  "size": "777927568",
+	  "md5": "b994793f5b2159641a849fdde3167b7c",
+	  "crc32": "7458cd46",
+	  "sha1": "dc537c5645fbff85cd373c1659af9dec192f7d89"
+	},
+	"\/EmpireAtWarDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1340530055",
+	  "size": "136205",
+	  "md5": "6d64b3fb5c6cf2e80581431ecb3c8147",
+	  "crc32": "d2a23b75",
+	  "sha1": "92fdbf0c2aaf674316a8a7a139223cb1f1717792",
+	  "rotation": "0"
+	},
+	"\/EmpireAtWarDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "EmpireAtWarDemo.jpg",
+	  "mtime": "1340531130",
+	  "size": "5163",
+	  "md5": "4353ec9f50151868402dd4f703183c0e",
+	  "crc32": "960ce3aa",
+	  "sha1": "7918529574f43c25ed0e34d1d8d630c07fc30821"
+	},
+	"\/StarWarsEmpireAtWarDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "b497cc477f4b0fb1e95d2bce3e3a1cab4180cac0",
+	  "mtime": "1466268177",
+	  "size": "31602",
+	  "md5": "882b69b0cda3aaceaebd41c1b95803e9",
+	  "crc32": "decbc75a",
+	  "sha1": "806f0fc525a6f2b481f2791e6385049a3d5070d7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StarWarsEmpireAtWarDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "af6cd5bf3333a8fa26dd4dabf3f0934f"
+	},
+	"\/StarWarsEmpireAtWarDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466268169",
+	  "size": "1341",
+	  "md5": "0a71351ac21870c8a3b25830f5722bca",
+	  "crc32": "a2d11b69",
+	  "sha1": "c193e19df59827e9ab91202601aa8aed4de639d5"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600703.us.archive.org\/15\/items\/StarWarsEmpireAtWarDemo\/EmpireAtWarDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 667,
+	"week": 9,
+	"month": 15
+  }
+}

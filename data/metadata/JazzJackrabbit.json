@@ -1,0 +1,200 @@
+{
+  "server": "ia800807.us.archive.org",
+  "dir": "/12/items/JazzJackrabbit",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Jazz Jackrabbit"
+	],
+	"description": [
+	  "Fasten your seatbelts for the ride of your life! Jazz Jackrabbit is coming toward you at light speed, and this little bunny carries a REALLY big gun. The evil turtle emperor Devan Shell has rabbitnapped the beloved princess Eva Earlong. Now he's swiping all the goodies in the galaxy to support his plot of Galactic Rabbit Destruction!! Features ultra-fast scrolling, 256-color graphics and rocking digital audio this tough little bunny will leave Sonic in his tracks!!!"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Epic MegaGames"
+	],
+	"identifier": [
+	  "JazzJackrabbit"
+	],
+	"addeddate": [
+	  "2012-07-20 04:48:27"
+	],
+	"publicdate": [
+	  "2012-07-20 04:48:41"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"notes": [
+	  "jazzxmas.zip is a special Christmas themed demo."
+	],
+	"publisher": [
+	  "Epic MegaGames"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "jazz.exe"
+	],
+	"backup_location": [
+	  "ia903901_13"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444826502",
+	  "size": "62442",
+	  "md5": "52920def88767becc1da923bfce1e3f3",
+	  "crc32": "41938ec9",
+	  "sha1": "47cfedd097a8d4880a4e5380cdbe2aedd553ca6f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444826525",
+	  "size": "4268",
+	  "md5": "044adc841341f3890e91eb13a53ef605",
+	  "crc32": "a51fc536",
+	  "sha1": "64e4debeb8d58e92a2a9f1f5acf2cc7ff2d2febf"
+	},
+	"\/JazzJackrabbit.gif": {
+	  "source": "original",
+	  "mtime": "1444826507",
+	  "size": "12905",
+	  "md5": "e57612ff0f4aa97c2490f0e30dbea396",
+	  "crc32": "2a022bc3",
+	  "sha1": "0cc350b1251fdfd9c3d9085ded7ae2b864148c64",
+	  "format": "Animated GIF"
+	},
+	"\/JazzJackrabbit_archive.torrent": {
+	  "source": "original",
+	  "btih": "54de215e7b4115c26857fdb33bb5a7a3a0ea5a07",
+	  "mtime": "1473221428",
+	  "size": "3334",
+	  "md5": "3397d9d450c9090a63923472ce50b00c",
+	  "crc32": "23d84c91",
+	  "sha1": "47cd622883632721b5814ce5dbe9748d44d57eea",
+	  "format": "Archive BitTorrent"
+	},
+	"\/JazzJackrabbit_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6df18d2f6c705f2d5c1a5632a5d267e1"
+	},
+	"\/JazzJackrabbit_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444826514",
+	  "size": "9216",
+	  "md5": "f3b5c43d0064d7d3d31993f8047f224e",
+	  "crc32": "57042f36",
+	  "sha1": "aaccf13d198e1b5bf96d064140335dd1a3527c99",
+	  "format": "Metadata"
+	},
+	"\/JazzJackrabbit_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466862178",
+	  "size": "1401",
+	  "md5": "d5545910fcd0439a1714d6675e972376",
+	  "crc32": "11574a3a",
+	  "sha1": "87de3e45791799f661a5b4c2ecf42196382a6314"
+	},
+	"\/jazz.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452453242",
+	  "size": "1425375",
+	  "md5": "624e44ad260b90019e02bdc5ae2d9f2c",
+	  "crc32": "184343e8",
+	  "sha1": "e806f682b9e605f33daae5a2c7847a3d63f93bc4"
+	},
+	"\/jazz11.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1342759672",
+	  "size": "1418818",
+	  "md5": "c51a583bb45c2d54f6020996c70c1f06",
+	  "crc32": "ef8ecbb3",
+	  "sha1": "c230df9c5c0213eae7b5d431b7cc9edc9d918867"
+	},
+	"\/jazz11_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444826511",
+	  "size": "34823",
+	  "md5": "c0931b887ce89f337ee516202d173360",
+	  "crc32": "df1ab5ea",
+	  "sha1": "f57d783be80022319ad1c7beaca511b62c6211df",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_316.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1342759609",
+	  "size": "17552",
+	  "md5": "dd0941231922c68c86ea42e3583d58c9",
+	  "crc32": "a569977e",
+	  "sha1": "4d882e4ecb2b2d5c0dfbcff1d44b4c65866ded2f",
+	  "rotation": "0"
+	},
+	"\/resource_item_316_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_316.jpg",
+	  "mtime": "1342759716",
+	  "size": "4487",
+	  "md5": "acec9b3ce56f989e7a91c84423bacdb1",
+	  "crc32": "ba16aa76",
+	  "sha1": "31459803afe2d00e12dc2b152a4c2bb15117239a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444826504",
+	  "size": "62442",
+	  "md5": "52920def88767becc1da923bfce1e3f3",
+	  "crc32": "41938ec9",
+	  "sha1": "47cfedd097a8d4880a4e5380cdbe2aedd553ca6f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444826526",
+	  "size": "4268",
+	  "md5": "044adc841341f3890e91eb13a53ef605",
+	  "crc32": "a51fc536",
+	  "sha1": "64e4debeb8d58e92a2a9f1f5acf2cc7ff2d2febf"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800807.us.archive.org\/12\/items\/JazzJackrabbit\/JazzJackrabbit.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 11209,
+	"week": 53,
+	"month": 233
+  }
+}

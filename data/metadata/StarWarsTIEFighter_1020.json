@@ -1,0 +1,426 @@
+{
+  "server": "ia800803.us.archive.org",
+  "dir": "/15/items/StarWarsTIEFighter_1020",
+  "metadata": {
+	"identifier": [
+	  "StarWarsTIEFighter_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "LucasArts"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "LucasArts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Star Wars: TIE Fighter Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 07:34:07"
+	],
+	"addeddate": [
+	  "2012-09-04 07:34:07"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "for TIE Fighter Group Alpha\n\nYour flight will be responsible for eliminating any opposition\nat the Rebel repair yard near Remitik.  In the absence of any \nactive defense you will assist in the destruction of the repair\nyard.  This is to prepare for an ambush of any ships escaping \nthe attack on Hoth.  As Rebel ships enter the area you are to\nengage and destroy them.  Take no prisoners!  Good Hunting!"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234220[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "tiedemo"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475504249",
+	  "size": "113294",
+	  "md5": "58493ab585b77e90eeec56fd53411d24",
+	  "crc32": "937dc171",
+	  "sha1": "ccb893fab2bf95c21afae22996c1242581b2b01e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475504338",
+	  "size": "3796",
+	  "md5": "b24767c6243d1451abe5e99145a471fc",
+	  "crc32": "15350a08",
+	  "sha1": "4d38716f7a7e91f007103d5c49d7afb7145627ee"
+	},
+	"\/StarWarsTIEFighter_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475504298",
+	  "size": "25286",
+	  "md5": "8f61ba06936eef6ab3e78358b5266060",
+	  "crc32": "9450a04f",
+	  "sha1": "fc62f996f019339f7d08f1775ae228368107559e",
+	  "format": "Animated GIF"
+	},
+	"\/StarWarsTIEFighter_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8dca7ef679f6d899023d2343ae99b65b"
+	},
+	"\/StarWarsTIEFighter_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475504311",
+	  "size": "13312",
+	  "format": "Metadata",
+	  "md5": "2b46235143d4027b2d3bddd0e595f6e2",
+	  "crc32": "37befc87",
+	  "sha1": "a622995544590760799d870e16ca6cfb4f4b161d"
+	},
+	"\/StarWarsTIEFighter_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466747220",
+	  "size": "1308",
+	  "md5": "7112b7536f36da1c498b6f8474756015",
+	  "crc32": "a5cb41ca",
+	  "sha1": "8c36137437db4181e8ebaae5712950d369a6621f"
+	},
+	"\/TIEDEMO.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452455508",
+	  "size": "1679570",
+	  "md5": "af561582f8b8d818f1707a6121076131",
+	  "crc32": "c8d5efb2",
+	  "sha1": "d7ab1a8ce8f018c0149036f4a16ec7ec35da3e77"
+	},
+	"\/TIE_Fighter_Preview__Dodge_Neon.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346744065",
+	  "size": "1734898",
+	  "md5": "d736eb5a844cde804af6a4b0dc6ec38e",
+	  "crc32": "89c2c526",
+	  "sha1": "b9036e03e6a21c6f22bc04cfe5326787aa135566"
+	},
+	"\/TIE_Fighter_Preview__Dodge_Neon.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744065",
+	  "size": "659",
+	  "md5": "00847c81eb3773d25a50ca4c6964aa35",
+	  "crc32": "30f123a3",
+	  "sha1": "ac8bd3c035f3b790a91ccc132f3e5df427f36516"
+	},
+	"\/TIE_Fighter_Preview__Dodge_Neon_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475504304",
+	  "size": "342517",
+	  "md5": "ff9a2d96d55b88dc1163a58f040974b3",
+	  "crc32": "2ee137ff",
+	  "sha1": "7af495a9f16dcf5f9be2a78e3320ca4daf8e26c9",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1873.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346744067",
+	  "size": "12457",
+	  "md5": "fcbadd43c22b058860924ca848e44c2b",
+	  "crc32": "1575b8de",
+	  "sha1": "f1fcabea90fcd0f305d58bd7dea2962769905fb1",
+	  "rotation": "0"
+	},
+	"\/resource_item_1873.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744067",
+	  "size": "272",
+	  "md5": "1f160b59ef1676c80d24ef8d5c7dbfe9",
+	  "crc32": "8889e34a",
+	  "sha1": "a0db5bb0a1ea26224068c7f9b13ba9f9f7b5c30e"
+	},
+	"\/resource_item_1873_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1873.jpg",
+	  "mtime": "1346744772",
+	  "size": "4277",
+	  "md5": "adf9dda0fcc887aa90efda58c121fd95",
+	  "crc32": "573b56ea",
+	  "sha1": "60e21b5b5d36cb05916f889f0ee4e978b2b06d62"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475504251",
+	  "size": "84881",
+	  "md5": "c310d7c8762593cd75fa299cacfc0548",
+	  "crc32": "823d93d0",
+	  "sha1": "5d4df0b7cd0d4d258cfde6469228b6ec183848cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475504335",
+	  "size": "4671",
+	  "md5": "0279b476eea56575d31e9e0e91aa99e2",
+	  "crc32": "f0adbe2d",
+	  "sha1": "30d96a8cba063133a5a8d9dfa7164ac9138ea83f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475504259",
+	  "size": "85832",
+	  "md5": "4aaad8300e650586d27ff95f80a54f08",
+	  "crc32": "9b6468ef",
+	  "sha1": "d8f14c07952f33a6ed5e24b9b3e713c20bdd9a99",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475504332",
+	  "size": "4801",
+	  "md5": "5e8393c351ee2b72bae9bdf0a8a5b907",
+	  "crc32": "d06212f5",
+	  "sha1": "1a255c50839af7d568306c24ca3b09dc9f15d35b"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475504262",
+	  "size": "84200",
+	  "md5": "1ff56826d834367598e5d97312e37096",
+	  "crc32": "5e63c518",
+	  "sha1": "b674146a66cd18b10680b41a4a63ec44f0fee4e6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475504336",
+	  "size": "4725",
+	  "md5": "73b5f45ec68c61d3c1b82fa604210a0c",
+	  "crc32": "922377e0",
+	  "sha1": "50659e49e19b0db1230a48340c463931b675c4d8"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475504265",
+	  "size": "27049",
+	  "md5": "8a4dd901bd03dabbaf98090aab4240bd",
+	  "crc32": "93736ca8",
+	  "sha1": "0f617c8c7b74d71b0ad1aaf7ebd4b6c2b57e9f5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475504337",
+	  "size": "1630",
+	  "md5": "a9e3466e72f21cf6c623749725cbfd20",
+	  "crc32": "9deedd20",
+	  "sha1": "d12eb0e51c11cea6afbcb3df06e299d1af7f0fa4"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475504268",
+	  "size": "26051",
+	  "md5": "34e3d614a4d8ca279b4f57267699d714",
+	  "crc32": "67795784",
+	  "sha1": "79ffcf0b6d760125f83726bbf067774eac4fd5d2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475504340",
+	  "size": "1807",
+	  "md5": "1c36261bea1849901eece5cc81b824db",
+	  "crc32": "bead08e4",
+	  "sha1": "34b10073f8eb8b37dc95997350972271551d8c50"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475504271",
+	  "size": "64002",
+	  "md5": "3b58a885b3343a20a8f0f7c85080c783",
+	  "crc32": "11a14bb3",
+	  "sha1": "571bbe6be1da31406bc65534a5b5f3fc71762fc0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475504341",
+	  "size": "7649",
+	  "md5": "df2270d6700251b2ba61fa3dbe845dab",
+	  "crc32": "66a4dbdf",
+	  "sha1": "07e81d7c08ce8205dfc6888e9f5d543bbb97d7d6"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475504280",
+	  "size": "96309",
+	  "md5": "413f85aa1420d1dceeb70d13d7fef719",
+	  "crc32": "6cf058d9",
+	  "sha1": "b652230d9b3867c940c7260d6ced9603e16fb9ca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475504342",
+	  "size": "4974",
+	  "md5": "8e72212b80b9c510d2d7c8f8fc1177d5",
+	  "crc32": "b0aa5b51",
+	  "sha1": "f23b29ba369cd5d961d289f1eb71051d051ac2eb"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475504289",
+	  "size": "110627",
+	  "md5": "85da470b6ef42ceb81eebdfb9ba358d5",
+	  "crc32": "55f9fd83",
+	  "sha1": "5ea0a1a76efa00feeff4ca96de5a84d75206af03",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475504347",
+	  "size": "3677",
+	  "md5": "933b3f09a941383fad9fa93ece1e1812",
+	  "crc32": "e6591e3d",
+	  "sha1": "73b57e5383529d242d1783b40cadd375fb809fcb"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475504291",
+	  "size": "113294",
+	  "md5": "58493ab585b77e90eeec56fd53411d24",
+	  "crc32": "937dc171",
+	  "sha1": "ccb893fab2bf95c21afae22996c1242581b2b01e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475504344",
+	  "size": "3796",
+	  "md5": "b24767c6243d1451abe5e99145a471fc",
+	  "crc32": "15350a08",
+	  "sha1": "4d38716f7a7e91f007103d5c49d7afb7145627ee"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475504293",
+	  "size": "110134",
+	  "md5": "6d4c748543f3f3a6dc3c91c2db093b5d",
+	  "crc32": "664cc8f5",
+	  "sha1": "df475a2255f7d86586de7019d3f274bf4176acc8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475504345",
+	  "size": "3631",
+	  "md5": "5e439c63b894754eb678614170d71680",
+	  "crc32": "620b7eb8",
+	  "sha1": "e030c6acb98eaa93764b880aa21f01d5fde72841"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475504295",
+	  "size": "112856",
+	  "md5": "e46bb49e4a03b341e4b9661fb105aa58",
+	  "crc32": "e053f595",
+	  "sha1": "0ee2c191dcc6a9c2318b59086c639541524bdfd4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475504346",
+	  "size": "3763",
+	  "md5": "4313d583a33337a11bf003cad1cd5966",
+	  "crc32": "4f0cc6df",
+	  "sha1": "72a3a8523c9bffcf1e67c88eb383bd6583ba7429"
+	},
+	"\/tiedemo1.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1415043742",
+	  "size": "1280010",
+	  "md5": "5c9f4edf25f5720291ab5e0c9c57eeaf",
+	  "crc32": "105f0687",
+	  "sha1": "6d0987f2eb06b9db5f2624a41b20cce5422e4e52"
+	},
+	"\/tiedemo2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1415043743",
+	  "size": "454599",
+	  "md5": "2a41fa21b10a61b7ecd0d87a4419736f",
+	  "crc32": "bfee532b",
+	  "sha1": "204ae5d961e6a62fa97bdeb3f2e939ddf46cee56"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800803.us.archive.org\/15\/items\/StarWarsTIEFighter_1020\/StarWarsTIEFighter_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1451,
+	"week": 11,
+	"month": 21
+  }
+}

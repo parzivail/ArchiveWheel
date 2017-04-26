@@ -1,0 +1,130 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/26/items/ZPC_1020",
+  "metadata": {
+	"identifier": [
+	  "ZPC_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Zombie"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GT Interactive"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "ZPC Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 17:36:40"
+	],
+	"addeddate": [
+	  "2012-09-04 17:36:40"
+	],
+	"description": [
+	  "\"Following a 400-year cryogenic exile, Arman, the last of the Warrior Messiahs has returned to reclaim his throne and usher in a new age. An age free of despair, death camps, torture, brainwashing, environmental corruption and genocide...Play the game Axcess Magazine called the \"\"coolest, most surreal, most unabashedly violent game to surface in the first-person shooter field to date!\"\" Vengeance is yours in an alternate reality riddled with death, torture and corruption. Prepare the way...the Messiah is coming!\n\n* Also known as Zero Population Count\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/ZPC.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346780497",
+	  "size": "30743043",
+	  "md5": "237eb6546a19d6f8f67d26c340722069",
+	  "crc32": "2d4c64f6",
+	  "sha1": "7d63b3f5b792b1441940407137f147aae330bfb3"
+	},
+	"\/ZPC.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780497",
+	  "size": "669",
+	  "md5": "176d9c03ca1437b46bb4a36d523c9b89",
+	  "crc32": "5a472f85",
+	  "sha1": "93a4bbd882d0f0ef8448cbcf018043ca017df75f"
+	},
+	"\/ZPC_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "545396c0f08e39aaa460ceb5cf1a163d21b8b152",
+	  "mtime": "1464385159",
+	  "size": "2950",
+	  "md5": "32baa1742626443371a862e8daef6429",
+	  "crc32": "17db5a2a",
+	  "sha1": "30e7743f0c9cad17ccac968995f5f2d5d4050918",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ZPC_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a1570150d56eb37d92aa720ee3ecb0c4"
+	},
+	"\/ZPC_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464385158",
+	  "size": "1294",
+	  "md5": "3c5ef1c972f1934e3af482434a3a693a",
+	  "crc32": "31e5640a",
+	  "sha1": "544277430f8c3477d555189b44bfe216be92c55a"
+	},
+	"\/resource_item_2312.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346780499",
+	  "size": "27073",
+	  "md5": "90fcb83788e01ecae0446b37c59db21e",
+	  "crc32": "1e1eeb5d",
+	  "sha1": "5d2779e2b2ed65921f7ea44b50df79b69242ad7c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2312.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780499",
+	  "size": "272",
+	  "md5": "52d41bcdd66f3d891e1715ffa38ef4e1",
+	  "crc32": "a4b4d26e",
+	  "sha1": "80bc121d60dbcc6258edf3b5c4d1040c8fcc7ca8"
+	},
+	"\/resource_item_2312_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2312.jpg",
+	  "mtime": "1346817883",
+	  "size": "7755",
+	  "md5": "4f7e8d34f29e4e526dd675c24f4747d7",
+	  "crc32": "e2183d61",
+	  "sha1": "27f6a6547f91615993c25d47d9930bb33b15a9fe"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/26\/items\/ZPC_1020\/resource_item_2312_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 318,
+	"week": 2,
+	"month": 13
+  }
+}

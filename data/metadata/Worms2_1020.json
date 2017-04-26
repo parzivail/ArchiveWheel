@@ -1,0 +1,123 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/32/items/Worms2_1020",
+  "metadata": {
+	"identifier": [
+	  "Worms2_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Team17"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Welcome to the bizarre cartoon world of Worms2 [sic]. This addictive game of revenge and mean-minded cruelty features a mind-blowing array of wacky weapons. Witty speech, dynamite sound effects and original music. Brain-tickling strategy and politically correct violence. Go it alone Wormbo-style against 17 other Worms in the 18 player hot-seat game, or wage 6 player mayhem over a LAN or the Internet. If you're breathing, you won't be able to stop playing it!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Worms 2 Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2012-09-05 01:20:18"
+	],
+	"addeddate": [
+	  "2012-09-05 01:20:18"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234627[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/Worms2_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "52ca281aac54742b8da17de46cbf6c5b"
+	},
+	"\/Worms2_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463906772",
+	  "size": "1229",
+	  "md5": "33143bf7ca88964b020f6e48b3ce9f2c",
+	  "crc32": "7221b82a",
+	  "sha1": "64c4b6804fd3274b7d78f4cc94d9f17673a82e46"
+	},
+	"\/resource_item_2785.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808158",
+	  "size": "14889",
+	  "md5": "0f76124f1f1e4f5cba09e0b30c1a21f4",
+	  "crc32": "f4875d40",
+	  "sha1": "120626c57d4939e60a06b234579e31a9947b15df",
+	  "rotation": "0"
+	},
+	"\/resource_item_2785.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808159",
+	  "size": "272",
+	  "md5": "d3d288ea369364f209c821e42a2da0a0",
+	  "crc32": "6989d48e",
+	  "sha1": "1bd93158987261058209d99b11aa2823505b18c6"
+	},
+	"\/resource_item_2785_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2785.jpg",
+	  "mtime": "1346820158",
+	  "size": "5254",
+	  "md5": "6c613adc63596a7ef25af5f9ee54dafb",
+	  "crc32": "e96e9492",
+	  "sha1": "c0f20eb2be1b5aee25053d271ef8be9f2476311d"
+	},
+	"\/worms2demo05sepa.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346808156",
+	  "size": "14270026",
+	  "md5": "44a64dc803f615916790ca857b9a1927",
+	  "crc32": "490cc158",
+	  "sha1": "c5a6e1964bbd2571c80fdcf127b7ee80bee491a7"
+	},
+	"\/worms2demo05sepa.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808157",
+	  "size": "1160",
+	  "md5": "5e5f8e64ce3903ef555f80c6bc5c9f70",
+	  "crc32": "d619ce20",
+	  "sha1": "c7ff690a095e62126d4960b0ecc2d10b42244c88"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/32\/items\/Worms2_1020\/resource_item_2785_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1620,
+	"week": 24,
+	"month": 66
+  }
+}

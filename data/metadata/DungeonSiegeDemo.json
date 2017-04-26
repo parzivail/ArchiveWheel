@@ -1,0 +1,113 @@
+{
+  "server": "ia601408.us.archive.org",
+  "dir": "/21/items/DungeonSiegeDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Dungeon Siege Demo"
+	],
+	"description": [
+	  "Dungeon Siege combines the immersive elements of a role-playing game with over-the-top intensity and non-stop action. Dungeon Siege plunges you into a continuous 3D fantasy world where you face off against an army of evil that has been unleashed. You begin as a humble farmer, and as you travel through the world and gain new skills, you can gather a party of up to eight characters to aid you."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Gas Powered Games"
+	],
+	"identifier": [
+	  "DungeonSiegeDemo"
+	],
+	"addeddate": [
+	  "2012-05-14 07:17:19"
+	],
+	"publicdate": [
+	  "2012-05-14 07:17:46"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_14"
+	]
+  },
+  "files": {
+	"\/DSmpdemo.JPG": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336979825",
+	  "size": "141099",
+	  "md5": "eb437905cceb463f6f7635612476f7a7",
+	  "crc32": "2fcb9730",
+	  "sha1": "68cd42f4882f7823e8394957e828f39d1ad26a18",
+	  "rotation": "0"
+	},
+	"\/DSmpdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336979824",
+	  "size": "202080256",
+	  "md5": "d06a0e257dc90f8df1c7c7817e72ee62",
+	  "crc32": "a09f3fb3",
+	  "sha1": "072d1428b2f18f2d41c0b14ff653eb879aa27219",
+	  "title": "Dungeon Siege Demo"
+	},
+	"\/DSmpdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "DSmpdemo.JPG",
+	  "mtime": "1336979860",
+	  "size": "4563",
+	  "md5": "c819c38d95996e065eaac3b6611b891b",
+	  "crc32": "9047a1cb",
+	  "sha1": "c6ac5dd35aee838bf9a3e74f0e26fe97805452ce"
+	},
+	"\/DungeonSiegeDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "856fb2f799ebdcb90c6723f9747a008efad2ee3f",
+	  "mtime": "1462505874",
+	  "size": "9544",
+	  "md5": "7027de2ed64ff313ca55a132d246a90f",
+	  "crc32": "13ceaebd",
+	  "sha1": "30ee12e089dd48fc48338b6fe54de8c5c61b94e9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DungeonSiegeDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9c56e66803ab35f7908fc9322bb44c10"
+	},
+	"\/DungeonSiegeDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462505871",
+	  "size": "1163",
+	  "md5": "3fd810d9168dca29288f710cecf702ae",
+	  "crc32": "669d4857",
+	  "sha1": "31db6aeef5b42f9c522e655d43021ef99d7a6e40"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601408.us.archive.org\/21\/items\/DungeonSiegeDemo\/DSmpdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 996,
+	"week": 9,
+	"month": 27
+  }
+}

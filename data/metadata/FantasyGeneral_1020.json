@@ -1,0 +1,408 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/27/items/FantasyGeneral_1020",
+  "metadata": {
+	"identifier": [
+	  "FantasyGeneral_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Your quest is to defeat the Shadowlord and his minions! Choose from four heroes as allies: Knight Marshal Kalidor, Warrior Marcus, Sorceress of Mordra, and Archmage Krell. As you gain experience, you can move your army ever closer to your ultimate goal -- the defeat of the Shadowlord and his followers! To help you along the way, you can recruit mystical creatures and cast magical spells during tactical fights. Create your own battle, or play any one of five historical battles across five continents or in the dreaded Arena."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Mindscape"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Fantasy General Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 07:17:28"
+	],
+	"addeddate": [
+	  "2012-09-04 07:17:28"
+	],
+	"year": [
+	  "1996"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234258[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "fg.bat"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475712047",
+	  "size": "447009",
+	  "md5": "5d8f85be3cf835f07821ad4d4f3a6e27",
+	  "crc32": "a4e3ea47",
+	  "sha1": "95bc8f4baae7e25dd5e06fbcf6134fde9cd62e22",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475712119",
+	  "size": "5083",
+	  "md5": "b8e22f5ff9a4320575ac7f3ed6f9e419",
+	  "crc32": "a6174807",
+	  "sha1": "24859f55d9afbc125331a3935c91bd53532cb2b8"
+	},
+	"\/FG.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475613651",
+	  "size": "3694707",
+	  "md5": "5177255524e071becff7140f6c4bcca1",
+	  "crc32": "688f081b",
+	  "sha1": "64adea055805ddbbfec14754256a2c5ed139fa92"
+	},
+	"\/FG_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475712096",
+	  "size": "792033",
+	  "md5": "3eec87d208be3bad834da6f8d6972e79",
+	  "crc32": "9389a4b5",
+	  "sha1": "03ea3d05019fb7ba5753dc93c0a8eb15665ca067",
+	  "format": "Emulator Screenshot"
+	},
+	"\/FantasyGeneral_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475712088",
+	  "size": "132800",
+	  "md5": "4a9d8440abe5362278153e2d0919ff7b",
+	  "crc32": "929929f6",
+	  "sha1": "05dbeb331a293e2191a994f61e898e3a5ff408e0",
+	  "format": "Animated GIF"
+	},
+	"\/FantasyGeneral_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f11c7ad3209f7fd2b3e5e2313924a2be"
+	},
+	"\/FantasyGeneral_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475712097",
+	  "size": "13312",
+	  "md5": "0f87b383d0df5280d853f8e672fade92",
+	  "crc32": "ef53b08b",
+	  "sha1": "6aa448fd45942f78d4a4d3d081a2ab2e7ab0efb0",
+	  "format": "Metadata"
+	},
+	"\/FantasyGeneral_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475613750",
+	  "size": "1412",
+	  "md5": "6fd1868f8738b67d6cda4b841631e225",
+	  "crc32": "94391d5b",
+	  "sha1": "223e7424f9d080629b4d2b44ef9f13e17daf99d9"
+	},
+	"\/fan_gen_demo-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346743087",
+	  "size": "3744294",
+	  "md5": "9442adcbd810ead8d5a5312037d5685c",
+	  "crc32": "4c5a55f4",
+	  "sha1": "1dc544e2ee4b2e5bcd54b7e2d1e19b77118ef4c2"
+	},
+	"\/fan_gen_demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743088",
+	  "size": "1201",
+	  "md5": "25c09e0b239c9860fd9a632cbb60d046",
+	  "crc32": "47eefdda",
+	  "sha1": "8e68e964ea63ed5ba50445cdaba322a4f07f5351"
+	},
+	"\/resource_item_1814.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346743090",
+	  "size": "16438",
+	  "md5": "e7df3c489ef547515d99780393ac8083",
+	  "crc32": "c1083189",
+	  "sha1": "f1c736f05aa7356a011d84e2b41dbd6335f2e011",
+	  "rotation": "0"
+	},
+	"\/resource_item_1814.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743090",
+	  "size": "272",
+	  "md5": "1188ee890cad99c9e73198594978b77e",
+	  "crc32": "f61814e3",
+	  "sha1": "8a4b96917c80aeab3185aaa877b611291f6da57f"
+	},
+	"\/resource_item_1814_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1814.jpg",
+	  "mtime": "1346743757",
+	  "size": "4966",
+	  "md5": "bdd045b6453fdf6e9b9c58a03ae021f8",
+	  "crc32": "1ee2d59e",
+	  "sha1": "fe2971f90fe4de0160f487507725161b280e8293"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475712049",
+	  "size": "53460",
+	  "md5": "258b538beca75b3504f86de216c59fbe",
+	  "crc32": "abfaf528",
+	  "sha1": "a46ea0078262b2514098dc2b07f902dea64efc00",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475712121",
+	  "size": "2523",
+	  "md5": "b4511c310cf450166565230dc2507058",
+	  "crc32": "8db2302a",
+	  "sha1": "df21acdd92181c60ed6f900b3055f363761b89c4"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475712052",
+	  "size": "47024",
+	  "md5": "3099b3509bf10e640e2bba39a83861dc",
+	  "crc32": "768da14e",
+	  "sha1": "91835c5585b3f28da01a6bdf65f68d44f2f3c4c6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475712122",
+	  "size": "2211",
+	  "md5": "a54a98d743502e3fe2dd1f2e97d8547c",
+	  "crc32": "bea5a377",
+	  "sha1": "9fcbc1b4eb17636c5de547c1cb8e27d7e1a7ca8e"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475712055",
+	  "size": "202334",
+	  "md5": "ea021c54ede68671db0ddea05987de50",
+	  "crc32": "14d3bb10",
+	  "sha1": "eb5087b4b03502fbe4b6c714d6052d73570e27ef",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475712124",
+	  "size": "3406",
+	  "md5": "e720415ceff6724d8b19bb5b39950a8a",
+	  "crc32": "576757ad",
+	  "sha1": "9f0f87e3cfd425b85abc2801e9383d1658c7d67b"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475712058",
+	  "size": "228309",
+	  "md5": "cf4cbe4fe3bb57922621d975ce262be0",
+	  "crc32": "9ef1360e",
+	  "sha1": "a0bcf7272594ce22fdd250599c334f15cdfdbb1b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475712125",
+	  "size": "4118",
+	  "md5": "6508fbb32e7dad5f3f204757b4c0bfd2",
+	  "crc32": "757c5f72",
+	  "sha1": "b99307eb4dfb8b2c238350e355127e3a3c0ae99e"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475712060",
+	  "size": "145617",
+	  "md5": "81ccc6f41905a3074b39c62c618ad46e",
+	  "crc32": "1f3c69f5",
+	  "sha1": "e218565b723563046ac80821726857cf5c94f89d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475712126",
+	  "size": "2301",
+	  "md5": "4913cadcd58c537d829705b4cd400642",
+	  "crc32": "b2443d06",
+	  "sha1": "bbb8ef8c854e34463dce97d7436d2ad24eaca617"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475712067",
+	  "size": "4437",
+	  "md5": "79612a688c994ebfe572d132fcfc6926",
+	  "crc32": "2c47ad3d",
+	  "sha1": "f38d2f937abc94ba50c336556917954c7b3c29cb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475712127",
+	  "size": "1039",
+	  "md5": "76ff3f9c188a991aeb5523301d9de9a4",
+	  "crc32": "f1c02372",
+	  "sha1": "df332fc408a94806257b5d5d2e106f3259fcc240"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475712069",
+	  "size": "445357",
+	  "md5": "8d67a5826feab78f28e5d87fc1bc4fdb",
+	  "crc32": "17182f5b",
+	  "sha1": "b89d05c2ccb5e5086215559be7deb0b70ea227ac",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475712129",
+	  "size": "5046",
+	  "md5": "38140b069885cffc89cbf72f58f1b2d7",
+	  "crc32": "59d6bcab",
+	  "sha1": "5a2217738bf1501fcfb8d8545f7de70e244284d5"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475712072",
+	  "size": "447009",
+	  "md5": "5d8f85be3cf835f07821ad4d4f3a6e27",
+	  "crc32": "a4e3ea47",
+	  "sha1": "95bc8f4baae7e25dd5e06fbcf6134fde9cd62e22",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475712136",
+	  "size": "5083",
+	  "md5": "b8e22f5ff9a4320575ac7f3ed6f9e419",
+	  "crc32": "a6174807",
+	  "sha1": "24859f55d9afbc125331a3935c91bd53532cb2b8"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475712075",
+	  "size": "428987",
+	  "md5": "2479b8a9d842241bfeabe83a91b21660",
+	  "crc32": "1dd54ff3",
+	  "sha1": "5feefef05c061e051501c9d9002cb1f3aa623248",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475712137",
+	  "size": "4711",
+	  "md5": "bc046cf33307642af835364671a40e9d",
+	  "crc32": "51bb980d",
+	  "sha1": "e2644cd190e4363a498af2fe4ba0b31d45aebf4d"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475712081",
+	  "size": "3344",
+	  "md5": "93d5b312274946def60f8517f994f6f1",
+	  "crc32": "233180a6",
+	  "sha1": "e0f00c3527d0c666ad2c2b79814bc954e18926a8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475712138",
+	  "size": "1011",
+	  "md5": "f818b3bf910e19a6035f892d85616795",
+	  "crc32": "acb9e222",
+	  "sha1": "93bf5ad2a39276576ec479e3c31d21708f842da1"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475712084",
+	  "size": "401637",
+	  "md5": "e6b41e041e12879035f81a1ccbab4944",
+	  "crc32": "77f3e51b",
+	  "sha1": "a900d61d7fa649e6a0ff7729967157fb10469eff",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475712140",
+	  "size": "3486",
+	  "md5": "d5096fd57e9533f6ac560cd18df83b35",
+	  "crc32": "43002c2b",
+	  "sha1": "75efb349803301e62794ca7baff33710aec9ffe1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/27\/items\/FantasyGeneral_1020\/FantasyGeneral_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 315,
+	"week": 3,
+	"month": 5
+  }
+}

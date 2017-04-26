@@ -1,0 +1,116 @@
+{
+  "server": "ia600200.us.archive.org",
+  "dir": "/7/items/IAFDEMO",
+  "metadata": {
+	"identifier": [
+	  "IAFDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Pixel Multimedia"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Jane's Combat Simulations: Israeli Air Force gives the player the chance to join the Israeli Air Force, one of the most professional air forces in the world. Flyable aircraft are: F-4E, F-4 2000, F-15 2000, F-16D, Lavi ATF, Kfir, and Mirage III."
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Jane's Combat Simulations: Israeli Air Force Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 22:58:55"
+	],
+	"addeddate": [
+	  "2014-02-07 22:58:55"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233754[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_34"
+	]
+  },
+  "files": {
+	"\/IAFDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391813935",
+	  "size": "56322064",
+	  "md5": "5e0fc2b71de9bb6fc532a13ee62bf0b6",
+	  "crc32": "0463427d",
+	  "sha1": "2f99cfaede11b8ab5e783f5bf2fe122db836b275"
+	},
+	"\/IAFDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "de17e088188c8cafbb75319e2258cc9b"
+	},
+	"\/IAFDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391813954",
+	  "size": "14336",
+	  "md5": "e7aaae9708974e8d8ba3b60a4a588d1a",
+	  "crc32": "9620500a",
+	  "sha1": "036e6295830661674ca373b53c7a09a51cbf4213"
+	},
+	"\/IAFDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474613830",
+	  "size": "1124",
+	  "md5": "8299fb8bcb0efde0f10bcf5c4df52f76",
+	  "crc32": "1841803e",
+	  "sha1": "b251f2bc9eb8d934a8372d838cea2711b62db7ac"
+	},
+	"\/iafdemo.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391813947",
+	  "size": "114804",
+	  "md5": "9068ba3701f7bdfc75ed7fdee6a3bff1",
+	  "crc32": "f6d4da16",
+	  "sha1": "a3e5111b549c8a70b7b250a3090e9b1e694ff7f5"
+	},
+	"\/iafdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "iafdemo.PNG",
+	  "mtime": "1391813967",
+	  "size": "6533",
+	  "md5": "cf07c7a335671b5a054f7706b121584f",
+	  "crc32": "faaffe37",
+	  "sha1": "39198a53b5128e692cfb7bee600092c19259757d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600200.us.archive.org\/7\/items\/IAFDEMO\/iafdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2557,
+	"week": 16,
+	"month": 86
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "server": "ia600507.us.archive.org",
+  "dir": "/3/items/speech4",
+  "metadata": {
+	"identifier": [
+	  "speech4"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "PowerVision"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Dan is a bush pilot with an urgent need for cash. You can help Dan through his adventures in the outback searching for a rumored opal mine. If you are looking for a real mental challenge that will take you many hours to solve then Dan is your man. Digitized video animation over photographic backgrounds give a realistic view and atmosphere. As for Dan's sense of humor - well!"
+	],
+	"publisher": [
+	  "Guildsoft",
+	  "Manaccom"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Adventures of Down Under Dan Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2015-06-25 21:28:43"
+	],
+	"addeddate": [
+	  "2015-06-25 21:28:43"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "godan.bat"
+	],
+	"backup_location": [
+	  "ia905307_15"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444839179",
+	  "size": "64091",
+	  "md5": "c2e5ea3c7625df07ceac768b5769a81b",
+	  "crc32": "00879917",
+	  "sha1": "8dd06bb848148c19faabab394933e7e2f05adf44",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444839205",
+	  "size": "4174",
+	  "md5": "dd0241283bfe45c001920a08637d98ee",
+	  "crc32": "804d9ae3",
+	  "sha1": "7021520f1c5af33c06607d44073136d3278bd9ea"
+	},
+	"\/_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444839190",
+	  "size": "30885",
+	  "md5": "7c20355fd2a114c5336c73d1035b2b08",
+	  "crc32": "13c9cddb",
+	  "sha1": "0b2e562b348bafb722ec1253e2b43397831a6ae4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/dan.play": {
+	  "source": "original",
+	  "mtime": "1435267764",
+	  "size": "6124654",
+	  "md5": "7e4d26afc6f4b12ffd8f50dd02642f40",
+	  "crc32": "7c352c96",
+	  "sha1": "d199ed9d70cfeb801b072b09facd74afae0104b1",
+	  "format": "Unknown"
+	},
+	"\/down.png": {
+	  "source": "original",
+	  "mtime": "1435267746",
+	  "size": "42808",
+	  "md5": "89bdae8b0140f9bebd863452c61e5786",
+	  "crc32": "72a302cd",
+	  "sha1": "a0283ef4c8e5a46617865807bcaa2142e8417387",
+	  "format": "PNG"
+	},
+	"\/down_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "down.png",
+	  "mtime": "1435267777",
+	  "size": "8037",
+	  "md5": "a2c41fc0978250e0ae36bff05aacfe76",
+	  "crc32": "d8c0f8b5",
+	  "sha1": "4bce86813c9299968d64e45f56dcfaa1bffcd43f"
+	},
+	"\/int_dan1.exe": {
+	  "source": "original",
+	  "mtime": "1435267749",
+	  "size": "1263840",
+	  "md5": "c68e2e8d934d88d48eeede94eeab38bd",
+	  "crc32": "1cf89fe3",
+	  "sha1": "c97712ad7df7afb821d9dee416e20e809da39c6d",
+	  "format": "Windows Executable"
+	},
+	"\/int_dan2.exe": {
+	  "source": "original",
+	  "mtime": "1435267752",
+	  "size": "1410248",
+	  "md5": "1ed2ea93c6cd45b759edf9b5b865800d",
+	  "crc32": "4663efe7",
+	  "sha1": "bb71e27703bbd224308f16d8666fb7500880434f",
+	  "format": "Windows Executable"
+	},
+	"\/int_dan3.exe": {
+	  "source": "original",
+	  "mtime": "1435267755",
+	  "size": "393416",
+	  "md5": "6d1b9bd4a337dbceb5702681326bd90d",
+	  "crc32": "78127522",
+	  "sha1": "683be1031c129965cfa3692f1d5e59e363cbf469",
+	  "format": "Windows Executable"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444839182",
+	  "size": "64079",
+	  "md5": "9526fefe19827611476c6fa80d4442ac",
+	  "crc32": "6d413ec0",
+	  "sha1": "4fcc2fef57df155dafa06858c2eec8cc67aba1c8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444839207",
+	  "size": "4176",
+	  "md5": "d530c0f80dc46a19ede5b246637ca05d",
+	  "crc32": "9bdf4fbb",
+	  "sha1": "939ba7fb52aea0c38f623834b3aae1def05b113e"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444839185",
+	  "size": "64091",
+	  "md5": "c2e5ea3c7625df07ceac768b5769a81b",
+	  "crc32": "00879917",
+	  "sha1": "8dd06bb848148c19faabab394933e7e2f05adf44",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444839208",
+	  "size": "4174",
+	  "md5": "dd0241283bfe45c001920a08637d98ee",
+	  "crc32": "804d9ae3",
+	  "sha1": "7021520f1c5af33c06607d44073136d3278bd9ea"
+	},
+	"\/speech1.exe": {
+	  "source": "original",
+	  "mtime": "1435267723",
+	  "size": "1432679",
+	  "md5": "fb8330f73be5e86036b59da57a3a15e4",
+	  "crc32": "7a0563d2",
+	  "sha1": "bd00372daf4f1739797230e03de24468d58dd167",
+	  "format": "Windows Executable"
+	},
+	"\/speech2.exe": {
+	  "source": "original",
+	  "mtime": "1435267732",
+	  "size": "1419149",
+	  "md5": "f8e5f2876f5b1bf2af6695d45acd019d",
+	  "crc32": "821491ab",
+	  "sha1": "7c4893a1423e487e6c209f37066eeee3dea0eaa6",
+	  "format": "Windows Executable"
+	},
+	"\/speech3.exe": {
+	  "source": "original",
+	  "mtime": "1435267736",
+	  "size": "1426711",
+	  "md5": "7b36a63a63c29219d4b4c37465812309",
+	  "crc32": "7f17aa10",
+	  "sha1": "02306a731f39e608a88901aaabfc1f479b1a9091",
+	  "format": "Windows Executable"
+	},
+	"\/speech4.exe": {
+	  "source": "original",
+	  "mtime": "1435267739",
+	  "size": "1448053",
+	  "md5": "10ca4fb12866d79446e2a68cb97d3be1",
+	  "crc32": "046f7740",
+	  "sha1": "dacd2758c2cb4a246d540d33f0a194b162dc8d10",
+	  "format": "Windows Executable"
+	},
+	"\/speech4.gif": {
+	  "source": "original",
+	  "mtime": "1444839187",
+	  "size": "8535",
+	  "md5": "9e1d9ddb60dcb78e45cbd5eee06ed88a",
+	  "crc32": "0411bccc",
+	  "sha1": "5fa791ecf9f4b9984346bedba97e56d11339efae",
+	  "format": "Animated GIF"
+	},
+	"\/speech4_archive.torrent": {
+	  "source": "original",
+	  "btih": "ee704c7064b1304faef9c8e8cacd55a51f8298e2",
+	  "mtime": "1484110966",
+	  "size": "5265",
+	  "md5": "21cc450d20c4ce8f70faaf57bc01cc64",
+	  "crc32": "c00703d5",
+	  "sha1": "354403aec2bfdfb66da75ee418a2eff34812982d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/speech4_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8c4b68405c9f1901760d69650772d0a3"
+	},
+	"\/speech4_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444839196",
+	  "size": "30720",
+	  "format": "Metadata",
+	  "md5": "da20d4c856ba1fe85771d3e331d37de5",
+	  "crc32": "f8f24d99",
+	  "sha1": "db6a82c3e513e11bf63b063fd5d6d5e1951aac45"
+	},
+	"\/speech4_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484110959",
+	  "size": "1200",
+	  "format": "Metadata",
+	  "md5": "0d2b016803f13edeb407d5c7aa931e7c",
+	  "crc32": "e9f66e66",
+	  "sha1": "ed0a6ab30b404abfa6941bc823c465753eecb9e1"
+	},
+	"\/speech5.exe": {
+	  "source": "original",
+	  "mtime": "1435267743",
+	  "size": "1147724",
+	  "md5": "4801ee59466e82c9773512a42d0dc99b",
+	  "crc32": "8871fe33",
+	  "sha1": "cf140af7f1793e5bdf0d8896f75b69999397694b",
+	  "format": "Windows Executable"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600507.us.archive.org\/3\/items\/speech4\/speech4.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 103,
+	"week": 3,
+	"month": 6
+  }
+}

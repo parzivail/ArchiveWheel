@@ -1,0 +1,343 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/4/items/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020",
+  "metadata": {
+	"identifier": [
+	  "TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Mythos Software"
+	],
+	"date": [
+	  "1992"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:59:16"
+	],
+	"addeddate": [
+	  "2012-09-04 03:59:16"
+	],
+	"year": [
+	  "1992"
+	],
+	"description": [
+	  "\" LONDON.<br \/>\nIn the year of our Lord, 1888.<br \/>\nA young actress has been brutally murdered in the alley behind the Regency Theatre.<br \/><br \/>\nJack the Ripper appears to have struck again.<br \/><br \/>\nInspector Lestrade turns to London's most famous detective to provide the proof.<br \/>\nHe turns to you.<br \/>\nSherlock Holmes. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233911[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "title.bat"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "1.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "It's a demo, not a game!",
+		"reviewtitle": "Only a demo",
+		"reviewer": "marac",
+		"reviewdate": "2017-01-03 20:05:13",
+		"stars": "1"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475552903",
+	  "size": "64578",
+	  "md5": "001fd9f2e29407f6a0321eed35ffd0b1",
+	  "crc32": "01ffb003",
+	  "sha1": "8c9370eb6ac9357241208fd2f7610a6b032d0277",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475552959",
+	  "size": "2190",
+	  "md5": "1936d3c5e1a2ecbea2317177c8b75157",
+	  "crc32": "885b001d",
+	  "sha1": "1395a4bf247918831619ca1d7b8f898282c788cc"
+	},
+	"\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475552927",
+	  "size": "9672",
+	  "md5": "10dc35c0213de56536a18371df27ad7a",
+	  "crc32": "fcd1273e",
+	  "sha1": "02135e5619ea7bde35e0f0f4ba67d0f1f4ac0cf0",
+	  "format": "Animated GIF"
+	},
+	"\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0f64be48c8b149b156500457f43e8a89"
+	},
+	"\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475552941",
+	  "size": "13312",
+	  "md5": "fbbb615c733899ce7110ef97e4101d1a",
+	  "crc32": "4ac74200",
+	  "sha1": "dbcbf540c51fac96e157e2a6e5ede3c00b171154",
+	  "format": "Metadata"
+	},
+	"\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1483474336",
+	  "size": "1382",
+	  "md5": "dced6d40b0175f226eb0e072846794e0",
+	  "crc32": "7798bd36",
+	  "sha1": "9cca06a0ee15d8e74b3f8bff0b3fb1cfc105dbdf"
+	},
+	"\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1483473914",
+	  "size": "494",
+	  "md5": "10062cfeb5c7d97efad701e7f194dd0d",
+	  "crc32": "9620d04f",
+	  "sha1": "9c578fe4e3250556a79f1893fa6cf5809c644f88",
+	  "format": "Metadata"
+	},
+	"\/holmes.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471040844",
+	  "size": "1767717",
+	  "md5": "a00996e8edd758eeb68a9cc0015d2002",
+	  "crc32": "84740c0f",
+	  "sha1": "86d541aaa0c5419d07dc7a283adf22e41bef6f9d"
+	},
+	"\/holmes2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731161",
+	  "size": "714",
+	  "md5": "5feb8aae01ed3f255428dc23c296fc35",
+	  "crc32": "3021fb2b",
+	  "sha1": "39c181ad30462dc64daa515885106b929d30fd9f"
+	},
+	"\/holmes_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475552931",
+	  "size": "76714",
+	  "md5": "4e623deda445f6301ad1ce1fb4d11388",
+	  "crc32": "80a083f8",
+	  "sha1": "bb9ede09ca70f0ec8bd01851b73a6493aee4cf75",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1527.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731657",
+	  "size": "15547",
+	  "md5": "6bed100c55affc063b9c01680a0978aa",
+	  "crc32": "5e3649d9",
+	  "sha1": "f2182013ecc12abefc8f7ef1ce6664c7247e3388",
+	  "rotation": "0"
+	},
+	"\/resource_item_1527.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731657",
+	  "size": "272",
+	  "md5": "029122d07a72a7331ee24f3e568873cd",
+	  "crc32": "a59f0dd1",
+	  "sha1": "0d80d534762aaf6ef028f6f771d19cb2f2098b56"
+	},
+	"\/resource_item_1527_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1527.jpg",
+	  "mtime": "1346733068",
+	  "size": "4541",
+	  "md5": "3d03a1132b02f52a32a297282d1e5265",
+	  "crc32": "32415c64",
+	  "sha1": "3f1ed641e8f80df94ed49599fb4078064593f7a6"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475552905",
+	  "size": "43542",
+	  "md5": "76c18c0f561fbcd68a46bbcc0fb21542",
+	  "crc32": "101a6757",
+	  "sha1": "4e87a87ae05da157695e5f073f2722d4f4ab8069",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475552955",
+	  "size": "2031",
+	  "md5": "135821f847b4cb8a3ca94326ca166d75",
+	  "crc32": "8525c77f",
+	  "sha1": "406ca4146a24dc22d970b01a4b6bdf94dfbb576f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475552909",
+	  "size": "49149",
+	  "md5": "c8c2d84e8702cf2e7246af0e554190da",
+	  "crc32": "a8c82e8e",
+	  "sha1": "00f07cac62be0ba4545537f84536306e56093c5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475552957",
+	  "size": "2213",
+	  "md5": "ff46bd8c9f7f17065d68457e8c1312a2",
+	  "crc32": "c873fb08",
+	  "sha1": "b73c2aee3033cda21555c79580d77946a99cc0e1"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475552913",
+	  "size": "45426",
+	  "md5": "b603d1101d0ba06d0a788b57ec32977b",
+	  "crc32": "9083185f",
+	  "sha1": "b96264f6c0149b54aff1450274c8319e5d296c48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475552960",
+	  "size": "2058",
+	  "md5": "ea219e3d130dfd28cac52715c3c94acb",
+	  "crc32": "6f4c83c3",
+	  "sha1": "68cf01af297adb0a2a71c41c2abe6810a5ee741c"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475552918",
+	  "size": "64578",
+	  "md5": "001fd9f2e29407f6a0321eed35ffd0b1",
+	  "crc32": "01ffb003",
+	  "sha1": "8c9370eb6ac9357241208fd2f7610a6b032d0277",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475552961",
+	  "size": "2190",
+	  "md5": "1936d3c5e1a2ecbea2317177c8b75157",
+	  "crc32": "885b001d",
+	  "sha1": "1395a4bf247918831619ca1d7b8f898282c788cc"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475552920",
+	  "size": "51339",
+	  "md5": "d7f6dc89398d518be7d3143adfac03bd",
+	  "crc32": "7c5c60e1",
+	  "sha1": "a280a1534d4103ea966035a90f469e80a67a8f3f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475552965",
+	  "size": "2198",
+	  "md5": "b03ef5996da4fae0b133aa1b17b1364c",
+	  "crc32": "e0264a42",
+	  "sha1": "acbc997f0ab4c618a7eaf3ccd4ea3af877f96aee"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475552922",
+	  "size": "22574",
+	  "md5": "5043b84ab22539680391061bcc91003b",
+	  "crc32": "fe3897b0",
+	  "sha1": "91a4ab3d8418a7bd547c0911905d7499b3fc277d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475552962",
+	  "size": "1965",
+	  "md5": "dcf8832f408fa627c2903919ada41e9c",
+	  "crc32": "45c754d3",
+	  "sha1": "9a890222022ccebb4f06fd38b2914769c16d6e0d"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475552925",
+	  "size": "22593",
+	  "md5": "af5e81a3acb685d8ed3b40fcefb25540",
+	  "crc32": "fb419dad",
+	  "sha1": "851ca8eb55616c16485efaddcbb3966ee77a85a3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475552964",
+	  "size": "1969",
+	  "md5": "e9884bb89fbae765663e728d31c1990e",
+	  "crc32": "bca29a10",
+	  "sha1": "75d7943b0407cbff73c3d6d52a028434c25f35a2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/4\/items\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020\/TheLostFilesofSherlockHolmesTheCaseoftheSerratedScalpel_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1293,
+	"week": 4,
+	"month": 15
+  }
+}

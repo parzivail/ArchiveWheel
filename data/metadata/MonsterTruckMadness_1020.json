@@ -1,0 +1,123 @@
+{
+  "server": "ia800808.us.archive.org",
+  "dir": "/35/items/MonsterTruckMadness_1020",
+  "metadata": {
+	"identifier": [
+	  "MonsterTruckMadness_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Terminal Reality"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Monster Truck Madness Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 19:42:18"
+	],
+	"addeddate": [
+	  "2012-09-04 19:42:18"
+	],
+	"description": [
+	  "\"GET READY TO DO THE MONSTER MASH! Microsoft Monster Truck Madness is more than a game; it's a lifestyle! Feed the kids, walk the dog, take out the garbage; tell your loved ones you really do love them, because once you hear the wild call of the monster engines, you won't have time for anything else.\n\nRev your engines people! Get ready to do the Monster Mash! Enter a world in which you match wits and nerve against the likes of Bigfoot, Snake Bite, and the Carolina Crusher.\n\nExperience the adrenaline-pumping drags. Get up and dust yourself off when you blow it in the circuits. Feel the cab shake as you slam into a competitor, suffer the jarring panic of an uncontrollable skid, risk it all in a rally to the death. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234316[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/MonsterTruckMadness_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3f4788425c3014413f41aa121a781075"
+	},
+	"\/MonsterTruckMadness_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464553629",
+	  "size": "1530",
+	  "md5": "f4c1e6a1893e32f64e63d35484e26907",
+	  "crc32": "33e2aabe",
+	  "sha1": "14fe9c3ae3acdc467eec7f5b9dd8b788bcbb32ff"
+	},
+	"\/mtmtrial.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346787855",
+	  "size": "12158642",
+	  "md5": "68e51f54f7ae20e010e96ed2ba713607",
+	  "crc32": "f49f5f08",
+	  "sha1": "4a36b4c20713afab29d6922b64982af0ff61249f"
+	},
+	"\/mtmtrial.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346787855",
+	  "size": "696",
+	  "md5": "2da8c180f0bb950a558c700f29994165",
+	  "crc32": "551b0068",
+	  "sha1": "895f6e9f0ee15496409c44fede9c382b1e2f7c77"
+	},
+	"\/resource_item_2450.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346787857",
+	  "size": "17273",
+	  "md5": "a3f8d6833716ff5516ced43604db105a",
+	  "crc32": "7bf34bd6",
+	  "sha1": "39f50b1d86a2a3af5348765ffd595af10f545bb8",
+	  "rotation": "0"
+	},
+	"\/resource_item_2450.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346787857",
+	  "size": "272",
+	  "md5": "9bb1b995bc7b32f9ca2a7ac799e89a93",
+	  "crc32": "76adde02",
+	  "sha1": "06e6cc703fd59f9e2b47737d57a9fa5e6dda897a"
+	},
+	"\/resource_item_2450_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2450.jpg",
+	  "mtime": "1346819460",
+	  "size": "5589",
+	  "md5": "48325fd820c5506ae1c9d86ac4a3d997",
+	  "crc32": "3bddfeb0",
+	  "sha1": "d1077d9fbebbf426ef6324f6a6a26ca01d6dc195"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia800808.us.archive.org\/35\/items\/MonsterTruckMadness_1020\/resource_item_2450_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 726,
+	"week": 7,
+	"month": 30
+  }
+}

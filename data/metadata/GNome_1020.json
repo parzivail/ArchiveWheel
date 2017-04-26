@@ -1,0 +1,123 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/20/items/GNome_1020",
+  "metadata": {
+	"identifier": [
+	  "GNome_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "7th Level"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "G-NOME pushes real time 3-D simulation over the edge. Experience the terror of being chased on foot by a four-story HAWC. Feel the adrenaline rush as you turn and face the armored giant. Avoid its gunfire as you desperately pull the trigger on your GASHR and eject its pilot. Steal the HAWC and smile with satisfaction as you crush your enemy with his own vehicle."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "7th Level"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "G-Nome Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 04:37:22"
+	],
+	"addeddate": [
+	  "2012-09-05 04:37:22"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234241[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/GNome_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b042992f5aeb4a1bfa0622ce23e4c12c"
+	},
+	"\/GNome_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465275249",
+	  "size": "1131",
+	  "md5": "d36b9d421c108d1edab63d6e0710707d",
+	  "crc32": "887c0e38",
+	  "sha1": "fe3fd7ca37c15154959c42f45645676603212da6"
+	},
+	"\/gnome.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346819966",
+	  "size": "12700186",
+	  "md5": "8421fde062fc8e496c39003adc75771b",
+	  "crc32": "43e7dbfd",
+	  "sha1": "924e47b0bc873ca06aa1f50bf51bfc2d367abcf9"
+	},
+	"\/gnome.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346819966",
+	  "size": "1063",
+	  "md5": "f28d37bab7131a9b2666b3e0478c52a6",
+	  "crc32": "bf706943",
+	  "sha1": "1e0486232e759ebe7143960a2164605d4da59c19"
+	},
+	"\/resource_item_3141.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346819968",
+	  "size": "19416",
+	  "md5": "dad007398005fb7aa54f25ba36d66768",
+	  "crc32": "4086a8b3",
+	  "sha1": "7e5d90206a89c88af1c41e2792be33ca678bdd19",
+	  "rotation": "0"
+	},
+	"\/resource_item_3141.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346819968",
+	  "size": "272",
+	  "md5": "3adcf047cadc0b430667d19311967063",
+	  "crc32": "33d38e79",
+	  "sha1": "c16bd649f8db677d4f9b77e139fa97e74560ac00"
+	},
+	"\/resource_item_3141_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3141.jpg",
+	  "mtime": "1346822718",
+	  "size": "6613",
+	  "md5": "02ebe4945d52857461fa6c4b298e9530",
+	  "crc32": "ac806021",
+	  "sha1": "6d58347564f669c3b2ac2acf53b0c044583cde7c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/20\/items\/GNome_1020\/resource_item_3141_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1835,
+	"week": 9,
+	"month": 41
+  }
+}

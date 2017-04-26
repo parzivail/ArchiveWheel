@@ -4,15 +4,18 @@
 define(['modules/global'], function (global) {
 	function Demo(parsedJson, onLoad) {
 		this.info = parsedJson;
-		global.get("https://archive.org/details/" + this.info.identifier + "&output=json", $.proxy(function (data) {
+		$.get("/metadata/" + this.info.identifier + ".json", $.proxy(function (data) {
 			this.meta = data;
 
-			this.image = new Image();
-			this.image.src = this.getFullImageUrl();
-			this.image.onload = onLoad;
+			this.image = global.loadImage(this.getFullImageUrl(), "/images/unknown.png");
+
+			if (!this.info.description)
+				this.info.description = "No description provided.";
 
 			if (this.info.description.length > 1000)
 				this.info.description = this.info.description.substring(0, 700) + "[...]";
+
+			onLoad();
 
 		}, this));
 	}

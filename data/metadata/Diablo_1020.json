@@ -1,0 +1,132 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/16/items/Diablo_1020",
+  "metadata": {
+	"identifier": [
+	  "Diablo_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Blizzard Entertainment"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Blizzard Entertainment"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Diablo Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-05 04:42:51"
+	],
+	"addeddate": [
+	  "2012-09-05 04:42:51"
+	],
+	"description": [
+	  "\"Blizzard released this pre-release demo via the internet and through several game magazines.  It allows you to play as a warrior through the first two levels finishing off with the Butcher.  This game differs from the retail release as it has some different graphics and spells.\n\nVengeance, power, intellect and magic -- these are the tools you will need to battle the Lord of All Evil, Diablo. Embark, if you dare, upon a dark and sinister quest that will pull you into the very depths of Hell itself... and beyond.\""
+	],
+	"notes": [
+	  "WHAT DIABLO WANTS YOU TO KNOW\n\n1. There are no backwards messages in my game.\n\n2. If my game runs slowly on your system, you can increase performance\n   by copying Diablo to your hard drive. To do this with Windows Explorer,\n   select the Diablo folder icon and drag it to your hard drive.\n\n3. You can also increase performance by turning off music in the main\n   menu, which you access via the Escape key (unlike my domain, from\n   which there is no escape).\n\n4. This is a prerelease demo. There will be no patches or updates to this\n   demo, nor will Blizzard Entertainment offer technical support.\n\n5. Diablo requires DirectX 2.0 or later to run properly.  \n\n6. !olbaiD gniyalp flesruoy yojnE"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232859[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/Diablo_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "6df0f3dd1f837922bc60391185e5b45b02b02e25",
+	  "mtime": "1464509338",
+	  "size": "4063",
+	  "md5": "d0834d729d8ce907847c410c097dd1a2",
+	  "crc32": "70af719a",
+	  "sha1": "ee17bdc3a7364bf2fac86a71520221af11d7e516",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Diablo_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c794df04ac45c2c228a1555c4eab160f"
+	},
+	"\/Diablo_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464509337",
+	  "size": "1987",
+	  "md5": "4f51472c8f819d5411247dd2fdf5d98c",
+	  "crc32": "109ed4fc",
+	  "sha1": "0eb3f85cb3f8652b33e815b06e99b05d52b04d47"
+	},
+	"\/diablopr.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346820735",
+	  "size": "58587427",
+	  "md5": "1790315333137f21a4215edb493a1ec1",
+	  "crc32": "42cfaad9",
+	  "sha1": "3116e614824b7bca73e24f41e09b61c7c012ac04"
+	},
+	"\/diablopr.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820735",
+	  "size": "702",
+	  "md5": "01d2fa0d2cd9b038c478e39efeae68c2",
+	  "crc32": "7375445e",
+	  "sha1": "7e7ce7616525e1884a62e2e0dc6470f49c67a221"
+	},
+	"\/resource_item_3202.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346820738",
+	  "size": "136164",
+	  "md5": "439d4abe80152e93ecd6fc84bd2f1188",
+	  "crc32": "1fcf6e77",
+	  "sha1": "8ee126fc5b0969179e297f4f1d5ede9563362b6b"
+	},
+	"\/resource_item_3202.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820739",
+	  "size": "273",
+	  "md5": "4466945efb7f681c6ca1d9e734229c9d",
+	  "crc32": "a5297b3c",
+	  "sha1": "55dc830088898e598afeb0e57df212ad62f58811"
+	},
+	"\/resource_item_3202_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3202.png",
+	  "mtime": "1346833145",
+	  "size": "5262",
+	  "md5": "7fe2ef785fa28b6b3a5295477dbf7801",
+	  "crc32": "0b0da874",
+	  "sha1": "b57b8c68de438f8a62e3a63a589682d286c3d400"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/16\/items\/Diablo_1020\/resource_item_3202_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1858,
+	"week": 26,
+	"month": 91
+  }
+}

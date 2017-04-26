@@ -1,0 +1,113 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/25/items/Nhl2001Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "NHL 2001 Demo"
+	],
+	"description": [
+	  "High-flyin', hard hittin', big shootin' powerplay hockey. Experience the drama on life on the ice with NHL 2001. Lace up the skates and play with or against all 30 National Hockey League teams, compete with the new expansion Columbus Blue Jackets and Minnesota Wild, and 20 International teams including Ukraine and Latvia."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"identifier": [
+	  "Nhl2001Demo"
+	],
+	"addeddate": [
+	  "2012-05-13 07:45:09"
+	],
+	"publicdate": [
+	  "2012-05-13 07:45:32"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/NHL2001Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336895095",
+	  "size": "51950343",
+	  "md5": "c66a66f77e8e994dca02cd1a7cac29dc",
+	  "crc32": "4b95c1fb",
+	  "sha1": "211fc2e825d2f52d102fcfded0020f5163976844",
+	  "title": "NHL 2001 Demo"
+	},
+	"\/NHL2001Demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336895096",
+	  "size": "86304",
+	  "md5": "302761152dee664ad73114a6e665820a",
+	  "crc32": "28e2edb5",
+	  "sha1": "e55eb5347964fe13dacd78b854dc5ebbdbf1d55c",
+	  "rotation": "0"
+	},
+	"\/NHL2001Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "NHL2001Demo.jpg",
+	  "mtime": "1336895126",
+	  "size": "7230",
+	  "md5": "00b997f46126620bb7b49aa5db91b24a",
+	  "crc32": "474081ba",
+	  "sha1": "e2d40c16f17a852cedb4d3f6e5ba81ab10b76d5d"
+	},
+	"\/Nhl2001Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "7d1f9de8914e2c14b972868058c397a4a68eeaa0",
+	  "mtime": "1463635018",
+	  "size": "3791",
+	  "md5": "7c5f57df441d6907aefefee3a41a5554",
+	  "crc32": "674f8422",
+	  "sha1": "a18002b7c661f93ba26ffe8c609a9fb71f9a36f4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Nhl2001Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "fbeb2b215e9c229a9c0ac854a1f8be24"
+	},
+	"\/Nhl2001Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463635017",
+	  "size": "1080",
+	  "md5": "642fd542944448c0bbf30455350a5250",
+	  "crc32": "623dab31",
+	  "sha1": "917dc88f23fe89c95154b6533b1d9faa298806d5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/25\/items\/Nhl2001Demo\/NHL2001Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 7170,
+	"week": 29,
+	"month": 100
+  }
+}

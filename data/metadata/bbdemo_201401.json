@@ -1,0 +1,117 @@
+{
+  "server": "ia600509.us.archive.org",
+  "dir": "/30/items/bbdemo_201401",
+  "metadata": {
+	"identifier": [
+	  "bbdemo_201401"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "UnderWorld Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>You play a sheriff in a small town ominously named Red Falls. A bloodthirsty busload of hard-core cons have escaped on a nearby highway, swarming the town with fast-moving foes. It's your job to hunt the prisoners down. The game interface is similar to a classic arcade shooter--something that will keep gamers entertained for a while. This single-level demo of Blood Bath at Red Falls (Level 13 from the full-version CD) features an interactive entry form, giving all downloaders a chance at winning a $500 prize.<\/div>"
+	],
+	"publisher": [
+	  "UnderWorld Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Blood Bath at Red Falls Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-26 21:37:32"
+	],
+	"addeddate": [
+	  "2014-01-26 21:37:32"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233728[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/bbdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390772252",
+	  "size": "4103168",
+	  "md5": "df0bd65a66b4acc980e9a8c583207faa",
+	  "crc32": "15a6bc3f",
+	  "sha1": "2753db3ce47e5549f3f497336ce9d416e2daba99"
+	},
+	"\/bbdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390772264",
+	  "size": "245745",
+	  "md5": "d64db3fd6d7f854008e81237db490082",
+	  "crc32": "5c74b8cd",
+	  "sha1": "3d5e8bb264fae53b4dc6707ec8798437121763fd",
+	  "rotation": "0"
+	},
+	"\/bbdemo_201401_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b404307739c241fc5934b7caa90a929a"
+	},
+	"\/bbdemo_201401_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390772270",
+	  "size": "14336",
+	  "md5": "6ffbd1e7be2d84f1e4643e3add1647f0",
+	  "crc32": "7dfa0c95",
+	  "sha1": "9c68e0b9639175d95100212c168e728f5cc2e637"
+	},
+	"\/bbdemo_201401_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473864948",
+	  "size": "1404",
+	  "md5": "59c504d7eddeb0a985755cf44426bb79",
+	  "crc32": "a43daa26",
+	  "sha1": "6169d401f42ae1867c232a5b7edd5ab3ca7bd03a"
+	},
+	"\/bbdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bbdemo.jpg",
+	  "mtime": "1390772284",
+	  "size": "4570",
+	  "md5": "700c162eb295c01222f3b5492f3f07a2",
+	  "crc32": "d5848ce6",
+	  "sha1": "b24e317301643c5baa52306312ac2d6956aacb8d"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600509.us.archive.org\/30\/items\/bbdemo_201401\/bbdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 359,
+	"week": 6,
+	"month": 17
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/11/items/Salvo_201402",
+  "metadata": {
+	"identifier": [
+	  "Salvo_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SprueGames"
+	],
+	"date": [
+	  "2005"
+	],
+	"description": [
+	  "Set in the 17th through 19th centuries, also known as the Age of Sail, Salvo! is an exciting single-player game of naval warfare for Windows. Take command of the navies of England, France, the fledgling United States, and others, as you wage war in a fully realized three-dimensional environment. Relish in the sight and sound of full-scale battle, as ships are pounded into submission, rendered right there on your screen."
+	],
+	"publisher": [
+	  "Shrapnel Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Salvo! Demo"
+	],
+	"year": [
+	  "2005"
+	],
+	"publicdate": [
+	  "2014-02-15 23:55:38"
+	],
+	"addeddate": [
+	  "2014-02-15 23:55:38"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234106[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_13"
+	]
+  },
+  "files": {
+	"\/Salvo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392508537",
+	  "size": "279554973",
+	  "md5": "cbd2c3399a8a3ec9318f45f7743f14d4",
+	  "crc32": "dfa667d0",
+	  "sha1": "4315a89bedecc2e886016b395097778143c1ef4c"
+	},
+	"\/Salvo_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "63e3fb8ac4835c69e1591febe8541407"
+	},
+	"\/Salvo_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392508588",
+	  "size": "14336",
+	  "md5": "fcd1c77225d8fb657bdcdc6543db1f34",
+	  "crc32": "546c8cc6",
+	  "sha1": "b86edd834d5fb63116cc4142e0e3f606a60c0979"
+	},
+	"\/Salvo_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474111425",
+	  "size": "1260",
+	  "md5": "1f59a398979dd15747dae4e10b0cd514",
+	  "crc32": "b7b60335",
+	  "sha1": "aece3c898b813d176055d876a1e2f5e7fd2c8269"
+	},
+	"\/salvo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392508550",
+	  "size": "470695",
+	  "md5": "417dce46707ba4d7a96571975e3931bb",
+	  "crc32": "6e07c383",
+	  "sha1": "423f68a3e297fe3b154a4db08bdb00d8fbe26951",
+	  "rotation": "0"
+	},
+	"\/salvo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "salvo.jpg",
+	  "mtime": "1392508620",
+	  "size": "4006",
+	  "md5": "50eb22a9e69f1907be30f9261b669ef0",
+	  "crc32": "e1458ae8",
+	  "sha1": "678464728853b58c68d80e347293647b32fbbdfa"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/11\/items\/Salvo_201402\/salvo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 179,
+	"week": 3,
+	"month": 8
+  }
+}

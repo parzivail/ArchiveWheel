@@ -1,0 +1,196 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/19/items/lotrvol2_1020",
+  "metadata": {
+	"identifier": [
+	  "lotrvol2_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:18:22"
+	],
+	"addeddate": [
+	  "2012-09-04 03:18:22"
+	],
+	"year": [
+	  "1991"
+	],
+	"description": [
+	  "\"The legendary tale lives on, as The Two Towers picks up where the critically acclaimed The Lord of the Rings, Vol. 1 left off. The wicked Lord Sauron persists in his quest to capture the one true ring of power. But now the Evil Wizard Saruman, with his insatiable lust for power, is after it as well.\n\nYou, the player, control a party of benevolent characters in this captivating, role-playing adventure as they battle orcs, trolls, wargs, ghosts, and oliphaunts. You'll travel through the dark and mysterious ghastly marsh of the eternal spirits and, ultimately, come face to face with the mysterious two towers.\n\nAll the color and imagery of Middle-earth comes to life with state-of-the-art, 256 color VGA graphics, a new and enhanced interface, full musical score, digitized speech, and colorful animations. The Two Towers is a stunning sequel that will involve you deeply in the Tolkien experience. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234723[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "TOWERS.BAT"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475644595",
+	  "size": "173559",
+	  "md5": "db5532d11671d5418c3e108dee068c05",
+	  "crc32": "263c4b97",
+	  "sha1": "8fa0bbaf649567943d8c824f69e6cab82a5127b0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475644616",
+	  "size": "3829",
+	  "md5": "0aa3ea743cc20854b2c1c4601c70532b",
+	  "crc32": "72092adf",
+	  "sha1": "760e4d61d92f8913f407d90f250bb6015a12696e"
+	},
+	"\/lotrvol2_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475644600",
+	  "size": "51290",
+	  "md5": "5c689b9b48b4e1c1705b3987951bc538",
+	  "crc32": "dc5a24df",
+	  "sha1": "b3832c06317d63a7f9ff5061da40c403180b7f58",
+	  "format": "Animated GIF"
+	},
+	"\/lotrvol2_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "400598d119387e53037e787e91eca4cf"
+	},
+	"\/lotrvol2_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475644605",
+	  "size": "8192",
+	  "md5": "738534c4cb4ff52038f51ff357c4f4ee",
+	  "crc32": "54ee2d4b",
+	  "sha1": "ff18e8faa39bb68f2979a04d9e308a267287d1c6",
+	  "format": "Metadata"
+	},
+	"\/lotrvol2_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469645485",
+	  "size": "1810",
+	  "md5": "4b08091c20c49205756ce3a2b3461cab",
+	  "crc32": "d29d050f",
+	  "sha1": "6ee01045f80f720cd6a9758ede4b9679de3e77d7"
+	},
+	"\/resource_item_1439.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346728725",
+	  "size": "25774",
+	  "md5": "ee589cc5cb1f55f18d05bb4ef8fd329c",
+	  "crc32": "b03cf60a",
+	  "sha1": "d0bed8f06bb8b92f037c395bd76591196e5d9179",
+	  "rotation": "0"
+	},
+	"\/resource_item_1439.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346728725",
+	  "size": "272",
+	  "md5": "7936ebef4459f5bf9ba6362a9c8452b9",
+	  "crc32": "5392a6de",
+	  "sha1": "b6f1594f5abe8eab8d86ffbcce3935aaaec8904c"
+	},
+	"\/resource_item_1439_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1439.jpg",
+	  "mtime": "1346729526",
+	  "size": "5644",
+	  "md5": "edeef2cbb3ab3df4836fcacd42810d8a",
+	  "crc32": "c660b5aa",
+	  "sha1": "460c25634bcd47134bb645c2aa7a03c12a7a2d8d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475644597",
+	  "size": "173559",
+	  "md5": "db5532d11671d5418c3e108dee068c05",
+	  "crc32": "263c4b97",
+	  "sha1": "8fa0bbaf649567943d8c824f69e6cab82a5127b0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475644617",
+	  "size": "3829",
+	  "md5": "0aa3ea743cc20854b2c1c4601c70532b",
+	  "crc32": "72092adf",
+	  "sha1": "760e4d61d92f8913f407d90f250bb6015a12696e"
+	},
+	"\/towers.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346728722",
+	  "size": "2073799",
+	  "md5": "d9acea59f576122575ef80f1ee696837",
+	  "crc32": "cc3b972e",
+	  "sha1": "2cc45793e83c0993e3f688fb361a0dede613d124"
+	},
+	"\/towers.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346728722",
+	  "size": "666",
+	  "md5": "c503f8171cb9c99e97f33058f85d8f9a",
+	  "crc32": "95d6c39d",
+	  "sha1": "9f8f76ea7e614c394a14baaee29a8041d1aecc01"
+	},
+	"\/towers_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475644603",
+	  "size": "115933",
+	  "md5": "65974110b6bca852545eb67fe4642c3b",
+	  "crc32": "5db019a4",
+	  "sha1": "05dd57afe036d66c34e166126ef51c95d4ef8898",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/19\/items\/lotrvol2_1020\/lotrvol2_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 564,
+	"week": 3,
+	"month": 7
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia801003.us.archive.org",
+  "dir": "/7/items/ArmADemoUS",
+  "metadata": {
+	"identifier": [
+	  "ArmADemoUS"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bohemia Interactive Studio"
+	],
+	"date": [
+	  "2007"
+	],
+	"description": [
+	  "<div>This demo includes three multiplayer modes, three single player missions and a limited version of the mission editor.<\/div>"
+	],
+	"publisher": [
+	  "Atari"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "ArmA: Combat Operations Demo"
+	],
+	"year": [
+	  "2007"
+	],
+	"publicdate": [
+	  "2013-11-28 05:47:26"
+	],
+	"addeddate": [
+	  "2013-11-28 05:47:26"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233534[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_18"
+	]
+  },
+  "files": {
+	"\/ArmADemoUS.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385617646",
+	  "size": "918039163",
+	  "md5": "721eb646d3e2364a00f1976fbc5fabb3",
+	  "crc32": "3dc70441",
+	  "sha1": "05ab1b6849e71f84c4dca6cb1e87001dbeeb9b74"
+	},
+	"\/ArmADemoUS.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385617657",
+	  "size": "147697",
+	  "md5": "69cf2af9dce113f05721dae3e6662973",
+	  "crc32": "b62d3ee8",
+	  "sha1": "3d88e5be2659ecc55d7fe9ed2753466c6d79b0c9",
+	  "rotation": "0"
+	},
+	"\/ArmADemoUS_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6409efd5d479843a8ae24bcbba10b61c"
+	},
+	"\/ArmADemoUS_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385617671",
+	  "size": "10240",
+	  "md5": "8c4b4172a7f47a96d51f792f4138fed4",
+	  "crc32": "a20e7921",
+	  "sha1": "c2eebc09639487f768ee61cde953e7315fc23df6"
+	},
+	"\/ArmADemoUS_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472072405",
+	  "size": "1001",
+	  "md5": "9dd4c511e2448481bcce01de71126e70",
+	  "crc32": "009ddca3",
+	  "sha1": "0d8062bd4c28cb735f84ae812b7eabf86604b415"
+	},
+	"\/ArmADemoUS_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ArmADemoUS.jpg",
+	  "mtime": "1385617712",
+	  "size": "4650",
+	  "md5": "faeb6ff1b20e32fb2422f469116ba331",
+	  "crc32": "0fbd2f4a",
+	  "sha1": "8e84c906d3df496d9881a50814951bd3168d555a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia801003.us.archive.org\/7\/items\/ArmADemoUS\/ArmADemoUS_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1475,
+	"week": 29,
+	"month": 86
+  }
+}

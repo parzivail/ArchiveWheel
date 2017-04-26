@@ -1,0 +1,132 @@
+{
+  "server": "ia902704.us.archive.org",
+  "dir": "/35/items/adventure-game-demo",
+  "metadata": {
+	"identifier": [
+	  "adventure-game-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Thomas Vo\u00df"
+	],
+	"date": [
+	  "2002-01-29"
+	],
+	"description": [
+	  "<div>Point and click adventure game, created with Adventure Game Studio.<\/div>\n<div>AGS Database page: <a href=\"http:\/\/www.adventuregamestudio.co.uk\/site\/games\/game\/632\/\" rel=\"nofollow\">http:\/\/www.adventuregamestudio.co.uk\/site\/games\/game\/632\/<\/a><\/div>"
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Adventure Game [demo]"
+	],
+	"publicdate": [
+	  "2015-01-02 22:42:27"
+	],
+	"addeddate": [
+	  "2015-01-02 22:42:27"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102224805[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/73.jpg": {
+	  "source": "original",
+	  "mtime": "1420238559",
+	  "size": "14068",
+	  "md5": "1d6fb0a105f6e0b9358285be18699be4",
+	  "crc32": "8262134c",
+	  "sha1": "b6c69a738674f2c46ab8890de9eca33333155ae5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/73_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "73.jpg",
+	  "mtime": "1420238891",
+	  "size": "4792",
+	  "md5": "83d3863100e487de88ed4bd43d66e75a",
+	  "crc32": "d733789c",
+	  "sha1": "612c1e5122685ca17e657df8c1de96519b7b0020"
+	},
+	"\/adventure-game-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2ba578a87b8c4a84a5bbabb04b3032dc31f35dcf",
+	  "mtime": "1490656286",
+	  "size": "2142",
+	  "md5": "9bdbe3554bb4688c3ad4421e062c6c0b",
+	  "crc32": "271245c1",
+	  "sha1": "cd4958e2416237e6cef2ebaa138af7d3e4701c20",
+	  "format": "Archive BitTorrent"
+	},
+	"\/adventure-game-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "bfaa6ef9d7327f900b3ed51ca9f4c6a9"
+	},
+	"\/adventure-game-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420238565",
+	  "size": "10240",
+	  "md5": "88dab507035c11e905f7220d69db4204",
+	  "crc32": "42eeb138",
+	  "sha1": "d6a9081fb36c4b4dbc3c80cc583808b0b9d3daf1",
+	  "format": "Metadata"
+	},
+	"\/adventure-game-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490656285",
+	  "size": "1249",
+	  "format": "Metadata",
+	  "md5": "1016114398f5accd888fffad8b3bade1",
+	  "crc32": "ddc5ac46",
+	  "sha1": "271d0b7273a9ce818fc1dfd0dbaf7e9f34a88a61"
+	},
+	"\/adventure-game.zip": {
+	  "source": "original",
+	  "mtime": "1420238546",
+	  "size": "3035176",
+	  "md5": "d695649180474eaac3cbd3550494e9d2",
+	  "crc32": "24b6c6c1",
+	  "sha1": "4db9327b87072c05870b06f690d20ef44b7d29e3",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902704.us.archive.org\/35\/items\/adventure-game-demo\/73_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 99,
+	"week": 2,
+	"month": 3
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "server": "ia600406.us.archive.org",
+  "dir": "/34/items/BRRD225",
+  "metadata": {
+	"identifier": [
+	  "BRRD225"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "The Big Red Software Company"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>This archive contains all the bits'n'bobs needed to convert<\/div><div>Big Red Racing (full \"R\" version) from V2-16 to V2-25.<\/div><div><br \/><\/div><div>Note that the US master was already V2-17\"a\", so you've already got<\/div><div>most of the \"improvements\", but not the two important \"bug fixes\".<\/div><div><br \/><\/div><div>Also note that the downloadable demo (the \"M\" version) has been<\/div><div>upgraded with the changes \"as they happened\". This patch file is *NOT*<\/div><div>intended for use with the demo version.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS extras; DOS game patches; Windows extras; Windows game patches"
+	],
+	"title": [
+	  "Big Red Racing V2-25 Patch"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2016-05-06 03:35:38"
+	],
+	"addeddate": [
+	  "2016-05-06 03:35:38"
+	],
+	"backup_location": [
+	  "ia906107_32"
+	]
+  },
+  "files": {
+	"\/BRRD225.ZIP": {
+	  "source": "original",
+	  "mtime": "1462505738",
+	  "size": "1064191",
+	  "md5": "eebc43b861d70d9a445afcd6aa2be03c",
+	  "crc32": "e0722a9a",
+	  "sha1": "f21276824696500050c044b6b7a70093337665f7",
+	  "format": "ZIP"
+	},
+	"\/BRRD225_archive.torrent": {
+	  "source": "original",
+	  "btih": "267cc404bc0ed30fe43c95b299f76ba77174520c",
+	  "mtime": "1482290564",
+	  "size": "1848",
+	  "md5": "9648dea2275561a598c834377a7f946d",
+	  "crc32": "9c86b7cb",
+	  "sha1": "88fcf0bac5a3020116d158df57391589b201cbb1",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BRRD225_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b16e89b49f1e4793e34e3eb8344a86b9"
+	},
+	"\/BRRD225_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1462505751",
+	  "size": "12288",
+	  "md5": "8dd9edb0beffe303358aa65d44c27488",
+	  "crc32": "ac2e07f4",
+	  "sha1": "dd8e92c3aba8ba5eb91ac855a3db68f36d9452d2",
+	  "format": "Metadata"
+	},
+	"\/BRRD225_meta.xml": {
+	  "source": "original",
+	  "mtime": "1482290563",
+	  "size": "1314",
+	  "format": "Metadata",
+	  "md5": "905e35e314e929b21f25baa64911d51c",
+	  "crc32": "404ed688",
+	  "sha1": "9fbad43832a6d654f0a67c8af00da72003eb8124"
+	},
+	"\/BRRW227.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1462505790",
+	  "size": "1071907",
+	  "md5": "e6f615cea9f39d99f008457a69883995",
+	  "crc32": "3640b7be",
+	  "sha1": "d9a92dca8e7026295a245ee18d2f2ff758e67b5c"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/classicpcgames&fallback=1",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 40,
+	"week": 0,
+	"month": 7
+  }
+}

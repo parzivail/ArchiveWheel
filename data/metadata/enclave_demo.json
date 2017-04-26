@@ -1,0 +1,118 @@
+{
+  "server": "ia902302.us.archive.org",
+  "dir": "/20/items/enclave_demo",
+  "metadata": {
+	"identifier": [
+	  "enclave_demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Starbreeze Studios"
+	],
+	"date": [
+	  "2003"
+	],
+	"description": [
+	  "In the fantasy world of Enclave the people of Light and Darkness are divided by a bottomless rift that split the earth many millennia ago. The lands of light are prosperous and rich, an Enclave of truth and order, surrounded by the twisted and barren lands of the dark, war ravaged plains known as the Outlands. Over the centuries the rift has started to close, skirmishes along the border have become more and more frequent and it is only a matter of time before these altercations turn into a full scale war. Take the side of light or dark as they prepare for the imminent war."
+	],
+	"publisher": [
+	  "Conspiracy Entertainment",
+	  "Vivendi Universal Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Enclave Demo"
+	],
+	"year": [
+	  "2003"
+	],
+	"publicdate": [
+	  "2014-03-05 21:08:01"
+	],
+	"addeddate": [
+	  "2014-03-05 21:08:01"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234105[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_4"
+	]
+  },
+  "files": {
+	"\/enclave_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1394053975",
+	  "size": "199430311",
+	  "md5": "d2ddf9b50c73430302862172d3233daa",
+	  "crc32": "b9b9f1c9",
+	  "sha1": "a8fb73fba937eb557f2a7f11c3cdff6746ae60f6"
+	},
+	"\/enclave_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1394053680",
+	  "size": "58910",
+	  "md5": "eabdc08d2f7eb5a2e50e3e91491780fa",
+	  "crc32": "beb72a5b",
+	  "sha1": "83283059afc91edb95f5e0e639a52f1b3572a9b1",
+	  "rotation": "0"
+	},
+	"\/enclave_demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "03f362b329c2da78b306599e52852da5"
+	},
+	"\/enclave_demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1394053995",
+	  "size": "14336",
+	  "md5": "a52a320cf4ddbbcb0a99868573f357b5",
+	  "crc32": "2f94ccbc",
+	  "sha1": "f7ed53e9510f86ba86b46ac1e211cebbb2624fa0"
+	},
+	"\/enclave_demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474554242",
+	  "size": "1481",
+	  "md5": "d3d7f7af14d62f4c49cc1bf07051579e",
+	  "crc32": "83b87de6",
+	  "sha1": "79354da674a769e066a0fffa4cd175184bdc598f"
+	},
+	"\/enclave_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "enclave_demo.jpg",
+	  "mtime": "1394054006",
+	  "size": "3608",
+	  "md5": "81c8fd55673d8bd878856adf90b651f9",
+	  "crc32": "2796f03b",
+	  "sha1": "c0b33afafd883605f3927085c13ffaf34b06b62c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902302.us.archive.org\/20\/items\/enclave_demo\/enclave_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 315,
+	"week": 6,
+	"month": 16
+  }
+}

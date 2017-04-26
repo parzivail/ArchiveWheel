@@ -1,0 +1,131 @@
+{
+  "server": "ia601207.us.archive.org",
+  "dir": "/14/items/MANIAC_201610",
+  "metadata": {
+	"identifier": [
+	  "MANIAC_201610"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Lucasfilm Games"
+	],
+	"date": [
+	  "1988"
+	],
+	"description": [
+	  "<span style=\"color:rgb(51,51,51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);\">It has been twenty years since a mysterious purple meteor came hurtling out of the sky and made a large crater in the front lawn of a large Victorian mansion belonging to the Edison family. Dr. Fred, his wife Nurse Edna, and their son Weird Ed were reclusive people who left the house very rarely, but the meteor's arrival brought about a strange change in Dr. Fred. Now, a local cheerleader has vanished without a trace. Dave, her boyfriend, has gathered a few of his close comrades on a mission to invade the mansion and save Sandy.<\/span>"
+	],
+	"publisher": [
+	  "Lucasfilm Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games",
+	  "Vintage computer games",
+	  "Adventure games"
+	],
+	"title": [
+	  "Maniac Mansion Demo (EGA)"
+	],
+	"year": [
+	  "1988"
+	],
+	"publicdate": [
+	  "2016-10-23 01:13:29"
+	],
+	"addeddate": [
+	  "2016-10-23 01:13:29"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "maniac.exe"
+	],
+	"backup_location": [
+	  "ia906209_13"
+	]
+  },
+  "files": {
+	"\/MANIAC.zip": {
+	  "source": "original",
+	  "mtime": "1477185219",
+	  "size": "111760",
+	  "md5": "3543cfdf4b21378fed8671c96e14f05b",
+	  "crc32": "94a63a2e",
+	  "sha1": "c9227d0b7fc2d9dae4d64885635f1a41a02fd029",
+	  "format": "ZIP"
+	},
+	"\/MANIAC_201610_archive.torrent": {
+	  "source": "original",
+	  "btih": "0f1532b6474bbfb90da1e8206972b649b97ab883",
+	  "mtime": "1482889902",
+	  "size": "1994",
+	  "md5": "23f3c3fa5f21e9d77b0d793ea12e02ef",
+	  "crc32": "af8b2614",
+	  "sha1": "c183355c270e875ce0cba4eaf5262c68b7e12774",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MANIAC_201610_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0c8b540d02e20a3938e4f342f3cf3e3d"
+	},
+	"\/MANIAC_201610_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1477185224",
+	  "size": "14336",
+	  "md5": "135fd9c73ae6569d22f4fd720c0e90e7",
+	  "crc32": "1a0b5fc9",
+	  "sha1": "f451948df89de27bc191d9bd3a494883b24e9471",
+	  "format": "Metadata"
+	},
+	"\/MANIAC_201610_meta.xml": {
+	  "source": "original",
+	  "mtime": "1482889901",
+	  "size": "1529",
+	  "format": "Metadata",
+	  "md5": "e374191c268f82758f86ee76cba84573",
+	  "crc32": "24e0de93",
+	  "sha1": "5beee3923548b3deb57061a59f8481aa4a290c98"
+	},
+	"\/maniac_001.png": {
+	  "source": "original",
+	  "mtime": "1477185209",
+	  "size": "2379",
+	  "md5": "b0887aab15da0a2ec5bcd11ce220ca02",
+	  "crc32": "413565bd",
+	  "sha1": "e3b42079291226ff32d86c6145e738d01c764487",
+	  "format": "PNG"
+	},
+	"\/maniac_001_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "maniac_001.png",
+	  "mtime": "1477185233",
+	  "size": "5443",
+	  "md5": "bd4e54f8224e885db7eaca759d0060d2",
+	  "crc32": "b571e165",
+	  "sha1": "c1de429289204529099837e3f6da1d36583c9801"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601207.us.archive.org\/14\/items\/MANIAC_201610\/maniac_001_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 52,
+	"week": 7,
+	"month": 12
+  }
+}

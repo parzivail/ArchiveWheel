@@ -1,0 +1,117 @@
+{
+  "server": "ia601006.us.archive.org",
+  "dir": "/16/items/incoming_201401",
+  "metadata": {
+	"identifier": [
+	  "incoming_201401"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rage Games"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>May, 2008--the people of earth make first contact with an extraterrestrial race. No, nothing like a Star Trek movie here; these little green men made their presence known by launching an all-out attack on the international lunar base. After more attacks on earth's space and ground facilities, the governments of the world decide to take action, constructing the Anomaly Detection And Tracking Array (ADATA) near Mount Kilimanjaro in Africa. The rush is on to make the facility operational, as the aliens, from their arctic stronghold, have detected the facility's test-runs.<\/div>"
+	],
+	"publisher": [
+	  "Xicat Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Incoming: The Final Conflict Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-01-26 21:43:40"
+	],
+	"addeddate": [
+	  "2014-01-26 21:43:40"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233725[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/incoming.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390772619",
+	  "size": "3971633",
+	  "md5": "5b1fff6863768eeff95167e510d09a2e",
+	  "crc32": "5ef09fda",
+	  "sha1": "c00f73f19088d50c8fb3690fc7a0fea503ea5f5f"
+	},
+	"\/incoming.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390772631",
+	  "size": "12036",
+	  "md5": "f7c1c5f06b055528d9449ba66e8104b3",
+	  "crc32": "c7d71dff",
+	  "sha1": "e70b0210ed957a287fb9a69291d247bdfb363a5f",
+	  "rotation": "0"
+	},
+	"\/incoming_201401_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "39dabf53cfa933522bb82ef7da653c13"
+	},
+	"\/incoming_201401_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390772646",
+	  "size": "14336",
+	  "md5": "697a6246844200cc9968d970eec744dc",
+	  "crc32": "c913c396",
+	  "sha1": "785358fc765230167b12e029a760bf9212f68380"
+	},
+	"\/incoming_201401_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473873958",
+	  "size": "1461",
+	  "md5": "ffac517185ba404119da1a6f7e0d5087",
+	  "crc32": "36c12f5d",
+	  "sha1": "6394ee297ef5247da4fe348d3d0d5940be67cbc4"
+	},
+	"\/incoming_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "incoming.jpg",
+	  "mtime": "1390772665",
+	  "size": "3523",
+	  "md5": "6b921ad891f8a8f32b915c83e3121114",
+	  "crc32": "da901634",
+	  "sha1": "22b8adb9bf0646902e47ee1f7dd82deaf1c7c554"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601006.us.archive.org\/16\/items\/incoming_201401\/incoming_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 433,
+	"week": 5,
+	"month": 19
+  }
+}

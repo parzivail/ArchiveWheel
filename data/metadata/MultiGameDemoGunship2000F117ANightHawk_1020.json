@@ -1,0 +1,263 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/34/items/MultiGameDemoGunship2000F117ANightHawk_1020",
+  "metadata": {
+	"identifier": [
+	  "MultiGameDemoGunship2000F117ANightHawk_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Multi-Game Demo (Gunship 2000, F-117A NightHawk)"
+	],
+	"year": [
+	  "1991"
+	],
+	"publicdate": [
+	  "2012-09-05 00:47:11"
+	],
+	"addeddate": [
+	  "2012-09-05 00:47:11"
+	],
+	"description": [
+	  "\"The original Gunship put you in the cockpit of the awesome Ah-64A Apache attack helicopter. Gunship 2000 gives you control of five gunships, from among seven different classes, for high tech battles around the world. Choose from Apaches, Blackhawks, Kiowas and more, and see every detail in the most detailed, Super 3-D Graphics yet. \n\n---\n\nVoted Best Simulation of the Year by the Software Publishers' Association in 1988, F-19 Stealth Fighter was a game the critics said could not be improved. It has been. F-117A features several thrilling new combat scenarios, even hotter 3-D graphics and more up-to-date informations on the world's most elusive jet. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475385109",
+	  "size": "220183",
+	  "md5": "05ab117ad5dacfef53ad92a044fc0720",
+	  "crc32": "1fae298a",
+	  "sha1": "4106df2bda67ab36504012a9192e4f38d67e20e9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475385161",
+	  "size": "3034",
+	  "md5": "6a1d79a62b6373f7aa88cf0486dd900a",
+	  "crc32": "9e22c5c8",
+	  "sha1": "fcb203b504960cd280825a055a69f40d586bcf42"
+	},
+	"\/MultiGameDemoGunship2000F117ANightHawk_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475385126",
+	  "size": "10690",
+	  "md5": "8acdf961e3c132164dce491500a22d5b",
+	  "crc32": "03a9a040",
+	  "sha1": "2353b4c56758f890d7edb544c83e611221399d8d",
+	  "format": "Animated GIF"
+	},
+	"\/MultiGameDemoGunship2000F117ANightHawk_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "99c2d4dd4a95f124fc609309b369c1a62eef930c",
+	  "mtime": "1475385171",
+	  "size": "4471",
+	  "md5": "77eeb6cccafe2aace15690e63985eb74",
+	  "crc32": "d25e767c",
+	  "sha1": "3b833b1b6b871e33dc1a027e83041cf099f1c828",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MultiGameDemoGunship2000F117ANightHawk_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "df4ab0493af47f749ed4da084327d537"
+	},
+	"\/MultiGameDemoGunship2000F117ANightHawk_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475385135",
+	  "size": "10240",
+	  "md5": "ccab910f031ddbbf73438b378926f607",
+	  "crc32": "3e30f45b",
+	  "sha1": "09d99bb0dac0f2784e49c63f030c0cffff6c6775",
+	  "format": "Metadata"
+	},
+	"\/MultiGameDemoGunship2000F117ANightHawk_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469742091",
+	  "size": "1543",
+	  "md5": "ba4f4af5a1f9d10b2cd26d8db2cef0b6",
+	  "crc32": "9b680190",
+	  "sha1": "6f3460e66dad9291971567b9aa8e8f44fe5d395d"
+	},
+	"\/mpsdemo3.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1469742124",
+	  "size": "380058",
+	  "md5": "96e891f9f541340d1f58781857760e29",
+	  "crc32": "3e450bdb",
+	  "sha1": "be2c5a533c68ef91ed3135777a12c7935cb523ee"
+	},
+	"\/mpsdemo3.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346806037",
+	  "size": "675",
+	  "md5": "723b1529dd4924f323f7c30de18995f2",
+	  "crc32": "431eecdc",
+	  "sha1": "8bef5317883cd1b60ca33eb5244c445cace9a795"
+	},
+	"\/mpsdemo3_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475385130",
+	  "size": "55436",
+	  "md5": "cf0d59826c48481a28c066448e70e2b3",
+	  "crc32": "6de04a49",
+	  "sha1": "d0ff04f41c3fbb490bc6343777c9dd6c36e03e73",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_2798.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808744",
+	  "size": "21113",
+	  "md5": "c7b9f03a0e3e7af6d90e182d4fbef93e",
+	  "crc32": "880f7c20",
+	  "sha1": "040c9e136f56f4eb3b27e4423f43a7ff62a2be5c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2798.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808744",
+	  "size": "272",
+	  "md5": "dd1f91edae05db2e048575d9a7ead314",
+	  "crc32": "a8b26954",
+	  "sha1": "93b747ac54adf45c3e14ed154b9bd4745d58d855"
+	},
+	"\/resource_item_2798_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2798.jpg",
+	  "mtime": "1346820181",
+	  "size": "5688",
+	  "md5": "f0b4a73e4b6c183d0790570060aba088",
+	  "crc32": "fcabd662",
+	  "sha1": "84e8199bbd223bf82358c4c2f54f70586030b26b"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475385111",
+	  "size": "220103",
+	  "md5": "028f53eeda169c4a978cc99ff34fdf8c",
+	  "crc32": "cbb233c0",
+	  "sha1": "96dba9ac2616bbd17c28444b4ab192fd53222a52",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475385164",
+	  "size": "3034",
+	  "md5": "6a1d79a62b6373f7aa88cf0486dd900a",
+	  "crc32": "9e22c5c8",
+	  "sha1": "fcb203b504960cd280825a055a69f40d586bcf42"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475385114",
+	  "size": "220183",
+	  "md5": "05ab117ad5dacfef53ad92a044fc0720",
+	  "crc32": "1fae298a",
+	  "sha1": "4106df2bda67ab36504012a9192e4f38d67e20e9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475385165",
+	  "size": "3034",
+	  "md5": "6a1d79a62b6373f7aa88cf0486dd900a",
+	  "crc32": "9e22c5c8",
+	  "sha1": "fcb203b504960cd280825a055a69f40d586bcf42"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475385121",
+	  "size": "217568",
+	  "md5": "98389d108fe1f07e1c12a2a0ea365c5d",
+	  "crc32": "333aa6b1",
+	  "sha1": "95dca10837b8945c0974436404a445456b93e5f8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475385167",
+	  "size": "2897",
+	  "md5": "1f70514d1a721bf4429b4b2aa98109b9",
+	  "crc32": "61a42ad1",
+	  "sha1": "ea2299b299ff8b8628a27a86b80706b6a7c82a08"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475385123",
+	  "size": "217669",
+	  "md5": "1fe4ec668716d9142ddfcea628a39bcf",
+	  "crc32": "cf87e88c",
+	  "sha1": "fc4bf14f84e5363ccd78c39ef7fbd88b05319b8e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475385168",
+	  "size": "2897",
+	  "md5": "1f70514d1a721bf4429b4b2aa98109b9",
+	  "crc32": "61a42ad1",
+	  "sha1": "ea2299b299ff8b8628a27a86b80706b6a7c82a08"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/34\/items\/MultiGameDemoGunship2000F117ANightHawk_1020\/MultiGameDemoGunship2000F117ANightHawk_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 310,
+	"week": 2,
+	"month": 5
+  }
+}

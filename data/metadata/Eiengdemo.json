@@ -1,0 +1,133 @@
+{
+  "server": "ia601901.us.archive.org",
+  "dir": "/10/items/Eiengdemo",
+  "metadata": {
+	"identifier": [
+	  "Eiengdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Nival Interactive"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "<span style=\"font-family:Helvetica, Arial, sans-serif;font-size:15px;background-color:rgb(255,255,255);\">Evil Islands: Curse of the Lost Soul is a tale of a hero who must discover his identity while slaughtering umpteen monsters in an isometric fantasy setting. The story begins with a young man waking up with no knowledge of his past though he remembers his name is Zak. Peasants, who greet sleepyhead by proclaiming him to be the chosen and then flee in awe, soon provide hints of his origins. The peasants' village soon becomes the base of operations from which you will undertake various quests in the land of Gipath. These quests are either assigned to you or hinted at by locals.<\/span><span style=\"margin:0px;padding:0px;border:0px;font-size:15px;font-family:Helvetica, Arial, sans-serif;vertical-align:baseline;\"><br \/><\/span>"
+	],
+	"publisher": [
+	  "Fishtank Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Evil Islands: Curse of the Lost Souls Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2013-03-11 05:38:04"
+	],
+	"addeddate": [
+	  "2013-03-11 05:38:04"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232005[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905608_0"
+	]
+  },
+  "files": {
+	"\/Eiengdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "968a9fcd64891849d58ceaef4588caa378e16a48",
+	  "mtime": "1475135236",
+	  "size": "5445",
+	  "md5": "a321086ebd819615d8077ed255eb31e4",
+	  "crc32": "cc106ad7",
+	  "sha1": "48448ae626472156d6ec08d14cc1e16a73f227a2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Eiengdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a96319ba36d45ebfb7ab0b1853a4e26a"
+	},
+	"\/Eiengdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475135235",
+	  "size": "1700",
+	  "md5": "30688828138c07994aead292afcc17d3",
+	  "crc32": "8095afe1",
+	  "sha1": "44a15e3cd7289988efdacfd1c485f42992574332"
+	},
+	"\/eiengdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1362980284",
+	  "size": "95876119",
+	  "md5": "45082bd7c0e1e7068a26cf60560f3669",
+	  "crc32": "ec7d5271",
+	  "sha1": "56d02d227804e286d503d395735e8e0d8efdd5cf"
+	},
+	"\/eiengdemo.exe_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1362980284",
+	  "size": "2506",
+	  "md5": "8993abaad7da2307a84045f8c7f96963",
+	  "crc32": "ea48959c",
+	  "sha1": "c62b5fe1d05621cdb16186fc217f1df19fdab12b"
+	},
+	"\/eiengdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1362980296",
+	  "size": "84605",
+	  "md5": "5a87d7f6760ffba989f145a419e3eb0d",
+	  "crc32": "73cac2cd",
+	  "sha1": "ab1ea04a1a5f6511c4b6ecc05227f91cfced6d70",
+	  "rotation": "0"
+	},
+	"\/eiengdemo.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1362980296",
+	  "size": "2474",
+	  "md5": "7b04c803e4f971571c2b948797331caa",
+	  "crc32": "86b0b1dc",
+	  "sha1": "91564e0aee42d5fdd4c8390e13f6babe1b622729"
+	},
+	"\/eiengdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "eiengdemo.jpg",
+	  "mtime": "1362980309",
+	  "size": "5795",
+	  "md5": "c079f75a8921b2f7f073b8b846028405",
+	  "crc32": "0afeaf2d",
+	  "sha1": "aa993e5b61925067b8297b1d7cc57605e336b100"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601901.us.archive.org\/10\/items\/Eiengdemo\/eiengdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1001,
+	"week": 10,
+	"month": 37
+  }
+}

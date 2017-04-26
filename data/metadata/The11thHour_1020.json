@@ -1,0 +1,310 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/1/items/The11thHour_1020",
+  "metadata": {
+	"identifier": [
+	  "The11thHour_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Trilobyte"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Virgin Interactive"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The 11th Hour"
+	],
+	"publicdate": [
+	  "2012-09-04 06:54:46"
+	],
+	"addeddate": [
+	  "2012-09-04 06:54:46"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Eight screen shots in gif format of The 11th Hour.\n\nThis is a surprising demo for 1995 from a big name publisher.  An interactive movie based game with a couple screen shots as their demo.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator_start": [
+	  "GIFDESK.EXE *.gif"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "4.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "This was my first mystery game. The music had me creeped out. I would spend hours playing this game, but I never finished it. I was stumped on a few puzzles. Now with more gaming experience, I would love the chance to try it again.",
+		"reviewtitle": "Spooky and Smart",
+		"reviewer": "DeepSeerTN",
+		"reviewdate": "2014-11-04 11:48:37",
+		"stars": "4"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475747508",
+	  "size": "132457",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "947c773a1e827d0aa7fdab5f712bd453",
+	  "crc32": "dca8f36e",
+	  "sha1": "48fef405f82b57e3ac2634443b44c1fdc28c104c"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475747566",
+	  "size": "2374",
+	  "md5": "a1cc63a24282872fb389dd6b2807ec35",
+	  "crc32": "044df2ea",
+	  "sha1": "d85433256c3acc984e67a27fd5e15f62795dcd7c"
+	},
+	"\/11THDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346741701",
+	  "size": "1410277",
+	  "md5": "41c6e5168865d4852baac7db27f72470",
+	  "crc32": "1e78b876",
+	  "sha1": "d5ad62759099313c8dcb610172bec64649622d87"
+	},
+	"\/11THDEMO.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741701",
+	  "size": "658",
+	  "md5": "a87f29e146a3c32d632f315abff276bb",
+	  "crc32": "7a0f4d48",
+	  "sha1": "ecbf022f311bfe638289328df132b030b3eb2645"
+	},
+	"\/11THDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475747537",
+	  "size": "127097",
+	  "format": "Emulator Screenshot",
+	  "md5": "9d92823453fc42d5b3e4cddfcb8c1c1a",
+	  "crc32": "ee0f481d",
+	  "sha1": "a8d3c901f88e11a926796114b00e1f8029623a04"
+	},
+	"\/The11thHour_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475747534",
+	  "size": "103013",
+	  "format": "Animated GIF",
+	  "md5": "3d27632d763ed0ef2ee7d920e3bb4afe",
+	  "crc32": "a7aa34c9",
+	  "sha1": "7406f0b768c077e523f259e17a0f0c839105d7dd"
+	},
+	"\/The11thHour_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "baf364f7bce329253b152fe91fbc335ab0b50b11",
+	  "mtime": "1476118532",
+	  "size": "4566",
+	  "md5": "28a8a348bab119e570188bf3d69cc915",
+	  "crc32": "2bd8ee03",
+	  "sha1": "ec9df03fdac40ee12e0ca05659e8c652e39776b8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/The11thHour_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0a87656c4645875842be241ad6abf8d7"
+	},
+	"\/The11thHour_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475747543",
+	  "size": "11264",
+	  "format": "Metadata",
+	  "md5": "fd9a13194b9ab88242650d748dd8e1a5",
+	  "crc32": "fd1ae8d3",
+	  "sha1": "6a214e8750782085a920bd304938ee1e41ca4e51"
+	},
+	"\/The11thHour_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476118532",
+	  "size": "1064",
+	  "md5": "286c212d9a1254a4437faab6ab69c929",
+	  "crc32": "3bb63fc9",
+	  "sha1": "fb6df83c68ac2adadd7c434f8e7e6c71b95ddf8d"
+	},
+	"\/The11thHour_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1415101719",
+	  "size": "667",
+	  "md5": "182c536b9f8060f3ab1179fef7764043",
+	  "crc32": "d869180c",
+	  "sha1": "8a394440167a86553eae5a02d21733fe81d58ce6",
+	  "format": "Metadata"
+	},
+	"\/resource_item_1823.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346741703",
+	  "size": "8129",
+	  "md5": "0943a8b560256f33ae0f38e180158fe9",
+	  "crc32": "b9891b44",
+	  "sha1": "0ebbcfe32b866872376152ece71219a5d6425aca",
+	  "rotation": "0"
+	},
+	"\/resource_item_1823.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741703",
+	  "size": "271",
+	  "md5": "aa1b73ebda4d51f94e3e1e89e2d592a0",
+	  "crc32": "adcb4235",
+	  "sha1": "75c8db7300209eecff651aee0ab86f1bba55feb3"
+	},
+	"\/resource_item_1823_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1823.jpg",
+	  "mtime": "1346742673",
+	  "size": "2896",
+	  "md5": "c4ed624339fa208b856fe602a1c7dace",
+	  "crc32": "1e5c4088",
+	  "sha1": "1b9fbb2fa1b4868d99e46cb99e3a2b977fce0d99"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475747511",
+	  "size": "132457",
+	  "md5": "947c773a1e827d0aa7fdab5f712bd453",
+	  "crc32": "dca8f36e",
+	  "sha1": "48fef405f82b57e3ac2634443b44c1fdc28c104c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475747568",
+	  "size": "2374",
+	  "md5": "a1cc63a24282872fb389dd6b2807ec35",
+	  "crc32": "044df2ea",
+	  "sha1": "d85433256c3acc984e67a27fd5e15f62795dcd7c"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475747520",
+	  "size": "64392",
+	  "md5": "138e8c7d2137023d4d8f8e43322c99f7",
+	  "crc32": "cb1f0ff0",
+	  "sha1": "24e4798366cd718842d43bde7cce12fa33fd29d4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475747569",
+	  "size": "1662",
+	  "md5": "9763d280d1d0547ee16ec77772113303",
+	  "crc32": "a5ed7cd8",
+	  "sha1": "c34267fd3a5e49ce280ea59208c1de0cc699a0b9"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475747522",
+	  "size": "64277",
+	  "md5": "e4f77b7affaa9ddd99e9f084ec9012b3",
+	  "crc32": "15a0f11d",
+	  "sha1": "e212409f5b747e9fa4bf51282318e67c35c128a4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475747570",
+	  "size": "1665",
+	  "md5": "56192d5e949ab8be67abb2e2288b7265",
+	  "crc32": "b95ba69c",
+	  "sha1": "bc102a38004d7fe85088b63d7de9de0523947a3b"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475747524",
+	  "size": "78318",
+	  "md5": "28c30b9b3383919aa2a8570b3c57c666",
+	  "crc32": "5a793192",
+	  "sha1": "52ead03dcede8f3c2685d13f82895fba006e63f6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475747571",
+	  "size": "1940",
+	  "md5": "adef6b721a7066d3ed73a7cb57eb52fb",
+	  "crc32": "870c6be9",
+	  "sha1": "89db23611f2d8047f4e438e0e868865471329c2e"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475747528",
+	  "size": "78327",
+	  "md5": "7252c984173b29d4b8d7790c50f98929",
+	  "crc32": "cc55445a",
+	  "sha1": "f7d8876b1b75c2c5a990a28e6cea5cd6d0773d24",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475747572",
+	  "size": "1942",
+	  "md5": "df0e639275012f59689184a2326e0163",
+	  "crc32": "d52e43bb",
+	  "sha1": "b48fa15ce9c39aa98c6df5e61b2cd529512ae4d4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/1\/items\/The11thHour_1020\/The11thHour_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2060,
+	"week": 8,
+	"month": 19
+  }
+}

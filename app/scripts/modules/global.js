@@ -61,27 +61,43 @@ define(function () {
 		wheelStopped: wheelStopped,
 		//particles: particles,
 		demos: demos,
+		enableSound: false,
 		sound: null,
 		currentIndex: 0,
-		get: function (site, callback) {
-			// If no url was passed, exit.
-			if (!site) {
-				return false;
-			}
-
-			// Request that YSQL string, and run a callback function.
-			// Pass a defined function to prevent cache-busting.
-			$.getJSON("https://cors-anywhere.herokuapp.com/" + site, function (data) { // TODO: self-host a cors-anywhere instance
-				// If we have something to work with...
-				if (data) {
-					callback(data);
-				}
-				// Else, Maybe we requested a site that doesn't exist, and nothing returned.
-				else throw new Error('Nothing returned from getJSON.');
-			});
-		},
 		status: function (status) {
 			$("#loadStatus").text(status);
+		},
+		loadImage: function (url, altUrl) {
+			var timer;
+
+			function clearTimer() {
+				if (timer) {
+					clearTimeout(timer);
+					timer = null;
+				}
+			}
+
+			function handleFail() {
+				this.onload = this.onabort = this.onerror = function () {
+				};
+				clearTimer();
+				if (this.complete) return;
+				console.log("Image", url, "surpasses smooth loading time, loading alt instead");
+				this.src = altUrl;
+			}
+
+			var img = new Image();
+			img.onerror = img.onabort = handleFail;
+			img.onload = function () {
+				clearTimer();
+			};
+			img.src = url;
+			timer = setTimeout(function (theImg) {
+				return function () {
+					handleFail.call(theImg);
+				};
+			}(img), 3000);
+			return (img);
 		}
 	}
 });

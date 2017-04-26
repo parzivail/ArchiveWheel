@@ -1,0 +1,120 @@
+{
+  "server": "ia902500.us.archive.org",
+  "dir": "/23/items/ppdemous",
+  "metadata": {
+	"identifier": [
+	  "ppdemous"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Stealth Productions"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "You are Pete the pretzel maker. But an evil pretzel maker named Baker Bob has found a way to make his pretzel's come to life. It is your job to stop these loose pretzel's then stop Baker Bob!"
+	],
+	"publisher": [
+	  "XSIV Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Pretzel Pete Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-06-10 00:59:49"
+	],
+	"addeddate": [
+	  "2014-06-10 00:59:49"
+	],
+	"backup_location": [
+	  "ia905808_33"
+	]
+  },
+  "files": {
+	"\/ppdemous.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1402361989",
+	  "size": "1044480",
+	  "md5": "a1ea92389b1fa0f186ec3ad06b96c8a6",
+	  "crc32": "40bcb242",
+	  "sha1": "a43580016ef5c462f6db954d11650eb69e142167"
+	},
+	"\/ppdemous.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1402361998",
+	  "size": "164149",
+	  "md5": "665a5439758d29812f4962d7e3fd9a59",
+	  "crc32": "37c09cec",
+	  "sha1": "01c410f43a9b357daa644f1cf2b385eba6347cce"
+	},
+	"\/ppdemous_archive.torrent": {
+	  "source": "original",
+	  "btih": "7de114eb5ce8e93537551e7c9a208b9f356adb39",
+	  "mtime": "1472503670",
+	  "size": "1987",
+	  "md5": "c2b2948343e7cdfd7f3f85246ffbf4a9",
+	  "crc32": "c759f057",
+	  "sha1": "72c131100365c145109097f12733fe03be527537",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ppdemous_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5b7bc21cbdf566c415a09cecb206d058"
+	},
+	"\/ppdemous_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1402362005",
+	  "size": "12288",
+	  "md5": "88624df3ca5fd59c74284681a75ccd3c",
+	  "crc32": "d65061cc",
+	  "sha1": "6f1719c9de6e5d92522260288cbe43bedc405e4c"
+	},
+	"\/ppdemous_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472503669",
+	  "size": "860",
+	  "md5": "7f78ec1dcb26f5a53d8e6c91f76b0006",
+	  "crc32": "9d50766d",
+	  "sha1": "187f93b8009e1a6a745f96f68f1a187f8bfae8ae"
+	},
+	"\/ppdemous_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ppdemous.png",
+	  "mtime": "1402362016",
+	  "size": "6217",
+	  "md5": "2efb61be0c48d47216fc77c6f6049c57",
+	  "crc32": "1fae6bcc",
+	  "sha1": "cbe1d8d616758d5cdfcdf6fe7bcc0bec5105d9b7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902500.us.archive.org\/23\/items\/ppdemous\/ppdemous_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 439,
+	"week": 3,
+	"month": 6
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "server": "ia600206.us.archive.org",
+  "dir": "/27/items/lpidemo",
+  "metadata": {
+	"identifier": [
+	  "lpidemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Visual Sciences"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>You are head of a tribe of lemmings armed with pump-action paint guns and a mission. Your team must battle opponent lemming teams in an attempt to capture their flags. You must negotiate your way through 100-plus levels complete with the traditional array of brain-teasing puzzles, booby traps, catapults, and obstacles.<\/div>"
+	],
+	"publisher": [
+	  "Psygnosis"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Lemmings Paintball Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-01-10 00:24:10"
+	],
+	"addeddate": [
+	  "2014-01-10 00:24:10"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233720[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905802_26"
+	]
+  },
+  "files": {
+	"\/lpidemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1389313462",
+	  "size": "3345066",
+	  "md5": "408362e5228db38490c8b306507f469a",
+	  "crc32": "7bd9f538",
+	  "sha1": "04f840737a8d4d1d8782a8644fb40c1d72810b77"
+	},
+	"\/lpidemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1389313450",
+	  "size": "439493",
+	  "md5": "1bc7867d642ca94115da38c89032f9a5",
+	  "crc32": "760a7da8",
+	  "sha1": "d522e994099b776e250c105e136bfe82710231e2"
+	},
+	"\/lpidemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "02641314e333af61dc82d154674e8631"
+	},
+	"\/lpidemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1389313467",
+	  "size": "14336",
+	  "md5": "4297c523f815b56f87a5df64c42654f9",
+	  "crc32": "19fecb07",
+	  "sha1": "85a3512ee2f80199136ef01443f0620d4289089c"
+	},
+	"\/lpidemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474638574",
+	  "size": "1185",
+	  "md5": "0be842782342b590cfe5ec6cc7745361",
+	  "crc32": "6ee9da9d",
+	  "sha1": "736ee68548a31b5512e713a32349b9f4eea98c29"
+	},
+	"\/lpidemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "lpidemo.png",
+	  "mtime": "1389313476",
+	  "size": "5898",
+	  "md5": "deb8af8ac4f39d8a8afd07fb73fb5b4e",
+	  "crc32": "970f88f9",
+	  "sha1": "0553eee96bd206a66ef052221052fc3f36740de9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600206.us.archive.org\/27\/items\/lpidemo\/lpidemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1818,
+	"week": 14,
+	"month": 46
+  }
+}

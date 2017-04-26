@@ -1,0 +1,117 @@
+{
+  "server": "ia801007.us.archive.org",
+  "dir": "/9/items/Bbdemo",
+  "metadata": {
+	"identifier": [
+	  "Bbdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Humongous Entertainment"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "This is a great baseball game that lets you play a junior version of Major League Baseball teams. Create your own team and hit the field as kids. \u00a0This demo allows you to play one inning."
+	],
+	"publisher": [
+	  "Atari"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Backyard Baseball 2001 Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2013-11-28 05:59:22"
+	],
+	"addeddate": [
+	  "2013-11-28 05:59:22"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140408011743[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_18"
+	]
+  },
+  "files": {
+	"\/Bbdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "57834515056939695872a191aeeb954c"
+	},
+	"\/Bbdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385618379",
+	  "size": "12288",
+	  "md5": "a23b5e7842418735c12c24120d75c936",
+	  "crc32": "9a6fbff6",
+	  "sha1": "b1bb7451a5ced0157e9a54fceb0fbc258d7e2357"
+	},
+	"\/Bbdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472128751",
+	  "size": "1037",
+	  "md5": "8328c3bbbfe47490a68469fdb25b2f6d",
+	  "crc32": "4870ef6c",
+	  "sha1": "4890ea73902775a84c6541b68498df4ca48d98fc"
+	},
+	"\/bbdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385618362",
+	  "size": "21537280",
+	  "md5": "88cda1b5444d7d38b0a5969179579f9e",
+	  "crc32": "813e6995",
+	  "sha1": "3616aa750e2306d17d3256009eae9edb73fadc78"
+	},
+	"\/bbdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385618374",
+	  "size": "135226",
+	  "md5": "840ab7cfdc2c3f0572f9f5658ed02eb6",
+	  "crc32": "e85b3bbe",
+	  "sha1": "75ffb6bc4f20bdecd5252baf99dbea7ee1684632",
+	  "rotation": "0"
+	},
+	"\/bbdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bbdemo.jpg",
+	  "mtime": "1385618388",
+	  "size": "4720",
+	  "md5": "1d9d1730e0df907f08d7d1dc058c976d",
+	  "crc32": "e29c9028",
+	  "sha1": "52f5a2952fbbe13fce4f8ad22f671ba13dd753bd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia801007.us.archive.org\/9\/items\/Bbdemo\/bbdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4000,
+	"week": 43,
+	"month": 230
+  }
+}

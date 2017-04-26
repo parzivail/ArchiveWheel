@@ -1,0 +1,120 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/21/items/EnemyEngagedApachehavoc",
+  "metadata": {
+	"identifier": [
+	  "EnemyEngagedApachehavoc"
+	],
+	"title": [
+	  "Enemy Engaged: Apache\/Havoc Demo"
+	],
+	"creator": [
+	  "Razorworks"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Apache Havoc delivers Head to Head chopper warfare with two equally incredibly-modeled sims in one box!"
+	],
+	"date": [
+	  "1998"
+	],
+	"year": [
+	  "1998"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-21 04:32:26"
+	],
+	"addeddate": [
+	  "2012-02-21 04:31:25"
+	],
+	"publisher": [
+	  "Empire Interactive Entertainment"
+	],
+	"updatedate": [
+	  "2012-02-21 04:33:17"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_7"
+	]
+  },
+  "files": {
+	"\/AHDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1329798665",
+	  "size": "65981848",
+	  "md5": "3393b56cc15b89cb4f643417641cb89a",
+	  "crc32": "b510fa72",
+	  "sha1": "651e83e8396fd486b3e4f8781dc7acd7e940316f",
+	  "title": "Enemy Engaged: Apache\/Havoc Demo"
+	},
+	"\/ApacheHavocScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Enemy Engaged: Apache\/Havoc Screenshot",
+	  "mtime": "1329798667",
+	  "size": "36119",
+	  "md5": "fb30f27af891dc7aae2b8ede493a7e0c",
+	  "crc32": "59c8f41d",
+	  "sha1": "1a4b6814fb12ede676d1238df5a0654566349e67",
+	  "rotation": "0"
+	},
+	"\/ApacheHavocScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ApacheHavocScreenshot.jpg",
+	  "mtime": "1329798731",
+	  "size": "3418",
+	  "md5": "fa98dfe40d3a546e43258f18d464f4b8",
+	  "crc32": "47c33014",
+	  "sha1": "3c31c037fa6818af5ff3244286b995cd755907c8"
+	},
+	"\/EnemyEngagedApachehavoc_archive.torrent": {
+	  "source": "original",
+	  "btih": "028c0e92cb07d08d8b8817ce369563cbce064d59",
+	  "mtime": "1461922661",
+	  "size": "4421",
+	  "md5": "e8c3e2b0de6f80cb0fadf2b4ba7dded8",
+	  "crc32": "c659f363",
+	  "sha1": "2d978055c956a74fe2b1ece1701db915e43cf6f8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/EnemyEngagedApachehavoc_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3f4afe2758325af32efb41e060759e13"
+	},
+	"\/EnemyEngagedApachehavoc_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1461922660",
+	  "size": "982",
+	  "md5": "3ffb003fb736313fc6009da03f1499d2",
+	  "crc32": "5c2f6cd8",
+	  "sha1": "2f4ac107741d0495c4d0e5f701274a34645027d9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/21\/items\/EnemyEngagedApachehavoc\/ApacheHavocScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1082,
+	"week": 14,
+	"month": 38
+  }
+}

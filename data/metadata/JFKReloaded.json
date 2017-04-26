@@ -1,0 +1,116 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/33/items/JFKReloaded",
+  "metadata": {
+	"identifier": [
+	  "JFKReloaded"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Traffic Management"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "As I watch the limo creep down Dealey Plaza, I put my finger on the trigger and peer down my rifle's telescope. I can see my target in the cross hairs. It's Nov. 22, 1963. I'm trying to kill the president."
+	],
+	"publisher": [
+	  "Traffic Management"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "JFK Reloaded Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2014-02-24 22:31:44"
+	],
+	"addeddate": [
+	  "2014-02-24 22:31:44"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234121[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_26"
+	]
+  },
+  "files": {
+	"\/JFK Reloaded.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1393281104",
+	  "size": "13373847",
+	  "md5": "319214010554c3ad1653ba7706965586",
+	  "crc32": "18658ffd",
+	  "sha1": "b594804276df5e235a35ab41ebc5ad84acbe0672"
+	},
+	"\/JFK Reloaded.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1393281115",
+	  "size": "383922",
+	  "md5": "108b0db506b90bb71a34582d1269c879",
+	  "crc32": "4ecbe176",
+	  "sha1": "f61067dac4843338a0917e16b40a313597d17a17"
+	},
+	"\/JFK Reloaded_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "JFK Reloaded.png",
+	  "mtime": "1393281133",
+	  "size": "2433",
+	  "md5": "99a58539da76ef9852a447c18e0fc534",
+	  "crc32": "00be8372",
+	  "sha1": "6917c3404b81f110b37a6a1bfab70209e9f20337"
+	},
+	"\/JFKReloaded_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0b1cca056f6c7f73ec8c392b16c0a947"
+	},
+	"\/JFKReloaded_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1393281119",
+	  "size": "12288",
+	  "md5": "4407c54ede8db0d2edf1adbfece505f6",
+	  "crc32": "3544b2c1",
+	  "sha1": "5d7f8c6bf47fffac040f1ba72ed8cae0cebbf73b"
+	},
+	"\/JFKReloaded_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474125850",
+	  "size": "1057",
+	  "md5": "53e7dc7456b371acd8ee064acbb863e9",
+	  "crc32": "b8d482e9",
+	  "sha1": "c8e5d4884c69a1347f3cebf0ca920ed77aed7715"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/33\/items\/JFKReloaded\/JFK%20Reloaded_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 519,
+	"week": 17,
+	"month": 50
+  }
+}

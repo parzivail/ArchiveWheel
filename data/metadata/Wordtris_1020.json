@@ -1,0 +1,226 @@
+{
+  "server": "ia600701.us.archive.org",
+  "dir": "/10/items/Wordtris_1020",
+  "metadata": {
+	"identifier": [
+	  "Wordtris_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Spectrum Holobyte"
+	],
+	"date": [
+	  "1992"
+	],
+	"description": [
+	  "Wordtris is a mind-boggling Tetris word puzzle set in motion.  Time is of the essence as you try to maneuver letter tiles to spell words as they fall from the top of the screen into the well.  The faster you position each letter to spell a word horizontally or vertically (or both), the better your score.  Earn bonus points for making longer words and using gold letter tiles.  It's fun, it's obsessive and you'll keep coming back for more.  The Soviet challenge continues!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Spectrum Holobyte"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Wordtris Demo"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-04 16:24:32"
+	],
+	"addeddate": [
+	  "2012-09-04 16:24:32"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "WORDTRIS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475614672",
+	  "size": "95137",
+	  "md5": "10faadcaaed3a47fff8187dc69711ce8",
+	  "crc32": "ebbd4690",
+	  "sha1": "a5c8b557dbc4fccc6eb1c26f9ecd2b38b4c752db",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475614701",
+	  "size": "1930",
+	  "md5": "bc1015d0807c5f00c0ef579f8d5eb24a",
+	  "crc32": "d12b2de1",
+	  "sha1": "440a6e7c158268ba8cfd501e9934078fb3ea32ce"
+	},
+	"\/WORDTRIS.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775878",
+	  "size": "1185",
+	  "md5": "8970467cc1b5ea90d5e7baf5d61df5ac",
+	  "crc32": "b6924bbd",
+	  "sha1": "d094b54b131a851cf0a3e32b6293ab37010945a7"
+	},
+	"\/WORDTRIS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471374287",
+	  "size": "266303",
+	  "md5": "416ccffdda766b3d9e94f2c63438e595",
+	  "crc32": "705e5d94",
+	  "sha1": "67e22d250df7c25cfc5917e59dd1cbf2ea9d51ca"
+	},
+	"\/WORDTRIS_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475614684",
+	  "size": "86255",
+	  "md5": "742af0380902ef9d2c291312c3623df7",
+	  "crc32": "81316904",
+	  "sha1": "a18ee6df29d55c742f2bbe36a214aeaae782ec21",
+	  "format": "Emulator Screenshot"
+	},
+	"\/Wordtris_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475614680",
+	  "size": "34653",
+	  "md5": "19808a7b8a310346fc74d258bf618769",
+	  "crc32": "e988e7c3",
+	  "sha1": "aa453a2dd801ea3ee0b2113be93555d70a30f0ed",
+	  "format": "Animated GIF"
+	},
+	"\/Wordtris_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b8c5fb6374c2c5cd29a8f0f74674c50b300c6d25",
+	  "mtime": "1475614706",
+	  "size": "3431",
+	  "md5": "40e423dbf15d4b4fa08f903b07fd71b7",
+	  "crc32": "9c4013dd",
+	  "sha1": "56d2db7159bf45cdfe71817f7cfb0b8c5cde76d8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Wordtris_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "204d72bf22efe5a029e22b0d0331815f"
+	},
+	"\/Wordtris_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475614688",
+	  "size": "9216",
+	  "md5": "11e8ce7409836b1ee36f166471a24cdf",
+	  "crc32": "d5ae7f99",
+	  "sha1": "be94fec357bb0306b1194f1fc43f9141250979e4",
+	  "format": "Metadata"
+	},
+	"\/Wordtris_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471374346",
+	  "size": "1344",
+	  "md5": "86a4758a9d83b707439dc44c6aeeac89",
+	  "crc32": "3345662d",
+	  "sha1": "4e3b60078c96af9af6b675ca2ac190de23a833ce"
+	},
+	"\/resource_item_2326.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346780679",
+	  "size": "20933",
+	  "md5": "3488caf8163de6da4ceba1eb8808b0f0",
+	  "crc32": "eeaee5ef",
+	  "sha1": "ed52fa67ec2760a3e38dc723fa3c374d46b9a43e",
+	  "rotation": "0"
+	},
+	"\/resource_item_2326.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780679",
+	  "size": "272",
+	  "md5": "28b51d2547bc079ea63a95bf3307482b",
+	  "crc32": "b0cdbe46",
+	  "sha1": "ef4268d3ea497d5315a99aacc3208ab9f9e324ce"
+	},
+	"\/resource_item_2326_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2326.jpg",
+	  "mtime": "1346817910",
+	  "size": "6465",
+	  "md5": "e0bfad9ae95351029e6f1b2f71b79d26",
+	  "crc32": "a6258150",
+	  "sha1": "41d5edd0d4685bc4873edab9d196aa19f53fefe6"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475614675",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475614702",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475614677",
+	  "size": "95137",
+	  "md5": "10faadcaaed3a47fff8187dc69711ce8",
+	  "crc32": "ebbd4690",
+	  "sha1": "a5c8b557dbc4fccc6eb1c26f9ecd2b38b4c752db",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475614704",
+	  "size": "1930",
+	  "md5": "bc1015d0807c5f00c0ef579f8d5eb24a",
+	  "crc32": "d12b2de1",
+	  "sha1": "440a6e7c158268ba8cfd501e9934078fb3ea32ce"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600701.us.archive.org\/10\/items\/Wordtris_1020\/Wordtris_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 88,
+	"week": 3,
+	"month": 4
+  }
+}

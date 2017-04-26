@@ -1,0 +1,121 @@
+{
+  "server": "ia802504.us.archive.org",
+  "dir": "/18/items/ls98demo",
+  "metadata": {
+	"identifier": [
+	  "ls98demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Access Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Links LS 1998 Edition is the first game in the Links series to run in native Windows 95 mode."
+	],
+	"publisher": [
+	  "Access Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Links LS 1998 Edition Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-06-22 20:02:26"
+	],
+	"addeddate": [
+	  "2014-06-22 20:02:26"
+	],
+	"backup_location": [
+	  "ia905809_17"
+	]
+  },
+  "files": {
+	"\/ls98demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1403467390",
+	  "size": "27093269",
+	  "md5": "465aad39fdc8ef97e86b69bb46b1317b",
+	  "crc32": "44a54748",
+	  "sha1": "46d52c7de95b11dce1fa4c4ce580b1f09932885c"
+	},
+	"\/ls98demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1403467345",
+	  "size": "372924",
+	  "md5": "3b9a0cbc8b6874aee2461179b1da8f5b",
+	  "crc32": "93ac6f5d",
+	  "sha1": "774f11b6c2e5191501b175db4f533b81c4392aae",
+	  "rotation": "0"
+	},
+	"\/ls98demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "911763e9ead119e48911d55caf872fc8b89503d5",
+	  "mtime": "1474613149",
+	  "size": "2990",
+	  "md5": "97284ac6f1ba5d7bc6f094b05de09cc8",
+	  "crc32": "b386b379",
+	  "sha1": "798cb9ef7ca6f1072b99aae9a6fa6471e4fe00f9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ls98demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "637b67f7cad57e41125213d08fb89fb9"
+	},
+	"\/ls98demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1403467397",
+	  "size": "10240",
+	  "md5": "ded653c6758495fc6fd2e94a28a1458a",
+	  "crc32": "69e20bfd",
+	  "sha1": "542507ee24803a48f9907c1bda91210ee42e96f0"
+	},
+	"\/ls98demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474613149",
+	  "size": "772",
+	  "md5": "27b8dd3b17ccfbaece0fc4f60e4e727b",
+	  "crc32": "11f6cd18",
+	  "sha1": "6fdb45d3cded719c459215f904f64653b5ae86c2"
+	},
+	"\/ls98demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ls98demo.jpg",
+	  "mtime": "1403467403",
+	  "size": "5286",
+	  "md5": "9a5d9e3c771c769ed492053c688255b3",
+	  "crc32": "32ea191b",
+	  "sha1": "38d37d848ef41e824b221d3a7283ee7e2b7d29a1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia802504.us.archive.org\/18\/items\/ls98demo\/ls98demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2712,
+	"week": 55,
+	"month": 190
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/26/items/AbsoluteZero_1020",
+  "metadata": {
+	"identifier": [
+	  "AbsoluteZero_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Domark Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Domark Software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Absolute Zero Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:07:06"
+	],
+	"addeddate": [
+	  "2012-09-04 06:07:06"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Over 200,000 of your comrades have just been viciously slaughtered. A superior alien life form is pounding you with simultaneous air, surface and subterranean attacks. And, by the way, you have no weapons... yet.\n\nWelcome to Absolute Zero, a game in which your raw ingenuity, fighting skills and quick thinking just might not be enough to keep you alive.\n\nWhen a mining colony on a small moon orbiting Jupiter accidentally uncovers a hibernating alien species, all hell breaks loose and you're at the helm. Your mission: Assemble a resistance force, convert your mining equipment into deadly machines of war, then attack the extraterrestrials with everything you've got. But don't panic... you haven't got time.\n\nYou'll move from character to character, control seven different vehicles, use thirteen different weapons, hear news reports about the battle, read your character's diary and even receive intelligence reports on alien craft.\n\nFurious, heart-stopping combat and a fully realized, interactive storyline combine to make Absolute Zero as unpredictable as it is addictive. It's a unique theater of war in space that makes other science fiction combat games look tame. Watch a whole world come alive before your eyes, then see if you can save it from destruction. Can you survive?\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "GAME\/AZGAME.EXE"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/AZ-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346738954",
+	  "size": "13286337",
+	  "md5": "1a0b5b642a32b98139226ffa5dbb969c",
+	  "crc32": "9d182479",
+	  "sha1": "809693e9a1c721a9019415dc2b7af26362ed8f8d"
+	},
+	"\/AZ.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738954",
+	  "size": "659",
+	  "md5": "a8a846fc29a90c677f53c8a7c20df03c",
+	  "crc32": "4b674fec",
+	  "sha1": "d61dcbe645eb5287a8ae60318763beae6f7aa5d3"
+	},
+	"\/AZD.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476406546",
+	  "size": "13987100",
+	  "md5": "0fe83c3b5b3ab0973782c66d1e17f72e",
+	  "crc32": "dcb25b3e",
+	  "sha1": "20a61995f9c89be5ddca882a97e3e71b1290894d"
+	},
+	"\/AbsoluteZero_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "62c719a0ba32c41d3e462c1d8a75b610002fb801",
+	  "mtime": "1476406685",
+	  "size": "3077",
+	  "md5": "ad9d71f99177a094292dd50ed066bc41",
+	  "crc32": "095a96cb",
+	  "sha1": "64a5909a0effdf9c7cd43420738684c0c09e5394",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AbsoluteZero_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2ef456a1e68052e58290dd5f1654523c"
+	},
+	"\/AbsoluteZero_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476406605",
+	  "size": "2167",
+	  "md5": "6228c88050d7a89e72fc76a41356ed56",
+	  "crc32": "ca15c77b",
+	  "sha1": "954ac64fc3a47e3fe27b3e23708248a5c056f909"
+	},
+	"\/resource_item_1843.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346738956",
+	  "size": "11697",
+	  "md5": "398e39b328a816f1f4254ef233b44973",
+	  "crc32": "6cd4c6f7",
+	  "sha1": "6d0da4fbe00052b62d01d5823b63be43e9077555",
+	  "rotation": "0"
+	},
+	"\/resource_item_1843.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738956",
+	  "size": "272",
+	  "md5": "7da9e62784b89f9b732e47e5d5ef591e",
+	  "crc32": "7ae920cb",
+	  "sha1": "a3de3d2ae7a89c61db825544da08e8d9d95006ac"
+	},
+	"\/resource_item_1843_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1843.jpg",
+	  "mtime": "1346739498",
+	  "size": "4106",
+	  "md5": "e46c482a0e69368edbc9149b5460019d",
+	  "crc32": "723984ad",
+	  "sha1": "88d6d052b5352e43b4ee464b4f347a147c2a7bf6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/26\/items\/AbsoluteZero_1020\/resource_item_1843_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 330,
+	"week": 5,
+	"month": 5
+  }
+}

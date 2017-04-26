@@ -1,0 +1,206 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/10/items/LotusTheUltimateChallenge_1020",
+  "metadata": {
+	"identifier": [
+	  "LotusTheUltimateChallenge_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Magnetic Fields"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Gremlin Graphics Software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Lotus: The Ultimate Challenge Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:43:13"
+	],
+	"addeddate": [
+	  "2012-09-04 04:43:13"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"description": [
+	  "Licensed by the classic British car company, this game featured 2 modes of play - one has you racing against 19 computer rivals (with witty names such as Alain Phosphate and Crash-Hard Banger), and the other pits you against the clock. \n\nThere are 13 different types of races, ranging from Motorways to night-time to sections punctuated by roadworks, and some are lap-based with others being simple A-B. 2 players could play on a split screen mode.\n\nThe game's crowning glory, however, was the RECS editor, which allowed you to create courses of your own, with theoretically millions possible. (MobyGames)"
+	],
+	"emulator_start": [
+	  "LOTUS.EXE"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475347632",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475347679",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/LOTUSDEM.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346733799",
+	  "size": "459063",
+	  "md5": "c8d489d53eeaea43adb94f92b10ebb35",
+	  "crc32": "9ffa00b4",
+	  "sha1": "f1082ed52b804abaa875264aa560133bea7152ca"
+	},
+	"\/LOTUSDEM.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346733799",
+	  "size": "687",
+	  "md5": "7e74ec3d293a242bd4842f7e5f4d5c64",
+	  "crc32": "322022b4",
+	  "sha1": "c7e64e1d68d1454891e3c7311bc2f6cb4fe2219b"
+	},
+	"\/LOTUSDEM_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475347649",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/LotusTheUltimateChallenge_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475347638",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/LotusTheUltimateChallenge_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "364ec5cf2017d5c6108439e0d58a1806025d7159",
+	  "mtime": "1475347683",
+	  "size": "3255",
+	  "md5": "77e4a81726db715496f5bfc35f757969",
+	  "crc32": "ce0cdb80",
+	  "sha1": "1d05395ec94d1671b3c7ee11497391535e95810a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LotusTheUltimateChallenge_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "23bfd8c04e711dda5b2ef7c03e88e467"
+	},
+	"\/LotusTheUltimateChallenge_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475347661",
+	  "size": "8192",
+	  "format": "Metadata",
+	  "md5": "c8fd52270401ea2512c1553c3ab8ee60",
+	  "crc32": "66c32b2b",
+	  "sha1": "0e73b7b4c000b29ebfb85676d96e5dbc67c56a98"
+	},
+	"\/LotusTheUltimateChallenge_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471794274",
+	  "size": "1520",
+	  "md5": "b28e173c80c3886bd79e2663c03e5764",
+	  "crc32": "808e29f7",
+	  "sha1": "c5fc3c600f3f0b21a3aae84a234baa6ba356c52b"
+	},
+	"\/resource_item_1689.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346734104",
+	  "size": "15934",
+	  "md5": "499a514f491dfe200f74fe3751f98cea",
+	  "crc32": "064b76a4",
+	  "sha1": "5cea47952b564999d9128aac5dc36232d8a63af0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1689.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346734104",
+	  "size": "272",
+	  "md5": "5d4d6198b068cd0b42bbb60e19cdba2f",
+	  "crc32": "61ffbde0",
+	  "sha1": "96ae1971c2f3cb97aa49bad484be9598ac0ccb5f"
+	},
+	"\/resource_item_1689_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1689.jpg",
+	  "mtime": "1346734782",
+	  "size": "4893",
+	  "md5": "50f936f07b8d8c63df08c04db0d679c9",
+	  "crc32": "64febe1d",
+	  "sha1": "a0077f427b8cc9fbc05a566dd67603dc00304273"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475347634",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475347680",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/10\/items\/LotusTheUltimateChallenge_1020\/LotusTheUltimateChallenge_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 885,
+	"week": 4,
+	"month": 18
+  }
+}

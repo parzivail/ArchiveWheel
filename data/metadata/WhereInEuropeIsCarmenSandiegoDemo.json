@@ -1,0 +1,200 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/16/items/WhereInEuropeIsCarmenSandiegoDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Where in Europe is Carmen Sandiego? Demo"
+	],
+	"description": [
+	  "\"Help!\n\nThe notorious Carmen Sandiego is on the loose. She and her gang are swiping precious landmarks and treasures all over the map. They're filching everything from the Mona Lisa's smile to the Statue of Liberty's torch.\n\nSquads of ace detectives are already in hot pursuit: intrepid investigators like those pictured here. But Carmen's not easy to nab. She's a very furtive fugitive.\n\nSo there's plenty of challenging excitement waiting for you.\n\nThe Acme Detective Agency will quickly assign you to a case. Then get ready for a whirlwind chase.\n\nStart at the scene of the crime, questioning witnesses. To help you decipher the clues you uncover, each game comes with a reference book packed with information about the cities and countries you'll need to visit.\n\nTracking down the culprits, you'll pick up all kinds of fascinating facts about geography, history and other important topics. At the same time, you'll strengthen your deductive reasoning skills as you sort through the clues.\n\nCollar the right rascal and you'll be on your way to a promotion and new and tougher cases. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"creator": [
+	  "Broderbund Software"
+	],
+	"identifier": [
+	  "WhereInEuropeIsCarmenSandiegoDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 06:46:58"
+	],
+	"date": [
+	  "1988"
+	],
+	"year": [
+	  "1988"
+	],
+	"publisher": [
+	  "Broderbund Software"
+	],
+	"publicdate": [
+	  "2012-07-05 06:47:38"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "CARMEN.EXE"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444831092",
+	  "size": "63330",
+	  "md5": "4589d7308b835b790e71b12fd71ab6b6",
+	  "crc32": "b977e075",
+	  "sha1": "082291a63389d3c5662df519f11a5e5b94f90b63",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444831120",
+	  "size": "6015",
+	  "md5": "6d15018edc8aa38d5c943dbc127198b4",
+	  "crc32": "808d6936",
+	  "sha1": "525c0a4f152517e25c6ceb96fac064f0820daa62"
+	},
+	"\/WhereInEuropeIsCarmenSandiegoDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444831098",
+	  "size": "10591",
+	  "md5": "2cc92b102493e48a4e1b12440956e44a",
+	  "crc32": "65fabffe",
+	  "sha1": "c66cd0fd840215be49385e77c6537b36769bbf29",
+	  "format": "Animated GIF"
+	},
+	"\/WhereInEuropeIsCarmenSandiegoDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "206b15c67c49cf00443de060d50b5a4198b12541",
+	  "mtime": "1464614478",
+	  "size": "3423",
+	  "md5": "2250a17c2f9118721694dc97f1da4b48",
+	  "crc32": "6a40213a",
+	  "sha1": "f9d90de1442b2d500e1e64a8b209aee652baa60f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WhereInEuropeIsCarmenSandiegoDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "866481dfd1606b96a5074fdf5a78f52c"
+	},
+	"\/WhereInEuropeIsCarmenSandiegoDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444831108",
+	  "size": "10240",
+	  "md5": "7cb02859f9aa3c7c5e5ba6b16bbede2c",
+	  "crc32": "0bbf7caa",
+	  "sha1": "2fbd7dd7dfbaffb46556e46cd81f51294afce074",
+	  "format": "Metadata"
+	},
+	"\/WhereInEuropeIsCarmenSandiegoDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464614477",
+	  "size": "2013",
+	  "md5": "83bd44d6f256e3ead8d261c978bc3bc4",
+	  "crc32": "11facabf",
+	  "sha1": "3ea3142944e64f9481c578808eae000540d86c56"
+	},
+	"\/carmen.play": {
+	  "source": "original",
+	  "format": "Advanced Audio Coding",
+	  "length": "1.55",
+	  "height": "0",
+	  "width": "0",
+	  "mtime": "1432844581",
+	  "size": "83173",
+	  "md5": "358bdb814588cf26f5f8adca26921de2",
+	  "crc32": "b193c07b",
+	  "sha1": "67364bf849f9978b5216e34cd7c56e99fcd96b04"
+	},
+	"\/carmen.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341470787",
+	  "size": "86988",
+	  "md5": "e5e14d6d737f721f004fdbf036d0e076",
+	  "crc32": "97fbcef0",
+	  "sha1": "1d859e72eb502f950c339605bb1654abca068e1a"
+	},
+	"\/carmen_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444831102",
+	  "size": "31247",
+	  "md5": "2f668679682029fab12ff0c9669c5621",
+	  "crc32": "0b25c083",
+	  "sha1": "114175bed98ee3a3f3b56e4899b2478ba9247396",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_164.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341470794",
+	  "size": "20991",
+	  "md5": "76322750684d860164527151e19e8c9d",
+	  "crc32": "9bb10c09",
+	  "sha1": "f1c34b38f462b5337d0ced1b6337a32382af9b81",
+	  "rotation": "0"
+	},
+	"\/resource_item_164_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_164.jpg",
+	  "mtime": "1341470828",
+	  "size": "6493",
+	  "md5": "34260d2acb201535565be514d0e415fe",
+	  "crc32": "df60d318",
+	  "sha1": "4a962e8df620d86d28cde7c49bbb254bfa04ff05"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444831094",
+	  "size": "63330",
+	  "md5": "4589d7308b835b790e71b12fd71ab6b6",
+	  "crc32": "b977e075",
+	  "sha1": "082291a63389d3c5662df519f11a5e5b94f90b63",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444831121",
+	  "size": "6015",
+	  "md5": "6d15018edc8aa38d5c943dbc127198b4",
+	  "crc32": "808d6936",
+	  "sha1": "525c0a4f152517e25c6ceb96fac064f0820daa62"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/16\/items\/WhereInEuropeIsCarmenSandiegoDemo\/WhereInEuropeIsCarmenSandiegoDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1058,
+	"week": 10,
+	"month": 14
+  }
+}

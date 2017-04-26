@@ -1,0 +1,117 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/6/items/machinst",
+  "metadata": {
+	"identifier": [
+	  "machinst"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Eurocom Developments"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>The year is 2084. Mars is being overrun by a horde of alien-dominated death robots planning to invade Earth. Your mission: Destroy the army of mechanized killers one by one, invade their bodies, and then use their powers to annihilate the rest of the evil throng before they destroy Earth. This demo lets you try the first level of the game.<\/div>"
+	],
+	"publisher": [
+	  "MGM Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Machine Hunter Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-19 22:34:35"
+	],
+	"addeddate": [
+	  "2014-01-19 22:34:35"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233728[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_7"
+	]
+  },
+  "files": {
+	"\/machinst.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390170874",
+	  "size": "3904970",
+	  "md5": "ea6de39279b049d58d3cc97905dba7d9",
+	  "crc32": "6a6bcfd6",
+	  "sha1": "4fc03f399286f78b6028c061b23df9d7cd05ea57"
+	},
+	"\/machinst.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390170886",
+	  "size": "81269",
+	  "md5": "e3fb9c5e7107298ca33d85b31d0e7f08",
+	  "crc32": "efbafb87",
+	  "sha1": "1b281624e64379a06fa65d430e69139e4932267a",
+	  "rotation": "0"
+	},
+	"\/machinst_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "894be986671697caf8d15ccd50e3c4ec"
+	},
+	"\/machinst_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390170894",
+	  "size": "14336",
+	  "md5": "6fc32abbedb1ef95fc4364b8b782cad9",
+	  "crc32": "682ec8c5",
+	  "sha1": "db88e511826198eb0c66660c92f4ec31019d53f3"
+	},
+	"\/machinst_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475053249",
+	  "size": "1213",
+	  "md5": "059a9880114385e0a34deeda7ec5fbbe",
+	  "crc32": "78fc230c",
+	  "sha1": "0a1347cabd8c6e796e67bdea51f1a7caee94322e"
+	},
+	"\/machinst_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "machinst.jpg",
+	  "mtime": "1390170902",
+	  "size": "5274",
+	  "md5": "1ae35fe3beda828648b938a35cf4a135",
+	  "crc32": "234790d0",
+	  "sha1": "ca3e93924947700b9c535265bb4e348e58759f81"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600301.us.archive.org\/6\/items\/machinst\/machinst_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1629,
+	"week": 9,
+	"month": 43
+  }
+}

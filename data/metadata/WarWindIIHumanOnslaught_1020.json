@@ -1,0 +1,130 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/32/items/WarWindIIHumanOnslaught_1020",
+  "metadata": {
+	"identifier": [
+	  "WarWindIIHumanOnslaught_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "DreamForge Intertainment"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Strategic Simulations"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "War Wind II: Human Onslaught Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 02:04:12"
+	],
+	"addeddate": [
+	  "2012-09-05 02:04:12"
+	],
+	"description": [
+	  "\"War Wind II: Human Onslaught is a real-time strategy computer game from developer DreamForge Intertainment that was published by Strategic Simulations, Inc. in 1997. It is the sequel to DreamForge's 1996 release War Wind.\n\nThe storyline of War Wind II involves the discovery of one of the tablets of Naga'Rom in the north pole of earth. A military\/scientific station is located at the site of the tablets recovery. The tablet is inadvertently activated by the scientists and the facility, transporting all occupants of the facility and much of the surrounding ice to Yavaun.\n\nMeanwhile on Yavaun, the Eaggra have escaped Tha'Roon rule and have allied themselves with the Shami'li, forming a faction called S.U.N. (Servants Under Naga'Rom). The Tha'Roon have retained their rule over the Obblinox and the Tha'Roon empire's mission is clear: Destroy the S.U.N. Faction and rule Yavaun. As the Tha'Roon come close to victory, a sudden burst of light and a new race emerge on Yavaun, Humans. The Tha'Roon turn their attention to the new invaders and the S.U.N. slip away to regroup.\n\nThe game begins years into the conflict between all the inhabitants of Yavaun. The humans have splintered into two groups or factions. The Marines (Children of the Soldiers of the facility), whose goal is to conquer the other races and rule yavuan and the Descendants (Children of the Scientists) who seek to return to Earth.\n\nThe game plots for each faction varies dramatically. The Tha'Roon seek to destroy all other races, while the Marines have a similar goal. The Descendants want to simply return to earth. The S.U.N.'s objective is the most peculiar as they want to free the Obblinox, unite with the Descendants, and create peace on Yavaun. (Wikipedia)\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/WarWindIIHumanOnslaught_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "ea82f0da477cbfb482163307e29c603b054752b7",
+	  "mtime": "1466376024",
+	  "size": "1968",
+	  "md5": "a4991e21d6073cb759312f4d61a93bbc",
+	  "crc32": "c36ce0d3",
+	  "sha1": "22f0d27f1417dbe077a864e557bc85227285af0c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WarWindIIHumanOnslaught_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8174a63229a9192e1f7373c31036e49b"
+	},
+	"\/WarWindIIHumanOnslaught_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466376023",
+	  "size": "2550",
+	  "md5": "9c30b6353d8a4c803001eb71c9a32085",
+	  "crc32": "87917af6",
+	  "sha1": "0cbf493a9cdeaa4b050bf614c6c011b1c74da4e7"
+	},
+	"\/resource_item_3065.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346814477",
+	  "size": "17474",
+	  "md5": "2dcd539d141290f3b945e24416c73445",
+	  "crc32": "00ebcdd2",
+	  "sha1": "ac6bc0378449e95f8433a949acf6ab06567a8de9",
+	  "rotation": "0"
+	},
+	"\/resource_item_3065.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346814477",
+	  "size": "272",
+	  "md5": "d46aab38eca0cd528f342fafc2a46d00",
+	  "crc32": "9d0476a4",
+	  "sha1": "16badc33b18ff6b4e68f30f73371d33493d6a1f1"
+	},
+	"\/resource_item_3065_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3065.jpg",
+	  "mtime": "1346820269",
+	  "size": "4735",
+	  "md5": "38ca73d0a88888da8e959558a276eaec",
+	  "crc32": "13c68e46",
+	  "sha1": "28f777bae1ee2637481f2392c11275cdd403e5d6"
+	},
+	"\/ww2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346810658",
+	  "size": "525413",
+	  "md5": "1786b0ff0a878011066aff64fd8e6991",
+	  "crc32": "8d9c0ca8",
+	  "sha1": "fc1ec2db1ff4c9b784f63a89723f8c6b0c692f73"
+	},
+	"\/ww2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346810658",
+	  "size": "719",
+	  "md5": "bad46cb816560e70c0b28187d807ddda",
+	  "crc32": "932c04f1",
+	  "sha1": "07b2ff6cee14279cb5cb7e481888ea76cf9653ae"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600301.us.archive.org\/32\/items\/WarWindIIHumanOnslaught_1020\/resource_item_3065_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 694,
+	"week": 6,
+	"month": 13
+  }
+}

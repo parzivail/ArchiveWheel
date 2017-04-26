@@ -1,0 +1,388 @@
+{
+  "server": "ia800301.us.archive.org",
+  "dir": "/1/items/RealmsOfArkaniaBladeOfDestinyDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Realms of Arkania: Blade of Destiny Demo"
+	],
+	"description": [
+	  "Fantasy made Fun.\n\nThoughtful design and careful attention have produced a game that is just that fun. A rich and detailed adventure to involve your mind, a true quest to challenge your imagination. Careful balancing and smooth game play make sure your time is spent playing. Realms of Arkania: Blade of Destiny is your answer to Fantasy Role-Playing.\n\nThe proud Thorwalians of Arkania's Northern Reaches face a dismal future. Rumors abound of a waiting army, banded together under one powerful Orc chieftain, standing ready to lay waste to Arkania's towns and villages. All hope of survival rests on your ability to discover the whereabouts of a legendary artifact thought lost with its wielder in the midst of Orcish territory. Can this renowned sword, the Blade of Destiny, stop the siege?"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Sir-tech Software"
+	],
+	"identifier": [
+	  "RealmsOfArkaniaBladeOfDestinyDemo"
+	],
+	"addeddate": [
+	  "2012-07-04 22:36:36"
+	],
+	"publicdate": [
+	  "2012-07-04 22:36:52"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Attic Entertainment Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "ARKANIA.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475443457",
+	  "size": "263430",
+	  "md5": "9aef05f5f64dd9ed4fca73176864b11c",
+	  "crc32": "0c3c5030",
+	  "sha1": "df2cd149dd8aa6ade702abb086d17b719bc25ef0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475443545",
+	  "size": "4409",
+	  "md5": "f831484cc13e0434ccd8f2f286452788",
+	  "crc32": "cc6eb524",
+	  "sha1": "6a95d8431bdf10427d7ba82ef32087def9614b4a"
+	},
+	"\/RealmsOfArkaniaBladeOfDestinyDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475443512",
+	  "size": "102769",
+	  "md5": "0fd764bfea1a27f290af5bb00fb12e23",
+	  "crc32": "ac085fec",
+	  "sha1": "e85c9e2f267140c22e33f659835b915fefa0cf04",
+	  "format": "Animated GIF"
+	},
+	"\/RealmsOfArkaniaBladeOfDestinyDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "462934b6856d802e6202d77680a658069daa53fa",
+	  "mtime": "1475443563",
+	  "size": "6840",
+	  "md5": "2041114184e8605fb0b2c1fd13e45cb5",
+	  "crc32": "33ed78d1",
+	  "sha1": "927a333248ea6a3aea3f6d7b7b014ca4d59fa7ed",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RealmsOfArkaniaBladeOfDestinyDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ddf55f60bfe9e6dce1ef45b782fa5722"
+	},
+	"\/RealmsOfArkaniaBladeOfDestinyDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475443537",
+	  "size": "13312",
+	  "format": "Metadata",
+	  "md5": "cc3c586012422d5ae615505aeeff8981",
+	  "crc32": "4f3a17ae",
+	  "sha1": "d55f10dd97aeb3661456fdcf9e62cf4c472a13b0"
+	},
+	"\/RealmsOfArkaniaBladeOfDestinyDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471904808",
+	  "size": "1726",
+	  "md5": "d926e0a3fbe183dc1c017e299940088a",
+	  "crc32": "d67d41a5",
+	  "sha1": "16a41724c386b89b09ec4a1a8e026be5b5e8d4df"
+	},
+	"\/arkania.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471904849",
+	  "size": "386136",
+	  "md5": "7c5000d3f85119d3d8b93d5dfa89175c",
+	  "crc32": "30f50512",
+	  "sha1": "042a4cf7f5ee655c4f9ba7361a25f2dde4b87161"
+	},
+	"\/arkania_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475443525",
+	  "size": "498050",
+	  "md5": "496979a003ca2def6fde5dda61c0c634",
+	  "crc32": "1493b510",
+	  "sha1": "64aa6cdc57a8cce443a1476e2b320411ed82f337",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_119.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341441352",
+	  "size": "23895",
+	  "md5": "69af5150d2d1ce6ce828a99c19f55e64",
+	  "crc32": "8b71cd3e",
+	  "sha1": "51b1d9bc60944f9f9318d19a3da128c894d203e6",
+	  "rotation": "0"
+	},
+	"\/resource_item_119_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_119.jpg",
+	  "mtime": "1341441407",
+	  "size": "6756",
+	  "md5": "91a17af07719c2817d7b02f7e5aa13ff",
+	  "crc32": "32d36ac6",
+	  "sha1": "682f0d978e55f35c77994477a526662e6cc7ec7c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475443461",
+	  "size": "125597",
+	  "md5": "a1d16a552441d275582a504a7ea8be38",
+	  "crc32": "e28005d3",
+	  "sha1": "57f746c1a6c9a297a7edc1eba7176e47bb1d3d8e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475443547",
+	  "size": "5236",
+	  "md5": "5f6d4795f76d8b6bf3f7bb04a3dd04c8",
+	  "crc32": "0530cec4",
+	  "sha1": "e53e8174be6107234ab9fbfe143d81888471097a"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475443463",
+	  "size": "125587",
+	  "md5": "acb1c0d5df1859ea5e09ebc2a97fa8d9",
+	  "crc32": "07c408c5",
+	  "sha1": "f9424c80d108c427241b3e2067af6f37f82d4f10",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475443548",
+	  "size": "5231",
+	  "md5": "d33903f1127717f09b6eabc892a7c340",
+	  "crc32": "2a45da3d",
+	  "sha1": "9404adb35726f8a76631bba4ec67fc6e8e31071b"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475443466",
+	  "size": "17182",
+	  "md5": "05f008bbf9f4c376a68467ac38fdd5e0",
+	  "crc32": "3f888f3b",
+	  "sha1": "da7e253c132161c7e599ba550a24673f3610f021",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475443549",
+	  "size": "1465",
+	  "md5": "83e8721b4cdd6034904103bd465729d6",
+	  "crc32": "6896f983",
+	  "sha1": "298c3fdd4dda39250faf7a62c74d3ae3f513bf36"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475443469",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475443551",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475443474",
+	  "size": "25685",
+	  "md5": "063dc222c54d749b150b1add921660d4",
+	  "crc32": "04fe9556",
+	  "sha1": "c91a3a888add7704d65622fb5bfb6fd9dc55769e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475443552",
+	  "size": "1545",
+	  "md5": "0b5c766c7ac8b4f3bb91ded826014b27",
+	  "crc32": "c9579bb5",
+	  "sha1": "87fa516d9830857eed4a37a64fdc53b184bffbe2"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475443483",
+	  "size": "114245",
+	  "md5": "34da03ac464d759f9f4fc921674adc3c",
+	  "crc32": "0523c7c1",
+	  "sha1": "77a7dd5a55b214265ba61240789d99af23274efc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475443553",
+	  "size": "3091",
+	  "md5": "c9ee40c687cffdf2b331550e8dfc1ba1",
+	  "crc32": "1d4e688a",
+	  "sha1": "8f4da5b9f875b268f19f6d87fbd90ea7e4daabf6"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475443486",
+	  "size": "206432",
+	  "md5": "fffcb28b191a650a3314aea4da0df125",
+	  "crc32": "0815b78c",
+	  "sha1": "0368e01add62d6cc65d47a5290b81ced33e7cf57",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475443555",
+	  "size": "4644",
+	  "md5": "f359a977b45244a45758d1fc5d63c6b8",
+	  "crc32": "a7f5ecaa",
+	  "sha1": "2c69ed18b71c012dd9265495de32d63b266f7ed1"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475443489",
+	  "size": "235648",
+	  "md5": "e003394b6ea79a377bcc5ee83517f24c",
+	  "crc32": "2fca5ba4",
+	  "sha1": "114b6eab29054e54fd7b2c7b1d745655e72172ed",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475443557",
+	  "size": "5098",
+	  "md5": "59b6b7e2a34d3f60f6a626163ed64799",
+	  "crc32": "321788d4",
+	  "sha1": "b321f73f170608e1f3e6f87eb07b7c419c78db65"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475443494",
+	  "size": "179986",
+	  "md5": "1a86c25167f3abceae103176a31b6ccc",
+	  "crc32": "b8584712",
+	  "sha1": "19157bd0bdb07dd7576609ce7735060b63bb548f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475443558",
+	  "size": "4001",
+	  "md5": "e0523087d8bfe5aae0612f9212de6872",
+	  "crc32": "5c33663f",
+	  "sha1": "8aeff2516e586bdb5257e2fbd009ddde181777b7"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475443501",
+	  "size": "140166",
+	  "md5": "74be98fa7ea199ce347cc5e75b10244a",
+	  "crc32": "682cf6b5",
+	  "sha1": "4f297e471ca53dbbb1324ac0562724aebe63b6b0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475443559",
+	  "size": "3108",
+	  "md5": "cfea6b1102033bb75a8dee7edec262c3",
+	  "crc32": "6eb37e99",
+	  "sha1": "c49d8a366df8ee6ae6f3dbd2d46aeb7b6aa31467"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475443508",
+	  "size": "263430",
+	  "md5": "9aef05f5f64dd9ed4fca73176864b11c",
+	  "crc32": "0c3c5030",
+	  "sha1": "df2cd149dd8aa6ade702abb086d17b719bc25ef0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475443561",
+	  "size": "4409",
+	  "md5": "f831484cc13e0434ccd8f2f286452788",
+	  "crc32": "cc6eb524",
+	  "sha1": "6a95d8431bdf10427d7ba82ef32087def9614b4a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800301.us.archive.org\/1\/items\/RealmsOfArkaniaBladeOfDestinyDemo\/RealmsOfArkaniaBladeOfDestinyDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 197,
+	"week": 3,
+	"month": 4
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/6/items/SlaveZeroDemo",
+  "metadata": {
+	"identifier": [
+	  "SlaveZeroDemo"
+	],
+	"title": [
+	  "Slave Zero Demo"
+	],
+	"creator": [
+	  "Accolade"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "It is 500 years in the future. Man and machine are virtually one. And the greatest megacity in the world is locked in a brutal war. You are the ultimate sabateur and part of an elite fighting force. Your mission: Steal the largest, most sophisticated biomechanical attack weapon ever designed and kick some serious ass!"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"publicdate": [
+	  "2012-02-22 05:58:40"
+	],
+	"addeddate": [
+	  "2012-02-22 05:58:17"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"updatedate": [
+	  "2012-02-22 05:59:20"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_8"
+	]
+  },
+  "files": {
+	"\/SlaveZeroDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Slave Zero Demo",
+	  "mtime": "1329890277",
+	  "size": "65983395",
+	  "md5": "cbf874e6e1fededd0440599d63ae77dd",
+	  "crc32": "8f181949",
+	  "sha1": "881fdbf2d7e239e7986be34f8fbc1e19199e1326"
+	},
+	"\/SlaveZeroDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "a7424e9db30a0ec688292b41713af46b2d315d16",
+	  "mtime": "1462719059",
+	  "size": "4364",
+	  "md5": "1cf858c798653c5755c65fcacd69394b",
+	  "crc32": "f4b2c75d",
+	  "sha1": "4a10967971fde91ccffd1febff899b2098afe0ce",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SlaveZeroDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c01ee2605fa2246ef7d4759ecbccd925"
+	},
+	"\/SlaveZeroDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462719058",
+	  "size": "1143",
+	  "md5": "ae6f395279487727643ceacfb792cc01",
+	  "crc32": "3d6864ce",
+	  "sha1": "45795c65f20109e5d9cae071e71a1b5800ce8be4"
+	},
+	"\/SlaveZeroScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Slave Zero Screenshot",
+	  "mtime": "1329890279",
+	  "size": "109757",
+	  "md5": "50726a938ada2a54b6c69ea3b19c7c8a",
+	  "crc32": "ee3ad2d2",
+	  "sha1": "61b762454294521db5633b07bea324be4765dbc9",
+	  "rotation": "0"
+	},
+	"\/SlaveZeroScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "SlaveZeroScreenshot.jpg",
+	  "mtime": "1329890313",
+	  "size": "5160",
+	  "md5": "14d7eb2a33e339b30fc4acd1df67d69e",
+	  "crc32": "9f1763ea",
+	  "sha1": "5ac60769601c6fb7b2cfe9476deff4da065c1191"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/6\/items\/SlaveZeroDemo\/SlaveZeroScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 425,
+	"week": 7,
+	"month": 45
+  }
+}

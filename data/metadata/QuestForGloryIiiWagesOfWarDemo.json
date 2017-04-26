@@ -1,0 +1,208 @@
+{
+  "server": "ia600504.us.archive.org",
+  "dir": "/7/items/QuestForGloryIiiWagesOfWarDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Quest for Glory III: Wages of War Demo"
+	],
+	"description": [
+	  "\"Disaster threatens the land of Tarna. Your friends Uhura and Rakeesh the Liontaur are threatened by warring tribes. Only you can effect peace through a balance of loyalty, friendship, bravery, and honor. It's the darkest, most deadly quest to date.\n\nIf you survive, you may discover an unspeakable evil that lives at the very heart of fear and violence. And if you succeed, it will be because you cut to the core of the mystery with your mind, not because you managed to sort through a series of stats or slashed through a thousand mindless monsters.\n\nCombining the character-building, combat, and magic systems of Fantasy Role-Playing games with Sierra's unique style of interactive adventuring, Wages of War is truly unique.\n\nPlay as a fighter, Magic User, or Thief. Each calling will lead you down new roads of wonder, danger and excitement. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"identifier": [
+	  "QuestForGloryIiiWagesOfWarDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 09:25:17"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"publicdate": [
+	  "2012-07-05 09:25:44"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "sierra.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475436170",
+	  "size": "91572",
+	  "md5": "6b128c5d63a4ff0f0cb5a57905fe6f92",
+	  "crc32": "0909576c",
+	  "sha1": "46ea3bc3f8115d3d87268f9f06e5f89414c357ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475436204",
+	  "size": "1983",
+	  "md5": "8b9dbd5b5c4eeba260beeabc163313f2",
+	  "crc32": "d64edd66",
+	  "sha1": "db4a9743c764bed80e2295d86ee9494a5fa1c839"
+	},
+	"\/QuestForGloryIiiWagesOfWarDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475436180",
+	  "size": "35294",
+	  "md5": "738f52cb5ed4cdbed75e06887a56c056",
+	  "crc32": "c6c14f03",
+	  "sha1": "b31829550ecda3272a6cf799561a11cea819761a",
+	  "format": "Animated GIF"
+	},
+	"\/QuestForGloryIiiWagesOfWarDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "cb5ab15b00e153739c596f54e4876169d962de74",
+	  "mtime": "1475436212",
+	  "size": "3617",
+	  "md5": "5b6c33888c98de7c97fabdff3bda4c2f",
+	  "crc32": "af6b662b",
+	  "sha1": "e148746b01d3b90e9356ed59926696273b60a388",
+	  "format": "Archive BitTorrent"
+	},
+	"\/QuestForGloryIiiWagesOfWarDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "efa435da9c5b429320c2c90a6030bfd0"
+	},
+	"\/QuestForGloryIiiWagesOfWarDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475436190",
+	  "size": "9216",
+	  "md5": "95f2b00081493d8be7f0de5185ff0ffa",
+	  "crc32": "c2ee1fff",
+	  "sha1": "796258145ce530481b43320a36911444ceb6054c",
+	  "format": "Metadata"
+	},
+	"\/QuestForGloryIiiWagesOfWarDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471108567",
+	  "size": "1756",
+	  "md5": "68b9e1c82bcc36044a4ae8a390d88558",
+	  "crc32": "44795b26",
+	  "sha1": "f9d5f6f8407ecdae28ca80c1d956bd95f22822e8"
+	},
+	"\/qfg3demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471108610",
+	  "size": "949102",
+	  "md5": "546c3899483d55cab58d4fd557825d41",
+	  "crc32": "3d91faac",
+	  "sha1": "3497281f090a97e518395dadd5652be7e64f605c"
+	},
+	"\/qfg3demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475436187",
+	  "size": "89877",
+	  "md5": "57ad638f50cf2371e6e0524c6524966a",
+	  "crc32": "d1a0b23d",
+	  "sha1": "65391acfe07f18534a6ac512bfb8b40249837297",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_191.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341480309",
+	  "size": "15439",
+	  "md5": "678f7b051de47ba54c5dc3f733915965",
+	  "crc32": "6dcff6cc",
+	  "sha1": "d39bcdff7e3250d2d64422e658bc658101ede559",
+	  "rotation": "0"
+	},
+	"\/resource_item_191_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_191.jpg",
+	  "mtime": "1341480329",
+	  "size": "5357",
+	  "md5": "c69c9259bef2bd09da2db371625f9fae",
+	  "crc32": "b9e27354",
+	  "sha1": "85f24aafc8213423566d0ee2a4dbeb0d1a9a8cee"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475436173",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475436207",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475436177",
+	  "size": "91572",
+	  "md5": "6b128c5d63a4ff0f0cb5a57905fe6f92",
+	  "crc32": "0909576c",
+	  "sha1": "46ea3bc3f8115d3d87268f9f06e5f89414c357ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475436208",
+	  "size": "1983",
+	  "md5": "8b9dbd5b5c4eeba260beeabc163313f2",
+	  "crc32": "d64edd66",
+	  "sha1": "db4a9743c764bed80e2295d86ee9494a5fa1c839"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600504.us.archive.org\/7\/items\/QuestForGloryIiiWagesOfWarDemo\/QuestForGloryIiiWagesOfWarDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 287,
+	"week": 2,
+	"month": 5
+  }
+}

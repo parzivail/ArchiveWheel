@@ -1,0 +1,197 @@
+{
+  "server": "ia600206.us.archive.org",
+  "dir": "/3/items/El-fishDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "El-Fish Demo"
+	],
+	"description": [
+	  "\"El-Fish: The Electronic Aquarium\n\nYou've seen fish on a computer before - But you've never seen fish this bright, this beautiful, this colorful or this realistic. And with El-Fish, you can breed and evolve new, never-before-seen fish and keep them in aquariums that you design and create. Combining art, science, technology, and life, El-Fish is the creative tool to make living art.\n\nFish In Chips. No drawing or painting skills needed. All fish and their animations are created by your computer using the latest techniques in Artificial Life, genetic algorithms, and 3-D image rendering.\n\nTanks A Lot. Catch, breed, evolve, mutate, and animate unlimited fish to create unlimited aquariums.\n\nZen And The Art Of Electronic Fish. Creating and watching El-Fish aquariums evokes the same relaxing, meditative, contemplative, blood pressure-lowering moods as a real aquarium.\n\nFrom Russia With Glub. Created and programmed in Russia by AnimaTek, El-Fish continues Maxis' international quest to bring you the best, most creative entertainment software in the world. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"creator": [
+	  "AnimaTek"
+	],
+	"identifier": [
+	  "El-fishDemo"
+	],
+	"addeddate": [
+	  "2012-07-03 00:23:25"
+	],
+	"publicdate": [
+	  "2012-07-03 00:23:41"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Maxis Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_4"
+	],
+	"emulator_start": [
+	  "show.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475252107",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475252135",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/ELFISH.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471905099",
+	  "size": "1262756",
+	  "md5": "45e56879431b2d8a32222aab1a2c1616",
+	  "crc32": "431e3255",
+	  "sha1": "f7b9d3a8d964c6d0148630fc44c5655a63f53e1d"
+	},
+	"\/El-fishDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475252113",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/El-fishDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2fd8d7310e62bc17aea568d23115967702ce40cf",
+	  "mtime": "1475252141",
+	  "size": "3309",
+	  "md5": "fe0f6200f3528844e44c5c55d5bb7d32",
+	  "crc32": "a3035b88",
+	  "sha1": "02d6b45b2b3a4fea99776127041876c3184cd3cc",
+	  "format": "Archive BitTorrent"
+	},
+	"\/El-fishDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6595761141218f99b91a18fc1047ff4c"
+	},
+	"\/El-fishDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475252123",
+	  "size": "8192",
+	  "md5": "c48ac6b2238faefec68f783e00ab6b0c",
+	  "crc32": "4a50bb86",
+	  "sha1": "aee2337b89a706b113f5834f29fececd8697f6d1",
+	  "format": "Metadata"
+	},
+	"\/El-fishDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471905160",
+	  "size": "1918",
+	  "md5": "e2196284bb6338d0a5d12bb06ef5d7d1",
+	  "crc32": "80655ef2",
+	  "sha1": "6edba712477cd39fde8c3630453f3b471e62271e"
+	},
+	"\/hifshdmo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341274922",
+	  "size": "1368454",
+	  "md5": "881c18526b56ec043a28e412402ed717",
+	  "crc32": "7e19cbe7",
+	  "sha1": "8489d3a92c09c33c9104f1daa6de4f534706506a"
+	},
+	"\/hifshdmo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475252120",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_109.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341274926",
+	  "size": "23646",
+	  "md5": "4b27621973ce6f39d5832f51b8518b36",
+	  "crc32": "987f415d",
+	  "sha1": "d570701a0fb400a3cb1c85c344e760753b807274",
+	  "rotation": "0"
+	},
+	"\/resource_item_109_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_109.jpg",
+	  "mtime": "1341275016",
+	  "size": "6008",
+	  "md5": "46a6f6e71877f70ae47f66d68d7c075f",
+	  "crc32": "1fc68ed6",
+	  "sha1": "b794dfebdb9824c9267f9c7539eecc8a4a72c70c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475252110",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475252137",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600206.us.archive.org\/3\/items\/El-fishDemo\/El-fishDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 213,
+	"week": 4,
+	"month": 5
+  }
+}

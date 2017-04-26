@@ -1,0 +1,121 @@
+{
+  "server": "ia902506.us.archive.org",
+  "dir": "/18/items/WingsOfWar",
+  "metadata": {
+	"identifier": [
+	  "WingsOfWar"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Silver Wish Games"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "Playable demo for Wings of War"
+	],
+	"publisher": [
+	  "Gathering"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Wings of War Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2014-05-16 02:13:32"
+	],
+	"addeddate": [
+	  "2014-05-16 02:13:32"
+	],
+	"backup_location": [
+	  "ia905807_27"
+	]
+  },
+  "files": {
+	"\/Wings Of War.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1400206409",
+	  "size": "166537892",
+	  "md5": "30a36cfb86d1f543e1ae01eaa4c523f7",
+	  "crc32": "c55d6fa9",
+	  "sha1": "26584285d6073c8cca13b4baa095a4983a25ba7b"
+	},
+	"\/Wings Of War.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1400206424",
+	  "size": "87898",
+	  "md5": "d0db68d56f3e099eeaab678d92029175",
+	  "crc32": "d5a634e6",
+	  "sha1": "ae91ef10366482bb7fd742c17b166dbf3c7ba62c",
+	  "rotation": "0"
+	},
+	"\/Wings Of War_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Wings Of War.jpg",
+	  "mtime": "1400206468",
+	  "size": "4150",
+	  "md5": "790ae366e3158a6b5043000ca6285dbe",
+	  "crc32": "4074acea",
+	  "sha1": "c384d5f39d00eeb8aad47822d557cd002cf27425"
+	},
+	"\/WingsOfWar_archive.torrent": {
+	  "source": "original",
+	  "btih": "626b18e081eb08cd888fc9d0f3f7d7865baf1426",
+	  "mtime": "1475756572",
+	  "size": "8322",
+	  "md5": "178477b743773656079395cdd1d0f5a3",
+	  "crc32": "6a353ec4",
+	  "sha1": "e082fd766daf526a421d1f6be9cc03dc9b805549",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WingsOfWar_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4f53a7877e09ae5b6ce6c9e92a49dbad"
+	},
+	"\/WingsOfWar_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1400206453",
+	  "size": "10240",
+	  "md5": "5f022359df9e66984b1da0a75be1ae4b",
+	  "crc32": "760a8f06",
+	  "sha1": "ec7b3a6d09d279dc164db25041b04f3d398ebdd7"
+	},
+	"\/WingsOfWar_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475756570",
+	  "size": "698",
+	  "md5": "9e7236d719adebca8132f87c5d293d78",
+	  "crc32": "af351c6b",
+	  "sha1": "38090d7b243015f9c93f9247aaab3a9d5211d200"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902506.us.archive.org\/18\/items\/WingsOfWar\/Wings%20Of%20War_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 392,
+	"week": 6,
+	"month": 30
+  }
+}

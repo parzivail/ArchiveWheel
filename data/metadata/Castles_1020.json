@@ -1,0 +1,223 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/11/items/Castles_1020",
+  "metadata": {
+	"identifier": [
+	  "Castles_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Castles Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:05:45"
+	],
+	"addeddate": [
+	  "2012-09-04 03:05:45"
+	],
+	"year": [
+	  "1991"
+	],
+	"description": [
+	  "\"With CASTLES you can now design the layout of your own medieval dream castle. You'll need to pick a good site that is easily defensible from attack and then decide where to put towers, walls and doors. What kind of gatehouse should you build? How high should the battlements be? How hard should you make the peasants work and how much should they be taxed? Dare you get involved in quarrels between the church and state? Should you respond to pleas for help from neighboring barons, leaving your own walls exposed to siege?\n<p>\nAs lord or lady of the realm you'll be able to make life and death decisions over your fiefdom. Burden overtaxed peasants with tyrannical demands. Then, defend your castle in bloody battles against the angry, overtaxed peasants! Cheat workers of their hard-earned wages. Engage in brutal treachery and make scores of enemies, then sit in a cold, damp castle and wonder why no one likes you. All the neat things that went into making the medieval ages a swell time are in this package!\"<\/p>"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "castles"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475208328",
+	  "size": "370067",
+	  "md5": "8821537d11ab9a44bead2ccf1ca0e708",
+	  "crc32": "2f2fc039",
+	  "sha1": "d9d3606489038a0ea4be75ca6907effdff607992",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475208359",
+	  "size": "4558",
+	  "md5": "7c04c8041de694c659cb424bb9409ba7",
+	  "crc32": "f8150a24",
+	  "sha1": "48e49345848f6368577d49305c5511dd0a262c22"
+	},
+	"\/Castles_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475208341",
+	  "size": "73560",
+	  "md5": "2ab9e03e0e9694a4c55ff4d237eab0a6",
+	  "crc32": "5aac680d",
+	  "sha1": "7c5a278da4a879b6be6b008a54ba3ec601fd70b2",
+	  "format": "Animated GIF"
+	},
+	"\/Castles_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "ce2a2ffe3d8438e487b1cb49cf5883a1078d7376",
+	  "mtime": "1475208364",
+	  "size": "3442",
+	  "md5": "b9e3510ba9738878e4eff46b70676ec0",
+	  "crc32": "da9d8610",
+	  "sha1": "7ca635ab1ed19ef5b8ea13fb53f086e4cf6a730a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Castles_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cb3d61048af851a19d2e78ecdeeee68d"
+	},
+	"\/Castles_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475208352",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "5c3424374737861f392211f9b58ef1d2",
+	  "crc32": "5ae298ef",
+	  "sha1": "021f9ca9a1f3e812a9b95e1be9d4b84e6df7b1ef"
+	},
+	"\/Castles_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469396690",
+	  "size": "1844",
+	  "md5": "eaa436c11c69762cc8bdd7764054ebef",
+	  "crc32": "882e6e1e",
+	  "sha1": "5f713363c491b79564839041e90b16d1640068b4"
+	},
+	"\/castles.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346727950",
+	  "size": "381015",
+	  "md5": "c1149bebec32ba79e91a51f930bfe557",
+	  "crc32": "efc9161d",
+	  "sha1": "b7cb4dbcd025ae1ba737d16b6bb59b86c841a097"
+	},
+	"\/castles.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727951",
+	  "size": "605",
+	  "md5": "2e500d3d395a86ceead006f76d76345b",
+	  "crc32": "d4883a51",
+	  "sha1": "268010f4f63375187f01579e581a43be7dfbf9c3"
+	},
+	"\/castles_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475208347",
+	  "size": "175792",
+	  "md5": "1cefb59b75e1309461900d921e8eea34",
+	  "crc32": "19433aca",
+	  "sha1": "affbfa2c971c01afd43d444be9ceaf509f6828f3",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1440.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346728114",
+	  "size": "17631",
+	  "md5": "02667c927df1202b32778722f70aa34e",
+	  "crc32": "aab9dd62",
+	  "sha1": "cc216621520a4db4764f2f218bd591140b1d5be5",
+	  "rotation": "0"
+	},
+	"\/resource_item_1440.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346728114",
+	  "size": "272",
+	  "md5": "74c4b392ee691bb6aa9cae7bfe09d967",
+	  "crc32": "48ad69e2",
+	  "sha1": "40440ed01a4c46ec17442c34c084cde167c97bb2"
+	},
+	"\/resource_item_1440_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1440.jpg",
+	  "mtime": "1346729027",
+	  "size": "5120",
+	  "md5": "e2a251f4b509686081c989332871cf03",
+	  "crc32": "fa61a527",
+	  "sha1": "b79d712f2e02b9ae7e48e0909a3b7aac928d87cf"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475208331",
+	  "size": "78240",
+	  "md5": "6e8be7bd9cce6fb06eee521deab59b13",
+	  "crc32": "e2f5d8a7",
+	  "sha1": "e5c82a7e957ab72c3ed3cb88404b169368a261c6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475208360",
+	  "size": "2528",
+	  "md5": "942490061498c1ee437b7dbfc2073749",
+	  "crc32": "a0df1b61",
+	  "sha1": "d471d67924fcc64a7b8e85c4727a0ad9a9c739d7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475208334",
+	  "size": "370067",
+	  "md5": "8821537d11ab9a44bead2ccf1ca0e708",
+	  "crc32": "2f2fc039",
+	  "sha1": "d9d3606489038a0ea4be75ca6907effdff607992",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475208361",
+	  "size": "4558",
+	  "md5": "7c04c8041de694c659cb424bb9409ba7",
+	  "crc32": "f8150a24",
+	  "sha1": "48e49345848f6368577d49305c5511dd0a262c22"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/11\/items\/Castles_1020\/Castles_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1258,
+	"week": 4,
+	"month": 14
+  }
+}

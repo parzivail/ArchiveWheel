@@ -1,0 +1,226 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/27/items/PinballDreams_1020",
+  "metadata": {
+	"identifier": [
+	  "PinballDreams_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digital Illusions"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "21st Century Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Pinball Dreams Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:32:07"
+	],
+	"addeddate": [
+	  "2012-09-04 02:32:07"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"21st Century Entertainment proudly present the most realistic Pinball Simulator ever seen on the PC, complete with four individual Pinball tables:\n\n# Ignition<br \/>\n# Beat-Box<br \/>\n# Steel Wheel<br \/>\n# Nightmare<br \/>\n\nEach table comes complete with:\n\nFast, realistic table scrolling<br \/>\nRealistic ball movement<br \/>\nFull music and sound effects<br \/>\n1-8 player option<br \/>\nSaveable highscores<br \/>\nHard disk installation for high-speed loading\n\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "PD.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475803736",
+	  "size": "28068",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "6dfbe00b999ac4e809eae67a48dc1b49",
+	  "crc32": "532c26df",
+	  "sha1": "4f397bed0b27e029a48f6b764fa01661fc6232a7"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475803778",
+	  "size": "2340",
+	  "md5": "3cbd792a116c7e02abdf188a44c2f1e5",
+	  "crc32": "37fbc212",
+	  "sha1": "e8fd72149cdbe08c7ea5411a99ac0a7aff5f88b5"
+	},
+	"\/PinballDreams_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475803744",
+	  "size": "5241",
+	  "format": "Animated GIF",
+	  "md5": "2a3252db3d9283acc45b50e6fc19bd94",
+	  "crc32": "20e86dd8",
+	  "sha1": "30b30aa81b5c1ca0f29bab1ea326e1cf1c593a8e"
+	},
+	"\/PinballDreams_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "efff1e995fe862a799f8bbe0af7a1fa0ec211579",
+	  "mtime": "1475803783",
+	  "size": "3460",
+	  "md5": "5ab7818014fc993bad1a21c093e3b415",
+	  "crc32": "41e64b65",
+	  "sha1": "2a89b07d85bcdaa4e15b5aa91a0982b36016cecb",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PinballDreams_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "85f733ea92c8f89c45607e60750aca22"
+	},
+	"\/PinballDreams_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475803759",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "00f9905046e0ba750c054cd9fe91f387",
+	  "crc32": "709d59c5",
+	  "sha1": "899c60dbc409c915624d7283a80ae4cb0a60a810"
+	},
+	"\/PinballDreams_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471796170",
+	  "size": "1397",
+	  "md5": "1375b3de17b9f6e1413dd27a4419f656",
+	  "crc32": "07695ce4",
+	  "sha1": "9426f162354984433b16fb420b770fff65765272"
+	},
+	"\/pindream.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346725933",
+	  "size": "251326",
+	  "md5": "dfc1b7a91649fdcd2a6f51c783416c47",
+	  "crc32": "a96a521a",
+	  "sha1": "d7be588cfca2747eebbd40f68cb784faf9785c6f"
+	},
+	"\/pindream.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725933",
+	  "size": "675",
+	  "md5": "8e7cb7b2c7ed4b0a69882b0fc0fec30a",
+	  "crc32": "c35e421b",
+	  "sha1": "6dc0178ccbf844c1d287ea9dc32a910584d2c0fb"
+	},
+	"\/pindream_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475803748",
+	  "size": "12655",
+	  "format": "Emulator Screenshot",
+	  "md5": "53d8e715e853b443351d4fdaf5b440b6",
+	  "crc32": "2c5a8882",
+	  "sha1": "04b4eeb04294502cc2665f41651b7d775ac77d0d"
+	},
+	"\/resource_item_1331.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346726438",
+	  "size": "18899",
+	  "md5": "685f875d8bf6b1f8d6f0f7de8316d2dd",
+	  "crc32": "3a56e5a6",
+	  "sha1": "f5007132dae7e70d90f2cc9787254eb1134e5aec",
+	  "rotation": "0"
+	},
+	"\/resource_item_1331.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346726438",
+	  "size": "272",
+	  "md5": "55d95571d60b02c2a492216835b9a9c7",
+	  "crc32": "17902232",
+	  "sha1": "1c0012d02d6bd024d2fb1f9f20805ae8747ce4a2"
+	},
+	"\/resource_item_1331_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1331.jpg",
+	  "mtime": "1346727203",
+	  "size": "5664",
+	  "md5": "baaef964d7a98a1f7527f275c52d4737",
+	  "crc32": "4e9702f6",
+	  "sha1": "fdcb6318a8c53d9fc0ba3edb03a745b66e6f683d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475803739",
+	  "size": "28068",
+	  "md5": "6dfbe00b999ac4e809eae67a48dc1b49",
+	  "crc32": "532c26df",
+	  "sha1": "4f397bed0b27e029a48f6b764fa01661fc6232a7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475803779",
+	  "size": "2340",
+	  "md5": "3cbd792a116c7e02abdf188a44c2f1e5",
+	  "crc32": "37fbc212",
+	  "sha1": "e8fd72149cdbe08c7ea5411a99ac0a7aff5f88b5"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475803741",
+	  "size": "28016",
+	  "md5": "20ac36cb99554e8543eb3f9b6eb1fe28",
+	  "crc32": "ebfae266",
+	  "sha1": "da99846e3fb21eefbcd8176d76997f499abab356",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475803781",
+	  "size": "2333",
+	  "md5": "e99cdc02f56b324c58700975a1fd607e",
+	  "crc32": "b6b8b781",
+	  "sha1": "b79508c0e26198a9d5eccd6a32e060e27dc54653"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/27\/items\/PinballDreams_1020\/PinballDreams_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 726,
+	"week": 6,
+	"month": 12
+  }
+}

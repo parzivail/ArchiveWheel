@@ -1,0 +1,115 @@
+{
+  "server": "ia600700.us.archive.org",
+  "dir": "/1/items/TomClancysSplinterCellDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tom Clancy's Splinter Cell Demo"
+	],
+	"description": [
+	  "Splinter Cell invites gamers to delve into the dark shadows of cyber-terrorism, shadow agencies, and covert operations. The player controls Sam Fisher, a solo operative directed by a top secret, \"black ops\" wing of the National Security Agency. Alone, yet armed with some of the best hi-tech weapons on the market, Sam walks the fine line between what is legal and what is necessary. He must infiltrate enemy territory and neutralize the opponents\u00e2all without leaving a trace."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Ubi Soft Entertainment Software"
+	],
+	"identifier": [
+	  "TomClancysSplinterCellDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 02:12:04"
+	],
+	"publicdate": [
+	  "2012-05-28 02:12:29"
+	],
+	"date": [
+	  "2003"
+	],
+	"year": [
+	  "2003"
+	],
+	"notes": [
+	  "The updated demo contains the Tbilisi 1, Tbilisi 3 and Kalinatek missions."
+	],
+	"publisher": [
+	  "Ubi Soft Entertainment Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/SplinterCellDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338171061",
+	  "size": "105746694",
+	  "md5": "83aa37937b2ad4b1a11db4aec7aa92ed",
+	  "crc32": "789f3dc8",
+	  "sha1": "5e838e68d0abd53022d200c4d0b2395eff0411ac"
+	},
+	"\/SplinterCellDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338171062",
+	  "size": "64156",
+	  "md5": "84505f337bdb2ff0f5b79c6425195bbe",
+	  "crc32": "3bcb0d32",
+	  "sha1": "bc65c9d32f1879f37bd33133962c1df725dce9a4",
+	  "rotation": "0"
+	},
+	"\/SplinterCellDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "SplinterCellDemo.jpg",
+	  "mtime": "1338171143",
+	  "size": "4360",
+	  "md5": "92513668da84367dec29888d0b670764",
+	  "crc32": "368c632a",
+	  "sha1": "7ac6c20f38d26db4363f4c82001282c02bcafa12"
+	},
+	"\/TomClancysSplinterCellDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "c24281b353a9a4e26054925b6b91fe6d88f31540",
+	  "mtime": "1463442112",
+	  "size": "5965",
+	  "md5": "cb44b00fd9897b9064805c3ffc0ad5d4",
+	  "crc32": "f7834691",
+	  "sha1": "149fc88bd3e79a7e8b4f6609495d9c1be36a194b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TomClancysSplinterCellDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8352cf8a7b28c709e0d865b17dc935b5"
+	},
+	"\/TomClancysSplinterCellDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463442111",
+	  "size": "1389",
+	  "md5": "a9dd5ff572406d6e5f1adeb75b89d64b",
+	  "crc32": "5443500d",
+	  "sha1": "321d172637095648dcd918e55186c4e4f350f2b8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600700.us.archive.org\/1\/items\/TomClancysSplinterCellDemo\/SplinterCellDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1051,
+	"week": 22,
+	"month": 49
+  }
+}

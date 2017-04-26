@@ -1,0 +1,126 @@
+{
+  "server": "ia601905.us.archive.org",
+  "dir": "/32/items/TOMYUCKY",
+  "metadata": {
+	"identifier": [
+	  "TOMYUCKY"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Tommy's Toys"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Forget Uno and play this instead! The card game for people who don't like cards. Your team vs. the PC. Options. Demo mode Works with any IBM PC or clone, any monitor, no mouse or joystick needed"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Tommy's Yucky Lucky You!"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-03 05:43:19"
+	],
+	"addeddate": [
+	  "2016-11-03 05:43:19"
+	],
+	"emulator_start": [
+	  "yucky.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/TOMYUCKY.ZIP": {
+	  "source": "original",
+	  "mtime": "1478151799",
+	  "size": "161946",
+	  "md5": "a1162b3d4b34075abffa5d74f0e180ae",
+	  "crc32": "ca335d1f",
+	  "sha1": "10b7c3ddd05dc5543e97aa18d2ecf7f08ab5b9a9",
+	  "format": "ZIP"
+	},
+	"\/TOMYUCKY_archive.torrent": {
+	  "source": "original",
+	  "btih": "41768ae00fc03223ed84629cf6103c8dbbba9b5b",
+	  "mtime": "1478151909",
+	  "size": "1944",
+	  "md5": "97e9b00152fdc5a66eefc7102991d2d4",
+	  "crc32": "77a106a6",
+	  "sha1": "bd74ed377d937c1426854a70edf8fef3e1026a41",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TOMYUCKY_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7216b9deb8d5027a91646a9bbdd37d80"
+	},
+	"\/TOMYUCKY_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478151814",
+	  "size": "12288",
+	  "md5": "b482fcadcab1690152f9604a182d4b83",
+	  "crc32": "1208aa39",
+	  "sha1": "2280ec7c8d6926e94e374c6384fbf8f0a2310ba0",
+	  "format": "Metadata"
+	},
+	"\/TOMYUCKY_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478151908",
+	  "size": "914",
+	  "format": "Metadata",
+	  "md5": "4609010a7cc254508d31a8e423154e2d",
+	  "crc32": "ba31382b",
+	  "sha1": "7ae42de9c787261b105723d3f0660634a358f2ac"
+	},
+	"\/yucky_000.png": {
+	  "source": "original",
+	  "mtime": "1478151810",
+	  "size": "4741",
+	  "md5": "9ec0994c3fa1814738351e73a04c7807",
+	  "crc32": "a026ba47",
+	  "sha1": "ddf2479c6694a6c076a68232c6669c486f7083f0",
+	  "format": "PNG"
+	},
+	"\/yucky_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "yucky_000.png",
+	  "mtime": "1478151829",
+	  "size": "3348",
+	  "md5": "efa351779d33267291b289c4a2152834",
+	  "crc32": "338acbcf",
+	  "sha1": "d438119ef2df0cfa6c2455e33c3aa9887e57d5a6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601905.us.archive.org\/32\/items\/TOMYUCKY\/yucky_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 17,
+	"week": 2,
+	"month": 2
+  }
+}

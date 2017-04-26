@@ -1,0 +1,129 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/25/items/Entombed_1020",
+  "metadata": {
+	"identifier": [
+	  "Entombed_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Chaos Concepts"
+	],
+	"date": [
+	  "1994"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Henry Thomas; Grantley Day"
+	],
+	"publisher": [
+	  "Impulse Software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Entombed Demo v1.7"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-04 16:47:21"
+	],
+	"addeddate": [
+	  "2012-09-04 16:47:21"
+	],
+	"description": [
+	  "An archeological dig has gone wrong--disastrously wrong. The adventure of your life may also be your last as you find yourself trapped in an ancient tomb. Armed only with the diary of a previous colleague, you cannot resist the temptation to venture deeper into the fabled tomb. The hair rises on the back of your neck as you realize that you might never live to tell of your discoveries. But your need to know what happened to your predecessor overrides your terror. This is a demo version of the game that lets experience one episode."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235749[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/Entombed_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5624d610dde146a9782d4e339931d153"
+	},
+	"\/Entombed_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1483388723",
+	  "size": "1419",
+	  "md5": "a5e5704c632b83a0faa32886f58996f8",
+	  "crc32": "55950f5f",
+	  "sha1": "0c7c3fcb4674bb1ccc2e4d523c3852713f1f0d0b"
+	},
+	"\/entmb17.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346777258",
+	  "size": "1743764",
+	  "md5": "432e4160a6817b9de0f8e27527560fd0",
+	  "crc32": "de2f7b53",
+	  "sha1": "c355044d24fd1b169e9d5d1d02cff46f854ac3ab"
+	},
+	"\/entmb17.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346777258",
+	  "size": "777",
+	  "md5": "c1c237bd5be1f90d1e55766b6c0f53e5",
+	  "crc32": "a0cdc6c5",
+	  "sha1": "351a83cdd26440e797bb358262e58350cdc773ed"
+	},
+	"\/resource_item_2272.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346777261",
+	  "size": "13458",
+	  "md5": "ed158f32a388619195ec304de0848614",
+	  "crc32": "daede7ea",
+	  "sha1": "ddc825230e333d36f18cf6a112a13062a09fbe3d",
+	  "rotation": "0"
+	},
+	"\/resource_item_2272.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346777261",
+	  "size": "272",
+	  "md5": "5463c1d32227cb34ccc23c99d26dfa3d",
+	  "crc32": "eba5231a",
+	  "sha1": "b064a77aa992c5743e728f97f90a543b1775b34c"
+	},
+	"\/resource_item_2272_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2272.jpg",
+	  "mtime": "1346778250",
+	  "size": "4494",
+	  "md5": "e2b19bb77f809efb060ab57639ad4789",
+	  "crc32": "60ffcdae",
+	  "sha1": "93f82186580438682cb336935491b544df4d263f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/25\/items\/Entombed_1020\/resource_item_2272_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 218,
+	"week": 3,
+	"month": 5
+  }
+}

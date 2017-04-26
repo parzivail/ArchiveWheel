@@ -1,0 +1,290 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/18/items/SuperTetris_1020",
+  "metadata": {
+	"identifier": [
+	  "SuperTetris_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"license": [
+	  "shareware"
+	],
+	"publisher": [
+	  "Spectrum Holobyte"
+	],
+	"date": [
+	  "1991",
+	  "1991"
+	],
+	"publicdate": [
+	  "2012-09-04 03:45:45"
+	],
+	"addeddate": [
+	  "2012-09-04 03:45:45"
+	],
+	"creator": [
+	  "Sphere"
+	],
+	"description": [
+	  "Super Tetris -SHAREWARE- VGA, 256 colors, More than 50 zones (screen setups) and 15 block sets."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Super Tetris Demo"
+	],
+	"year": [
+	  "1991"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233841[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "SUPERTET\/SUPERTET.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475526867",
+	  "size": "56533",
+	  "md5": "2e02f3221f6be620dd30424d1e1b6d21",
+	  "crc32": "b1165922",
+	  "sha1": "03bc52a7355aa43a9fdc15eda3ff2f5db086b6cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475526918",
+	  "size": "3455",
+	  "md5": "3b3092fc0b57cd246d4e87b02900d870",
+	  "crc32": "ba43b274",
+	  "sha1": "f14cdb319c7eeb04654c3a53dc30c0e8341358fc"
+	},
+	"\/SuperTetris_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475526883",
+	  "size": "8119",
+	  "md5": "b52180df256c1221bf48a090cc4d6868",
+	  "crc32": "c6e5ccf3",
+	  "sha1": "be7e7b121384492403faaf9d5d9a9b78c8d46096",
+	  "format": "Animated GIF"
+	},
+	"\/SuperTetris_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "1b63c70a8d91109b1b2712ad592063d4e15b110e",
+	  "mtime": "1475526938",
+	  "size": "4502",
+	  "md5": "7aade41746ed4bd3530d3c439461cb12",
+	  "crc32": "2a62c7f6",
+	  "sha1": "2c41d8665afd50a30592db1306176470eb6b510b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SuperTetris_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cb8802b20bf10931069ca24592f41401"
+	},
+	"\/SuperTetris_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475526898",
+	  "size": "10240",
+	  "md5": "3809d1a0b357aa3efc3aa9245df435f0",
+	  "crc32": "d3af2d8a",
+	  "sha1": "5904ee4a3eb90f3a1ea8aa0cd4dbddf13b66b907",
+	  "format": "Metadata"
+	},
+	"\/SuperTetris_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469647001",
+	  "size": "1006",
+	  "md5": "7c3e0871ae798d56cd988407142cbe94",
+	  "crc32": "b46b972b",
+	  "sha1": "ac88746775a8bf7fa92735d5e9790ae6d99e6885"
+	},
+	"\/resource_item_1554.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731600",
+	  "size": "17090",
+	  "md5": "c220107b82f92b8be0d923f99141cf97",
+	  "crc32": "a4ad72bd",
+	  "sha1": "e433afa0191e0f62102ad250280f927d7710fdf8",
+	  "rotation": "0"
+	},
+	"\/resource_item_1554.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731601",
+	  "size": "298",
+	  "md5": "f20403a78ebb70616d74bd0cda94cbe0",
+	  "crc32": "ad09c6a9",
+	  "sha1": "3902cd78c3cd418c1806b6b181ecc146da9dfaa2"
+	},
+	"\/resource_item_1554_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1554.jpg",
+	  "mtime": "1346733052",
+	  "size": "5677",
+	  "md5": "5756d64e9a199731e38f1f9214aad932",
+	  "crc32": "1a42840c",
+	  "sha1": "5dda5c6725e05b54327306b0fc2de770853f5280"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475526869",
+	  "size": "56523",
+	  "md5": "44dab3a6b82dbf8f88e4ed15cfaabb51",
+	  "crc32": "e16c687c",
+	  "sha1": "613cbf5dca184761cedaebd3d5a0388f668fe666",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475526914",
+	  "size": "3440",
+	  "md5": "bcc3bb98065b092cd035bee5493a3403",
+	  "crc32": "ddd9e142",
+	  "sha1": "ca1d8bdbb4c90c3239ada330b54f44c8ff047400"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475526871",
+	  "size": "56533",
+	  "md5": "2e02f3221f6be620dd30424d1e1b6d21",
+	  "crc32": "b1165922",
+	  "sha1": "03bc52a7355aa43a9fdc15eda3ff2f5db086b6cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475526920",
+	  "size": "3455",
+	  "md5": "3b3092fc0b57cd246d4e87b02900d870",
+	  "crc32": "ba43b274",
+	  "sha1": "f14cdb319c7eeb04654c3a53dc30c0e8341358fc"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475526875",
+	  "size": "42191",
+	  "md5": "1987797e94c9e0ca73088eadd6897182",
+	  "crc32": "293301e4",
+	  "sha1": "e8cefea783b063a10ade0af6654cec6e1dcc63ab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475526922",
+	  "size": "3170",
+	  "md5": "125b3ff49345df8f926113017ce6de7a",
+	  "crc32": "aeb6b227",
+	  "sha1": "c227794acb7f2899c65fb5dd13a759c3178f0c20"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475526878",
+	  "size": "38141",
+	  "md5": "2b19951bc47ce636e0399c0becafb1e0",
+	  "crc32": "61d41500",
+	  "sha1": "bfc3f7be092952f61ee5dd2cddfc20e046020b25",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475526925",
+	  "size": "2902",
+	  "md5": "ae2e7dfbc93adf6a34c95870a67cece1",
+	  "crc32": "43b533f0",
+	  "sha1": "a861afc6536277ff6b60e682f3dbd6c0598513b6"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475526880",
+	  "size": "38148",
+	  "md5": "4009b2a0fe7c9fc44f2b9ad8f76d5e18",
+	  "crc32": "6916b742",
+	  "sha1": "a322dd9a28f1a228265bb460d0cb2fb6465b1a24",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475526924",
+	  "size": "2917",
+	  "md5": "14760dc36254a0484cedf7bf7bee6647",
+	  "crc32": "c45480fa",
+	  "sha1": "0365ff6a3888ce51ceb779d9a44552a88357ae23"
+	},
+	"\/supertet.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730351",
+	  "size": "366192",
+	  "md5": "812abd2797c45320bc3939194b40a5f1",
+	  "crc32": "dc9aecad",
+	  "sha1": "6da049b284b51870bbf1fb57277ef288e4b6fd2d"
+	},
+	"\/supertet.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730351",
+	  "size": "1203",
+	  "md5": "65f32553a311a2ea5664522a7b8e3263",
+	  "crc32": "ba1e05ae",
+	  "sha1": "5652cc4c516a380e12f46e47c13df5ecdffa351e"
+	},
+	"\/supertet_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475526893",
+	  "size": "49404",
+	  "md5": "8510ea7148c2d57401af25c50ddad782",
+	  "crc32": "6c2630ae",
+	  "sha1": "c160aff10785e5c8763f2aef2c09a75cf9bd652d",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/18\/items\/SuperTetris_1020\/SuperTetris_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 448,
+	"week": 5,
+	"month": 9
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/12/items/GP500",
+  "metadata": {
+	"identifier": [
+	  "GP500"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Melbourne House"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "THE OFFICIAL FIM WORLD ROAD RACING CHAMPIONSHIP GRAND PRIX RACE SIMULATOR"
+	],
+	"publisher": [
+	  "MicroProse Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "GP 500 Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-07 21:11:13"
+	],
+	"addeddate": [
+	  "2014-02-07 21:11:13"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234324[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_34"
+	]
+  },
+  "files": {
+	"\/GP500.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1391807471",
+	  "size": "18530960",
+	  "md5": "464182a87d212e491b1467184542c6c7",
+	  "crc32": "9fa3b0ab",
+	  "sha1": "ee60ab880526e237875c772dab840389ac15911f"
+	},
+	"\/GP500_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "06d9a8b40dba9aa3a92ada96373a6cde"
+	},
+	"\/GP500_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391807492",
+	  "size": "10240",
+	  "md5": "a3d59e8f648984d8dc1377ae953b47bd",
+	  "crc32": "95a40c01",
+	  "sha1": "a8093e8876f29be024b0b482a73b5ed457bca2c7"
+	},
+	"\/GP500_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474095356",
+	  "size": "911",
+	  "md5": "265443d170a5a144eb012ee08f040cf0",
+	  "crc32": "70e2fe20",
+	  "sha1": "778f8a117bd7220e709efef69ac72b5cb201bc56"
+	},
+	"\/gp500.JPG": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1391807485",
+	  "size": "59213",
+	  "md5": "a28af8db15e26455b4420aa5dadd06a6",
+	  "crc32": "590e9a94",
+	  "sha1": "374519418c71a6392e1a8b29f1e3eb1d49214a2a",
+	  "rotation": "0"
+	},
+	"\/gp500_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "gp500.JPG",
+	  "mtime": "1391807504",
+	  "size": "3909",
+	  "md5": "ec843f5eceaf70f06c1f85eeb4f5484a",
+	  "crc32": "cc039aac",
+	  "sha1": "0d426ccfbd52284c03ca743008476bf75b245b50"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/12\/items\/GP500\/gp500_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1588,
+	"week": 22,
+	"month": 56
+  }
+}

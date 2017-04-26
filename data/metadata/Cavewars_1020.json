@@ -1,0 +1,130 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/16/items/Cavewars_1020",
+  "metadata": {
+	"identifier": [
+	  "Cavewars_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Broken Arrow Entertainment"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Avalon Hill"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Cavewars Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-05 04:53:50"
+	],
+	"addeddate": [
+	  "2012-09-05 04:53:50"
+	],
+	"description": [
+	  "\"Cavewars puts you into a subterranean fantasy world of vicious combat and empire building. Each player starts with one city deep below the surface of a hostile planet.\n\nBeginning with primitive weapons, a small knowledge of magic and a diminishing supply of metal; you must explore, expand, mine metal and conquer to survive. Build better weapons, learn to forge stronger metals, improve your knowledge of magic and there will be no end to what you can build, summon or unleash upon your enemies. Lag behind in the race for resources and technology and you will be crushed.\n\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/Cavewars_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "afa43dcd4dcfae9419a39f5cdad52fd6652de2b5",
+	  "mtime": "1475788457",
+	  "size": "2277",
+	  "md5": "ca3253d42117f515f489301276f81d06",
+	  "crc32": "8834cba2",
+	  "sha1": "e94995405fb034c8465f8536e4d155df1a541a15",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Cavewars_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "23f60b7fbf936c236f19d1063d3418d4"
+	},
+	"\/Cavewars_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475788456",
+	  "size": "1338",
+	  "md5": "acaf030d9c2f741499641e94a5db5f6b",
+	  "crc32": "312cff4e",
+	  "sha1": "d3bc3ea322e3a024d5464347e204abaffa40ab76"
+	},
+	"\/cavedemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346820946",
+	  "size": "12002832",
+	  "md5": "92ba0b85667b9c34c56eb47378472c59",
+	  "crc32": "f0943006",
+	  "sha1": "84aba1180bbd9f01a8b40c768de497d1e80b79b7"
+	},
+	"\/cavedemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820946",
+	  "size": "689",
+	  "md5": "a2aeaf8793099a0d673be45181db876e",
+	  "crc32": "f7a76f52",
+	  "sha1": "896cc4e6e014297430015fa269b6b778d04705c1"
+	},
+	"\/resource_item_3091.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346820948",
+	  "size": "22589",
+	  "md5": "0b2424f249cb2a2818d72b8f7532c980",
+	  "crc32": "aca7340a",
+	  "sha1": "34bef70da0424dd22ca4b6407c692b17a76895f3",
+	  "rotation": "0"
+	},
+	"\/resource_item_3091.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820948",
+	  "size": "272",
+	  "md5": "309fc47ceb9feb470afb734cbf6d588a",
+	  "crc32": "c7ccd0b0",
+	  "sha1": "672bf8828f111849c7154c131d4cbb8110b39808"
+	},
+	"\/resource_item_3091_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3091.jpg",
+	  "mtime": "1346833155",
+	  "size": "7057",
+	  "md5": "cffaaf52318018b793a446f9b434811e",
+	  "crc32": "d05bf75e",
+	  "sha1": "ccf1fd7428cc463cd07366a69dd4a906663ad5d7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/16\/items\/Cavewars_1020\/resource_item_3091_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 164,
+	"week": 1,
+	"month": 3
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "server": "ia600209.us.archive.org",
+  "dir": "/21/items/f_mario",
+  "metadata": {
+	"identifier": [
+	  "f_mario"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Roderick Rivero"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "<div>+---------------------------------------------------------+<\/div><div><br \/><\/div><div>Super Mario Bros. VGL<\/div><div>Code Copyright 2002-2004 Roderick Rivero<\/div><div>Mario and related characters are properties of Nintendo.<\/div><div>To be used for non-commercial purposes only.<\/div><div><br \/><\/div><div><br \/><\/div><div>To run:<\/div><div><br \/><\/div><div>Click on setup.exe to install the vgl.dll version 1.3 to\u00a0<\/div><div>the system folder. Then click mariovgl.exe to start the<\/div><div>program.<\/div><div><br \/><\/div><div><br \/><\/div><div>To use the sourcecode:<\/div><div><br \/><\/div><div>You need Visual Basic 6 to run the source code.<\/div><div><br \/><\/div><div><br \/><\/div><div>Notes:<\/div><div><br \/><\/div><div>This is the source code of the MarioVGL demo bundled with<\/div><div>VGL Utilities. However, the bulk of the code is relatively\u00a0<\/div><div>old as it was started even before VGL was finalized. In<\/div><div>fact, this program determined what methods will VGL have.<\/div><div><br \/><\/div><div>To properly see the credits, hold h+r+x in the title<\/div><div>screen.<\/div><div><br \/><\/div><div>+---------------------------------------------------------+<\/div>"
+	],
+	"license": [
+	  "freeware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games; Game remakes"
+	],
+	"title": [
+	  "Super Mario Bros. VGL"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2016-01-18 16:54:43"
+	],
+	"addeddate": [
+	  "2016-01-18 16:54:43"
+	],
+	"backup_location": [
+	  "ia905508_19"
+	]
+  },
+  "files": {
+	"\/f_mario.zip": {
+	  "source": "original",
+	  "mtime": "1453136082",
+	  "size": "298248",
+	  "md5": "5af15ca70dbf518cc1d8fefa03b25a97",
+	  "crc32": "5fe4add7",
+	  "sha1": "44026c36ef6c8b2ac7b1421afc9a280fa450a9f5",
+	  "format": "ZIP"
+	},
+	"\/f_mario_archive.torrent": {
+	  "source": "original",
+	  "btih": "60fb8b29901c1be5ffb3e58a3e33f7d617f29532",
+	  "mtime": "1483148640",
+	  "size": "1599",
+	  "md5": "a20b847eea7816a2c620e5ae67a600e1",
+	  "crc32": "33bef23a",
+	  "sha1": "8619ef303e43bd78a6de020ea0a79ab684333686",
+	  "format": "Archive BitTorrent"
+	},
+	"\/f_mario_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8ea84208da9844fe5b56ceac7cc35c88"
+	},
+	"\/f_mario_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1453136095",
+	  "size": "15360",
+	  "md5": "e73e781162c17978bc84addab27b4424",
+	  "crc32": "00565bfd",
+	  "sha1": "7ba584d2c6e1df2a72d760576d8a912eae8b0187",
+	  "format": "Metadata"
+	},
+	"\/f_mario_meta.xml": {
+	  "source": "original",
+	  "mtime": "1483148639",
+	  "size": "2303",
+	  "format": "Metadata",
+	  "md5": "19f4151ab49980651b73b60dfbd2eb8f",
+	  "crc32": "83dae7ac",
+	  "sha1": "782003bf2e34cd3ff7e1817c2472e72571a84325"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/classicpcgames&fallback=1",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 247,
+	"week": 6,
+	"month": 16
+  }
+}

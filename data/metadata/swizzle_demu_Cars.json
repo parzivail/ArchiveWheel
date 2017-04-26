@@ -1,0 +1,124 @@
+{
+  "server": "ia800700.us.archive.org",
+  "dir": "/19/items/swizzle_demu_Cars",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_Cars"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rainbow Studios"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "Race to the finish line as you live all the fun and excitement of the next Walt Disney Pictures presentation of a Pixar Animation Studios film, \"Cars.\" Play as all your favourite characters as you help Lightening McQueen capture the coveted Piston Cup Championship."
+	],
+	"publisher": [
+	  "THQ"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Cars Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-03-22 13:24:12"
+	],
+	"addeddate": [
+	  "2014-03-22 13:24:12"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231849[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_26"
+	]
+  },
+  "files": {
+	"\/Cars.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1395494652",
+	  "size": "142578771",
+	  "md5": "398f608ebb37055e4c68b5b19d0b7bf1",
+	  "crc32": "b1bfd32d",
+	  "sha1": "1d5fc1b68b6e747dbd26dbf169ddda5a5b2f9b1b"
+	},
+	"\/cars.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1395494663",
+	  "size": "78900",
+	  "md5": "b24125de16e340348f3368c74bbfe697",
+	  "crc32": "5a572104",
+	  "sha1": "04ceaa22b9c9ee785733176cf6e7de2a1dd21e87",
+	  "rotation": "0"
+	},
+	"\/cars_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "cars.jpg",
+	  "mtime": "1395494697",
+	  "size": "4592",
+	  "md5": "34afd67a61c56056a3e76ba4f416d7e3",
+	  "crc32": "f389ad11",
+	  "sha1": "87b0948c57b4ad891203e3f656714ac7807bcd9f"
+	},
+	"\/swizzle_demu_Cars_archive.torrent": {
+	  "source": "original",
+	  "btih": "41240c3e008a3c6d4c9e3c147bf0f4920fc2db89",
+	  "mtime": "1474414662",
+	  "size": "7460",
+	  "md5": "cb6d344baf4bde1526eb45015e8a7215",
+	  "crc32": "23ddd3b8",
+	  "sha1": "6b36da877db7c910070229045a57aba8cef2c0fe",
+	  "format": "Archive BitTorrent"
+	},
+	"\/swizzle_demu_Cars_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0c2f92d7be1ba493d3520522212dc686"
+	},
+	"\/swizzle_demu_Cars_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1395494671",
+	  "size": "12288",
+	  "md5": "619d4bc15b3541bf24bee598a2398836",
+	  "crc32": "12343d49",
+	  "sha1": "a04e0af34fa811b8d91c663bcf91a71db7da8105"
+	},
+	"\/swizzle_demu_Cars_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474414660",
+	  "size": "1053",
+	  "md5": "bd630019e42b5fb9f1cf10b0d984cb22",
+	  "crc32": "60afaa63",
+	  "sha1": "0e06059cb70a074d2011d0f87f3af3702d1e4bee"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800700.us.archive.org\/19\/items\/swizzle_demu_Cars\/cars_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 291,
+	"week": 2,
+	"month": 9
+  }
+}

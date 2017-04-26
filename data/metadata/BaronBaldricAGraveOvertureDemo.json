@@ -1,0 +1,228 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/1/items/BaronBaldricAGraveOvertureDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Baron Baldric: A Grave Overture Demo"
+	],
+	"description": [
+	  "\"Baron Baldric was originally designed for the Amiga by a professional animator, Lindsay Whipp of Animation FX. Understandably the animation and graphics involved are quite impressive. He and his team of programmers have brought this fabulous game to the IBM PC. Now PC owners can enjoy the roguish antics of Baron Baldric, and join him on his quest to destroy Lazarus and reclaim his family treasures.\n\nThe game is unique in that it was designed and written by a professional\nanimator. This gives the game characters a realistic movement which adds to the overall quality of gameplay. Lindsay has also given the characters of the game their own special \"\"personalities\"\" which provides unexepected antics during the game.\n\nThe game's high quality VGA graphics and SoundBlaster support also adds to the fun and excitement of the adventure.\n\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Animation F\/X"
+	],
+	"identifier": [
+	  "BaronBaldricAGraveOvertureDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 16:33:42"
+	],
+	"publicdate": [
+	  "2012-08-05 16:33:59"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Manaccom"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "BDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475796561",
+	  "size": "285964",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "8247720e3a8fc5a8fc7e4b243c97fe14",
+	  "crc32": "9343643d",
+	  "sha1": "90dd27a121378af8920722f1c5e5b8923bf48f54"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475796597",
+	  "size": "4811",
+	  "md5": "be0eafa4c3f6104d05db4e02236bf6aa",
+	  "crc32": "8323ef75",
+	  "sha1": "5dee4a0a9c3164dd2b3ac2c9a2685c1d84e04af9"
+	},
+	"\/BaronBaldricAGraveOvertureDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475796572",
+	  "size": "32561",
+	  "format": "Animated GIF",
+	  "md5": "06d8743b4ee913fd4ac2eee69f309cc1",
+	  "crc32": "658b5def",
+	  "sha1": "909b600b234f144bf2b0609af143d14ae93668e4"
+	},
+	"\/BaronBaldricAGraveOvertureDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "d6939d7b344a1a9a7e53bf48ce30f711d9eadc4f",
+	  "mtime": "1475796604",
+	  "size": "3968",
+	  "md5": "be214d129450c0da560615e14dca461f",
+	  "crc32": "7a10d940",
+	  "sha1": "ccd065e8b14d790164ad00606239652e7cffc18d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BaronBaldricAGraveOvertureDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b12da93dc0b3a0fb020222ce66fcacb0"
+	},
+	"\/BaronBaldricAGraveOvertureDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475796581",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "5df38fd78d5c6c4b48f888c71e51be11",
+	  "crc32": "8f1aed6a",
+	  "sha1": "b1a9e96251ee5e863156dd71f49285c4a8544cfc"
+	},
+	"\/BaronBaldricAGraveOvertureDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472489426",
+	  "size": "1736",
+	  "md5": "a578f2beaf2b0a0d7a55c7fe18617ee9",
+	  "crc32": "bd6a2b7a",
+	  "sha1": "5330cd1ffa1904586175c10e8fa20917d23f62ae"
+	},
+	"\/baldric.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344184383",
+	  "size": "314038",
+	  "md5": "f3c35deb8a8659cfebaa6c87388b8603",
+	  "crc32": "cd0be34c",
+	  "sha1": "4f6e8e1d3eb12d5e500c47793ebc1ae4259e2a9f"
+	},
+	"\/baldric_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475796576",
+	  "size": "118658",
+	  "format": "Emulator Screenshot",
+	  "md5": "82fbd9319884e06f47cabb06ce0a02ff",
+	  "crc32": "336f2f60",
+	  "sha1": "6ae3e22d5821cb3bf90b3f9ce1f7ccd4921000d4"
+	},
+	"\/resource_item_441.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344184390",
+	  "size": "21539",
+	  "md5": "bf115d64830a5eaa028210306b07b18d",
+	  "crc32": "dc3c0a33",
+	  "sha1": "051625b3deb7133f2a1e07b8c5b419ac8a93fdff",
+	  "rotation": "0"
+	},
+	"\/resource_item_441_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_441.jpg",
+	  "mtime": "1344184434",
+	  "size": "5828",
+	  "md5": "3362a0f552698a032892b9b0c79bc8a0",
+	  "crc32": "79518a7b",
+	  "sha1": "06955253bbdc10df3ae3148575582ed456eca167"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475796563",
+	  "size": "159696",
+	  "md5": "e8e07d964a1d0cb2cf8b807b7b64a8c1",
+	  "crc32": "258a8d2e",
+	  "sha1": "f2c263f8862f0203d7fc41035ab97618a15b6ce6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475796599",
+	  "size": "4089",
+	  "md5": "f590bb679632fd39d69277b2d76ada78",
+	  "crc32": "670bf3ff",
+	  "sha1": "72e6921bed10552f1d25ab34cd824c2f0eb5b0c6"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475796566",
+	  "size": "181999",
+	  "md5": "ad51ed13b3fac67f11b88a2ef983b15c",
+	  "crc32": "4e968219",
+	  "sha1": "295382b49690dbefae3d3e4f57463907a5e6806f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475796600",
+	  "size": "3790",
+	  "md5": "f82ff0dbdef444928d74cf5c287786fc",
+	  "crc32": "5ba2b102",
+	  "sha1": "8912432898ec2195bbd264acea99f6e259fdf4bf"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475796568",
+	  "size": "285964",
+	  "md5": "8247720e3a8fc5a8fc7e4b243c97fe14",
+	  "crc32": "9343643d",
+	  "sha1": "90dd27a121378af8920722f1c5e5b8923bf48f54",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475796601",
+	  "size": "4811",
+	  "md5": "be0eafa4c3f6104d05db4e02236bf6aa",
+	  "crc32": "8323ef75",
+	  "sha1": "5dee4a0a9c3164dd2b3ac2c9a2685c1d84e04af9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/1\/items\/BaronBaldricAGraveOvertureDemo\/BaronBaldricAGraveOvertureDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 101,
+	"week": 3,
+	"month": 3
+  }
+}

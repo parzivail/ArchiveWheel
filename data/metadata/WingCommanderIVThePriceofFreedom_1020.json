@@ -1,0 +1,130 @@
+{
+  "server": "ia800803.us.archive.org",
+  "dir": "/2/items/WingCommanderIVThePriceofFreedom_1020",
+  "metadata": {
+	"identifier": [
+	  "WingCommanderIVThePriceofFreedom_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "ORIGIN Systems"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Wing Commander IV: The Price of Freedom"
+	],
+	"publicdate": [
+	  "2012-09-04 09:10:49"
+	],
+	"addeddate": [
+	  "2012-09-04 09:10:49"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "Welcome to Wing Commander IV. This latest installment in the \nWing Commander series puts you back in the shoes of the Terran \nConfederation's Colonel Christopher Blair, to investigate the \nskirmishes with our long-time allies, The Border Worlds.\n\nThis demo has a promotional trailer which loops endlessly or until\nthe Escape key is pressed, at which point the Demo switches to\ngameflow mode. From gameflow, one can choose to fly the demo mission \nor review the trailer. Upon completion of the Demo Mission or hitting \nALT-Q, the demo returns to gameflow.\n\nWhen you select to fly the demo mission, you will be at the helm of \nthe Confederation Hellcat. The mission has a default time limit of 5 \nminutes. You start on the BWS Intrepid. Use A to take off from the ship, \nor fly out manually by using + to increase your speed. The control type \nselected in the install program will be used to maneuver your ship."
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232903[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/WC4.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346750305",
+	  "size": "43806834",
+	  "md5": "6789647221bf62beaa510033b991a807",
+	  "crc32": "cf4f5efd",
+	  "sha1": "97156a670bb94b11352816efabfd76482b3ba69d"
+	},
+	"\/WC4.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346750305",
+	  "size": "688",
+	  "md5": "200b037d3dd4bdc3ee6423887c18b772",
+	  "crc32": "0f6a8751",
+	  "sha1": "6a531e1306cd3e0652fe6ffcffccf4cedcd30721"
+	},
+	"\/WingCommanderIVThePriceofFreedom_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b59fd84c2951cd5d32e944707cadc9841083b70e",
+	  "mtime": "1466243665",
+	  "size": "3682",
+	  "md5": "1ced043eb09a43ca805be11acf0c334f",
+	  "crc32": "65e9edfe",
+	  "sha1": "81146a197cb95c127666b776f2045fb82b9a3070",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WingCommanderIVThePriceofFreedom_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2666320d952becee840303b18e6e72ed"
+	},
+	"\/WingCommanderIVThePriceofFreedom_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466243664",
+	  "size": "1698",
+	  "md5": "c7ae8d5766d5c1830aa59ac188ed33bb",
+	  "crc32": "250cd631",
+	  "sha1": "c09074033ee0c8ef8f58afce3946bb195a685f8e"
+	},
+	"\/resource_item_2023.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346750307",
+	  "size": "16579",
+	  "md5": "e3021d17575baf7cc56ed3a3dffc3624",
+	  "crc32": "255c7f01",
+	  "sha1": "431a0b2bca39f6c2824ce499ae809aa436c5c82f",
+	  "rotation": "0"
+	},
+	"\/resource_item_2023.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346750307",
+	  "size": "272",
+	  "md5": "ca935b9bf85887fed0791d1681d84d9e",
+	  "crc32": "a19869fd",
+	  "sha1": "523680ec6457e8def4d5d37ee2787727185a2ade"
+	},
+	"\/resource_item_2023_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2023.jpg",
+	  "mtime": "1346751786",
+	  "size": "5500",
+	  "md5": "65cb568f8e29f5581dc484388c419101",
+	  "crc32": "db84a8ae",
+	  "sha1": "8baa6ef6f46676f88caca696001ec08b8de0aef2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/2\/items\/WingCommanderIVThePriceofFreedom_1020\/resource_item_2023_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2464,
+	"week": 19,
+	"month": 61
+  }
+}

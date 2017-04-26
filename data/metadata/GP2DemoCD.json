@@ -1,0 +1,123 @@
+{
+  "server": "ia600200.us.archive.org",
+  "dir": "/33/items/GP2DemoCD",
+  "metadata": {
+	"identifier": [
+	  "GP2DemoCD"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "This is not a racing game. This is you in the cockpit hurtling around a grand prix circuit at speeds of up to 200 mph. Forget virtual reality, this if the real deal. All the teams, all the drivers, all the cars, all the circuits. The game includes every aspect of the real grand prix experience; in-depth car set-ups, practice and qualifying sessions, and much more."
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Grand Prix II Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-03-29 15:12:16"
+	],
+	"addeddate": [
+	  "2016-03-29 15:12:16"
+	],
+	"notes": [
+	  "This is a CD demo.  The contents must be mounted as a CD-ROM in DOSBox and then installed.  The original files must remain mounted as a CD-ROM in order for the demo to run."
+	],
+	"backup_location": [
+	  "ia906103_14"
+	]
+  },
+  "files": {
+	"\/GP2-DemoCD.zip": {
+	  "source": "original",
+	  "mtime": "1459264333",
+	  "size": "252156308",
+	  "md5": "b6ff3479711166db6575fcc86ca09039",
+	  "crc32": "fc0c51be",
+	  "sha1": "8742d1ded3f7e88c3a9ebe105faae944b42fa9c0",
+	  "format": "ZIP"
+	},
+	"\/GP2DemoCD_archive.torrent": {
+	  "source": "original",
+	  "btih": "7a9d735ec8b249ba5abeb01e9e8df2f9b01effca",
+	  "mtime": "1482112169",
+	  "size": "11588",
+	  "md5": "4cf2811c1e6c060ef5736fc36b34591d",
+	  "crc32": "d0d8d8ad",
+	  "sha1": "c935b288d1263d5547b6c280ee4d69a46687ff19",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GP2DemoCD_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "32d7f6604fc2653576a7297822cfa210"
+	},
+	"\/GP2DemoCD_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1459264363",
+	  "size": "14336",
+	  "md5": "dac0de16723dc5380ff0808426da2729",
+	  "crc32": "4c60ccd6",
+	  "sha1": "2d6a12dba2cd1ee71b4d768a0021453fd586dcfa",
+	  "format": "Metadata"
+	},
+	"\/GP2DemoCD_meta.xml": {
+	  "source": "original",
+	  "mtime": "1482112166",
+	  "size": "1218",
+	  "format": "Metadata",
+	  "md5": "fa76d28f034caa8854dab58bfc832a83",
+	  "crc32": "1e9de285",
+	  "sha1": "6a5840d58b9fd512b7aa26535b184e4b0ab9d5d3"
+	},
+	"\/gp2demo_002.png": {
+	  "source": "original",
+	  "mtime": "1459264349",
+	  "size": "18391",
+	  "md5": "829a2b2db07092b83b36fc510c567bf2",
+	  "crc32": "06bc4db8",
+	  "sha1": "54e3a7c1db4f0eae39afbe6543790e130257ebbc",
+	  "format": "PNG"
+	},
+	"\/gp2demo_002_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "gp2demo_002.png",
+	  "mtime": "1459264385",
+	  "size": "4714",
+	  "md5": "a74298931c1e3d97c4bb6b738d0c8440",
+	  "crc32": "adf05a13",
+	  "sha1": "079a4b59612a6daec8b7999816f9e0e4c91c36a4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600200.us.archive.org\/33\/items\/GP2DemoCD\/gp2demo_002_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 221,
+	"week": 9,
+	"month": 19
+  }
+}

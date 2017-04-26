@@ -1,0 +1,113 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/30/items/TombRaiderTheLostArtifactDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tomb Raider: The Lost Artifact Demo"
+	],
+	"description": [
+	  "From the lofty towers of the late Dr. Willard's Scottish castle to the eerie catacombs of France. The Lost Artifact unveils the dramatic conclusion of events set in motion in Tomb Raider III. Rumoured to be the legendary Hand of Rathmore, the fifth artifact is the key to unlocking the final secret of the ancient meteor's powers. There is no time to lose, for whom else shares the secret and has joined the hunt?"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Core Design"
+	],
+	"identifier": [
+	  "TombRaiderTheLostArtifactDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 06:14:59"
+	],
+	"publicdate": [
+	  "2012-05-13 06:15:20"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Eidos Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/TombRaiderTheLostArtifactDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "f243336bae8dbed9f67100b0a03b8d0982f82363",
+	  "mtime": "1464402351",
+	  "size": "2511",
+	  "md5": "0ba846c807b4f5e9463e03f7f72c5639",
+	  "crc32": "1907c7ff",
+	  "sha1": "aa7cdc96cec5f6cb0f98ed928a56ca2a75a4cd7e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TombRaiderTheLostArtifactDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7a225fd0363dd20aa786de73fb96c78d"
+	},
+	"\/TombRaiderTheLostArtifactDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464402350",
+	  "size": "1208",
+	  "md5": "6551d7e20aa953b5a89917b5ba5d8f88",
+	  "crc32": "dcaaf494",
+	  "sha1": "953d97b338c1074ddab7ac8eb9c30a6bdc60f554"
+	},
+	"\/tr_tlademo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336889686",
+	  "size": "15000576",
+	  "md5": "a961374c444204e853fda57369c9d015",
+	  "crc32": "60cb7089",
+	  "sha1": "415129abce6abc624beddb7548843510f495a116",
+	  "title": "Tomb Raider: The Lost Artifact Demo"
+	},
+	"\/tr_tlademo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336889687",
+	  "size": "31463",
+	  "md5": "e394c81d8befb0a0b3be1cdaff7c8aba",
+	  "crc32": "23a0b0af",
+	  "sha1": "1617ae894919394b2f82e385e10fcb6320cd6475",
+	  "rotation": "0"
+	},
+	"\/tr_tlademo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "tr_tlademo.jpg",
+	  "mtime": "1336889714",
+	  "size": "5463",
+	  "md5": "556f51e981d35e6881c5616468d1207a",
+	  "crc32": "6fa8e357",
+	  "sha1": "8a3ff3816378983d48a9c5a0e4c13ef3066b3e2a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/30\/items\/TombRaiderTheLostArtifactDemo\/tr_tlademo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1298,
+	"week": 9,
+	"month": 28
+  }
+}

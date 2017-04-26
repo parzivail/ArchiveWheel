@@ -1,0 +1,116 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/21/items/BARDEMO",
+  "metadata": {
+	"identifier": [
+	  "BARDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Mango Grits"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "A\u00a03D shooter in which you pilot a futuristic aircraft. Destroy as many targets as possible within a time limit.\u00a0"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Barrage Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 04:57:39"
+	],
+	"addeddate": [
+	  "2014-02-07 04:57:39"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234309[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_33"
+	]
+  },
+  "files": {
+	"\/BARDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391749059",
+	  "size": "9553408",
+	  "md5": "18069763ccfc078f01cabf8ba149a6f4",
+	  "crc32": "16a9a3be",
+	  "sha1": "213feb3caa5a99f76934146621cede74994783b7"
+	},
+	"\/BARDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "12545a0dd1de5b081a87d73e0139c6d7"
+	},
+	"\/BARDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391749076",
+	  "size": "10240",
+	  "md5": "d8d4700cfdb3412d4c30179d7e5ffc80",
+	  "crc32": "2c2b8bda",
+	  "sha1": "2f323d2a0cb8605e15f3d80b4b6c10cec0c0ac7e"
+	},
+	"\/BARDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471858303",
+	  "size": "942",
+	  "md5": "004f5ffcfa1529f18e81cc68b2ee4861",
+	  "crc32": "9938e9e2",
+	  "sha1": "3b57b17855d4570ee04af5db95dd7de60c53b425"
+	},
+	"\/bardemo.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391749071",
+	  "size": "93531",
+	  "md5": "11b0f43f9f7b04d97616d0f708aa8631",
+	  "crc32": "b9082633",
+	  "sha1": "335f987527abfb0eaa377f1c04c8941aea144a75"
+	},
+	"\/bardemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bardemo.PNG",
+	  "mtime": "1391749084",
+	  "size": "3774",
+	  "md5": "4d201ab04182ad9a58c3edc4f174c62a",
+	  "crc32": "1e6ef098",
+	  "sha1": "0a37c4b7fe45633e21166efc895ce68985fd13d7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/21\/items\/BARDEMO\/bardemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 240,
+	"week": 5,
+	"month": 10
+  }
+}

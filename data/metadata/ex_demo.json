@@ -1,0 +1,117 @@
+{
+  "server": "ia600502.us.archive.org",
+  "dir": "/11/items/ex_demo",
+  "metadata": {
+	"identifier": [
+	  "ex_demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Tempest Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Raiders from the future have travelled back in time to steal the mythic sword of Excalibur, and your role, as Merlin's apprentice, is to recover the artifact. Into the future you go, with only limited spell-casting abilities and your only weapon a sword. You land in the city of Salto, and as you make your way through the various levels that you encounter, you find there's only one way to make it out alive, and that's to strike down anything that crosses your path. Of course, you could talk your way out of danger, but there's no time for that. Excalibur 2555 A.D. has an advanced 3D graphics engine that makes the virtual world of Salto and its inhabitants quite realistic, especially in 16-bit color. Although it's not required, it is suggested that you download and install the Glide Runtime Libraries if you have a 3Dfx-capable graphics card.<\/div>"
+	],
+	"publisher": [
+	  "Sir-tech Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Excalibur 2555 AD Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-26 21:19:36"
+	],
+	"addeddate": [
+	  "2014-01-26 21:19:36"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233729[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/ex_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390771191",
+	  "size": "5104640",
+	  "md5": "1fa9e302a142d648d3990ffe8e329ef2",
+	  "crc32": "29ea5559",
+	  "sha1": "393b300f862828cc7608504e135e328f5d07a484"
+	},
+	"\/ex_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390771175",
+	  "size": "12732",
+	  "md5": "a0ad7bcfb8fa1b06296322a4e8cf48cb",
+	  "crc32": "06a847a4",
+	  "sha1": "a77e49842fd5e3e24ae13fdfaa55e1a69045d680",
+	  "rotation": "0"
+	},
+	"\/ex_demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3e74f2f46736bcdff73e4571cf5c7707"
+	},
+	"\/ex_demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390771197",
+	  "size": "14336",
+	  "md5": "1c42a23346634c2ba0684829ee82494f",
+	  "crc32": "1da0f994",
+	  "sha1": "a0256b15c5ff372803d33abb0ffc5cf1db04a857"
+	},
+	"\/ex_demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473816667",
+	  "size": "1723",
+	  "md5": "c01eab1050554d1790b8fc4bcbcb4972",
+	  "crc32": "8cc2f494",
+	  "sha1": "79c638b1fcf2b73e4eaed84d9da62ca4df716861"
+	},
+	"\/ex_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ex_demo.jpg",
+	  "mtime": "1390771217",
+	  "size": "4316",
+	  "md5": "f433d34e8667e449a30ac80093649a98",
+	  "crc32": "3d67a85c",
+	  "sha1": "07ba8297b208185617a7ae2faaf662599fb52b20"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600502.us.archive.org\/11\/items\/ex_demo\/ex_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 591,
+	"week": 12,
+	"month": 27
+  }
+}

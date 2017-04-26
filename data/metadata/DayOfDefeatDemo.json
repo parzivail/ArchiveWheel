@@ -1,0 +1,121 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/15/items/DayOfDefeatDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Day of Defeat Demo"
+	],
+	"description": [
+	  "Day of Defeat is the latest online action experience from Valve, makers of Half-Life and Counter-Strike. Stationed in the heart of WWII's European Theater of Operations, players join the ranks of an elite military squad. Missions are based on key historical battles. And, as war rages, squads must battle as a unit to achieve victory."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Valve"
+	],
+	"identifier": [
+	  "DayOfDefeatDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 01:18:40"
+	],
+	"publicdate": [
+	  "2012-05-28 01:19:18"
+	],
+	"date": [
+	  "2003"
+	],
+	"year": [
+	  "2003"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/DOD_V30.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338167739",
+	  "size": "153591510",
+	  "md5": "b93adbb0ab85df3fddd81fbdde4d05ca",
+	  "crc32": "9ee75e51",
+	  "sha1": "68f0d6256e3de2cb887e5ae1048758dff1e5fc00"
+	},
+	"\/DOD_V30.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338167741",
+	  "size": "191356",
+	  "md5": "613021ef3c8eae25b346a99274a5704d",
+	  "crc32": "f241d3f8",
+	  "sha1": "532a662a16ad92a3c97aa10ccbbc8bfbad5e9477",
+	  "rotation": "0"
+	},
+	"\/DOD_V30_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "DOD_V30.jpg",
+	  "mtime": "1338167953",
+	  "size": "5243",
+	  "md5": "5467166c29135110c1cd314036f9cef8",
+	  "crc32": "00116d28",
+	  "sha1": "ecff1aac6c50131632df0c0aac4efbebe8190a55"
+	},
+	"\/DayOfDefeatDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8eeb3de54cecc7d2a6d3df5332fe6e35e301dc66",
+	  "mtime": "1464465236",
+	  "size": "13464",
+	  "md5": "31271d1dd77491e0ab7e5582b10274b4",
+	  "crc32": "2b409350",
+	  "sha1": "13d83c25fdc2cb5327982cc0090dec530e001af4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DayOfDefeatDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "19b7c738e905f1182b75657370624968"
+	},
+	"\/DayOfDefeatDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464465232",
+	  "size": "1083",
+	  "md5": "3ced021cf7d5f1fd985c7a030864049b",
+	  "crc32": "3978bd81",
+	  "sha1": "18f6c0c7b5e916f28b003253a6af4c2eb1864d06"
+	},
+	"\/dod_v20_.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1402706393",
+	  "size": "146923536",
+	  "md5": "83eb081ff6d805e1c64ab25fadc8df09",
+	  "crc32": "495326dc",
+	  "sha1": "59301db4f50f1d9bbbe5043b672f314154e132dd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/15\/items\/DayOfDefeatDemo\/DOD_V30_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4148,
+	"week": 29,
+	"month": 120
+  }
+}

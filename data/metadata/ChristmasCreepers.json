@@ -1,0 +1,185 @@
+{
+  "server": "ia800802.us.archive.org",
+  "dir": "/20/items/ChristmasCreepers",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Christmas Creepers Demo"
+	],
+	"description": [
+	  "\"You! Yeah you!\nAre you looking for an environmentally responsible alternative?\nA game that's super-friendly and ecologically sound?\nWell then, have we got a game for you...\n\nNOT!\n\nThe Creepers are on their way to their Butterfly Bowls but they can't make it alone. They need your intelligence and skills to get then there and only then can they spread their wings. So how can we help? With swatters, ramps, fans and magnets, you take them on a great adventure through over 100 wondrous lands of caverns, forests and factories. Can you save them from the bubbling tanks of boiling oil or from the hungry crows who swoop down to devour them on their fabulous journey?\n\nWho knows?\nBut the real question is, are you good enough to survive the challenge of the Creepers? \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Destiny Software Productions"
+	],
+	"identifier": [
+	  "ChristmasCreepers"
+	],
+	"addeddate": [
+	  "2012-07-25 06:11:24"
+	],
+	"publicdate": [
+	  "2012-07-25 06:11:48"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903904_5"
+	],
+	"emulator_start": [
+	  "XMAS\/CREEPERS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475213335",
+	  "size": "144038",
+	  "md5": "9b01e888569966fdd051841c6ae9ce99",
+	  "crc32": "d5700b14",
+	  "sha1": "c5b0cec2e5bef1b5f748e585d626de5f2583fa78",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475213360",
+	  "size": "5244",
+	  "md5": "c3b389aed114dd70d49da41bab2de30b",
+	  "crc32": "eead2d87",
+	  "sha1": "e4c04b0591f867d917664b6851e71716c33450ab"
+	},
+	"\/ChristmasCreepers.gif": {
+	  "source": "original",
+	  "mtime": "1475213341",
+	  "size": "11217",
+	  "md5": "3a299345e0697e73a0f458fc362728a4",
+	  "crc32": "cd8c85bf",
+	  "sha1": "f76bef9967c6386513cff54c205f01da2672fb6b",
+	  "format": "Animated GIF"
+	},
+	"\/ChristmasCreepers_archive.torrent": {
+	  "source": "original",
+	  "btih": "7c9f5fcb294ef48403809ac5c9cb2b9ebacc8e00",
+	  "mtime": "1475213363",
+	  "size": "3124",
+	  "md5": "2aaea910cb7a81a5f44c0817ebeabc94",
+	  "crc32": "160d9444",
+	  "sha1": "91dd2f5617d617db339bd7b42772ea5373b1da5a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ChristmasCreepers_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "106198285d6b727802d4c47056f8597f"
+	},
+	"\/ChristmasCreepers_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475213350",
+	  "size": "8192",
+	  "md5": "e69725e24fff1752d5283a41a50feeea",
+	  "crc32": "6b7c32eb",
+	  "sha1": "112c70515a9235273de495414ab80a00f641964a",
+	  "format": "Metadata"
+	},
+	"\/ChristmasCreepers_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471131250",
+	  "size": "1625",
+	  "md5": "5a6a6c4fa2d55d8f058bdcdf0534bdd1",
+	  "crc32": "89396610",
+	  "sha1": "d5d4a89e66da667e328b81e274a784cbe21d780f"
+	},
+	"\/creepers.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1343196657",
+	  "size": "435007",
+	  "md5": "54c6e0d8597c977e5f35a183555f7335",
+	  "crc32": "fd73c1b0",
+	  "sha1": "dd8eaa2f583a4836f83c3b76e3615db106ba582f"
+	},
+	"\/creepers_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475213344",
+	  "size": "38401",
+	  "md5": "fcc20752d063b74919184226a75d74ea",
+	  "crc32": "942fca4e",
+	  "sha1": "0a4f0db732bb5e4653ec859d3f54ffd4f5f126ad",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_379.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343196663",
+	  "size": "17002",
+	  "md5": "4114de3d09d683e95200cc1a4781a878",
+	  "crc32": "73da5513",
+	  "sha1": "69643ff562ec42f138180ec50cca5ad75acfdfdf",
+	  "rotation": "0"
+	},
+	"\/resource_item_379_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_379.jpg",
+	  "mtime": "1343196702",
+	  "size": "5576",
+	  "md5": "3e3b82451a7898cc260e0a507427bfdd",
+	  "crc32": "34620b53",
+	  "sha1": "33dc453ae2b075a00823ae1c17fe7ace0e6a9315"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475213338",
+	  "size": "144038",
+	  "md5": "9b01e888569966fdd051841c6ae9ce99",
+	  "crc32": "d5700b14",
+	  "sha1": "c5b0cec2e5bef1b5f748e585d626de5f2583fa78",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475213361",
+	  "size": "5244",
+	  "md5": "c3b389aed114dd70d49da41bab2de30b",
+	  "crc32": "eead2d87",
+	  "sha1": "e4c04b0591f867d917664b6851e71716c33450ab"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800802.us.archive.org\/20\/items\/ChristmasCreepers\/ChristmasCreepers.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 138,
+	"week": 2,
+	"month": 5
+  }
+}

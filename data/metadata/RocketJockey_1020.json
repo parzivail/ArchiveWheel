@@ -1,0 +1,130 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/7/items/RocketJockey_1020",
+  "metadata": {
+	"identifier": [
+	  "RocketJockey_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rocket Science Games"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "It's you basic boy-meets-rocket, boy-loses-rocket, boy gets dragged-along-the-ground-and-crushed-against-wall story."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "SegaSoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Rocket Jockey Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 17:31:19"
+	],
+	"addeddate": [
+	  "2012-09-04 17:31:19"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/RJ_DEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346780159",
+	  "size": "29001197",
+	  "md5": "d7137c51dd4728719182aaaf3f0722cf",
+	  "crc32": "03b75109",
+	  "sha1": "056c82103c5c92cf9a569851d8e986069b1cfb85"
+	},
+	"\/RJ_DEMO.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780159",
+	  "size": "832",
+	  "md5": "ac5f1b49211a11ec677b367a9d2807a2",
+	  "crc32": "8f72a2a8",
+	  "sha1": "181e0a60a65e84dd948039e3c5223877588dda9c"
+	},
+	"\/RocketJockey_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d9a589daa412f010c44fa1e81e8d458de2496c00",
+	  "mtime": "1465792413",
+	  "size": "2966",
+	  "md5": "fea1f6d5f33f17e849612d646a041abb",
+	  "crc32": "177051a7",
+	  "sha1": "f001a0de3c1e4c1d67fca5435b12f7b210207794",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RocketJockey_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b68bf6b3d2483492746ee14da2b544b3"
+	},
+	"\/RocketJockey_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465792412",
+	  "size": "880",
+	  "md5": "b2fb14c9558dd4c3c2322a29bd9fba30",
+	  "crc32": "3c5cce47",
+	  "sha1": "69b639eb85ca60b14ae4711b4c403febc23baa83"
+	},
+	"\/resource_item_2317.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346780161",
+	  "size": "14190",
+	  "md5": "64bb46214c70c9b3fc49c76be9fb67b4",
+	  "crc32": "20eb75af",
+	  "sha1": "eeaaf68afac033361fbc6ec5c1204c5ac6125250",
+	  "rotation": "0"
+	},
+	"\/resource_item_2317.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780161",
+	  "size": "272",
+	  "md5": "2a65319ff7a8fa0c6415beaa7eb1cc6b",
+	  "crc32": "8ef75031",
+	  "sha1": "2f0eae44b9c8a16f5f9a629d5646081ef922a000"
+	},
+	"\/resource_item_2317_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2317.jpg",
+	  "mtime": "1346817869",
+	  "size": "5155",
+	  "md5": "3bce649ab91583d83922a31f991160a4",
+	  "crc32": "481e8a36",
+	  "sha1": "e7d0aee666c69aa39f09d314f8815a7429a79760"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/7\/items\/RocketJockey_1020\/resource_item_2317_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 621,
+	"week": 7,
+	"month": 26
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "server": "ia902705.us.archive.org",
+  "dir": "/18/items/RON-xmas-2002-demo",
+  "metadata": {
+	"identifier": [
+	  "RON-xmas-2002-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Creed Malay"
+	],
+	"date": [
+	  "2002-12-23"
+	],
+	"description": [
+	  "Playable demo of a Christmas Reality-on-the-Norm game."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "RON Xmas 2002 [demo]"
+	],
+	"publicdate": [
+	  "2014-12-27 21:38:03"
+	],
+	"addeddate": [
+	  "2014-12-27 21:38:03"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20141227214338[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905908_30"
+	],
+	"collection": [
+	  "realityonthenorm",
+	  "classicpcgames",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "12"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/RON-xmas-2002-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2fd5ead99f5af767976488f9020824710b952a42",
+	  "mtime": "1490660785",
+	  "size": "2044",
+	  "md5": "c42111878849368f522927bf22721407",
+	  "crc32": "59cf3390",
+	  "sha1": "bb032000a4b86eec12a5e75caf612e55519c9958",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RON-xmas-2002-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4af3392409402531247ae6b12ee7b754"
+	},
+	"\/RON-xmas-2002-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1419716305",
+	  "size": "12288",
+	  "md5": "c4dc8f8c313a36b9618e14d061e5c004",
+	  "crc32": "36243186",
+	  "sha1": "7c691fdef29c4047ba252232af275af1b0a27729",
+	  "format": "Metadata"
+	},
+	"\/RON-xmas-2002-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490660784",
+	  "size": "1021",
+	  "format": "Metadata",
+	  "md5": "848536469c52bc1926edf6fcce83cec6",
+	  "crc32": "78683b6a",
+	  "sha1": "7446676f467c6a52f32ed921682858fae11fd3c7"
+	},
+	"\/xmas.png": {
+	  "source": "original",
+	  "mtime": "1419716300",
+	  "size": "19135",
+	  "md5": "1449104d834b292f7637c8e5619c9437",
+	  "crc32": "7f37732f",
+	  "sha1": "429f24f0b5fc93239218229dfd9ecade7c5158f8",
+	  "format": "PNG"
+	},
+	"\/xmas.zip": {
+	  "source": "original",
+	  "mtime": "1419716282",
+	  "size": "906406",
+	  "md5": "903cc8e9907249e2f1093b9e363bf0af",
+	  "crc32": "4d91a75a",
+	  "sha1": "f67c9846311142634f2e76abc8a1bff9af346046",
+	  "format": "ZIP"
+	},
+	"\/xmas_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "xmas.png",
+	  "mtime": "1419716626",
+	  "size": "4699",
+	  "md5": "8ae3fbce4210976070564480853314bc",
+	  "crc32": "c2393e8c",
+	  "sha1": "aea09496bc2caf88065f4f8a1c39ef9906be7c08"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902705.us.archive.org\/18\/items\/RON-xmas-2002-demo\/xmas_thumb.jpg",
+	"collection-title": "Reality-on-the-Norm "
+  },
+  "item": {
+	"downloads": 66,
+	"week": 2,
+	"month": 7
+  }
+}

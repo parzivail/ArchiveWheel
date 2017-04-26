@@ -1,0 +1,248 @@
+{
+  "server": "ia902307.us.archive.org",
+  "dir": "/3/items/SSHOCK",
+  "metadata": {
+	"identifier": [
+	  "SSHOCK"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Looking Glass Technologies"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "<div>You're a renowned hacker, the most notorious cyberspace thief in the corporate world. Caught during a risky break-in, you become indentured to Diego, a greedy Trioptium exec who bankrolls a rare cyberjack implant operation. After six months in a healing coma, you awaken to the twisted aftermath of a terrible disaster. Where are the surgeons? Why is the station in such disrepair? Slowly, the chilling realization that something is very wrong creeps over you.<\/div><div><br \/><\/div><div>Once a prime corporate research facility, Citadel now teems with mindless cyborgs, robots and terribly mutated beings, all programmed to serve SHODAN, a ruthless artificial intelligence. There's scarcely time to think before it unleashes the first terror ...<\/div>"
+	],
+	"publisher": [
+	  "ORIGIN Systems",
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "System Shock Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2014-08-15 20:52:42"
+	],
+	"addeddate": [
+	  "2014-08-15 20:52:42"
+	],
+	"emulator_start": [
+	  "SSHOCK\\SSDEMO\\SSHOCK.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905902_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475460476",
+	  "size": "163851",
+	  "md5": "589504e08af92bf77a7ae2b7efd35a85",
+	  "crc32": "8f94f9cd",
+	  "sha1": "34c61ecc548901de44ba8e36ef47ffbc2296f374",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475460512",
+	  "size": "5940",
+	  "md5": "0a4f3d7ece5a9bcd468811b5c6f82e19",
+	  "crc32": "4a1b7a72",
+	  "sha1": "c9ead346f718058117683edf59158c6714d88a4d"
+	},
+	"\/SSHOCK.gif": {
+	  "source": "original",
+	  "mtime": "1475460492",
+	  "size": "20185",
+	  "md5": "3181d6fcf737486ea006d695f352334a",
+	  "crc32": "f14581b9",
+	  "sha1": "e7c0e120398ee2b27c342056b177b28273ef5cec",
+	  "format": "Animated GIF"
+	},
+	"\/SSHOCK.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473380744",
+	  "size": "34952879",
+	  "md5": "8fa8d6787a5d8fd78ef4cc58a97dd5c4",
+	  "crc32": "7ca1cd6c",
+	  "sha1": "f4eb375c04dc774f0d8e03828b0e43789a4baabe"
+	},
+	"\/SSHOCK_archive.torrent": {
+	  "source": "original",
+	  "btih": "edb7966f92699eae7921ac4e905ed844bb821c01",
+	  "mtime": "1475835318",
+	  "size": "5373",
+	  "md5": "6c808b8a63bca535ab7ba3d0d607bf4e",
+	  "crc32": "4a6ef071",
+	  "sha1": "6d91ddffeea6f37db9f87c6cd1afda9646a4c5e7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SSHOCK_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0167abe4ef0d99758703642536017220"
+	},
+	"\/SSHOCK_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475460500",
+	  "size": "15360",
+	  "md5": "6ff51411c8388d9817603b2b7fc9272c",
+	  "crc32": "18603210",
+	  "sha1": "0caa424f72feac1aae079156b8378be1efd896a6"
+	},
+	"\/SSHOCK_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475835317",
+	  "size": "1639",
+	  "md5": "aaa16906539ce497c93df7081d8ab23a",
+	  "crc32": "88b2746b",
+	  "sha1": "25e972da4c011ec72d12a2ce8f7b53d5690e37c4"
+	},
+	"\/SSHOCK_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475460495",
+	  "size": "90686",
+	  "md5": "fc24443eef22717d8019ca26aa7aca10",
+	  "crc32": "0752bfa8",
+	  "sha1": "3f3735de56b83de28b19bf1b2c78c098961ea760",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475460478",
+	  "size": "138236",
+	  "md5": "054b806ac5190612df4803b9051f52e4",
+	  "crc32": "742a13be",
+	  "sha1": "04e7d04ca50fedde3c6197fdb48da2c7a63f8828",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475460513",
+	  "size": "5525",
+	  "md5": "a24d84de07b5ce9dac3fe74dfd0dc1a0",
+	  "crc32": "5c17f8bb",
+	  "sha1": "3881828f95a1cddfa806d19f07fcbfea03ed22b4"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475460481",
+	  "size": "138185",
+	  "md5": "51203a7c3e5700eb4a9606c6c62f5337",
+	  "crc32": "523eff15",
+	  "sha1": "717178a474f7b3a614421a4e3d7245af7fdbb0f7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475460514",
+	  "size": "5525",
+	  "md5": "f44bd951188f0ed56b8197cfa831db1c",
+	  "crc32": "20c83ffb",
+	  "sha1": "87c50357884b6171d512364a5f1d4c49fc9dbef9"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475460484",
+	  "size": "163832",
+	  "md5": "eb2894f74492285a6a38e6e17852646b",
+	  "crc32": "82960e14",
+	  "sha1": "f957873d94a0990641c4e6d95838bf5de195c382",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475460515",
+	  "size": "5938",
+	  "md5": "53f0653d8a17226e7ea77bb50ca73673",
+	  "crc32": "fa8e5300",
+	  "sha1": "2c239f66d356c182e128be6c9f09e69e5857c86a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475460489",
+	  "size": "163851",
+	  "md5": "589504e08af92bf77a7ae2b7efd35a85",
+	  "crc32": "8f94f9cd",
+	  "sha1": "34c61ecc548901de44ba8e36ef47ffbc2296f374",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475460517",
+	  "size": "5940",
+	  "md5": "0a4f3d7ece5a9bcd468811b5c6f82e19",
+	  "crc32": "4a1b7a72",
+	  "sha1": "c9ead346f718058117683edf59158c6714d88a4d"
+	},
+	"\/sshock.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1408135962",
+	  "size": "14371",
+	  "md5": "5a007acdba3cdca1d492db3d6b18e1e7",
+	  "crc32": "af1445e2",
+	  "sha1": "06214a32bf7139cf01020070119bb1240a98e748"
+	},
+	"\/sshock_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sshock.png",
+	  "mtime": "1408136030",
+	  "size": "4647",
+	  "md5": "942e4ec47e69d8b54e1895d8ba8f6e60",
+	  "crc32": "f4be49c2",
+	  "sha1": "5341e71f123e2d8e9c13b1ca625fc04217332aca"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902307.us.archive.org\/3\/items\/SSHOCK\/SSHOCK.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 268,
+	"week": 6,
+	"month": 9
+  }
+}

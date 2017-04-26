@@ -1,0 +1,417 @@
+{
+  "server": "ia801407.us.archive.org",
+  "dir": "/14/items/MarioTeachesTypingDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Mario Teaches Typing Demo"
+	],
+	"description": [
+	  "\"Let Mario Talk Your Fingers to Typing Fun! Learning to Type Doesn't Have to be Boring!\n\nYour favorite Nintendo hero, Mario, is the key to enjoying every minute of learning how to type. Innovative VActor technology brings Mario's \u00c3\u00a2\u00e2\u00ac\u00c5larger than life\u00c3\u00a2\u00e2\u00ac cartoon image and friendly voice to your computer screen. Mario will encourage and motivate you through three fun-filled lesson levels. He'll even help you track your progress and celebrate your achievements with an original Mario cartoon and a special completion certificate. His Nintendo pals, Luigi, and The Princess, will lend their helping hands too. It's a running, jumping, swimming and kicking adventure through the keyboard! \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "MarioTeachesTypingDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 06:45:32"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"publicdate": [
+	  "2012-07-05 06:46:10"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "mario.exe"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444850162",
+	  "size": "383546",
+	  "md5": "53241d66612ccee01d3c96a64ef83e46",
+	  "crc32": "21d30c8b",
+	  "sha1": "3ea73798e5895f573634b5b6ffc7c2b12c5ab99c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444850222",
+	  "size": "8062",
+	  "md5": "62e716e3ee7f84d586896e079d2bded1",
+	  "crc32": "8c12e8d8",
+	  "sha1": "bb58c7822bc6e4cb5ac71490a3f12a3f0d968b92"
+	},
+	"\/MARIOT.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432839247",
+	  "size": "978571",
+	  "md5": "4bb161dd77af95ce3acd9888f54c821e",
+	  "crc32": "f6fd55f9",
+	  "sha1": "4cd8b09a41623bb5a1e64ad2a5d5cdc48a912c8b"
+	},
+	"\/MarioTeachesTypingDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444850194",
+	  "size": "98431",
+	  "md5": "fcdb82c0aa0a1bb3518e89e3c18526c2",
+	  "crc32": "16461f6e",
+	  "sha1": "bc5347e15684ebfcf955224eb0e07aaed95a3b03",
+	  "format": "Animated GIF"
+	},
+	"\/MarioTeachesTypingDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "fd06911cefba2988011b001cf3d9aba625599530",
+	  "mtime": "1466009921",
+	  "size": "7442",
+	  "md5": "538e2c71cf7284e7fcdd37ad8aab3a3a",
+	  "crc32": "a6c7527f",
+	  "sha1": "63ba4271161c3db98f03721b3a043ae9ce4d90f7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MarioTeachesTypingDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4d8df827fdaf3132ea724a80887ed46c"
+	},
+	"\/MarioTeachesTypingDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444850215",
+	  "size": "15360",
+	  "format": "Metadata",
+	  "md5": "71f4cef2c6e995cbf9a1090d96741d82",
+	  "crc32": "e8a41265",
+	  "sha1": "6555f320a4858ad2518e9b846c345ba5a35e3f19"
+	},
+	"\/MarioTeachesTypingDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466009920",
+	  "size": "1580",
+	  "md5": "482f42c62384dff5f794443c3389a320",
+	  "crc32": "0629b2e7",
+	  "sha1": "b4e83414ef4a1d1f8bd4b2c754626f7ad26f1b9d"
+	},
+	"\/marioteachtype.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341470709",
+	  "size": "1128106",
+	  "md5": "5cf68f5e3a21e87fd7d8fda0b86ef003",
+	  "crc32": "fa50c49f",
+	  "sha1": "04516df7ab0be61a8807f374c8ae266452f94ee5"
+	},
+	"\/marioteachtype_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444850206",
+	  "size": "1017875",
+	  "md5": "1d007abc56d3664b5f380da49155c791",
+	  "crc32": "23e87489",
+	  "sha1": "1f44d322aa2cb3c6e8e2990c1a334838498241ed",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_163.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341470699",
+	  "size": "16385",
+	  "md5": "34f8f5b389061496b6bd867bcd444a84",
+	  "crc32": "0d6a0091",
+	  "sha1": "fdd429b479ec9f0a31ef74b7c54239db536d03c9",
+	  "rotation": "0"
+	},
+	"\/resource_item_163_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_163.jpg",
+	  "mtime": "1341470747",
+	  "size": "5086",
+	  "md5": "d26204d2593224417e12b2c4642cf8ae",
+	  "crc32": "366a3ba5",
+	  "sha1": "a4def19f1dc8599eb9ec77401a255708baf28766"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444850165",
+	  "size": "173708",
+	  "md5": "ea842a46143bbca453f003353e9239c8",
+	  "crc32": "bf2280a3",
+	  "sha1": "b0b25728058f3e4fc162c0e685ff86973dd01f4b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444850220",
+	  "size": "2187",
+	  "md5": "fd0df1e02b940bd5245cb366ae2f7aed",
+	  "crc32": "0aa2a8de",
+	  "sha1": "e88e8a8046608edb291f4a0e17a3786b028aedff"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444850167",
+	  "size": "360744",
+	  "md5": "a4f44088a7945c4ba654c7c645135379",
+	  "crc32": "5dbe8097",
+	  "sha1": "bfb85f07bbe77490e6c463eaf1586a06d0cc9093",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444850223",
+	  "size": "7413",
+	  "md5": "c72b251e795508815095469cd2381f75",
+	  "crc32": "2bce9761",
+	  "sha1": "0359646def93cecb12313a7c8e256a932ac813de"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444850170",
+	  "size": "370812",
+	  "md5": "e19f037c85b3468f2d20b6a44495b101",
+	  "crc32": "f859fe37",
+	  "sha1": "b555c807e8287520046f653178936c36bbabcea3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444850219",
+	  "size": "7670",
+	  "md5": "11547237adec4cb5be2888ae1e501d2a",
+	  "crc32": "2345b546",
+	  "sha1": "fae501b49300538b4e571dd5de9a8086d39e1e3c"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444850172",
+	  "size": "375798",
+	  "md5": "fe22504cfcf6e74a6071462abdc062f7",
+	  "crc32": "c399ebee",
+	  "sha1": "41c359bd2f96725a349e4373154083915b419fcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444850221",
+	  "size": "7798",
+	  "md5": "12269fdb085a1c1b2095d05b66a50e90",
+	  "crc32": "b2a0e53d",
+	  "sha1": "dbae5e15392bb3a9247fad3a74eee941e514b20a"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444850174",
+	  "size": "383546",
+	  "md5": "53241d66612ccee01d3c96a64ef83e46",
+	  "crc32": "21d30c8b",
+	  "sha1": "3ea73798e5895f573634b5b6ffc7c2b12c5ab99c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444850222",
+	  "size": "8062",
+	  "md5": "62e716e3ee7f84d586896e079d2bded1",
+	  "crc32": "8c12e8d8",
+	  "sha1": "bb58c7822bc6e4cb5ac71490a3f12a3f0d968b92"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444850177",
+	  "size": "1161",
+	  "md5": "9f207205471b4d2ce3579c9909f69f9d",
+	  "crc32": "66e52dd4",
+	  "sha1": "6a64f266f114156ebf17d4adb037c4ffb1037a1a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444850224",
+	  "size": "602",
+	  "md5": "aa078176c6e19857468da5fb2ae33c5f",
+	  "crc32": "ca016ef2",
+	  "sha1": "38908775e712a70ddf78bf9696cce34655a0717b"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444850179",
+	  "size": "280917",
+	  "md5": "06a5d42e5367eafb132e9becac39de99",
+	  "crc32": "13984cf5",
+	  "sha1": "7148a62eabaf98709889df32e0f306259ec2e4cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444850229",
+	  "size": "6244",
+	  "md5": "02dd8bb275f9de2b5ed0ea552440ac15",
+	  "crc32": "7c89ca70",
+	  "sha1": "31c49d72529d8279a7657d685e78ff1eee0a3ea3"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444850181",
+	  "size": "281483",
+	  "md5": "419f6977e7061217a098934ef0957423",
+	  "crc32": "3d35ca3f",
+	  "sha1": "1e2c23f59fbbe35e5c0482d12f6ff402d15d0bd7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444850226",
+	  "size": "6288",
+	  "md5": "f96ad2f1bdd79449cd8281010cc40e66",
+	  "crc32": "a45bb7ea",
+	  "sha1": "61ee0f540ba805524120bd0050dbdc8f4421702b"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444850184",
+	  "size": "275743",
+	  "md5": "2ee2b5a42f1949b86e7d2866709f20c8",
+	  "crc32": "bc454586",
+	  "sha1": "db80acf14a9b53a153c63c87b2860575b8169d0b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444850230",
+	  "size": "5810",
+	  "md5": "a3258881f02788f38d81cf5e68b7a354",
+	  "crc32": "d41579a0",
+	  "sha1": "39508992972cb8e66ac3ff3fc38222cc1f850514"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444850186",
+	  "size": "368018",
+	  "md5": "9037e72aab60772618637480630d9510",
+	  "crc32": "fc2b5f56",
+	  "sha1": "f4a953e116719b6c5153b5c7aca882c70681c809",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444850225",
+	  "size": "4657",
+	  "md5": "42f3e9c2df500056d33b2aaba6bf7051",
+	  "crc32": "3c7f3a40",
+	  "sha1": "398627aaa3250ffb2c8f02ef2bc837782f7b04b5"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1444850189",
+	  "size": "374666",
+	  "md5": "086b483a5caadda66f113936b13d06a0",
+	  "crc32": "d53d80dd",
+	  "sha1": "4c2e90a1a6eb9e6ee545a705cb0fc839ff51b6d2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1444850227",
+	  "size": "5272",
+	  "md5": "4f3414bd863d31c3f6d9b31c91536a4c",
+	  "crc32": "bbbc6385",
+	  "sha1": "2598f60636bbc984a6a5f164abab89556464ac30"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1444850191",
+	  "size": "380346",
+	  "md5": "c12ced16f814e448ce3475f5aac7f6e0",
+	  "crc32": "6c3a51e2",
+	  "sha1": "1d94f5f7509fc282a92fdd3e6bfdc4b6e30ba70f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1444850228",
+	  "size": "5559",
+	  "md5": "c405745d57819a87547d3878b784f17c",
+	  "crc32": "4fda99ba",
+	  "sha1": "dd0519350017cb8575896443dd16c1ba435828a8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia801407.us.archive.org\/14\/items\/MarioTeachesTypingDemo\/MarioTeachesTypingDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3661,
+	"week": 40,
+	"month": 141
+  }
+}

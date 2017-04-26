@@ -1,0 +1,197 @@
+{
+  "server": "ia902600.us.archive.org",
+  "dir": "/27/items/SonicX-treme",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "SonicX-treme"
+	],
+	"description": [
+	  "Demo from an unfinished Sonic clone.  Includes a level editor"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"identifier": [
+	  "SonicX-treme"
+	],
+	"addeddate": [
+	  "2013-01-18 21:47:51"
+	],
+	"publicdate": [
+	  "2013-01-18 21:48:03"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"license": [
+	  "freeware"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia905605_3"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "sonicxv9\/sonicXws.bat"
+	],
+	"creator": [
+	  ""
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475483821",
+	  "size": "320917",
+	  "md5": "dbec8ffd0ddda900ddda50fdceff1ad9",
+	  "crc32": "06e7838d",
+	  "sha1": "8231249627ed1ee5f3e21c3e5653fa43efb34009",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475483847",
+	  "size": "7426",
+	  "md5": "e63774c7089cc3c8926b4643f2ae2d99",
+	  "crc32": "bbb7963c",
+	  "sha1": "9a7a63ff8a598851062e875297fa2a30987b1539"
+	},
+	"\/SonicX-treme.gif": {
+	  "source": "original",
+	  "mtime": "1475483828",
+	  "size": "45129",
+	  "md5": "cc4836ea8793b60d4b251dab33ca48cb",
+	  "crc32": "a1dfbd06",
+	  "sha1": "9ad30899f28a15882d0be2fe95f318d798a59fec",
+	  "format": "Animated GIF"
+	},
+	"\/SonicX-treme_archive.torrent": {
+	  "source": "original",
+	  "btih": "5a1f72942bf624926239c5b1b39cadfb6f521783",
+	  "mtime": "1475483853",
+	  "size": "3292",
+	  "md5": "186fca60219572b1954649e9fcfd775a",
+	  "crc32": "101657c2",
+	  "sha1": "1544a1d7ffa00a4ad2876e6e49a9783a269414bc",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SonicX-treme_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "576c11b927b48f7e54176bee0bcf0d91"
+	},
+	"\/SonicX-treme_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475483836",
+	  "size": "9216",
+	  "md5": "b5cb89886a5d877e57248adf49913281",
+	  "crc32": "4cbca2ba",
+	  "sha1": "1cb1b8d629d9df7345281d86b10aa272e2ab90f4",
+	  "format": "Metadata"
+	},
+	"\/SonicX-treme_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473486032",
+	  "size": "899",
+	  "md5": "97c46c7716528287735a600a5bd97826",
+	  "crc32": "86d56c37",
+	  "sha1": "3af66ee28112500a924cec1e27a229b87c3eb51c"
+	},
+	"\/Sonicxv9.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1358545611",
+	  "size": "7410",
+	  "md5": "31ca5e9adad23b88cbd35a65a3ba82e6",
+	  "crc32": "73614cd8",
+	  "sha1": "930b5ceb30be3ec91a3f83e74e84461700cf42c8"
+	},
+	"\/Sonicxv9.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1358545620",
+	  "size": "1666595",
+	  "md5": "bc1f3763de5bd9b3cd1e8420643d18b9",
+	  "crc32": "1768cfcd",
+	  "sha1": "024dd857963330335fba76d85f886b842acd9732"
+	},
+	"\/Sonicxv9_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475483833",
+	  "size": "119814",
+	  "md5": "b25f665246d5a7e6c719b313afdf6236",
+	  "crc32": "4ba6ea77",
+	  "sha1": "50ee33d0405c4f404991d36511cb40c970aa40a3",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475483823",
+	  "size": "3288",
+	  "md5": "75b5d6df27ecf091bae2b5c051ee8f66",
+	  "crc32": "b18a20ee",
+	  "sha1": "31864494d3b7640564d408ebe24ab9ba21a841eb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475483848",
+	  "size": "1012",
+	  "md5": "ae48cbc9ca8bc1a89bea6d69c4fdfbc7",
+	  "crc32": "b803bc89",
+	  "sha1": "3a60f34e6547aeb70422af18a623a3308e803c5b"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475483825",
+	  "size": "320917",
+	  "md5": "dbec8ffd0ddda900ddda50fdceff1ad9",
+	  "crc32": "06e7838d",
+	  "sha1": "8231249627ed1ee5f3e21c3e5653fa43efb34009",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475483849",
+	  "size": "7426",
+	  "md5": "e63774c7089cc3c8926b4643f2ae2d99",
+	  "crc32": "bbb7963c",
+	  "sha1": "9a7a63ff8a598851062e875297fa2a30987b1539"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902600.us.archive.org\/27\/items\/SonicX-treme\/Sonicxv9.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 479,
+	"week": 3,
+	"month": 14
+  }
+}

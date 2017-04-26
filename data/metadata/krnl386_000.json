@@ -1,0 +1,129 @@
+{
+  "server": "ia601905.us.archive.org",
+  "dir": "/18/items/krnl386_000",
+  "metadata": {
+	"identifier": [
+	  "krnl386_000"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Microsoft"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "An interactive demo of Windows 95 which was included with PC magazines prior to the OS release."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows extras"
+	],
+	"title": [
+	  "Windows 95 Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-10-23 04:34:14"
+	],
+	"addeddate": [
+	  "2016-10-23 04:34:14"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "d:\\runapp W95DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	],
+	"backup_location": [
+	  "ia906209_13"
+	]
+  },
+  "files": {
+	"\/W95DEMO.zip": {
+	  "source": "original",
+	  "mtime": "1477197265",
+	  "size": "1533111",
+	  "md5": "7db14613ce5d386a90bc60f0a5feb7c7",
+	  "crc32": "7447c1db",
+	  "sha1": "ce9a60257f0a663d90250c7ba6f5aab905940cf9",
+	  "format": "ZIP"
+	},
+	"\/krnl386_000.png": {
+	  "source": "original",
+	  "mtime": "1477197253",
+	  "size": "59800",
+	  "md5": "5abcc76f512c9e0422dde62a562dabdb",
+	  "crc32": "b1e816d4",
+	  "sha1": "e07165ed1838ae52b3daaed1f0543f770c1c5568",
+	  "format": "PNG"
+	},
+	"\/krnl386_000_archive.torrent": {
+	  "source": "original",
+	  "btih": "b17b50055abd43b2f7891c0e689f5f8bbecc853a",
+	  "mtime": "1484392465",
+	  "size": "2040",
+	  "md5": "19b096c7dc49525e1fc0bc8dc1eb1a1c",
+	  "crc32": "5d9b42ba",
+	  "sha1": "d8cec8e359eb5e6ed2c926d533446617c180ffa1",
+	  "format": "Archive BitTorrent"
+	},
+	"\/krnl386_000_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "248d85c051ec441cc55081e934210f8c"
+	},
+	"\/krnl386_000_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1477197269",
+	  "size": "10240",
+	  "md5": "3f40ab150f0d42531a52768bac00981f",
+	  "crc32": "6d3089bb",
+	  "sha1": "21a7fe94eb0056fc129da079d9205c866f0463b5",
+	  "format": "Metadata"
+	},
+	"\/krnl386_000_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484392464",
+	  "size": "865",
+	  "format": "Metadata",
+	  "md5": "e7a6cd8f2350e53167685fadb27331dc",
+	  "crc32": "a4ca59a9",
+	  "sha1": "129f3ba2d6bf3561d82871c38e2e6f8e9a3f3257"
+	},
+	"\/krnl386_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "krnl386_000.png",
+	  "mtime": "1477197281",
+	  "size": "5585",
+	  "md5": "94f12e0cbf7ea88248e93720a0c6743f",
+	  "crc32": "b53bca55",
+	  "sha1": "b7ba89077f282f9d6b0495a97efebae34e07faa5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601905.us.archive.org\/18\/items\/krnl386_000\/krnl386_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 297,
+	"week": 29,
+	"month": 89
+  }
+}

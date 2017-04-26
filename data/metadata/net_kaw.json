@@ -1,0 +1,436 @@
+{
+  "server": "ia601308.us.archive.org",
+  "dir": "/11/items/net_kaw",
+  "metadata": {
+	"identifier": [
+	  "net_kaw"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Interscan"
+	],
+	"date": [
+	  "1992"
+	],
+	"description": [
+	  "<div>If you like turn-based strategy games, then Kingdom At War is for you - a strategy game set in a world of swords and sorcery. Up to six players can compete against each other or the computer to take control of the kingdom, raising mighty armies to capture towns and lay waste their opponents' castles.<\/div><div><br \/><\/div><div>There are taxes to be gathered, fortifications to build, and tourneys to hold - attracting the best warriors to your banner.<\/div><div><br \/><\/div><div>With each town conquered comes more gold to create elite armies or build siege engines. You must be a master of both strategy and tactics to win control of new lands and maintain those already captured.<\/div>"
+	],
+	"publisher": [
+	  "Manaccom"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Kingdom at War Demo"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2015-06-25 21:16:54"
+	],
+	"addeddate": [
+	  "2015-06-25 21:16:54"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "kawdemo.exe"
+	],
+	"backup_location": [
+	  "ia905307_15"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444825846",
+	  "size": "231236",
+	  "md5": "26b21728ea805133077d5e6b93aabcd9",
+	  "crc32": "9b5f5c80",
+	  "sha1": "bdf32049ced32caca06a6ad0092af45413cab056",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444825906",
+	  "size": "3586",
+	  "md5": "3000829cd19772ced45acc2005ba116f",
+	  "crc32": "570f66e7",
+	  "sha1": "96a2a3cec18f2c29937c3d6b692279f731696dd6"
+	},
+	"\/_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444825885",
+	  "size": "498218",
+	  "md5": "d653eb7617c142faff6550f87b6f334a",
+	  "crc32": "eee1ffad",
+	  "sha1": "ede02c4e615126901414bbcc7e876e866bed460d",
+	  "format": "Emulator Screenshot"
+	},
+	"\/kaw.play": {
+	  "source": "original",
+	  "mtime": "1435267027",
+	  "size": "1390700",
+	  "md5": "53a688bd19035bce2463beec815f7b69",
+	  "crc32": "f6c3894f",
+	  "sha1": "b349513fd0d2416afa21366b14fd23bb636436f0",
+	  "format": "Unknown"
+	},
+	"\/kawdemo_000.png": {
+	  "source": "original",
+	  "mtime": "1435267023",
+	  "size": "24200",
+	  "md5": "077cd6c2df4e45eaaf5456e5280b47aa",
+	  "crc32": "a97de091",
+	  "sha1": "be1bf8a95a892dc89017c0465ffa9382819cbca2",
+	  "format": "PNG"
+	},
+	"\/kawdemo_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "kawdemo_000.png",
+	  "mtime": "1435267041",
+	  "size": "5772",
+	  "md5": "2f75d82fee0c9fa1532155717c1d8cfd",
+	  "crc32": "742f8137",
+	  "sha1": "1cf68548bb151a659ebbf8cc3108b28acd43582e"
+	},
+	"\/net_kaw.exe": {
+	  "source": "original",
+	  "mtime": "1435267013",
+	  "size": "1404366",
+	  "md5": "804b492f160d07f4abcf078a66a21faf",
+	  "crc32": "6ff2fe7d",
+	  "sha1": "75dcce142c3520d5147adabe75fa2633cf12c3df",
+	  "format": "Windows Executable"
+	},
+	"\/net_kaw.gif": {
+	  "source": "original",
+	  "mtime": "1444825880",
+	  "size": "84106",
+	  "md5": "3d64141808daf72fa0a82358da42d895",
+	  "crc32": "7502e91e",
+	  "sha1": "0a5d5cc3cf2dd39b4757b36c4f73ae84259de316",
+	  "format": "Animated GIF"
+	},
+	"\/net_kaw_archive.torrent": {
+	  "source": "original",
+	  "btih": "aa373bd1f75898a488e94fc09dc7a417170f54cb",
+	  "mtime": "1484088142",
+	  "size": "7492",
+	  "md5": "3a06ef28b510aa0fa31c206f45378966",
+	  "crc32": "db6435e6",
+	  "sha1": "0b0e4795fcfc3cfd06da8fd6c38678d47335f3e9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/net_kaw_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8ccc475142d3961354723f40a01ef66c"
+	},
+	"\/net_kaw_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444825892",
+	  "size": "22528",
+	  "format": "Metadata",
+	  "md5": "a63b39d451686fb1e98a17f5a6f02a4d",
+	  "crc32": "f4fbdfa7",
+	  "sha1": "fb929a2ad73d7389217dd24d608a4ac53d265322"
+	},
+	"\/net_kaw_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484088140",
+	  "size": "1535",
+	  "format": "Metadata",
+	  "md5": "e18ef8f2d27418e4520ccb6616b012e2",
+	  "crc32": "8eee741c",
+	  "sha1": "717a27e3b2130ca8a1d4df04b73fc3b9bd208eec"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444825849",
+	  "size": "12845",
+	  "md5": "235a3ee9348afe235d93c57e46e52173",
+	  "crc32": "35ebbd3e",
+	  "sha1": "ba8beac4dccaa580c3db535e9fdf1343b86dd3b9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444825903",
+	  "size": "1520",
+	  "md5": "77d88d030feb7c3a5280f44da686d2d5",
+	  "crc32": "a7ebc994",
+	  "sha1": "73297e99d1ec7cd977dcee0836a015ded89b307d"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444825851",
+	  "size": "12946",
+	  "md5": "4f8a1f0d054452cc0a6d2ddf4691714e",
+	  "crc32": "0f263ff7",
+	  "sha1": "e7cfe03ba203d5e2ef7f841252254eaf1819e400",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444825904",
+	  "size": "1525",
+	  "md5": "94a27930ca7ef638c21c38e7190c3c2b",
+	  "crc32": "f19090e6",
+	  "sha1": "ba430f985872c23d3028670498e8e94492783f01"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444825853",
+	  "size": "1930",
+	  "md5": "f993cba607e53ca47be48776ee5859e6",
+	  "crc32": "be57602d",
+	  "sha1": "fa91c9bfa4d597580985e8d13728a090cd791033",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444825905",
+	  "size": "886",
+	  "md5": "b4e0e321728b340a69a8a67917d5314b",
+	  "crc32": "6943d14f",
+	  "sha1": "009efcd4282e891f417e5a9cb25820513437f381"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444825856",
+	  "size": "137858",
+	  "md5": "ca341ba489dc00bdf6673ab6efadd505",
+	  "crc32": "91db26cd",
+	  "sha1": "4cd14c2a696fd4c1bee0d86db6ab68afa97b4d0f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444825906",
+	  "size": "2487",
+	  "md5": "79ea2acbc151cfe85dd583da08aa738d",
+	  "crc32": "097b35af",
+	  "sha1": "7721da36d2c2195c950d99c2b1dc849094a0e903"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444825859",
+	  "size": "229274",
+	  "md5": "3c267b046e3641a7a06346e971ac00dc",
+	  "crc32": "42e6bac1",
+	  "sha1": "75465db1445f33e4e3194dbd990ec49a22f7e946",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444825907",
+	  "size": "3583",
+	  "md5": "358185f4ea11c4e219a987ec1643d3fe",
+	  "crc32": "e48f3057",
+	  "sha1": "3e454e9d44e377c4ad7df92064e43af0efef1904"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444825861",
+	  "size": "231236",
+	  "md5": "26b21728ea805133077d5e6b93aabcd9",
+	  "crc32": "9b5f5c80",
+	  "sha1": "bdf32049ced32caca06a6ad0092af45413cab056",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444825908",
+	  "size": "3586",
+	  "md5": "3000829cd19772ced45acc2005ba116f",
+	  "crc32": "570f66e7",
+	  "sha1": "96a2a3cec18f2c29937c3d6b692279f731696dd6"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444825863",
+	  "size": "2096",
+	  "md5": "cba7d67f54650a94578cde724d5b9934",
+	  "crc32": "9355dd8d",
+	  "sha1": "033f3a8b44fe901b7b51a299cdd755c97509cb4e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444825909",
+	  "size": "886",
+	  "md5": "146c2c832c974e726423f8e0a2aeb82a",
+	  "crc32": "39ebe2c8",
+	  "sha1": "3e8540b4f1b789c052e0ec6ede7a73a397c6da7c"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444825865",
+	  "size": "173593",
+	  "md5": "011fa136f4f846886283a74c56acabf2",
+	  "crc32": "ed28f422",
+	  "sha1": "d0332038a064cf00fcc0a73181e48d0dd13943ef",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444825911",
+	  "size": "3532",
+	  "md5": "6afdfc4106cad4ebce7a0b437e14cc98",
+	  "crc32": "406e1751",
+	  "sha1": "ef3ec676105e7d82873697d0b4e722e991a17c73"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444825868",
+	  "size": "85433",
+	  "md5": "48fe4d632c2db701de088e09bf69327e",
+	  "crc32": "07c07e19",
+	  "sha1": "38d2d5afd509dc006ff0373de9610e9fd898b476",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444825914",
+	  "size": "3464",
+	  "md5": "6ed3ac6f71bf2292759f836fb8fdf8c2",
+	  "crc32": "e902538f",
+	  "sha1": "24fd933b0efb6ab47e547637248b562b02d128d8"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444825870",
+	  "size": "72666",
+	  "md5": "29dc862b7fb130d139f226d6162c9c0d",
+	  "crc32": "3683c947",
+	  "sha1": "32403d37f2e2b165d908fd443bcea8219f263bed",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444825910",
+	  "size": "2695",
+	  "md5": "c0bb733765c08cbfcfd55d73f8f3ab68",
+	  "crc32": "0a415677",
+	  "sha1": "c722447806bbb536065fe8c9dd8efc0c27bc2acf"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1444825872",
+	  "size": "77869",
+	  "md5": "5560e2ee9369e50efccc7a48f5f7c936",
+	  "crc32": "37251375",
+	  "sha1": "6467185f2e85e7400fa68f7b03d84122cc37d2ee",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1444825912",
+	  "size": "2868",
+	  "md5": "55f3901a8118f11d19d5aa7655fda383",
+	  "crc32": "39ff0012",
+	  "sha1": "bffc3b6f2ff5be8971055fcdde290dab4096b4c0"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1444825875",
+	  "size": "54706",
+	  "md5": "acc41b4fc67f643efa05e81d6a6a4fbb",
+	  "crc32": "682bf043",
+	  "sha1": "d54bfbabbedee8c0e21b7ce08f208a4a8bbbfae2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1444825914",
+	  "size": "1902",
+	  "md5": "c604fc7bddb1a4a1726f41d8c12f0778",
+	  "crc32": "7f4011f1",
+	  "sha1": "d82537efc588bd3abd3054efcceba6dc8281f7b5"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1444825877",
+	  "size": "145471",
+	  "md5": "7c7a0888499756782528070ee1626d6b",
+	  "crc32": "ed427d1a",
+	  "sha1": "0c864509f42b7eda791396daf003fde48a28aacb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1444825913",
+	  "size": "4799",
+	  "md5": "6a63ccaa1597655cc901d946bca3c846",
+	  "crc32": "5ba6061e",
+	  "sha1": "f2c753d8e5b35b67b56dc74fde7b21226b8156d2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601308.us.archive.org\/11\/items\/net_kaw\/net_kaw.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 111,
+	"week": 3,
+	"month": 7
+  }
+}

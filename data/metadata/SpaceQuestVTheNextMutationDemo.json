@@ -1,0 +1,208 @@
+{
+  "server": "ia600202.us.archive.org",
+  "dir": "/1/items/SpaceQuestVTheNextMutationDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Space Quest V: The Next Mutation Demo"
+	],
+	"description": [
+	  "Your mission! To scrub dirty floors. To replace burned out light bulbs. To clean out latrines. To boldly go where no man has swept the floor!\n\nRoger Wilco, the universe's favorite janitor, has bamboozled his way through the StarCon Space Academy and taken command of his own starship. Granted she's only a beat up garbage scow, but hey, it beats sleeping in the broom closet.\n\nAs he stumbles his way through space, Roger must deal with such minor inconveniences as a stone cold killer androidess out for blood, an acid-piddling baby face hugger, and a horde of mutants rampaging through the galaxy in a stolen spaceship. And then there's a primordial soup, a concoction heinous enough to make George Bush hurl in his sushi.\n\nAnd if that's not enough to clog your air-hose: Rog finally meets the woman from the holodisk in Space Quest IV. But our fearless hero has a high-ranking rival for her affections, the Commander of the Star Confederation's flagship, Captain Quirk.\n\nIt's up to Roger to save the universe from the mutant menace, thwart his nemesis Captain Quirk, and woo the woman of his dreams or he'll be - Gone with the Trash."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"identifier": [
+	  "SpaceQuestVTheNextMutationDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 07:04:44"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"publicdate": [
+	  "2012-07-05 07:05:29"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475489184",
+	  "size": "19111",
+	  "md5": "14253d56880b60dcae296251edd7f5c1",
+	  "crc32": "79e8dd9d",
+	  "sha1": "e97e4b441bec277d2729f603488a2b14180fae3c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475489214",
+	  "size": "1863",
+	  "md5": "c1989b287e5d2459e42dbb8feb9da20e",
+	  "crc32": "dd9573ae",
+	  "sha1": "690fd0139d12ac499db44bac75e41910bdaee268"
+	},
+	"\/SpaceQuestVTheNextMutationDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475489192",
+	  "size": "3656",
+	  "md5": "ec193f71fd44c5d6c3fd0088d6a29002",
+	  "crc32": "e4485f63",
+	  "sha1": "c6c7d825540f58ee2b137d647ee7474b04cae3a5",
+	  "format": "Animated GIF"
+	},
+	"\/SpaceQuestVTheNextMutationDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "577172b2d3313e7c8a79d5618bc999a21c84f6e7",
+	  "mtime": "1475489220",
+	  "size": "3615",
+	  "md5": "cc1925ad0c89c2ba602dece58b9782c4",
+	  "crc32": "542e1a27",
+	  "sha1": "df87de82ad2562ec38af1c533ff97c62d90e60d4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SpaceQuestVTheNextMutationDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2a5f249b4c1fab2100b7686ee8032090"
+	},
+	"\/SpaceQuestVTheNextMutationDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475489203",
+	  "size": "9216",
+	  "md5": "ac0a2f5b27d96c4c7c5888c982e38825",
+	  "crc32": "011173bc",
+	  "sha1": "88d413ea645420edd428edf88536a8a53499ed72",
+	  "format": "Metadata"
+	},
+	"\/SpaceQuestVTheNextMutationDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471823160",
+	  "size": "2033",
+	  "md5": "83d8e1822b136012d0a9e52a1d2dd120",
+	  "crc32": "c3299e0d",
+	  "sha1": "c008fb5a2804e3ef3bc8931b252081ca40d0ba76"
+	},
+	"\/resource_item_184.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341471861",
+	  "size": "21153",
+	  "md5": "b6d951b580b36131e2f357437842612b",
+	  "crc32": "1e5ce038",
+	  "sha1": "13bb6ea298d1d31d82f595c7ce861e3476003e85",
+	  "rotation": "0"
+	},
+	"\/resource_item_184_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_184.jpg",
+	  "mtime": "1341471895",
+	  "size": "6558",
+	  "md5": "e66d96de414912c23aceb1a2bed96c58",
+	  "crc32": "5f2e5988",
+	  "sha1": "cb1caba12cde40c64915d146f20bfa94e43b876a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475489186",
+	  "size": "19111",
+	  "md5": "14253d56880b60dcae296251edd7f5c1",
+	  "crc32": "79e8dd9d",
+	  "sha1": "e97e4b441bec277d2729f603488a2b14180fae3c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475489215",
+	  "size": "1863",
+	  "md5": "c1989b287e5d2459e42dbb8feb9da20e",
+	  "crc32": "dd9573ae",
+	  "sha1": "690fd0139d12ac499db44bac75e41910bdaee268"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475489189",
+	  "size": "19082",
+	  "md5": "b4098f1b8a9e6a9d384e3ee2415721d3",
+	  "crc32": "010a9720",
+	  "sha1": "b1e7daaec90cff750707d412cd6aaefa71cc3e30",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475489217",
+	  "size": "1848",
+	  "md5": "f80b9582b902bda935431b2bcea0da3f",
+	  "crc32": "063e6b6d",
+	  "sha1": "62331a51729b59625f724dc7c601332050eef9d0"
+	},
+	"\/sq5demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341471857",
+	  "size": "1058012",
+	  "md5": "2d5d2f9f07c3558b8b7b19ec59eed05a",
+	  "crc32": "dcf276e0",
+	  "sha1": "c5038712f15a8e41d1a2242f9cd87064540e0b34"
+	},
+	"\/sq5demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475489194",
+	  "size": "20831",
+	  "md5": "b281d9282b38a94aa962291521695705",
+	  "crc32": "81430206",
+	  "sha1": "63dbd51044860a6e6f9c91d6358ff6870dfefc4d",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600202.us.archive.org\/1\/items\/SpaceQuestVTheNextMutationDemo\/SpaceQuestVTheNextMutationDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 346,
+	"week": 4,
+	"month": 5
+  }
+}

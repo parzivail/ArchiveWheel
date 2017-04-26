@@ -1,0 +1,308 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/13/items/MicroMachinesDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Micro Machines Demo"
+	],
+	"description": [
+	  "\"Players enter the miniature world of MICRO MACHINES where races take place on breakfast tables, in bath tubs and even round the toilet! The MICRO MACHINES vehicles are loaded with turbo power and ready to race over a series of obstacle ridden courses. MICRO MACHINES is the most competitive racing video game ever devised.\n\nPlayed as a single-player game or two player head-to-head devastating challenge race. However it's played, MICRO MACHINES always pits the player against the other tough ensuring frenetic excitement all the way!!\n\nThe best 2-player racing game.....EVER!!!! AVAILABLE NOW!!\n\n\"\"Fun, fun, fun is guaranteed all the way\"\" PC ACTION\n\n\"\"A number one hit on the Mega Drive, looks set to do the same on PC. Certain to appeal\"\" PC GAMER \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Codemasters Software"
+	],
+	"identifier": [
+	  "MicroMachinesDemo"
+	],
+	"addeddate": [
+	  "2012-07-25 06:13:22"
+	],
+	"publicdate": [
+	  "2012-07-25 06:13:37"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Codemasters Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903904_5"
+	],
+	"emulator_start": [
+	  "MICRO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475370330",
+	  "size": "161760",
+	  "md5": "c2efe11134ecbef7ec0514d16abaa1e8",
+	  "crc32": "d6c2c916",
+	  "sha1": "36f93af571cb8118b48d04f6046c0a67bd7ce305",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475370375",
+	  "size": "5540",
+	  "md5": "7e2b5209a2f820fd2c6e680a80acc475",
+	  "crc32": "60a2d0d9",
+	  "sha1": "ae0280340114eafcd3509e96d36ee86d0d9fde32"
+	},
+	"\/MicroMachinesDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475370349",
+	  "size": "28127",
+	  "md5": "17344145012a449cd060d2bfd5dfec19",
+	  "crc32": "1af45860",
+	  "sha1": "5aa7b9819df9c5898ca924b8ca7c32b22d321b97",
+	  "format": "Animated GIF"
+	},
+	"\/MicroMachinesDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "bec3e8c7a5bf3c19c3dc5072f6f69cc850bb3101",
+	  "mtime": "1475370387",
+	  "size": "5246",
+	  "md5": "e5f74f0c339eb4f54c830c0ddd12c991",
+	  "crc32": "6941ee17",
+	  "sha1": "9a5286113a4f8b09b461b9c5df60b68c1c492512",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MicroMachinesDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6c43aa9718664fb23730da1b187dec8e"
+	},
+	"\/MicroMachinesDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475370360",
+	  "size": "11264",
+	  "md5": "a0b369ac9bef0e09b3fc5fdca1e1b0d6",
+	  "crc32": "7d0ecad0",
+	  "sha1": "ade3992a18df401ad2288e8f5903a5dce124e4d4",
+	  "format": "Metadata"
+	},
+	"\/MicroMachinesDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473470795",
+	  "size": "1636",
+	  "md5": "e1b55591d2e57ae23a2599e4e05b8c2f",
+	  "crc32": "90df807c",
+	  "sha1": "8eb2597bfcec25441ce8b6a1783db4d0068a9955"
+	},
+	"\/micro.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1343196780",
+	  "size": "290072",
+	  "md5": "7eb7ea7ca9ee076e361da94b6a72b62b",
+	  "crc32": "e1776ade",
+	  "sha1": "ce8b3790ef50fe9af480c7219bd3e1cb58666dcf"
+	},
+	"\/micro_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475370353",
+	  "size": "241874",
+	  "md5": "1f6a0d8ffab4b6c480df9c01cb6d1927",
+	  "crc32": "704e18c9",
+	  "sha1": "2529721394ed87334cacca32d32dfcaebcec8551",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_380.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343196766",
+	  "size": "18072",
+	  "md5": "d5f66e6fb9165d3f7928911869047aa0",
+	  "crc32": "d86ab462",
+	  "sha1": "ada72624cdd585aa62af76ccb84b33328696a8ce",
+	  "rotation": "0"
+	},
+	"\/resource_item_380_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_380.jpg",
+	  "mtime": "1343196811",
+	  "size": "4822",
+	  "md5": "bf3c561a244433f8d44f2d8db9cea6c8",
+	  "crc32": "b5ff4db8",
+	  "sha1": "78505b316047fb04f5f5c6dce9161757479d1bd0"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475370332",
+	  "size": "94929",
+	  "md5": "aa159cacaef6e17ba82e320ae606779b",
+	  "crc32": "9c91a112",
+	  "sha1": "739938a6b5a569fc86ff4679a8559b7c6ffdfd78",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475370372",
+	  "size": "4125",
+	  "md5": "06c94633798a14e834e9fc0bc08a35e0",
+	  "crc32": "e32892c2",
+	  "sha1": "08e0f76b58fb2ad4a6f4b332d40b413476fb0c4c"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475370334",
+	  "size": "143998",
+	  "md5": "15c0e1c856f2d4cf03504974e1dab8d2",
+	  "crc32": "84532ea2",
+	  "sha1": "2da0ca474762519929bf3c634e198c5924ea0aca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475370374",
+	  "size": "5485",
+	  "md5": "18ebec4cd3a7a0483c3a0d3bd2574885",
+	  "crc32": "c6d56868",
+	  "sha1": "97bb85b7b7445447530e035948c1e41c9a823731"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475370337",
+	  "size": "160779",
+	  "md5": "14c3d0be1494a7180a73ba42412a838d",
+	  "crc32": "036b1fdf",
+	  "sha1": "a96d1a7473e058eeb6b7e32332dc88945a41a6db",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475370377",
+	  "size": "5583",
+	  "md5": "720a4f8569bd34875352d69982e93431",
+	  "crc32": "7e145fa7",
+	  "sha1": "7fcd020e887e1bbf00f207b693c364db83dd0952"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475370339",
+	  "size": "153627",
+	  "md5": "2347d346adb93e98254bd325064ab9b3",
+	  "crc32": "c37fea34",
+	  "sha1": "6a492301044467b82a54cbbc0b1f62a889f0b716",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475370378",
+	  "size": "5653",
+	  "md5": "6a24a7a2f39c983913a71a3ce2dcb738",
+	  "crc32": "5b48855a",
+	  "sha1": "2df6a807433d5e356b11888922b24e01a21e6a88"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475370341",
+	  "size": "161760",
+	  "md5": "c2efe11134ecbef7ec0514d16abaa1e8",
+	  "crc32": "d6c2c916",
+	  "sha1": "36f93af571cb8118b48d04f6046c0a67bd7ce305",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475370382",
+	  "size": "5540",
+	  "md5": "7e2b5209a2f820fd2c6e680a80acc475",
+	  "crc32": "60a2d0d9",
+	  "sha1": "ae0280340114eafcd3509e96d36ee86d0d9fde32"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475370343",
+	  "size": "141913",
+	  "md5": "ca54bdfaeda2cdd1ae20baa1dfe73f0b",
+	  "crc32": "c6907ca9",
+	  "sha1": "82fd5676cdb89c0bc243468d4894b99aa57734c7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475370380",
+	  "size": "5647",
+	  "md5": "758fc64cf8e727a440706b21a64db95e",
+	  "crc32": "fbf16b59",
+	  "sha1": "6fd820d4f19e69625864a1bb6c5ff95cd231f0fc"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475370346",
+	  "size": "146417",
+	  "md5": "a661af410d37b03d5f6e0d96d9b2abab",
+	  "crc32": "0550b3af",
+	  "sha1": "85370dea43de0dca921fa429320b4791539207e2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475370381",
+	  "size": "5529",
+	  "md5": "16268745a4b521b5f8aef19e497e9d00",
+	  "crc32": "a7a243d1",
+	  "sha1": "3a093b49845bbe6e3a3d37aa25e5223acf26f480"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/13\/items\/MicroMachinesDemo\/MicroMachinesDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 174,
+	"week": 6,
+	"month": 11
+  }
+}

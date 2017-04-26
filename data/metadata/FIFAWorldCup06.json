@@ -1,0 +1,124 @@
+{
+  "server": "ia601006.us.archive.org",
+  "dir": "/34/items/FIFAWorldCup06",
+  "metadata": {
+	"identifier": [
+	  "FIFAWorldCup06"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "The PC demo for FIFA World Cup 2006 is now available to download. The demo lets you play England, USA, Mexico or Germany in the first half of a single player match ."
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "FIFA World Cup: Germany 2006 Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-04-01 04:34:56"
+	],
+	"addeddate": [
+	  "2014-04-01 04:34:56"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231634[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905806_5"
+	]
+  },
+  "files": {
+	"\/FIFA World Cup 06.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1396326895",
+	  "size": "360390144",
+	  "md5": "31ee5df8c26e2331c40c30d31eb210e3",
+	  "crc32": "55b111f9",
+	  "sha1": "f30ba6585e59b7c2bf46f9064b869588b622c0aa"
+	},
+	"\/FIFA World Cup 06.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1396326908",
+	  "size": "120090",
+	  "md5": "d34e7524a1255857d02eb112b01774f3",
+	  "crc32": "687ea871",
+	  "sha1": "5d2eba3644c6de3bf9433aa4863d4c5c47781502",
+	  "rotation": "0"
+	},
+	"\/FIFA World Cup 06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "FIFA World Cup 06.jpg",
+	  "mtime": "1396326938",
+	  "size": "5418",
+	  "md5": "1468f7b4b7481a2642498995ab97fc6d",
+	  "crc32": "2910c34d",
+	  "sha1": "bafd857abb5c83bb4df5efc9d1c15ff3eff682c2"
+	},
+	"\/FIFAWorldCup06_archive.torrent": {
+	  "source": "original",
+	  "btih": "82e3f34cd75161b0cfacceda80c6d4480a87ca2c",
+	  "mtime": "1474379367",
+	  "size": "15775",
+	  "md5": "bb8ff10c489877bf2e7d971a9763f015",
+	  "crc32": "59e3d3ea",
+	  "sha1": "908b724cd4b1a6156ce5318e6f05099fdfacdb97",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FIFAWorldCup06_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "66e83bb8d2687c6e14fdf41fa87ba206"
+	},
+	"\/FIFAWorldCup06_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1396326917",
+	  "size": "12288",
+	  "md5": "7256b308d311a05f3be2a23b6a092141",
+	  "crc32": "ad8a54ed",
+	  "sha1": "e64172360ef7314adb2f1717c97dfd4f522fd1ca"
+	},
+	"\/FIFAWorldCup06_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474379364",
+	  "size": "985",
+	  "md5": "057ec36230914e7d00d5b9eacefa4123",
+	  "crc32": "b8505944",
+	  "sha1": "a63049b7337603dbe80c94280ccb33451b9a3cc8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601006.us.archive.org\/34\/items\/FIFAWorldCup06\/FIFA%20World%20Cup%2006_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 967,
+	"week": 14,
+	"month": 48
+  }
+}

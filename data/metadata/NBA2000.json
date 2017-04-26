@@ -1,0 +1,117 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/22/items/NBA2000",
+  "metadata": {
+	"identifier": [
+	  "NBA2000"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "High Voltage Software"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "NBA Inside Drive is the most intense and exciting basketball you've ever played on a PC. You'll find all the speed, power, and energy of the NBA - but with one major difference: you're no longer a mere spectator. Drive to the hole, toss one from beyond the arc, give it up to the big guy in the paint, or take it coast to coast."
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "NBA Inside Drive 2000 Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-07 21:01:33"
+	],
+	"addeddate": [
+	  "2014-02-07 21:01:33"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233750[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_34"
+	]
+  },
+  "files": {
+	"\/NBA2000.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391806892",
+	  "size": "22238472",
+	  "md5": "cb03b964e66e52a8a1a89f3d8304d3d5",
+	  "crc32": "1e72e2e9",
+	  "sha1": "d818970375f6acf73370f94b01ba70318a5728c3"
+	},
+	"\/NBA2000_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3667e8bf2303b9d582970ebe958c9506"
+	},
+	"\/NBA2000_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391806912",
+	  "size": "14336",
+	  "md5": "09e178f26cc38d05f4c888c039e5427c",
+	  "crc32": "56393518",
+	  "sha1": "cac6e31e93bf03b0d44c8de89e62e3fcbfd9f647"
+	},
+	"\/NBA2000_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474052018",
+	  "size": "1179",
+	  "md5": "626e4aadc32b52d437528b2e2541a374",
+	  "crc32": "d853e379",
+	  "sha1": "55d856dc635c8a58a8944449f35b7dcc2527928d"
+	},
+	"\/nba2000.JPG": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1391806906",
+	  "size": "131346",
+	  "md5": "f8508dc90296ce4c5ed6d5d1e871058c",
+	  "crc32": "6529ee9d",
+	  "sha1": "caeaf8cb5078ed8886ec215eac9abaa629bed1a0",
+	  "rotation": "0"
+	},
+	"\/nba2000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "nba2000.JPG",
+	  "mtime": "1391806921",
+	  "size": "6308",
+	  "md5": "136c22b808f0fbf73f18ef486faa3956",
+	  "crc32": "6ec2816f",
+	  "sha1": "86e51a3be36cd2dd75fb17d92f666b637878b486"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/22\/items\/NBA2000\/nba2000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1108,
+	"week": 9,
+	"month": 23
+  }
+}

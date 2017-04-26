@@ -1,0 +1,113 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/26/items/OniDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Oni Demo"
+	],
+	"description": [
+	  "Oni is a third-person 3D action\/adventure that emphasizes hand-to-hand combat as well as gunplay. Inspired by anime classics like Ghost in the Shell and action thrillers like La Femme Nikita, you play Konoko, an elite agent on a quest to infiltrate and destroy a ruthless crime syndicate. You\u00e2ll fight through levels designed by architects, including a monstrous underground research facility and a towering 15-story police station."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Bungie Studios"
+	],
+	"identifier": [
+	  "OniDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 22:30:14"
+	],
+	"publicdate": [
+	  "2012-05-13 22:30:39"
+	],
+	"date": [
+	  "2001"
+	],
+	"year": [
+	  "2001"
+	],
+	"publisher": [
+	  "Gathering of Developers"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/OniDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336948189",
+	  "size": "75453440",
+	  "md5": "85474d7f5ecca088a6ff2736f7201109",
+	  "crc32": "ae39c049",
+	  "sha1": "ecf0fbe14d601a85db4cf31eb6f461e06b8ec6da",
+	  "title": "Oni Demo"
+	},
+	"\/OniDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336948190",
+	  "size": "28975",
+	  "md5": "e3eb592397dea601ddcdf6e1d9507225",
+	  "crc32": "afea6760",
+	  "sha1": "e30f62b1cf4e893a9386d4f3b6c442e1b532c41a",
+	  "rotation": "0"
+	},
+	"\/OniDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2f290d75d75d5967e4e05478336e0b0134a9d57c",
+	  "mtime": "1463861344",
+	  "size": "4625",
+	  "md5": "3cf22638f1e7cd3bf3262dea9d5610ad",
+	  "crc32": "aeb6a101",
+	  "sha1": "ca0a5caebc64bc8a2ddc22bcd0083efffadb2cc4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/OniDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "fa8e7fc7de996629aca9aa6dbff8c0a7"
+	},
+	"\/OniDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463861342",
+	  "size": "1187",
+	  "md5": "f513fb3ef0f3ef240d373dd7c5e5438d",
+	  "crc32": "bf76739c",
+	  "sha1": "06916646833d698800e3b6b55194cc20db728187"
+	},
+	"\/OniDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "OniDemo.jpg",
+	  "mtime": "1336948234",
+	  "size": "4553",
+	  "md5": "398cf1f795462c6f60fefcc1633e95ae",
+	  "crc32": "d8fbf6a6",
+	  "sha1": "bff57c4b24bd391c4a50ea481fd22ae0fc0a5b19"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/26\/items\/OniDemo\/OniDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 6148,
+	"week": 17,
+	"month": 98
+  }
+}

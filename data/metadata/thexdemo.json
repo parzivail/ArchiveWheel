@@ -1,0 +1,120 @@
+{
+  "server": "ia601405.us.archive.org",
+  "dir": "/30/items/thexdemo",
+  "metadata": {
+	"identifier": [
+	  "thexdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Synergistic Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "This is a remake of the original 1987 game."
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Thexder Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-11-03 19:48:20"
+	],
+	"addeddate": [
+	  "2014-11-03 19:48:20"
+	],
+	"backup_location": [
+	  "ia905906_10"
+	]
+  },
+  "files": {
+	"\/thexdemo.png": {
+	  "source": "original",
+	  "mtime": "1415044111",
+	  "size": "104002",
+	  "md5": "3993f651ec9fa75eb1eca3836d05f5a3",
+	  "crc32": "b9f5e8b4",
+	  "sha1": "e639354dc89d83a43475159c6ff67124855de3d3",
+	  "format": "PNG"
+	},
+	"\/thexdemo.zip": {
+	  "source": "original",
+	  "mtime": "1415044099",
+	  "size": "1444099",
+	  "md5": "2462c844977ceda686cc473ee31593b1",
+	  "crc32": "0f9e83da",
+	  "sha1": "4ce0014a14326f1e01d719bd0c044960ada6b997",
+	  "format": "ZIP"
+	},
+	"\/thexdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "97601e0fb00c828beb858deaa787ed9c0415445d",
+	  "mtime": "1474572545",
+	  "size": "1987",
+	  "md5": "e84116a0daace0615b08eef787e724cc",
+	  "crc32": "66b1cb24",
+	  "sha1": "030984fbf5c007bdd49e597cde8d32b855c70ac5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/thexdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "11c33fc071ca8881dc9104451da239b9"
+	},
+	"\/thexdemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1415044118",
+	  "size": "10240",
+	  "md5": "a73d3f1de34439e32a04d2e6a0563c80",
+	  "crc32": "246eee51",
+	  "sha1": "03cfba08efcc15d5af0404400b6227cada594d96",
+	  "format": "Metadata"
+	},
+	"\/thexdemo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1474572544",
+	  "size": "712",
+	  "format": "Metadata",
+	  "md5": "faed622fa0e84975f76c19d55da93a1c",
+	  "crc32": "0d3b61fa",
+	  "sha1": "8b622ea6e644602f94970672a7cbbb05660c5911"
+	},
+	"\/thexdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "thexdemo.png",
+	  "mtime": "1415044131",
+	  "size": "7332",
+	  "md5": "41e2aaa42610760f9c112fecf7f69ba2",
+	  "crc32": "1a58ee38",
+	  "sha1": "bba22db5e16ae4ffdd3f9f0b0a31f1cbf5b622e5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601405.us.archive.org\/30\/items\/thexdemo\/thexdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 194,
+	"week": 4,
+	"month": 9
+  }
+}

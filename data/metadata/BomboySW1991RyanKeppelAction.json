@@ -1,0 +1,183 @@
+{
+  "server": "ia601007.us.archive.org",
+  "dir": "/8/items/BomboySW1991RyanKeppelAction",
+  "metadata": {
+	"identifier": [
+	  "BomboySW1991RyanKeppelAction"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ryan Keppel"
+	],
+	"date": [
+	  "1991"
+	],
+	"description": [
+	  "In this game you are Bomboy, a small mutant boy who was born underground. \u00a0You must reach the exits to continue on to the overworld.<div><br \/><\/div><div>You have a limited amount of different kinds of bombs at your disposal. \u00a0Pushing the appropriate function key activates them. \u00a0Holding the key down will put more power into the shot.<\/div><div><br \/><\/div><div>The ? bomb is not available in this demo version.<\/div>"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.1"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Bomboy"
+	],
+	"year": [
+	  "1991"
+	],
+	"publicdate": [
+	  "2013-09-21 22:27:52"
+	],
+	"addeddate": [
+	  "2013-09-21 22:27:52"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140408011747[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "BOMBOY.EXE"
+	],
+	"backup_location": [
+	  "ia905707_11"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475195451",
+	  "size": "68064",
+	  "md5": "2144b9730e7bec654e123af150d0171f",
+	  "crc32": "af5baa48",
+	  "sha1": "acb92560a46c58370c8c8ce753c2f2d2cc8a6b7b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475195475",
+	  "size": "4316",
+	  "md5": "0d611568451a1ef3368c24f2098e3c42",
+	  "crc32": "a85a1060",
+	  "sha1": "c7766849b00a2486f7c2eefc87d59ea9cbda0e7b"
+	},
+	"\/Bomboy [SW] (1991)(Ryan Keppel) [Action].png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1379802482",
+	  "size": "4067",
+	  "md5": "ab01763e494b7349c0ecf5c358e9c9c4",
+	  "crc32": "a748862e",
+	  "sha1": "2419b9feb7640b14518a821bde0afea9a7379108"
+	},
+	"\/Bomboy [SW] (1991)(Ryan Keppel) [Action]_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Bomboy [SW] (1991)(Ryan Keppel) [Action].png",
+	  "mtime": "1379802496",
+	  "size": "3824",
+	  "md5": "d2800da9bca5bc0b4e022a7ebd765a71",
+	  "crc32": "f3d0cf97",
+	  "sha1": "10764cda0c3c5808e2bba6c3e97d701bea146e8b"
+	},
+	"\/Bomboy.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1379802471",
+	  "size": "45478",
+	  "md5": "5ee1d0e6cdc1f93152c2ba803852892d",
+	  "crc32": "a16cef87",
+	  "sha1": "f8409c26841b03ad5f3c1d7d0a251c9fd22d4a35"
+	},
+	"\/BomboySW1991RyanKeppelAction.gif": {
+	  "source": "original",
+	  "mtime": "1475195457",
+	  "size": "6595",
+	  "md5": "de2c3d49cceebf5b254a7954401a3173",
+	  "crc32": "ab470f5e",
+	  "sha1": "5dcc3e4385612fcee7ff5d374be367b841e91dd9",
+	  "format": "Animated GIF"
+	},
+	"\/BomboySW1991RyanKeppelAction_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "448fc6a2eb05cf090c4416e3775de72c"
+	},
+	"\/BomboySW1991RyanKeppelAction_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475195466",
+	  "size": "14336",
+	  "md5": "881749189eab008aae75da56e98edc01",
+	  "crc32": "6888154b",
+	  "sha1": "7e5388b8eba54416c29a589a517fba882e08b48c"
+	},
+	"\/BomboySW1991RyanKeppelAction_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475596077",
+	  "size": "1427",
+	  "md5": "b3d933ed05d0e5b802ec68e49bb1a842",
+	  "crc32": "80536ba6",
+	  "sha1": "b8c1b21d51becca8dce9c5276c741259cd9c5510"
+	},
+	"\/Bomboy_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475195462",
+	  "size": "15355",
+	  "md5": "7ef8b6f16a896227c175e7f1749eeef3",
+	  "crc32": "000ac81d",
+	  "sha1": "7fc3563f04c9420a70bf15485b0b3da81b71bf05",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475195453",
+	  "size": "68064",
+	  "md5": "2144b9730e7bec654e123af150d0171f",
+	  "crc32": "af5baa48",
+	  "sha1": "acb92560a46c58370c8c8ce753c2f2d2cc8a6b7b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475195476",
+	  "size": "4316",
+	  "md5": "0d611568451a1ef3368c24f2098e3c42",
+	  "crc32": "a85a1060",
+	  "sha1": "c7766849b00a2486f7c2eefc87d59ea9cbda0e7b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601007.us.archive.org\/8\/items\/BomboySW1991RyanKeppelAction\/BomboySW1991RyanKeppelAction.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 86,
+	"week": 3,
+	"month": 3
+  }
+}

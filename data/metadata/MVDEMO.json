@@ -1,0 +1,138 @@
+{
+  "server": "ia902504.us.archive.org",
+  "dir": "/24/items/MVDEMO",
+  "metadata": {
+	"identifier": [
+	  "MVDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digi4Fun"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Muzzle Velocity is a war strategy game that puts you in the middle of the action. Instead of being locked into a simple overhead view, you can play on the actual battlefield in a real-time interactive 3D environment complete with texture mapping and 32-channel digital sound."
+	],
+	"publisher": [
+	  "ColdFusion"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Muzzle Velocity Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-07-09 22:55:38"
+	],
+	"addeddate": [
+	  "2014-07-09 22:55:38"
+	],
+	"backup_location": [
+	  "ia905900_11"
+	],
+	"emulator_start": [
+	  "run.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/MUZZLE.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475786653",
+	  "size": "8427082",
+	  "md5": "914a7afca894e1a27c3b924013a26ea3",
+	  "crc32": "9b631a10",
+	  "sha1": "68d31d463a0e4ad17cf14f9643bfb7098d05c8bd"
+	},
+	"\/MVDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1404946538",
+	  "size": "8500009",
+	  "md5": "eb60fac478472e4cba6b20f3aea3640c",
+	  "crc32": "71451b5f",
+	  "sha1": "cfa410d339912b536bfa22cbf5370e87449aec6e"
+	},
+	"\/MVDEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "daa7107c0439066416bcaf9c2976302ffc96a219",
+	  "mtime": "1475786725",
+	  "size": "2730",
+	  "md5": "897324c7466fe8cbe259036940d681da",
+	  "crc32": "1ee9e7ce",
+	  "sha1": "8fe6566e8c729afeb54deb955ac367e7e77a87df",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MVDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a27546e324fe15ceb66ae6c2dc12a4e5"
+	},
+	"\/MVDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1404946557",
+	  "size": "12288",
+	  "md5": "e0afd07110118d2dc18667c24536f0a0",
+	  "crc32": "273d9c6e",
+	  "sha1": "430fa5769e428d7ffdeda5d4514ab8cdc5050344"
+	},
+	"\/MVDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475786724",
+	  "size": "1040",
+	  "md5": "9eb1168875a0d429e7d697e466f31d9a",
+	  "crc32": "09e7840c",
+	  "sha1": "af43009252880db34cac35ea3f4c1e1b6fcce70a"
+	},
+	"\/mvdemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1404946550",
+	  "size": "31391",
+	  "md5": "8e5f3146939aee106ede8f6beb5552c5",
+	  "crc32": "f7339c52",
+	  "sha1": "37834c98eb38b2f3e1b14a1302da9662035511aa"
+	},
+	"\/mvdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "mvdemo.png",
+	  "mtime": "1404946566",
+	  "size": "4855",
+	  "md5": "220e2c0e451566d95159d0b7f8f91d07",
+	  "crc32": "df3dfb4b",
+	  "sha1": "6855006985480ac0f57be51bd54f3481154cef33"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902504.us.archive.org\/24\/items\/MVDEMO\/mvdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 173,
+	"week": 3,
+	"month": 4
+  }
+}

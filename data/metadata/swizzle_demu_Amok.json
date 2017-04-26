@@ -1,0 +1,117 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/32/items/swizzle_demu_Amok",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_Amok"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Scavenger"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Amok is a 3D action game in which you must pilot your craft underwater to destroy a research lab. Take out a few divers, sharks, torpedo turrets, and domes with assorted weapons along the way.<\/div>"
+	],
+	"publisher": [
+	  "Scavenger"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Amok Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-01-18 16:10:43"
+	],
+	"addeddate": [
+	  "2014-01-18 16:10:43"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234734[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_5"
+	]
+  },
+  "files": {
+	"\/amok.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390061455",
+	  "size": "34872",
+	  "md5": "ac9d96412063bf06b5de38f393d3fc31",
+	  "crc32": "52bb31c7",
+	  "sha1": "c09453bcf04891180891d01c0a268c23d5e35da3",
+	  "rotation": "0"
+	},
+	"\/amok.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1390061442",
+	  "size": "6776285",
+	  "md5": "1bb5a89822f8f0ed5acbfda026f9ed84",
+	  "crc32": "c868717b",
+	  "sha1": "0604793ee1031a9cfb16df97e5cca1314ae168a8"
+	},
+	"\/amok_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "amok.jpg",
+	  "mtime": "1390061471",
+	  "size": "3093",
+	  "md5": "f6ac65e2eca66cc6ccc1bc80cea85d63",
+	  "crc32": "50b42917",
+	  "sha1": "cb4cb81981b0331cd161d8a06e8d2d099d45b013"
+	},
+	"\/swizzle_demu_Amok_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "dee92d78cf8fd8605fe1fd278a0b278c"
+	},
+	"\/swizzle_demu_Amok_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390061461",
+	  "size": "12288",
+	  "md5": "10399a58e4db963e6636f2b852c8b7fc",
+	  "crc32": "80795895",
+	  "sha1": "3bee3481b02424b3df884e252a3c9e0b47886845"
+	},
+	"\/swizzle_demu_Amok_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475335359",
+	  "size": "1046",
+	  "md5": "07e5605a8c290c3dd32d5b0aef0ee6db",
+	  "crc32": "ec77f8fd",
+	  "sha1": "5e8617be54e285f6d041dec80c3276452286c2a6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/32\/items\/swizzle_demu_Amok\/amok_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 202,
+	"week": 2,
+	"month": 6
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "server": "ia600502.us.archive.org",
+  "dir": "/8/items/helidemo",
+  "metadata": {
+	"identifier": [
+	  "helidemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Paragon Visual Systems"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>After the devastating earthquake of 1998, NeoTokyo emerged from the ashes of Old Tokyo's destruction, rising to become a center of commerce and technology. Now, in the year 2015, NeoToyko is on the brink of collapse: Maxwell Giger, ruthless leader of the international crime syndicate known as Nemesys, has released a \"\"wolf pack\"\" of his most sinister allies to fan the flames of terror and confusion among the citizens of NeoTokyo. The HeliCOPS are NeoTokyo's only hope for freedom from the iron grip of Nemesys.<\/div>"
+	],
+	"publisher": [
+	  "7th Level"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "HeliCOPS Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-18 16:02:25"
+	],
+	"addeddate": [
+	  "2014-01-18 16:02:25"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234743[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_5"
+	]
+  },
+  "files": {
+	"\/helicops.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1459447517",
+	  "size": "73049",
+	  "md5": "106d574fc60db75f03c1ebd255418682",
+	  "crc32": "03a005e5",
+	  "sha1": "6fa494a848a32b079cc06c2492574c84b61ebc71"
+	},
+	"\/helicops_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "helicops.png",
+	  "mtime": "1459448446",
+	  "size": "7253",
+	  "md5": "2bcd2cd6143b448e86e244152efff15b",
+	  "crc32": "d088319b",
+	  "sha1": "38e462045119eeb7a3e6ff8c3003ac0fd161efd5"
+	},
+	"\/helidemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390060944",
+	  "size": "10673602",
+	  "md5": "6ae07552f03013fecb065293eef97a57",
+	  "crc32": "398f4157",
+	  "sha1": "db13899ea422e6f1bf1600f4434217a0b28a8838"
+	},
+	"\/helidemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "059eef316dec6ee51b977ccac7bf3158"
+	},
+	"\/helidemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390060958",
+	  "size": "12288",
+	  "md5": "deaee0dd6de1fa3738c272ada1d936b3",
+	  "crc32": "c448b3b3",
+	  "sha1": "7ace43c25f0d968cf95dee42a254c99385e787a4"
+	},
+	"\/helidemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475325105",
+	  "size": "1376",
+	  "md5": "c0beee815bfe0519b3d30568400e5d9d",
+	  "crc32": "40a01f12",
+	  "sha1": "2b2cbaa0cfbc00e200a7d2fa63b57cf4305142a4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600502.us.archive.org\/8\/items\/helidemo\/helicops_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 171,
+	"week": 7,
+	"month": 15
+  }
+}

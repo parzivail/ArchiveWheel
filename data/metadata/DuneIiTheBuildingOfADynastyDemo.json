@@ -1,0 +1,228 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/7/items/DuneIiTheBuildingOfADynastyDemo",
+  "metadata": {
+	"identifier": [
+	  "DuneIiTheBuildingOfADynastyDemo"
+	],
+	"title": [
+	  "Dune II: The Building of a Dynasty Demo"
+	],
+	"creator": [
+	  "Westwood Studios"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Behold the planet Arrakis, known as Dune - land of sand and home of the spice melange. The spice controls the empire - whoever controls Dune controls the spice. The emperor has proposed a challenge, \u00e2the house that produces the most spice will control Dune. There are no territories\u00c3\u00a2\u00e2\u00ac\u00c2\u00a6 And no rules of engagement\u00e2. Vast armies have arrived. Now three houses fight for control of Dune - the noble Artreides, the insidious Ordos and the evil Harkonen\u00c3\u00a2\u00e2\u00ac\u00c2\u00a6 Only one house will prevail. Your battle for Arrakis begins now\u00c3\u00a2\u00e2\u00ac\u00c2\u00a6 Dune II: The Battle for Arrakis is a strategy-based resource management simulation with over one megabyte of digitized sound effects and speech. Dune II comes from Westwood Studios, the team behind Eye of the Beholder I and II and Fables and Fiends: The Legend of Kyrandia."
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"publicdate": [
+	  "2012-02-23 01:19:41"
+	],
+	"addeddate": [
+	  "2012-02-23 01:19:22"
+	],
+	"notes": [
+	  "If you start the demo with any command line parameter (e.g. \"dune2 play\"), the game will switch into playable mode after the intro."
+	],
+	"publisher": [
+	  "Virgin Interactive"
+	],
+	"updatedate": [
+	  "2012-02-23 01:20:11"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "dune2.exe"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444829239",
+	  "size": "74889",
+	  "md5": "7e58db5b68384c727beda53737e290be",
+	  "crc32": "f18f0f6c",
+	  "sha1": "cf5d3b8ec51252362b936c156537a1d98f9bab4c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444829270",
+	  "size": "3844",
+	  "md5": "bd2f9e8ea92ecbb4095cd1d56bb4e11a",
+	  "crc32": "f71d6bf5",
+	  "sha1": "5ddf528f5487de3c6abf7b0a62966c4c0e870b20"
+	},
+	"\/D2.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432834311",
+	  "size": "1979419",
+	  "md5": "55bacb4cac6af478abf3ddb8d960d180",
+	  "crc32": "b1174bd3",
+	  "sha1": "b663316b6914c0c9a94855d07c58322ee965abc6"
+	},
+	"\/Dune2Screenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Dune 2 Screenshot",
+	  "mtime": "1329959924",
+	  "size": "20193",
+	  "md5": "0612a1d6e9fe8d37b882b549518670c5",
+	  "crc32": "4e53cc94",
+	  "sha1": "771a0a0701433932a540244a1cfd80ff69ecf5ab",
+	  "rotation": "0"
+	},
+	"\/Dune2Screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Dune2Screenshot.jpg",
+	  "mtime": "1329959973",
+	  "size": "5352",
+	  "md5": "2395cd71e8bf9e6c9e5e28ce9176dcdd",
+	  "crc32": "cc9cb0b9",
+	  "sha1": "b0ec1736bceb4f697c07eb177ffc2934cf50e1b3"
+	},
+	"\/DuneIiTheBuildingOfADynastyDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444829255",
+	  "size": "10289",
+	  "md5": "a4e7f999b0b82dc234644b2f3ade1562",
+	  "crc32": "0685d89d",
+	  "sha1": "7cb86213d952eb241cec95c30226de929a4948be",
+	  "format": "Animated GIF"
+	},
+	"\/DuneIiTheBuildingOfADynastyDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "e4f5a7e64589e15467235ae0e9050643dbd5a226",
+	  "mtime": "1462589054",
+	  "size": "3901",
+	  "md5": "b09c191b0d7b187e483084dd71bf71b8",
+	  "crc32": "2c449206",
+	  "sha1": "3f765e108705b4dbeb778649b8131c6c8dd9c643",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DuneIiTheBuildingOfADynastyDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0abd659a77b8121e15fc4fadf7900d6b"
+	},
+	"\/DuneIiTheBuildingOfADynastyDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444829262",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "5ae88b8bf2e756b148c56b95a0d9dcfa",
+	  "crc32": "0d2fe5d0",
+	  "sha1": "17ca4e7b6072b97f86135930235fa32560e1fa5a"
+	},
+	"\/DuneIiTheBuildingOfADynastyDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462589053",
+	  "size": "1962",
+	  "md5": "051ddf7d3de58700c5201d08b98eca07",
+	  "crc32": "ef1c5f86",
+	  "sha1": "4a4ee30042cf9a8fcdc8dae7b7e7cffcc9097b45"
+	},
+	"\/dune2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329959930",
+	  "size": "2306562",
+	  "md5": "0ed1860bba4e0a55899861dd13be5576",
+	  "crc32": "c4f50a7b",
+	  "sha1": "00980e28458eba40f76eb949fb58b345544f0f29",
+	  "title": "Dune 2 Demo"
+	},
+	"\/dune2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444829259",
+	  "size": "31696",
+	  "md5": "db19f58945355a97302d9abcd100d909",
+	  "crc32": "b7a9e085",
+	  "sha1": "606a5255c1ef3962ed8d5b51b4a93ef74cbb7506",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444829243",
+	  "size": "74879",
+	  "md5": "a05f4c7d83f2818158c7d497da8fb536",
+	  "crc32": "e810a925",
+	  "sha1": "0049d068e959c2ed3d730a99b8d05a5cc47b011e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444829271",
+	  "size": "3844",
+	  "md5": "171793a58fab35ca1ebeea69d785d2cf",
+	  "crc32": "b6ba15fa",
+	  "sha1": "b7b5bb4e3a890e8bab40f91be78f3bc906a0147c"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444829251",
+	  "size": "74889",
+	  "md5": "7e58db5b68384c727beda53737e290be",
+	  "crc32": "f18f0f6c",
+	  "sha1": "cf5d3b8ec51252362b936c156537a1d98f9bab4c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444829272",
+	  "size": "3844",
+	  "md5": "bd2f9e8ea92ecbb4095cd1d56bb4e11a",
+	  "crc32": "f71d6bf5",
+	  "sha1": "5ddf528f5487de3c6abf7b0a62966c4c0e870b20"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/7\/items\/DuneIiTheBuildingOfADynastyDemo\/DuneIiTheBuildingOfADynastyDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1762,
+	"week": 7,
+	"month": 23
+  }
+}

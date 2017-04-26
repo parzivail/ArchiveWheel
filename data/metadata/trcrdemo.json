@@ -1,0 +1,117 @@
+{
+  "server": "ia902707.us.archive.org",
+  "dir": "/19/items/trcrdemo",
+  "metadata": {
+	"identifier": [
+	  "trcrdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Future Endeavors"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Tracer is the captivating cyberspace strategy game published on CD-ROM by 7th Level. Developed by Future Endeavors, this real-time 3D game features more than 50 levels of intensifying gameplay. Launch into cyberspace with a deadly virus snapping at your heels. Don't look back: it's gaining ground. You must plunge closer to the data core to avoid certain death. Hacking was never more difficult or more fun; this strategy game takes you to the edge, to the techno threshold, and back. Try to make it out alive. Others before you have tried and failed.<\/div>"
+	],
+	"publisher": [
+	  "7th Level"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Tracer Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-01-18 15:50:40"
+	],
+	"addeddate": [
+	  "2014-01-18 15:50:40"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234236[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_5"
+	]
+  },
+  "files": {
+	"\/trcrdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390060259",
+	  "size": "8099289",
+	  "md5": "578e97bef6ef27c56bf4b578eddd7512",
+	  "crc32": "a321688e",
+	  "sha1": "fd5bb7a64f66b41157e9364f4b675b130e2a6ea1"
+	},
+	"\/trcrdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390060239",
+	  "size": "35133",
+	  "md5": "301ff5df87a764927b456a0331df88c6",
+	  "crc32": "fa84b0c0",
+	  "sha1": "ec20c11cf988e8c31ad2aab552e80ede9d4a8e5f",
+	  "rotation": "0"
+	},
+	"\/trcrdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "27b63059b167884e7924676aa9f5e68b"
+	},
+	"\/trcrdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390060264",
+	  "size": "14336",
+	  "md5": "3c3555102a618ff58d8fc89b12eea6e7",
+	  "crc32": "29b87e02",
+	  "sha1": "69400ee67059fd699157d09ad23bbb399cd65f49"
+	},
+	"\/trcrdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475279099",
+	  "size": "1408",
+	  "md5": "d400f0050406c0d53eb8409ce8be1f43",
+	  "crc32": "11ebc6e0",
+	  "sha1": "ba670393239942fca49f51a31da8b51b00cf114c"
+	},
+	"\/trcrdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "trcrdemo.jpg",
+	  "mtime": "1390060270",
+	  "size": "4494",
+	  "md5": "fc7d34b80836d4cfe37a6857243dba8d",
+	  "crc32": "52cc4cc9",
+	  "sha1": "239e899cc46a916f1ca5ae5632debe57bfc38273"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902707.us.archive.org\/19\/items\/trcrdemo\/trcrdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 253,
+	"week": 3,
+	"month": 7
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/5/items/WarcraftIiiReignOfChaosDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Warcraft III: Reign of Chaos Demo"
+	],
+	"description": [
+	  "The epic battle rages as the demonic Burning Legion launch their long-awaited invasion of the mortal world. Cunning, sinister, and seemingly unstoppable, these dark slayers threaten to eradicate all of Azeroth in their unholy quest for arcane power. Survival is a matter of strategy as the Reign of Chaos begins..."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Blizzard Entertainment"
+	],
+	"identifier": [
+	  "WarcraftIiiReignOfChaosDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 04:41:35"
+	],
+	"publicdate": [
+	  "2012-05-28 04:42:00"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"notes": [
+	  "The demo features a two-mission tutorial; three all-new missions that chronicle the Orcs' embattled journey to Kalimdor; and head-to-head play via Battle.net."
+	],
+	"publisher": [
+	  "Blizzard Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/W3Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338180058",
+	  "size": "104680620",
+	  "md5": "6ccb5172b5311aa060d27d739c8cde48",
+	  "crc32": "985e190e",
+	  "sha1": "7e4ed3a32289f1293f5bc132ce7c525301631a73"
+	},
+	"\/W3Demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338180059",
+	  "size": "152944",
+	  "md5": "c7f0e56b9f48d1f49c8326a5fd2f4e2c",
+	  "crc32": "6e8e10e2",
+	  "sha1": "607e03ff5af87eed42ff9adeb93624346a1a551a",
+	  "rotation": "0"
+	},
+	"\/W3Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "W3Demo.jpg",
+	  "mtime": "1338180114",
+	  "size": "5526",
+	  "md5": "486ee56392f59501bb00f6aae8506573",
+	  "crc32": "897aaf28",
+	  "sha1": "f72ea3837c861d835bb82face26fe22dd11d390a"
+	},
+	"\/WarcraftIiiReignOfChaosDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6802622f0649ef90c1ce71d6e088b6229eb5b7e0",
+	  "mtime": "1462116288",
+	  "size": "5904",
+	  "md5": "a2da8da6b3c4219c56c26fc0855b2f1d",
+	  "crc32": "e054e23b",
+	  "sha1": "f2a0c68ee19dc7cd91480975fa077b5ced5860bd",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WarcraftIiiReignOfChaosDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3e1961a53f02a45ebac9d66a786a3a2b"
+	},
+	"\/WarcraftIiiReignOfChaosDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462116287",
+	  "size": "1297",
+	  "md5": "231722e1c5c0418c7f2b1be707fa36ee",
+	  "crc32": "102c9c6b",
+	  "sha1": "c6336247c9e712ed76c5759427d528880ff805e9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/5\/items\/WarcraftIiiReignOfChaosDemo\/W3Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5272,
+	"week": 41,
+	"month": 166
+  }
+}

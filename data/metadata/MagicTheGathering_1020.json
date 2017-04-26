@@ -1,0 +1,461 @@
+{
+  "server": "ia800309.us.archive.org",
+  "dir": "/0/items/MagicTheGathering_1020",
+  "metadata": {
+	"identifier": [
+	  "MagicTheGathering_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"publisher": [
+	  "MicroProse",
+	  "MicroProse"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games",
+	  "Windows games; Vintage computer games; Board games"
+	],
+	"publicdate": [
+	  "2012-09-05 01:00:58"
+	],
+	"addeddate": [
+	  "2012-09-05 01:00:58"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"title": [
+	  "Magic: The Gathering Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "mtg"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Now you can play the strategy card game phenomenon against your PC. With cool decks you build from the Fourth Edition Set and over 20 powerful, out-of-print cards, like the Black Lotus. Duel the computer's cunning AI or buy, sell and trade cards in the strategy card environment of Shandalar. And get ready for the Astral Set -- 12 cards found only in the PC game with powers possible only in a digital duel."
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 3,
+	  "avg_rating": "2.50"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "The name does not indicate it, but this is a demo only (like most classic games in the archive).\n\nMagic: The Gathering Shandalar (as I knew it back then, to avoid confusion with other Magic-related games) was not only a card-based game, but it had a lighweight \"RPG\" element to it, since you started with a minimal deck and had to battle other wizards and go to towns to buy cards, and to dungeons to find rare powerful cards.\n\nThe AI was not spectacularly strong, but sufficient for having fun. One thing that's interesting is that it does not follow standard MtG rules: both wizards do not start with 20 hit points each, it's more like ~5-7 in the beginning of the game, and then you earn more life as the game progresses. And the final boss has ludicrous amounts of life. That means some different strategies from the ones championship players are used to, which amounts to more variety and more interesting gameplay. E.g. in the beginning, Lightning bolts are extremely powerful since 2 or 3 may be sufficient to kill an enemy, but the last boss will simply laugh at your fixed-damage spells. In the long run, creatures deal more damage than direct hit spells, so while your Red wizard will quickly zap through enemies, you'll be toast when fighting the last boss.\n\nOverall, an interesting take on this classic card game, and probably one of the reasons I very much enjoyed Card City Nights many years later.",
+		"reviewtitle": "Demo, hard to run on newer Windows",
+		"reviewer": "dhekir",
+		"reviewdate": "2015-04-12 16:05:26",
+		"stars": "4"
+	  },
+	  {
+		"reviewbody": "How the hell do you start the game?",
+		"reviewtitle": "?",
+		"reviewer": "Gigaslectum",
+		"reviewdate": "2016-01-14 15:48:02",
+		"stars": "1"
+	  },
+	  {
+		"reviewbody": "The online emulator runs the DOS non-playable demo.  If you want to play the demo you would need to download the file mtgdemo.zip and run it on your computer.",
+		"reviewtitle": "Multiple files",
+		"reviewer": "Swizzley",
+		"reviewdate": "2016-01-19 20:27:38"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475355568",
+	  "size": "505069",
+	  "md5": "a0831bee03a6451cf5ed8b5293add23b",
+	  "crc32": "f2494fa8",
+	  "sha1": "03a4079b4a35d48647a3da063a487c817272cb8d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475355649",
+	  "size": "7256",
+	  "md5": "2fe95f89093e6037581ee225f67c9120",
+	  "crc32": "942bbcf5",
+	  "sha1": "572c56acb2b098cd3536c2aba29d586eefd04dac"
+	},
+	"\/MagicTheGathering_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475355608",
+	  "size": "163219",
+	  "md5": "c6ade5259171496acf92e963efe24bcc",
+	  "crc32": "545ec97a",
+	  "sha1": "dda71c9f6f3e652b3fea39c6b552b4b6fba79d9f",
+	  "format": "Animated GIF"
+	},
+	"\/MagicTheGathering_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "4d57ffe13030a1888bdcd4834720daa6cfc42af5",
+	  "mtime": "1475355671",
+	  "size": "7363",
+	  "md5": "32e3031c1aed51e56898e21a93779787",
+	  "crc32": "d7620a1d",
+	  "sha1": "17e942653e09f9bf9f5af7bf4911da65d21e2bae",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MagicTheGathering_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "727210fbe1e6e1376f250a9cd0aa91d2"
+	},
+	"\/MagicTheGathering_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475355637",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "cbdf3ffe08641f80f7ffa4f8c75cde3b",
+	  "crc32": "25342258",
+	  "sha1": "a571b8e5cbb30db862f526603be761fedb2c6308"
+	},
+	"\/MagicTheGathering_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463622814",
+	  "size": "1384",
+	  "md5": "6efafdde9918382e7f98977bb6fded5e",
+	  "crc32": "d4198c48",
+	  "sha1": "b734b9dd223f328fe8a48e995b9f87ef7b7364b9"
+	},
+	"\/MagicTheGathering_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1453235259",
+	  "size": "2555",
+	  "format": "Metadata",
+	  "md5": "17369bf7199627a3d7c2e2bb1277118d",
+	  "crc32": "e7d22370",
+	  "sha1": "03438a3766ecccbd8c19373c294e1fe9eb268626"
+	},
+	"\/mtgdem.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452443125",
+	  "size": "682608",
+	  "md5": "c07401dead41535c647d1b70dacce910",
+	  "crc32": "6ac91568",
+	  "sha1": "049b963c73f138bb5700df72ea3e7548a27904d0"
+	},
+	"\/mtgdem.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346806865",
+	  "size": "682608",
+	  "md5": "c07401dead41535c647d1b70dacce910",
+	  "crc32": "6ac91568",
+	  "sha1": "049b963c73f138bb5700df72ea3e7548a27904d0"
+	},
+	"\/mtgdem.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346806865",
+	  "size": "1862",
+	  "md5": "14458f00d2c5d36c0283922fdaf1009d",
+	  "crc32": "bb262ab4",
+	  "sha1": "8950f766eb1f2ff16ab04ba5b6edf497e0a7eb6e"
+	},
+	"\/mtgdem_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475355621",
+	  "size": "789499",
+	  "md5": "51d3fd44cdb753f504474b17aa34c036",
+	  "crc32": "4f836982",
+	  "sha1": "68d8588a044acec25308abd0a1718c7624c00030",
+	  "format": "Emulator Screenshot"
+	},
+	"\/mtgdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346808953",
+	  "size": "14349071",
+	  "md5": "6c34a5b8e3cf340d1faaf4ca634e1b15",
+	  "crc32": "a80a3995",
+	  "sha1": "e7bd177ed2d82caae6c761e34360c6e776afc8c4"
+	},
+	"\/mtgdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808953",
+	  "size": "301",
+	  "md5": "f7d96555a3c13c0738d32330c1ce528e",
+	  "crc32": "9e564b6e",
+	  "sha1": "c639d534d74d8dd738de62c72874c077a7f904a1"
+	},
+	"\/resource_item_2783.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808812",
+	  "size": "23068",
+	  "md5": "730bdf93c34fc461df5881424928fd93",
+	  "crc32": "28231bdf",
+	  "sha1": "f2a70391fbf71a7284e98c28b3d23c9115e596dd",
+	  "rotation": "0"
+	},
+	"\/resource_item_2783.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808812",
+	  "size": "298",
+	  "md5": "61f5310bd05fc3f16c9d8d98682541fb",
+	  "crc32": "0f66b929",
+	  "sha1": "8592718839eddd5d737b110f16f139c322c6e109"
+	},
+	"\/resource_item_2783_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2783.jpg",
+	  "mtime": "1346820196",
+	  "size": "7214",
+	  "md5": "d940ef5eadd22f395cb99383cb306a66",
+	  "crc32": "f71e5047",
+	  "sha1": "a843243f4aa5e82db12a6df9d816f1b49061e5fd"
+	},
+	"\/resource_item_2794.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808955",
+	  "size": "19216",
+	  "md5": "a5cb1a051dbe028d0f4d47ec62239903",
+	  "crc32": "61523a26",
+	  "sha1": "03f23c145beb80b3be41c2e54ea7a135b33b77a0",
+	  "rotation": "0"
+	},
+	"\/resource_item_2794.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808955",
+	  "size": "272",
+	  "md5": "de6fdcb3283873e02f57834087ed529c",
+	  "crc32": "7074f2de",
+	  "sha1": "fe513139751f7d25e354f804b44851327c1bc030"
+	},
+	"\/resource_item_2794_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2794.jpg",
+	  "mtime": "1346820197",
+	  "size": "5914",
+	  "md5": "21f4a90d0d455dea3eefa721055b8686",
+	  "crc32": "17c9eda2",
+	  "sha1": "647e378cfa74e07fc1f57bfb010305087d23d2f7"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475355576",
+	  "size": "454842",
+	  "md5": "5f330c535f20f31b59841cd197070115",
+	  "crc32": "ecca8c3b",
+	  "sha1": "4a8bc9549b41e6968cc5051cafc0dc08caa566db",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475355652",
+	  "size": "4629",
+	  "md5": "2f48d1fe65c927a839ba6f3e75a8a622",
+	  "crc32": "8cfff514",
+	  "sha1": "d185420ae853e4428866bcd278dfaa6f64c4644f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475355581",
+	  "size": "3344",
+	  "md5": "93d5b312274946def60f8517f994f6f1",
+	  "crc32": "233180a6",
+	  "sha1": "e0f00c3527d0c666ad2c2b79814bc954e18926a8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475355653",
+	  "size": "1011",
+	  "md5": "f818b3bf910e19a6035f892d85616795",
+	  "crc32": "acb9e222",
+	  "sha1": "93bf5ad2a39276576ec479e3c31d21708f842da1"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475355586",
+	  "size": "496474",
+	  "md5": "d2bc60fd9e8f7033bc8a8f20bbe69e32",
+	  "crc32": "24260952",
+	  "sha1": "a7aab3e69255264686c7beee8bbaa3932d3beca0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475355655",
+	  "size": "7271",
+	  "md5": "fc49d35c0d1e794624eb209eff7c4dc1",
+	  "crc32": "a59d8183",
+	  "sha1": "5669e5bb29c7c96d34b79a4ed58f4a0cbbd2682e"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475355589",
+	  "size": "422104",
+	  "md5": "65c3b24875ec66235a844591b2f8a1ef",
+	  "crc32": "ffcc4e7c",
+	  "sha1": "4906a83ff68987e0d9c65906d2a86d36969ee1b4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475355659",
+	  "size": "5618",
+	  "md5": "a0f71c929c4471cac827875fde698e19",
+	  "crc32": "743f8d0e",
+	  "sha1": "4baad5b31e9bd0fdbcacac768abfa59c657ae14d"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475355591",
+	  "size": "505069",
+	  "md5": "a0831bee03a6451cf5ed8b5293add23b",
+	  "crc32": "f2494fa8",
+	  "sha1": "03a4079b4a35d48647a3da063a487c817272cb8d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475355661",
+	  "size": "7256",
+	  "md5": "2fe95f89093e6037581ee225f67c9120",
+	  "crc32": "942bbcf5",
+	  "sha1": "572c56acb2b098cd3536c2aba29d586eefd04dac"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475355597",
+	  "size": "81356",
+	  "md5": "46154e878716507a7fa871bed26872de",
+	  "crc32": "f54fbad9",
+	  "sha1": "84f4fad10fc22330ef54d7fc72becc2ff1f664f9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475355663",
+	  "size": "4357",
+	  "md5": "ad82ef363dc69354c028d3d961e81500",
+	  "crc32": "578a9f97",
+	  "sha1": "fb6ca907ea906bfa95920bf4cfc47def1a4487ab"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475355600",
+	  "size": "81340",
+	  "md5": "1fb971f6dc9f07d2a8436f410b631550",
+	  "crc32": "b6c5d179",
+	  "sha1": "36de19335eeb2f798c5e0daba2c32deed2418b24",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475355664",
+	  "size": "4354",
+	  "md5": "873daf47751b345c89043855e6c52f03",
+	  "crc32": "e1a66b01",
+	  "sha1": "7d010a6983a52633859589137690a8826ef223cc"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475355602",
+	  "size": "73750",
+	  "md5": "804366e1eeedec916bb586f33d80ced5",
+	  "crc32": "e1014e84",
+	  "sha1": "21493c922671856183ee4fd46b9583f9ae563484",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475355665",
+	  "size": "4075",
+	  "md5": "ace0657ed154f27672e705d26ff5e4c0",
+	  "crc32": "068a9a2c",
+	  "sha1": "b0c4df7be753b1ae8fc402f1286d43f0ec60e01d"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475355605",
+	  "size": "73695",
+	  "md5": "36d6a6038edda5e1c490412cef84e378",
+	  "crc32": "adbd3d36",
+	  "sha1": "f5fcae6c8211912c776d3ad4aead49cdfda38541",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475355667",
+	  "size": "4072",
+	  "md5": "dd06975a883088228c2bbf5c786b6f16",
+	  "crc32": "77a49082",
+	  "sha1": "26dad76354410d4dd760b9c175cbd27d51b7421a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/0\/items\/MagicTheGathering_1020\/MagicTheGathering_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 16686,
+	"week": 30,
+	"month": 116
+  }
+}

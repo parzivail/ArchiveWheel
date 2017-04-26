@@ -1,0 +1,141 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/4/items/Su27Flanker_1020",
+  "metadata": {
+	"identifier": [
+	  "Su27Flanker_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Eagle Dynamics"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "The program will start as a self-running demonstration of a mission that \nhas already been recorded.  You can either watch the entire mission as \nrecorded or you can enter the cockpit at anytime and take control. If \nyou choose to fly the mission yourself, be aware that for this demo you \nwill only have about 10 minutes of fuel.  Of course the commercial \nrelease of this product will provide the user with more fuel for \nmissions.  If your aircraft should be destroyed the demo will continue \nto run allowing you to view the other aircraft as they fly their \nmissions."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Su-27 Flanker"
+	],
+	"publicdate": [
+	  "2012-09-04 08:42:55"
+	],
+	"addeddate": [
+	  "2012-09-04 08:42:55"
+	],
+	"year": [
+	  "1995"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233915[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "SU27.EXE"
+	]
+  },
+  "files": {
+	"\/SU27-Windows.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373193000",
+	  "size": "1410829",
+	  "md5": "f8801131611df8b9cc4f4487933b703f",
+	  "crc32": "55d2176c",
+	  "sha1": "723079ce45abe1ee2152cfab0a95838712aa5401"
+	},
+	"\/SU27.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476118397",
+	  "size": "1704779",
+	  "md5": "5716c7a3a63a5cd9e71cf6f1185d5f80",
+	  "crc32": "fe0cf09b",
+	  "sha1": "002e997ffe2c8296d3e4bf1ea1d992db2635f27e"
+	},
+	"\/SU27.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748194",
+	  "size": "1043",
+	  "md5": "ec230c694509e16d07b28d0394f68343",
+	  "crc32": "0e2ce0ec",
+	  "sha1": "58f04b8e063eb346f339cbf1f46c07843fb97622"
+	},
+	"\/Su27Flanker_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "091f946f3e7ccb8004274e8b7b57b782"
+	},
+	"\/Su27Flanker_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476118431",
+	  "size": "1454",
+	  "md5": "16bd2ae407b5543af838c12289a39fda",
+	  "crc32": "0765fb25",
+	  "sha1": "39a80a41e827f2b02a05c2b3ff3e5aae9557976c"
+	},
+	"\/resource_item_2017.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346748195",
+	  "size": "6643",
+	  "md5": "485f0a1b66c6a1b98ee25af4f77c57a2",
+	  "crc32": "3e2401a8",
+	  "sha1": "0acb06f701bde4b059bdc7fe68a43299c1c81301",
+	  "rotation": "0"
+	},
+	"\/resource_item_2017.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748195",
+	  "size": "271",
+	  "md5": "197611eb3b4e41a6780d49dfd59e9d12",
+	  "crc32": "2d4e7775",
+	  "sha1": "60787d766c1106dc9de6487acca1556797e9a267"
+	},
+	"\/resource_item_2017_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2017.jpg",
+	  "mtime": "1346749208",
+	  "size": "2644",
+	  "md5": "69833e0159de5acf329b5bfe8c280739",
+	  "crc32": "28c39a61",
+	  "sha1": "06f155b1ffd996302f9137ea8dccf8d7132ae113"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/4\/items\/Su27Flanker_1020\/resource_item_2017_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2566,
+	"week": 6,
+	"month": 21
+  }
+}

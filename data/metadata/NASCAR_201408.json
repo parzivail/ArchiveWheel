@@ -1,0 +1,208 @@
+{
+  "server": "ia902308.us.archive.org",
+  "dir": "/30/items/NASCAR_201408",
+  "metadata": {
+	"identifier": [
+	  "NASCAR_201408"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Papyrus Design Group"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "<div>Ever put your foot down on 700 horsepower? Or enter a corner at 200 MPH, bumper-to-bumper with the car ahead of you? If you have ever wanted to drive a NASCAR stock car, then you're in for the experience of a lifetime with NASCAR Racing. Compete against top NASCAR drivers on nine authentic NASCAR tracks. Each track is painstakingly modeled using official blueprints and actual race footage. Customize your car set-up for each track in the garage. As engines blow and fenders crumple, keep your cool and work it like the pros. So true-to-life, it's officially licensed by NASCAR.<\/div><div><br \/><\/div>"
+	],
+	"publisher": [
+	  "Sierra On-Line",
+	  "Virgin Interactive Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "NASCAR Racing Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2014-08-17 19:01:11"
+	],
+	"addeddate": [
+	  "2014-08-17 19:01:11"
+	],
+	"emulator_start": [
+	  "NASDEMO.EXE -i"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905902_18"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475388075",
+	  "size": "375642",
+	  "md5": "cb32646e3208bb68c6d7f3d96732508a",
+	  "crc32": "f53179d9",
+	  "sha1": "5f8cffb49ae86941298d56b45925259ce04cdbe4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475388104",
+	  "size": "7007",
+	  "md5": "98b26c423d84b2ca2ffd674de25fa6c0",
+	  "crc32": "8396e357",
+	  "sha1": "7918c8122ccb95bacbbc650169451cc84d335fa3"
+	},
+	"\/NASCAR.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473366405",
+	  "size": "2023807",
+	  "md5": "3406f37c20a176bd25b5a5c220368079",
+	  "crc32": "7a4334b1",
+	  "sha1": "99954100c81c743fd875672afed65490e0a42b9b"
+	},
+	"\/NASCAR_201408.gif": {
+	  "source": "original",
+	  "mtime": "1475388083",
+	  "size": "97986",
+	  "md5": "1924580eca40de04dc7823c674017293",
+	  "crc32": "bd040817",
+	  "sha1": "9c0a379672f5b7a304c0946b968679d54f0b2b4f",
+	  "format": "Animated GIF"
+	},
+	"\/NASCAR_201408_archive.torrent": {
+	  "source": "original",
+	  "btih": "d4a99fb7e7728c7c563192aa376b4bc07e8239f3",
+	  "mtime": "1475417310",
+	  "size": "3510",
+	  "md5": "e677ec03632464063e9e5d0f4701a124",
+	  "crc32": "a7f33fec",
+	  "sha1": "adab934a76eab8298c96f28b8078031f30daf04e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/NASCAR_201408_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "de61587bbb41e2b951bf032dec719b8a"
+	},
+	"\/NASCAR_201408_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475388091",
+	  "size": "14336",
+	  "md5": "b80a5cd70aea967983c8543fdf244c57",
+	  "crc32": "dfba2900",
+	  "sha1": "f1a6859188bfd14de52bd8da82d3078b577ef52c"
+	},
+	"\/NASCAR_201408_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475417309",
+	  "size": "1491",
+	  "md5": "3320812b0151f2013be66ca1183a2c7d",
+	  "crc32": "761d099b",
+	  "sha1": "05624f1f26e126526f8666adbd3803fb14b30015"
+	},
+	"\/NASCAR_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475388088",
+	  "size": "299609",
+	  "md5": "bf2db3a673de7e067aa1715a2004935b",
+	  "crc32": "ef42d8b4",
+	  "sha1": "b5fb66e05ccb78fcf703a43e074ef7f75ebae2c4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/nascar.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1408302082",
+	  "size": "16031",
+	  "md5": "b35ba9df1d6e8ede3a8a47f72afac220",
+	  "crc32": "67c1d966",
+	  "sha1": "30b0e94bb414f4284c79f778438113ebcdeb6c81"
+	},
+	"\/nascar_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "nascar.png",
+	  "mtime": "1408302109",
+	  "size": "5479",
+	  "md5": "989719841d7869b409f1df9379a30a89",
+	  "crc32": "d606d1f4",
+	  "sha1": "21adc49a61fe6c2c62fe0a3dd2ea49877face731"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475388077",
+	  "size": "375642",
+	  "md5": "cb32646e3208bb68c6d7f3d96732508a",
+	  "crc32": "f53179d9",
+	  "sha1": "5f8cffb49ae86941298d56b45925259ce04cdbe4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475388105",
+	  "size": "7007",
+	  "md5": "98b26c423d84b2ca2ffd674de25fa6c0",
+	  "crc32": "8396e357",
+	  "sha1": "7918c8122ccb95bacbbc650169451cc84d335fa3"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475388080",
+	  "size": "304657",
+	  "md5": "0c8365753a4cb4941dc4fb17459f3c99",
+	  "crc32": "ea928e63",
+	  "sha1": "d834c69dbb1fc16c25a696f7373472b55db28347",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475388106",
+	  "size": "5728",
+	  "md5": "8bc341521caaf38137aaace7ff154a1b",
+	  "crc32": "fc405ce0",
+	  "sha1": "f8532166122b7abc5452cc5b6ce8cc3e48c37fc1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902308.us.archive.org\/30\/items\/NASCAR_201408\/NASCAR_201408.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 382,
+	"week": 5,
+	"month": 14
+  }
+}

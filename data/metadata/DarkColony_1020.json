@@ -1,0 +1,148 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/7/items/DarkColony_1020",
+  "metadata": {
+	"identifier": [
+	  "DarkColony_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Alternative Reality Technologies"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Strategic Simulations"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Dark Colony Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 04:39:55"
+	],
+	"addeddate": [
+	  "2012-09-05 04:39:55"
+	],
+	"description": [
+	  "In the near-future world of Dark Colony, your mission is to finish the bitter war between a repulsive alien race and human colonists on planet Mars. Decide between humanity's superior robotics and cybernetics, and the frighteningly advanced genetic technology of the alien competition.\n\nThis game features some of the impressive 3D graphics, lighting effects, explosions, and gallons of blood all supported by cutting-edge MMX technology. Among the game's features are a special lighting engine that gives it great shadow and special effects, three types of artificial intelligence, and the ability to engage in network play with eight players via modem, LAN, or online. \n\nThe demo allows you to take part in an action-packed scenario that takes off screaming. Play on both human and alien sides. Both teams can use standard fighting and reconnaissance units."
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/DC-demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1403905841",
+	  "size": "44246089",
+	  "md5": "8acaa44ef7f493d18c53d717e52c4a3d",
+	  "crc32": "4efc0950",
+	  "sha1": "8d2925840536cf22008fecbdb04f57a20e8eb269"
+	},
+	"\/DarkColony-MagDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1435263430",
+	  "size": "51742149",
+	  "md5": "a6a13fa87e747dbc906a069927deee3e",
+	  "crc32": "0e4b5dc9",
+	  "sha1": "8fa14fc46bc14ec27c81c071a652e10a26bebaaa"
+	},
+	"\/DarkColony_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "6dd87afbf8f3297ff79c56b31d16ee620094388b",
+	  "mtime": "1464448740",
+	  "size": "6258",
+	  "md5": "80aca6dbc73ff5f64540c1c474d1047d",
+	  "crc32": "8e241e91",
+	  "sha1": "c4269364c34349f9fd1571150c1205f35706e317",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DarkColony_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "564419099d44c084ed46cbeb5d7d0505"
+	},
+	"\/DarkColony_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464448737",
+	  "size": "1646",
+	  "md5": "5f798cdaedc6906cf225358fd7818603",
+	  "crc32": "b000dfd1",
+	  "sha1": "328af5aae1c1d7eecc9a50869f57fa475860c97d"
+	},
+	"\/dcsmall.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346820101",
+	  "size": "10891050",
+	  "md5": "641757fe6438f70151782e5705ea7654",
+	  "crc32": "03dc762d",
+	  "sha1": "da5d94ebfc9085d0e5017bbe77704b55d2250ded"
+	},
+	"\/dcsmall.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820101",
+	  "size": "712",
+	  "md5": "a01e92efadb42a449dc3698551ec0ede",
+	  "crc32": "58d4cf53",
+	  "sha1": "a5a8c660be20aad89a7e342c1d723b113d5abb26"
+	},
+	"\/resource_item_3138.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346820103",
+	  "size": "19063",
+	  "md5": "2fcae345486fc3496eead64c2eec787b",
+	  "crc32": "54c6e29b",
+	  "sha1": "5afea2c9978aa4ef72d2b47f23c83badf69dcd6a",
+	  "rotation": "0"
+	},
+	"\/resource_item_3138.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820103",
+	  "size": "272",
+	  "md5": "fd98b52854b212a08d00a03458ec691c",
+	  "crc32": "4d374d25",
+	  "sha1": "e4ed4db6345ba95bbf93de2615fd3220d9d04a7f"
+	},
+	"\/resource_item_3138_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3138.jpg",
+	  "mtime": "1346822723",
+	  "size": "5883",
+	  "md5": "208aaf7e310f29a0e6c26af3c1c2d957",
+	  "crc32": "8cd1cd3e",
+	  "sha1": "9add7c863ca4cf221c5da30eba375a529ebbc04b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/7\/items\/DarkColony_1020\/resource_item_3138_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 664,
+	"week": 5,
+	"month": 18
+  }
+}

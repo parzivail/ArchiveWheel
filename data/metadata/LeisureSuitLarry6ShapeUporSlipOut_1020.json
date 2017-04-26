@@ -1,0 +1,376 @@
+{
+  "server": "ia800806.us.archive.org",
+  "dir": "/14/items/LeisureSuitLarry6ShapeUporSlipOut_1020",
+  "metadata": {
+	"identifier": [
+	  "LeisureSuitLarry6ShapeUporSlipOut_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Leisure Suit Larry 6: Shape Up or Slip Out! Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:35:56"
+	],
+	"addeddate": [
+	  "2012-09-04 03:35:56"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"PLAY THIS GAME. PLAY IT HARD.\n\nImagine being stranded in a luxurious resort, surrounded by NINE - COUNT 'EM - NINE breathtakingly beautiful babes. Imagine throwing them your best pick up lines, watching them melt with anticipation and desire. Imagine them dragging you to their soft, secret boudoirs, panting in your ear, ripping at your expertly tailored white polyester leisure suit, taking you to all new passionate places before they...\n\nNah. On second thought, imagine you're Leisure Suit Larry.\n\nThe most popular nerd in the history of computer gaming is back. This time he's won a two week vacation at a wacky, Toon-toned resort, filled with heartachingly realistic babes.\n\nIT'S BIGGER: More jokes, more gags, more objects, more challenges, and more silly, sexy situations! Snoop around dozens of loony locations and meet lots of animated characters.\n\nIT'S LONGER: Help Larry on his quest to conquer nine intensely beautiful women, all rendered in an amazingly lifelike fashion. Each of them has a secret desire (wink, wink) and it's up to Larry (and you) to satisfy them.\n\nIT'S HARDER: More prurient puzzles, more baudy brain teasers, more trashy inventory items, and more hilarious mishaps than ever!\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234718[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "LL6DEMO\/aniplay demo.scr -d vesa 1 -a"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444825332",
+	  "size": "600927",
+	  "md5": "280c06737a1ca8fb656d48b38de6f7b2",
+	  "crc32": "ca4df9a3",
+	  "sha1": "4f847c0eab22a7bb654b60c1a977309b47a4831a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444825388",
+	  "size": "7666",
+	  "md5": "1c4630199b44da4fbf5f736e6fa14db8",
+	  "crc32": "e9497320",
+	  "sha1": "e5e7bee5c23b6ce11793c1ddaa95fc58396d5d5b"
+	},
+	"\/LeisureSuitLarry6ShapeUporSlipOut_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444825360",
+	  "size": "193165",
+	  "md5": "71e501097ac6bd96408f2d3e16a72e1b",
+	  "crc32": "4e88af5d",
+	  "sha1": "b0b4de8b3fb373d0d9f26bc4fa63063645b809fe",
+	  "format": "Animated GIF"
+	},
+	"\/LeisureSuitLarry6ShapeUporSlipOut_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "903d42a47c88fe7636a5b94c05bb43eb"
+	},
+	"\/LeisureSuitLarry6ShapeUporSlipOut_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444825408",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "2966b5ceab8b705b17d096fd0de30d97",
+	  "crc32": "1ed8deec",
+	  "sha1": "a0c6b0d0ebc0392cc6be95ef1a54d4ed8e3c4316"
+	},
+	"\/LeisureSuitLarry6ShapeUporSlipOut_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462830794",
+	  "size": "2150",
+	  "md5": "c8370e02c3e69bfeacee2be3f312b450",
+	  "crc32": "3faa0241",
+	  "sha1": "900697e470b6097eac5168558264497931b9486e"
+	},
+	"\/ll6demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346729769",
+	  "size": "1172235",
+	  "md5": "93242e84dc0f76948bef1cefa870fbc3",
+	  "crc32": "4b061de7",
+	  "sha1": "2d742b62477843790455e119acd467fda4cba2b6"
+	},
+	"\/ll6demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729769",
+	  "size": "648",
+	  "md5": "d33f33eccfc4ec3628519ade7075d580",
+	  "crc32": "09ae0b25",
+	  "sha1": "ecee6971bdd768d02650c2d541182c634ee6596b"
+	},
+	"\/ll6demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444825382",
+	  "size": "1529968",
+	  "md5": "48b016143322b1f3c2cca7edb972560a",
+	  "crc32": "46acc39e",
+	  "sha1": "3dbba495aeffeb159f8fea7d7968b1b596b51c36",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1565.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346729771",
+	  "size": "9696",
+	  "md5": "34ffab175163d796c89970eb3c31d6f6",
+	  "crc32": "752630ab",
+	  "sha1": "19aa175db52da4900a0ffbba172a980d13c571e0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1565.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729771",
+	  "size": "271",
+	  "md5": "d99b0f8f45b8746ce3d22e424508b71c",
+	  "crc32": "9e892261",
+	  "sha1": "dc4b8dd36424d70607226e89de4836bb02d72583"
+	},
+	"\/resource_item_1565_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1565.jpg",
+	  "mtime": "1346730475",
+	  "size": "3657",
+	  "md5": "879e354a759628cb6e48e687b90b8e15",
+	  "crc32": "9a04e9ac",
+	  "sha1": "b0285a619d3e8eddab17430b035f77137d512e0f"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444825335",
+	  "size": "600927",
+	  "md5": "280c06737a1ca8fb656d48b38de6f7b2",
+	  "crc32": "ca4df9a3",
+	  "sha1": "4f847c0eab22a7bb654b60c1a977309b47a4831a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444825389",
+	  "size": "7666",
+	  "md5": "1c4630199b44da4fbf5f736e6fa14db8",
+	  "crc32": "e9497320",
+	  "sha1": "e5e7bee5c23b6ce11793c1ddaa95fc58396d5d5b"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444825338",
+	  "size": "397186",
+	  "md5": "c2ee698b19d9ca63269e45cd499c1e36",
+	  "crc32": "abd7bfcb",
+	  "sha1": "8a0ff05c4f60d3ce6a6727f25dcdef51172ad494",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444825385",
+	  "size": "3444",
+	  "md5": "56b279e0db7b4b0cb0a9baa3f1763825",
+	  "crc32": "ade3bb5e",
+	  "sha1": "572a10e8d35bb3b1c839232481a8a8f6c0c59bf2"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444825340",
+	  "size": "499360",
+	  "md5": "403a859a9072e27c828ada985f72ee2d",
+	  "crc32": "d1002d40",
+	  "sha1": "d739bf58d8bf5ccae4e94b81469a9ed3be9cb981",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444825386",
+	  "size": "5461",
+	  "md5": "5dc2506f7c3fcd93289f84fe704de15a",
+	  "crc32": "9c6eebdf",
+	  "sha1": "bd132d183db6474addbb8637edeb9281189e283a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444825343",
+	  "size": "555636",
+	  "md5": "8a7cd084dff517d7cb682a0815c33c45",
+	  "crc32": "d788eff1",
+	  "sha1": "bb2870b6873ef7106b02f2cc11d9d3aaaa79af89",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444825387",
+	  "size": "7054",
+	  "md5": "d49af66564b656c56d1663cc2d99d03a",
+	  "crc32": "8bbf4301",
+	  "sha1": "2152c4d008e5c0bfc22822ec97312cf4bf0f5702"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444825345",
+	  "size": "446134",
+	  "md5": "150e97a7968f062f8215b374d2ad67b9",
+	  "crc32": "a83ccded",
+	  "sha1": "9f1395491d441ff9dcaaa70667f628e4d6406e06",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444825390",
+	  "size": "4092",
+	  "md5": "817ebe36847f43148345a6c48d66dd3e",
+	  "crc32": "19e78dc2",
+	  "sha1": "149e7be438712ce5aaa07df4dd312385ad7adf11"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444825347",
+	  "size": "545672",
+	  "md5": "ca40363c7823d8ce7284431291637e60",
+	  "crc32": "8ff00216",
+	  "sha1": "c5cadcbd6b072f3afc8afa9ce43b6ec24d17147c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444825395",
+	  "size": "6944",
+	  "md5": "758c98c2bd050e50710593a452afc997",
+	  "crc32": "efc2ffc3",
+	  "sha1": "c04cae065933f137f463a8aa1ef81b4e086b41f9"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444825350",
+	  "size": "501544",
+	  "md5": "31738447553ea0941eedabc31f311bdb",
+	  "crc32": "cc3cbdcb",
+	  "sha1": "9ff8bd2310b467d74e81993f9501f3d5673ef605",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444825396",
+	  "size": "4615",
+	  "md5": "016a37069b38d34d9244deed2a55a805",
+	  "crc32": "65600672",
+	  "sha1": "31ae6a57d6107dcd20fe8f14853c70a5b2e0035c"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444825352",
+	  "size": "540143",
+	  "md5": "be2ad23416405d879341de545d210127",
+	  "crc32": "5a8e3a44",
+	  "sha1": "0db9cd9f7640435e7c5bd3322a8eae1df0311b0a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444825391",
+	  "size": "5355",
+	  "md5": "69e6f7fa8c1fc02cddc3921eb8a612b3",
+	  "crc32": "1631ddb9",
+	  "sha1": "298ba03f28f070f888e78c5fc4d39ce7eea61fbe"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444825354",
+	  "size": "514693",
+	  "md5": "031644cc6071ac674cbc356089be0f2c",
+	  "crc32": "09db2c77",
+	  "sha1": "4db496414f82381e45bf09ed474cdb26dc80a375",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444825393",
+	  "size": "5435",
+	  "md5": "826feaf99ff4124bc9183ce2c8992d7a",
+	  "crc32": "2d84d3f3",
+	  "sha1": "f5fc8be74f6da83ed52a28269babd4dc06a7f7c5"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444825357",
+	  "size": "556315",
+	  "md5": "d7f3c7dbd26311af9aeaca41ac5acdc0",
+	  "crc32": "02a99747",
+	  "sha1": "38da65338ba3964cf39d91ff0b50729c95d3ff6b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444825394",
+	  "size": "6538",
+	  "md5": "24ff368bfabcbdb426a416d0c49af947",
+	  "crc32": "2a6d7c1f",
+	  "sha1": "1d1e13e9283879bc05a11bc48ec9f2e7d67131ed"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600806.us.archive.org\/14\/items\/LeisureSuitLarry6ShapeUporSlipOut_1020\/LeisureSuitLarry6ShapeUporSlipOut_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 12218,
+	"week": 29,
+	"month": 106
+  }
+}

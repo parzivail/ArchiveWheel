@@ -1,0 +1,448 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/5/items/FreddyPharkasFrontierPharmacistDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Freddy Pharkas: Frontier Pharmacist Demo"
+	],
+	"description": [
+	  "\"Al Lowe, author of Leisure Suit Larry, abuses the Old West in computerdom's first Comedy Western: Freddy Pharkas, Frontier Pharmacist.\n\nAnd you get to live that legend... the tall-but-twisted tale of a man raised as a gunslinger, who game it all up for his first love: pharmacology!\n\nThe year is 1888; the setting, post-Gold Rush California. As Freddy Pharkas, Frontier Pharmacist, you uncover a treacherous plot to turn your once-thriving metropolis into a ghost town. With pestles and pistols, you defend your bucolic burg from one catastrophe after another: arson, stampedes, hired guns, riverboat gamblers...even terminal flatulence!\n\nAl Lowe has stolen...er, immortalized...every Hollywood Western cliche' and character, adding his own perverse twists to produce his funniest game yet! You'll meet the pretty-but-shy Schoolmarm, the Madame with a Heart-of-Gold, the faithful Indian sidekick (Srini Lalkaka Bagdnish), and a cast of the most memorable characters ever to grace your monitor's silver screen.\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"identifier": [
+	  "FreddyPharkasFrontierPharmacistDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 09:24:49"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"publicdate": [
+	  "2012-08-05 09:25:10"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "SIERRA.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475267572",
+	  "size": "408523",
+	  "md5": "6233e614604a9c1fc93261a39874b43e",
+	  "crc32": "f93638f8",
+	  "sha1": "b3aca2c72624915db4db84cddeb03ab30631a401",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475267662",
+	  "size": "6925",
+	  "md5": "0230758f342a724d1745e3441ac7e1dd",
+	  "crc32": "684505e6",
+	  "sha1": "9675e00da64642a70f2bfce7ccd0333d268183d0"
+	},
+	"\/FreddyPharkasFrontierPharmacistDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475267623",
+	  "size": "125569",
+	  "md5": "5aa6d1e3609700a504217aeb0dfa92c4",
+	  "crc32": "5a252b63",
+	  "sha1": "d0aa01bc67b756cd24e84d9ea70a3cbc14c0f0b1",
+	  "format": "Animated GIF"
+	},
+	"\/FreddyPharkasFrontierPharmacistDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4ea795c466f9567cd4cd77fafb2d25c32fb6ccb1",
+	  "mtime": "1475267678",
+	  "size": "8052",
+	  "md5": "7fb5d830956f7896f316bd08a2ba442f",
+	  "crc32": "e0b91402",
+	  "sha1": "b799583bfe89dbc451f67367f944d12bc1430a43",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FreddyPharkasFrontierPharmacistDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "379efb15ac99af4376381487314533c9"
+	},
+	"\/FreddyPharkasFrontierPharmacistDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475267636",
+	  "size": "15360",
+	  "md5": "4a26ae2d338e1e88c3b37962d8b6a5c6",
+	  "crc32": "2b47713b",
+	  "sha1": "11cfc02bae25147bf3e5d30a8ce412946371609e",
+	  "format": "Metadata"
+	},
+	"\/FreddyPharkasFrontierPharmacistDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471821997",
+	  "size": "1927",
+	  "md5": "c34f2d0dd49e7940bb3f50a8194fd17e",
+	  "crc32": "f12389ab",
+	  "sha1": "7ea99e00611409c48eed387744441e8d442ef9aa"
+	},
+	"\/fredphar.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471822102",
+	  "size": "1299502",
+	  "md5": "8ec95a94e690ccd9acf59516cf6da92b",
+	  "crc32": "e08c9c59",
+	  "sha1": "2e6801eaeb214afe61c9a251a695aa23ba9fac6c"
+	},
+	"\/fredphar_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475267631",
+	  "size": "1225980",
+	  "md5": "d031771aae7fa73ff4b489ce74bcda9b",
+	  "crc32": "aa76fdf4",
+	  "sha1": "16aba2062bbd0fc29b4246747f8f1d5106348244",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_435.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344158666",
+	  "size": "21143",
+	  "md5": "f8405a593089476afb2353241893f73c",
+	  "crc32": "1f96245b",
+	  "sha1": "bc70778958558d5fc6f7fa06e06393fb2e4bc681",
+	  "rotation": "0"
+	},
+	"\/resource_item_435_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_435.jpg",
+	  "mtime": "1344158698",
+	  "size": "6751",
+	  "md5": "468ce1a1541d4a5da65bf3f5ef3bb494",
+	  "crc32": "182fa74f",
+	  "sha1": "57153497bd0dae32154e49e6c09ae9f45288c230"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475267575",
+	  "size": "103627",
+	  "md5": "19296abb3dbecfeb3479fb66467b3add",
+	  "crc32": "608b1116",
+	  "sha1": "ea7cb50a6c3d174c2daa220ae0ae2f7b2130de29",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475267657",
+	  "size": "4109",
+	  "md5": "af7a9be3cb0ef0c2975508c874de3f7f",
+	  "crc32": "05b18ddc",
+	  "sha1": "1191d4f65c10db1eef0e0841675b759613a3c9fa"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475267578",
+	  "size": "101836",
+	  "md5": "f959b296629f0afb9dc31850a2e0f848",
+	  "crc32": "2b097192",
+	  "sha1": "7a69a8927f623de832e558da7e69279a097b25c7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475267665",
+	  "size": "4060",
+	  "md5": "d601404adc89dd0d8466239516f83291",
+	  "crc32": "722f7bf7",
+	  "sha1": "0bc4ba3f7ed679cd52c0d64705ebb3699c79ea17"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475267582",
+	  "size": "103705",
+	  "md5": "0f84779677db2fa8c15962bae1ff91f4",
+	  "crc32": "888724f3",
+	  "sha1": "07bb8d3c5cf5f13df149e634494c92f96f142245",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475267650",
+	  "size": "4028",
+	  "md5": "30ec2470f6d1037207eace44465a8e06",
+	  "crc32": "71043a0f",
+	  "sha1": "98047f72cc77a3db53be128240ab989d2de36e38"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475267585",
+	  "size": "103785",
+	  "md5": "2b65f92bc0490fcbec6d75fa2f3004f5",
+	  "crc32": "e80063d5",
+	  "sha1": "68bc9dc02a26558f14ddafb11cc3be0e702a1f4b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475267658",
+	  "size": "4029",
+	  "md5": "8768fe7e1a086e84e813c8e65a409beb",
+	  "crc32": "2ba7a735",
+	  "sha1": "932a7fa50f90ed38d03d52f1600d460d1983bf30"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475267588",
+	  "size": "103899",
+	  "md5": "513994a44db1bd55fffca3c73b28c715",
+	  "crc32": "d0a1d9a3",
+	  "sha1": "2aaf1c84011a651295aeb3153fcb2bbda829f7a0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475267663",
+	  "size": "4061",
+	  "md5": "2e7463efa07a6d1eaee13295638ccf93",
+	  "crc32": "36263630",
+	  "sha1": "9ce7de59f8ceba3886709e744a8f625d15c953a1"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475267592",
+	  "size": "102548",
+	  "md5": "13d8c3640a922d6496453cbc10745ac2",
+	  "crc32": "0b9b5043",
+	  "sha1": "43c6244ddd25c7a8e91e6deb787d29789b44d9b0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475267660",
+	  "size": "4094",
+	  "md5": "264e5faf3ef18e5ae3d4b55f5c3d0498",
+	  "crc32": "c4253959",
+	  "sha1": "3386f8c89a4fc43636151dfabe3c09cfe23ec6a8"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475267595",
+	  "size": "103438",
+	  "md5": "b78fe9d84db404c46d9baefb1b81348c",
+	  "crc32": "25751ab8",
+	  "sha1": "477549336b6ba9b85abed517cdd1cca68e83d9ba",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475267666",
+	  "size": "4136",
+	  "md5": "c8a6771f5d3e852c8fcab75ece9b2840",
+	  "crc32": "ea6d9af1",
+	  "sha1": "b5a1bd3c1b7e1c6ebeacc6304c1bc880b95917ab"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475267599",
+	  "size": "335222",
+	  "md5": "5d9a2b41464f6f98407dbc0c1eb1573b",
+	  "crc32": "ce9fc786",
+	  "sha1": "ca07cad476754c597bb925b297d6fe9a091f44c3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475267673",
+	  "size": "4349",
+	  "md5": "5f6628f58f5f2b8d35f03fb37c90f1d2",
+	  "crc32": "2b8b9e22",
+	  "sha1": "619b2944fe634f98372e90727b6d52f39fdd01f0"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475267601",
+	  "size": "392136",
+	  "md5": "5c9080a6b2f20987776320a52e3fbcec",
+	  "crc32": "657c0e24",
+	  "sha1": "fb69938afdd78943993afc427486938589f5c4cc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475267669",
+	  "size": "5702",
+	  "md5": "35cf8db3b2555df7652a175333c6a087",
+	  "crc32": "91981aed",
+	  "sha1": "558341374bc8ef86911c7d0a729b45aed261f55c"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475267605",
+	  "size": "400138",
+	  "md5": "7ae15756ff13a6dccce45c236963f554",
+	  "crc32": "70369a6f",
+	  "sha1": "cd62266fc0ed5ff217795be06904c1b9c1015713",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475267676",
+	  "size": "6516",
+	  "md5": "55ccc8f7aca6cd8d0add6724c1184bc3",
+	  "crc32": "e6efa44b",
+	  "sha1": "5e1a1fdd9492a6916f19dd15a4b1e15be5a68fb0"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475267608",
+	  "size": "408523",
+	  "md5": "6233e614604a9c1fc93261a39874b43e",
+	  "crc32": "f93638f8",
+	  "sha1": "b3aca2c72624915db4db84cddeb03ab30631a401",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475267668",
+	  "size": "6925",
+	  "md5": "0230758f342a724d1745e3441ac7e1dd",
+	  "crc32": "684505e6",
+	  "sha1": "9675e00da64642a70f2bfce7ccd0333d268183d0"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475267612",
+	  "size": "396540",
+	  "md5": "a1bc8bba25919fae926a1efd1dda5671",
+	  "crc32": "8df6aedf",
+	  "sha1": "b9d42c24f6218f982fdf07a8d77170d8b2af3ec5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475267671",
+	  "size": "7311",
+	  "md5": "6c34533d0475ded45a8ce3d2cd141bd2",
+	  "crc32": "efd141af",
+	  "sha1": "46ebbebe51a3f1f3da4dc93ad53cc8d84a30f836"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475267615",
+	  "size": "382060",
+	  "md5": "5c390489fa3fb0d9f7c59c3a4d172bec",
+	  "crc32": "7e9936cf",
+	  "sha1": "14dc55b30648775bbd401065566075fff3e76474",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475267675",
+	  "size": "6155",
+	  "md5": "25f70240034d7359034ca60559499ec3",
+	  "crc32": "5a9fa73a",
+	  "sha1": "7defc34a211981d0d29fccb1d43de2674f88ba37"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475267618",
+	  "size": "328509",
+	  "md5": "ffdf7b56c1d3cd00b7b2afc518e5e3cd",
+	  "crc32": "3abc6e87",
+	  "sha1": "8acaeda0d687da3042358b867c905a3e6c905bda",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475267672",
+	  "size": "6891",
+	  "md5": "583262ec16df25e3274ac6286ffbc012",
+	  "crc32": "e506aaab",
+	  "sha1": "fe563d7093917d5bff33e8950ca72153ac3ad0b3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/5\/items\/FreddyPharkasFrontierPharmacistDemo\/FreddyPharkasFrontierPharmacistDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 368,
+	"week": 7,
+	"month": 10
+  }
+}

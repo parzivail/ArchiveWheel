@@ -1,0 +1,116 @@
+{
+  "server": "ia601004.us.archive.org",
+  "dir": "/8/items/TH2003Demo",
+  "metadata": {
+	"identifier": [
+	  "TH2003Demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Southlogic Studios"
+	],
+	"date": [
+	  "2002"
+	],
+	"description": [
+	  "Hop in your pickup truck and head out into the wilderness of New Mexico in this demo. Limited features are offered but it's still enough to bag you some big time game."
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Trophy Hunter 2003 Demo"
+	],
+	"year": [
+	  "2002"
+	],
+	"publicdate": [
+	  "2013-11-30 01:18:33"
+	],
+	"addeddate": [
+	  "2013-11-30 01:18:33"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233555[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_20"
+	]
+  },
+  "files": {
+	"\/TH2003Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385774464",
+	  "size": "101823440",
+	  "md5": "a86f4e9cc39838a69dcc8e1c7e5dd562",
+	  "crc32": "a9b34151",
+	  "sha1": "09120c25c8e68f93bb1dea99d7675fad52358d42"
+	},
+	"\/TH2003Demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1385774312",
+	  "size": "272277",
+	  "md5": "a84b06c2553fa2063484dcd8f64af7f1",
+	  "crc32": "605f595d",
+	  "sha1": "47e2fb61881a4dbac2835eb83a36484652c9908a"
+	},
+	"\/TH2003Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "febc16ff394a0fc717d534f454700f6e"
+	},
+	"\/TH2003Demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385774469",
+	  "size": "12288",
+	  "md5": "c556440ba9c4a8392dc3de3378cbbee7",
+	  "crc32": "ef4707b0",
+	  "sha1": "aebb91de1a3669b40c9b7fed24f726a32b5d9e33"
+	},
+	"\/TH2003Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475306266",
+	  "size": "1016",
+	  "md5": "df765e9d84048f12ecf0567fa6fbde3a",
+	  "crc32": "14f01278",
+	  "sha1": "5e81888a1269467839643e36a51b30bb0433b006"
+	},
+	"\/TH2003Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TH2003Demo.png",
+	  "mtime": "1385774482",
+	  "size": "2761",
+	  "md5": "af963a2e28f8c26521784aacb6be276f",
+	  "crc32": "aa517ba5",
+	  "sha1": "aa7473131e4d4e5637f29b532ed13e56b4ddcbf4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601004.us.archive.org\/8\/items\/TH2003Demo\/TH2003Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5472,
+	"week": 41,
+	"month": 163
+  }
+}

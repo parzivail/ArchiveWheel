@@ -1,0 +1,473 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/11/items/Phylox_1020",
+  "metadata": {
+	"identifier": [
+	  "Phylox_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Beavis-Soft"
+	],
+	"date": [
+	  "1992"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Andrew Edwardson"
+	],
+	"publisher": [
+	  "Precision Software Publishing"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Phylox"
+	],
+	"publicdate": [
+	  "2012-09-04 01:29:58"
+	],
+	"addeddate": [
+	  "2012-09-04 01:29:58"
+	],
+	"year": [
+	  "1992"
+	],
+	"description": [
+	  "\"This is a demo version of our shareware game named PHYLOX . It is a true shoot-em-up featuring 256 colour graphics (Real ones!) and some of the best animated characters you have ever seen. Get the registered version and receive all the levels with full Sound Blaster support.\n\nThe end of level guardians are as big as you would see on any of the consoles at half the price! We have been working on it for over a year with the intention of proving the PC is worthy of good arcade action.\n\nIt is a blast from the past with a 90's feel about it. Play it with the lights out to get the most out of it. You need a computer with at least a 12mhz processor and a decent VGA card.\""
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233201[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "PY.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475419224",
+	  "size": "156591",
+	  "md5": "4e92630b5f22e677c941fdcb99ae6bc7",
+	  "crc32": "bc620082",
+	  "sha1": "f15bd01ddd01605fe91ae08b46498490fe4b23e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475419314",
+	  "size": "5064",
+	  "md5": "4869b32b9757265e94f40de22ac3111d",
+	  "crc32": "5435f37d",
+	  "sha1": "40f73d67cfc3c7ed0945ca077354972ac269ef48"
+	},
+	"\/Phylox_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475419285",
+	  "size": "15378",
+	  "md5": "3376a6c36eed3d509217e699d7512685",
+	  "crc32": "5a15a6bc",
+	  "sha1": "c20c8077acc100154a3d5af4e423449c20bfda50",
+	  "format": "Animated GIF"
+	},
+	"\/Phylox_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "2af4f376752c0a142c097992ffa8d63d7b780ac6",
+	  "mtime": "1475419335",
+	  "size": "7687",
+	  "md5": "cd7c35e98d7fe6bd0038ea871da850da",
+	  "crc32": "c5a0b8e7",
+	  "sha1": "85101a18affd3c5feb84b85eb8d3d5d1c4e25f1d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Phylox_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9e325a2be6a11db09fc4d78191f2c400"
+	},
+	"\/Phylox_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475419294",
+	  "size": "15360",
+	  "format": "Metadata",
+	  "md5": "5380521221625a64c8d41b64321d4224",
+	  "crc32": "552dd4b2",
+	  "sha1": "f380a2780db2f1583b9548c844d7cdb2f8db097a"
+	},
+	"\/Phylox_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471124815",
+	  "size": "1599",
+	  "md5": "d0bcfd34cbfc9ace22bd93f843eb848b",
+	  "crc32": "317e0654",
+	  "sha1": "bb1601f253ef13e0a82f0eb522687e8952ad77b7"
+	},
+	"\/Phyloxsw1992beavis-softaction.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Phylox [SW] (1992)(Beavis-Soft) [Action]",
+	  "mtime": "1366877664",
+	  "size": "330132",
+	  "md5": "b79aaff86792ae6c169438ba194a5c98",
+	  "crc32": "b6bb2000",
+	  "sha1": "7ae55de0f1fd9fa2b22f6a8c3fbaefb6495576e4"
+	},
+	"\/Phyloxsw1992beavis-softaction_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475419290",
+	  "size": "233765",
+	  "md5": "643184ed06008be20ff755860aff1ba8",
+	  "crc32": "fa7b3ea3",
+	  "sha1": "0bd7f44fbd43fa2f6fcf7a6bff15a68551b162c3",
+	  "format": "Emulator Screenshot"
+	},
+	"\/phylox.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346722203",
+	  "size": "741",
+	  "md5": "2ead532adc8d754115971153655edf54",
+	  "crc32": "98a60bc6",
+	  "sha1": "d80954bd0f7b82c4c639b3f24ffc6a51a07954ac"
+	},
+	"\/resource_item_1152.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346722622",
+	  "size": "8949",
+	  "md5": "9c19fbb48b6d07f9bdbc3754bde37302",
+	  "crc32": "e19c1ae2",
+	  "sha1": "742439978c720dd05058e022ed70f0246cc31cdc",
+	  "rotation": "0"
+	},
+	"\/resource_item_1152.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346722622",
+	  "size": "271",
+	  "md5": "28eecfbaf18e66b03fae492e6a78a5e2",
+	  "crc32": "ad7cfb40",
+	  "sha1": "0203ebe36b8f1e773842d4ed8a7b3031478f4c81"
+	},
+	"\/resource_item_1152_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1152.jpg",
+	  "mtime": "1346723535",
+	  "size": "3157",
+	  "md5": "5c1dbc1fd3f119519d6769b84c061995",
+	  "crc32": "48a2be4d",
+	  "sha1": "3dddd5b89bbe84abf267f326c5f3897606df4ec2"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475419227",
+	  "size": "92936",
+	  "md5": "231d38c6d2806392c07049af8c23895b",
+	  "crc32": "7ed8ae43",
+	  "sha1": "398d1f1ebfc6c855441fbb948fce2f282310166a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475419309",
+	  "size": "3275",
+	  "md5": "8c3e7f5edd6f8fc7902fdd8b74427b75",
+	  "crc32": "a8d251f5",
+	  "sha1": "43bc84108faab600d844fc00840f69e6a43ce253"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475419230",
+	  "size": "107038",
+	  "md5": "7a514317ac44f9002f293602c988c30e",
+	  "crc32": "7154f671",
+	  "sha1": "fd53543a3fb801b250d87adedb66908eaf842b86",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475419317",
+	  "size": "3335",
+	  "md5": "478d097c8cbfeb0f80a8364129b0a8e5",
+	  "crc32": "938535a0",
+	  "sha1": "f83cd9a7f968f603f4edc111938ab61fae5a0d40"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475419232",
+	  "size": "115337",
+	  "md5": "e155497ed74795a5cf5b886943e1d4b7",
+	  "crc32": "cb63a617",
+	  "sha1": "421d4ace98c9aafe131e5884f989ad5cbbe848c9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475419304",
+	  "size": "3458",
+	  "md5": "184053d56d216d500ae6e0a0fd90c936",
+	  "crc32": "db4d0543",
+	  "sha1": "a76b45e2635eb4b2345ac3d2b8136ad47aa1f7f0"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475419236",
+	  "size": "91920",
+	  "md5": "a825bfe3e05d2587bc4739b58fa1fb1a",
+	  "crc32": "3f7fddea",
+	  "sha1": "ac8152957a541a5dd70849aa1d3479d87fb49521",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475419310",
+	  "size": "3120",
+	  "md5": "0014e7a0ba281c6b6b792f5dcb4fcb38",
+	  "crc32": "1db20587",
+	  "sha1": "63f54397227f4e511f51ac847d682c3dc308dda9"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475419242",
+	  "size": "38989",
+	  "md5": "4311fe0233aeae552cf7217df8ea04a9",
+	  "crc32": "467a3f83",
+	  "sha1": "9ff838189ee3dbbb909747c911f7f75da1e12eb4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475419316",
+	  "size": "1023",
+	  "md5": "3cf52e7b1684a60fc7f9036b8fe7016c",
+	  "crc32": "867651dd",
+	  "sha1": "280b90eab179f475b908b6b5c3b2b082ac565c45"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475419244",
+	  "size": "147527",
+	  "md5": "270eecce259e9b3cbb307457b10fce92",
+	  "crc32": "0666be0a",
+	  "sha1": "3aaba53f4e94e4990fa93f4537d1a76e132d70e6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475419312",
+	  "size": "4534",
+	  "md5": "ea474b7e5f450ecfc714211f716ada00",
+	  "crc32": "2f4e4e93",
+	  "sha1": "e1ba8dab5a934a13061f6d1e5e6adfbf5d36e060"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475419247",
+	  "size": "156591",
+	  "md5": "4e92630b5f22e677c941fdcb99ae6bc7",
+	  "crc32": "bc620082",
+	  "sha1": "f15bd01ddd01605fe91ae08b46498490fe4b23e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475419318",
+	  "size": "5064",
+	  "md5": "4869b32b9757265e94f40de22ac3111d",
+	  "crc32": "5435f37d",
+	  "sha1": "40f73d67cfc3c7ed0945ca077354972ac269ef48"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475419249",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475419325",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475419252",
+	  "size": "108587",
+	  "md5": "ca242277555a6722bc81897a6072bcce",
+	  "crc32": "2c653f33",
+	  "sha1": "69ef28e3f60d59d667973b53e546139905b0da52",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475419321",
+	  "size": "4651",
+	  "md5": "136530d77750ef6c92cc40ccced96ecc",
+	  "crc32": "b0fac159",
+	  "sha1": "65cadeea0ac05a2054b3659241fb755b5238f63e"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475419261",
+	  "size": "63837",
+	  "md5": "cc43b5c9dc89795fb524a213dac74580",
+	  "crc32": "b82cb117",
+	  "sha1": "b647b52e07a6ecc14afe7877174f4ca443e96e4b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475419331",
+	  "size": "2227",
+	  "md5": "711123e4b1cba4f0a7838a12cf9e3051",
+	  "crc32": "dc642eac",
+	  "sha1": "6c373baf9228df19300ae738e8cd02b25d457fa2"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475419267",
+	  "size": "155659",
+	  "md5": "0622fe72ef1a57fccf03958f4dc6ec76",
+	  "crc32": "4b4734e4",
+	  "sha1": "294ed2d91176ec2e959eec20a96098e38da68009",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475419320",
+	  "size": "5029",
+	  "md5": "ac3db447e55a7f80c232949c716ee191",
+	  "crc32": "0d68fca8",
+	  "sha1": "baa582e025e68d063a7227cf89cf2b5209e512c2"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475419271",
+	  "size": "139436",
+	  "md5": "8102100c0e975188942eb2bef5f301fb",
+	  "crc32": "6fb09181",
+	  "sha1": "397af031507bb403c087f2c1eb0092ef92fa625b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475419322",
+	  "size": "3832",
+	  "md5": "de4b375e0aa874eb885dd7b9e7c1f49e",
+	  "crc32": "8248b750",
+	  "sha1": "d29178c5117a98024fd2b6ddf030b9f375940d81"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475419276",
+	  "size": "99391",
+	  "md5": "e805b79c7a39df6d208df2d82ab90529",
+	  "crc32": "9776100f",
+	  "sha1": "81042cd50777419bd9ac9d271469259ba03836e4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475419327",
+	  "size": "3615",
+	  "md5": "427b6e92c3ea4264dc0b10835a598696",
+	  "crc32": "d6300191",
+	  "sha1": "db71302129eed1b3cb050fca944a6468d2965581"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475419280",
+	  "size": "102283",
+	  "md5": "b4c9d8aa98acd4c88286dd3435f2238b",
+	  "crc32": "328dfd4b",
+	  "sha1": "a7fb45e89f97af22deb0fc506e5ca967c685d03f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475419324",
+	  "size": "2645",
+	  "md5": "5c003416729654fa30c43bd302b99cc9",
+	  "crc32": "e412fdb8",
+	  "sha1": "ea3ca585fd894eb09af1f725a4d7e570dcbd3bb1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/11\/items\/Phylox_1020\/Phylox_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 170,
+	"week": 4,
+	"month": 4
+  }
+}

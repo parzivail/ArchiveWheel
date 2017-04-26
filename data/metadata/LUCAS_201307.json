@@ -1,0 +1,133 @@
+{
+  "server": "ia600904.us.archive.org",
+  "dir": "/14/items/LUCAS_201307",
+  "metadata": {
+	"identifier": [
+	  "LUCAS_201307"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Lucas Arts"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "This archive includes non-playable demos of Rebel Assault and The Dig."
+	],
+	"publisher": [
+	  "Lucas Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games; Adventure games"
+	],
+	"title": [
+	  "Lucas Arts Demo (Rebel Assault & The Dig)"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-07-07 09:46:48"
+	],
+	"addeddate": [
+	  "2013-07-07 09:46:48"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231921[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_10"
+	]
+  },
+  "files": {
+	"\/LUCAS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373190407",
+	  "size": "46109246",
+	  "md5": "d53394bd8a50f3a118da51b37ff6fe5d",
+	  "crc32": "9202bb9c",
+	  "sha1": "0b8b71df61e12aa0b91ca62aaf19d51925db4404"
+	},
+	"\/LUCAS.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373190408",
+	  "size": "1325",
+	  "md5": "1d42e63962e70e76b2530c2c1a69920e",
+	  "crc32": "f8653f63",
+	  "sha1": "e910fab000cc32572693b5e80bfdd623be76a7ef"
+	},
+	"\/LUCAS_201307_archive.torrent": {
+	  "source": "original",
+	  "btih": "9335355d219c8a26123ddb01847e82d0671af631",
+	  "mtime": "1475176871",
+	  "size": "3558",
+	  "md5": "d2e89ddb60b201bb5a9aabb7185ff3c2",
+	  "crc32": "f239d527",
+	  "sha1": "b15da372c0dce90b444ac159315cad18328118c3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LUCAS_201307_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e8cde5ccb73036c24519f96ca31efc7c"
+	},
+	"\/LUCAS_201307_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475176870",
+	  "size": "910",
+	  "md5": "1b6f1cedd1741b35aa2fb0e91e1e2153",
+	  "crc32": "8e06e0fd",
+	  "sha1": "4447e752b5096bbf5f8791601f679ba4a7973389"
+	},
+	"\/lucas.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1373190419",
+	  "size": "42080",
+	  "md5": "317f2c9585cccdea52e0ab0fcc4e7680",
+	  "crc32": "40af15e4",
+	  "sha1": "d4d1fe3c5d8c3ba2e9884de9505eb58a7a6fa85e",
+	  "rotation": "0"
+	},
+	"\/lucas.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373190419",
+	  "size": "1293",
+	  "md5": "21a53bf7a3a66d435b820c6fec061e80",
+	  "crc32": "658ac410",
+	  "sha1": "b37471469f5083ee54f4e24abb77ce214c00debf"
+	},
+	"\/lucas_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "lucas.jpg",
+	  "mtime": "1373190436",
+	  "size": "4677",
+	  "md5": "f6bb8d4aadc29f56eef80b94b5320227",
+	  "crc32": "544fa473",
+	  "sha1": "639cd46eef202d066a6223b1dd5c03b6f97b5448"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600904.us.archive.org\/14\/items\/LUCAS_201307\/lucas_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 353,
+	"week": 8,
+	"month": 14
+  }
+}

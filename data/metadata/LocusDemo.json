@@ -1,0 +1,129 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/8/items/LocusDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Locus Demo"
+	],
+	"description": [
+	  "\"Locus takes place in arenas orbiting Earth, circa 2095. You are one of few who have been selected to play on a Locus team. The earthbound masses watch you, totally addicted to the game play. Reflecting the anarchistic character of the sport, arena design varies wildly according to the whims of the team who calls it home. Each arena takes different skills to master.\n\nThree teams play at a time in a triad of three games in three arenas (the arenas being those belonging to each of the teams). If you can win a majority of games in a triad, your proven skills will be rewarded (in the full version) by triads in new arenas against new teams, and by promotion to more advanced teams. In the demo you are playing, you will be able to play in only one triad as a member of only one team.\n\nWhen playing a game, you will try to eliminate the other two teams by scoring in their goals three times each, while defending your own goal. If your opponents shoot three balls in your goal your team is eliminated and the  game is lost. A tunnel race, a faceoff where the balls emerged, the arena's power core, a computer-controlled partner in your team, and gadgets that play with your cycle's capabilities and dynamics all add variety and challenge to the game.\n\nFrom your point of view, you can see the front of your cycle and elements of the heads-up display.  The arrow at the front of the cycle points in the direction of the nearest ball, then points to the nearest goal once you have a ball.  The red bar indicates cycle power. You get more power after scoring or after driving under a power beam. The moving green arrow to your right indicates your current direction and velocity. A target appears around opponent cycles in your line of fire. And the score bars on the top of the screen show you who is in play and how well each team is doing.\n\nWatch out for opponents who might shoot and ram you to steal your ball. Or do it to them first!\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Zombie"
+	],
+	"identifier": [
+	  "LocusDemo"
+	],
+	"addeddate": [
+	  "2012-08-31 08:05:04"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"publisher": [
+	  "GT Interactive Software"
+	],
+	"publicdate": [
+	  "2012-08-31 08:05:32"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232859[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_31"
+	],
+	"emulator_start": [
+	  "locdos.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/LOCUS-Windows.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373189826",
+	  "size": "8857121",
+	  "md5": "d2723c79ce5f4cb917271dee5afc9de7",
+	  "crc32": "fbc09201",
+	  "sha1": "d03bbe2ffcfa001561d455398bd526c64d4af7a5"
+	},
+	"\/LocusDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "d04726cb58c7a5cab56eaa916f5610087245446f",
+	  "mtime": "1476566275",
+	  "size": "2413",
+	  "md5": "0d173b5f8e9671359c79071699633def",
+	  "crc32": "9a151eff",
+	  "sha1": "837458b9a41a6171302a70954c3c478433959f7b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LocusDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "22d288a978fa3ef22185962a3fbfbe1a"
+	},
+	"\/LocusDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476566274",
+	  "size": "2782",
+	  "md5": "1567aaa808e2ce72fb93326cf50fdf5d",
+	  "crc32": "a5642bbb",
+	  "sha1": "65eebe44a2ff99341d00c0c8aea31f54e6aec7ef"
+	},
+	"\/locusdem.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476565948",
+	  "size": "3148089",
+	  "md5": "97e5c9a83a1b5819c2425b995ec363bd",
+	  "crc32": "ae33a788",
+	  "sha1": "cfea3356f721111c5c2c47c1730f38a64d93a60e"
+	},
+	"\/resource_item_3725.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346400253",
+	  "size": "16332",
+	  "md5": "a3a08f2aa3bd620b56dc953cc7d73b35",
+	  "crc32": "276285c8",
+	  "sha1": "20948bd2dfdf2c7fa4b1dd4123da16078b6b9401"
+	},
+	"\/resource_item_3725_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3725.png",
+	  "mtime": "1346400321",
+	  "size": "2868",
+	  "md5": "d00a2e1e21aa2e333211ead485e10590",
+	  "crc32": "9b9b4058",
+	  "sha1": "c7a06583596b1c949cb74abfe4fda8f2a5e82db8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/8\/items\/LocusDemo\/resource_item_3725_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 103,
+	"week": 4,
+	"month": 5
+  }
+}

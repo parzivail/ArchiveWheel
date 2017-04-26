@@ -1,0 +1,212 @@
+{
+  "server": "ia600502.us.archive.org",
+  "dir": "/10/items/sc3melee",
+  "metadata": {
+	"identifier": [
+	  "sc3melee"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Legend Entertainment Company"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>This highly anticipated sequel to the award-winning sci-fi adventure game enters a whole new galaxy. The fabric of interstellar civilization has been torn asunder, and a disaster of cosmic proportions threatens. Your only salvation lies in the secrets of a lost civilization. Command a massive fleet of alien allies in an expedition to the heart of the galaxy, encounter bizarre and ruthless races, and negotiate sophisticated treaties. Star Control 3 features intense alien interaction, space exploration, and fast-paced combat.<\/div>"
+	],
+	"publisher": [
+	  "Accolade"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Star Control 3 Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-01-18 15:57:31"
+	],
+	"addeddate": [
+	  "2014-01-18 15:57:31"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235649[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "MELEE7.EXE"
+	],
+	"backup_location": [
+	  "ia905803_5"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475730142",
+	  "size": "266857",
+	  "md5": "788b16569665ecc28ef8a4205d07ca9e",
+	  "crc32": "9ab3b306",
+	  "sha1": "f5520d4152afea788bd8fae129550e7f8e279495",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475730179",
+	  "size": "6948",
+	  "md5": "57992ed27cdd70528b3fda47b8fe193f",
+	  "crc32": "ed11c933",
+	  "sha1": "a60c0a846db516b13e0421a8c78b4b644c207cde"
+	},
+	"\/sc3melee.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390060651",
+	  "size": "7318626",
+	  "md5": "05268ed957f433fa99aeec63e0b56e78",
+	  "crc32": "06dc566a",
+	  "sha1": "f75b2a549378ffdb3aa47a081b652727bbade3b7"
+	},
+	"\/sc3melee.gif": {
+	  "source": "original",
+	  "mtime": "1475730154",
+	  "size": "44978",
+	  "md5": "43e1c3687a6971bf71cadd6ea054a8c9",
+	  "crc32": "4d748500",
+	  "sha1": "2c5208cdada3347562b333059b4edebcd8b5ebb7",
+	  "format": "Animated GIF"
+	},
+	"\/sc3melee.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1390060663",
+	  "size": "26609",
+	  "md5": "580756aa8c764ba8084e6d7c15149d10",
+	  "crc32": "b562bc3a",
+	  "sha1": "c1c92e6fe744fade946b734ab7d834e289891eba"
+	},
+	"\/sc3melee.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475254799",
+	  "size": "7318826",
+	  "md5": "7701391ee56d71e0742b1832042b8fba",
+	  "crc32": "97686b2a",
+	  "sha1": "f4efcfe9af7cb3f6c43a2fc383b242837a3b5af1"
+	},
+	"\/sc3melee_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "009e93af2ac0e4279a7d81ae692279ed"
+	},
+	"\/sc3melee_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475730164",
+	  "size": "15360",
+	  "md5": "058d6aa5808e7a1a1ba98f3d7e33e8bf",
+	  "crc32": "23f6546c",
+	  "sha1": "93f5eb10ef3c8fe514d623c11cc07146d83212ed"
+	},
+	"\/sc3melee_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475288310",
+	  "size": "1511",
+	  "md5": "ba125e168efd5d46971ed32a0dbd2417",
+	  "crc32": "2c9f11a8",
+	  "sha1": "6706f210ef1edb0fa55bad7476887c9ce715a543"
+	},
+	"\/sc3melee_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475730161",
+	  "size": "97855",
+	  "md5": "b1c52eae7375314e459be9c4206ad4a8",
+	  "crc32": "ccbb6a48",
+	  "sha1": "b1655591e5acbd06a9e76935603b1d526536bbe9",
+	  "format": "Emulator Screenshot"
+	},
+	"\/sc3melee_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sc3melee.png",
+	  "mtime": "1390060678",
+	  "size": "4932",
+	  "md5": "2a8c91dec3533890be150f2e093d9eff",
+	  "crc32": "f1992eb5",
+	  "sha1": "77743613aadda5922c180afc8308a6a766581f83"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475730145",
+	  "size": "266857",
+	  "md5": "788b16569665ecc28ef8a4205d07ca9e",
+	  "crc32": "9ab3b306",
+	  "sha1": "f5520d4152afea788bd8fae129550e7f8e279495",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475730180",
+	  "size": "6948",
+	  "md5": "57992ed27cdd70528b3fda47b8fe193f",
+	  "crc32": "ed11c933",
+	  "sha1": "a60c0a846db516b13e0421a8c78b4b644c207cde"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475730151",
+	  "size": "45353",
+	  "md5": "5597b0446feb45ba4caab8e01d21c3f9",
+	  "crc32": "b5d39361",
+	  "sha1": "fa9f91f3231630f851a7d987906ee64be07ff228",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475730182",
+	  "size": "2018",
+	  "md5": "a81fc48bdd8d525ae9e30b06b96804cc",
+	  "crc32": "326d7ce6",
+	  "sha1": "7e3b3bcc4908cb47312bf2e5e7b64e6f256f79fe"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600502.us.archive.org\/10\/items\/sc3melee\/sc3melee.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 574,
+	"week": 6,
+	"month": 13
+  }
+}

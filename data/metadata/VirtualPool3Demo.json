@@ -1,0 +1,113 @@
+{
+  "server": "ia600503.us.archive.org",
+  "dir": "/18/items/VirtualPool3Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Virtual Pool 3 Demo"
+	],
+	"description": [
+	  "The ultimate pool simulator arrives with enhanced graphics and a brand-new career mode!\n\nThe only pool game that guarantees to make you a better player is still the best pool game in town."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"creator": [
+	  "Celeris"
+	],
+	"identifier": [
+	  "VirtualPool3Demo"
+	],
+	"addeddate": [
+	  "2012-05-13 23:34:50"
+	],
+	"publicdate": [
+	  "2012-05-13 23:35:31"
+	],
+	"date": [
+	  "2001"
+	],
+	"year": [
+	  "2001"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/VPool3.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336952010",
+	  "size": "34267",
+	  "md5": "aa07ea69ee5463ddd1f6fa419fa741ea",
+	  "crc32": "ed9e29f2",
+	  "sha1": "feea48dffe574aed2b81ee3b5471af8d2a7dc04a",
+	  "rotation": "0"
+	},
+	"\/VPool3.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1336952072",
+	  "size": "20744779",
+	  "md5": "32b70443e68650ebe661ec347ed1358c",
+	  "crc32": "b274169a",
+	  "sha1": "d0214f3629e1276928974759c75319bd7835804f",
+	  "title": "Virtual Pool 3 Demo"
+	},
+	"\/VPool3_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "VPool3.jpg",
+	  "mtime": "1336952125",
+	  "size": "4441",
+	  "md5": "c2bc0d6a950dbeb2b11f3ddf7d02a471",
+	  "crc32": "60cea553",
+	  "sha1": "7ad9365c58225ddf64073fa530c534e0856565d1"
+	},
+	"\/VirtualPool3Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "961ba626e24ec30c378add57c243fb43780f66ef",
+	  "mtime": "1465083532",
+	  "size": "2614",
+	  "md5": "fbca982e9de978b825e51853e423d5d4",
+	  "crc32": "273886dc",
+	  "sha1": "af26864ef04a2b7e894657e4af1eb181d9c352ce",
+	  "format": "Archive BitTorrent"
+	},
+	"\/VirtualPool3Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "268bf4257841bc1cab1954bc9d4fcc65"
+	},
+	"\/VirtualPool3Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465083531",
+	  "size": "941",
+	  "md5": "ffea440b7173aec1c7b5d9c65fe574d6",
+	  "crc32": "0c8de5a6",
+	  "sha1": "32468db1cb4fbc8adcd120187f433fbd25ff2e3c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600503.us.archive.org\/18\/items\/VirtualPool3Demo\/VPool3_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 555,
+	"week": 8,
+	"month": 20
+  }
+}

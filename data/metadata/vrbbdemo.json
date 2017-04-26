@@ -1,0 +1,121 @@
+{
+  "server": "ia902501.us.archive.org",
+  "dir": "/6/items/vrbbdemo",
+  "metadata": {
+	"identifier": [
+	  "vrbbdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "VR Sports"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>VR Baseball brings Major League Baseball to your desktop in living, breathing 3D color and realism. The technology behind this game is cutting edge; in fact, it won't even work with systems that aren't hardware-accelerated. Features include SVGA graphics with more than 65,000 colors, bilinear filtering for smoother polygons and textures, real cast shadows, and real-time, 360-degree gameplay.<\/div>"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "VR Baseball 2000 Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-06-22 19:51:02"
+	],
+	"addeddate": [
+	  "2014-06-22 19:51:02"
+	],
+	"backup_location": [
+	  "ia905809_17"
+	]
+  },
+  "files": {
+	"\/vrbbdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1403466662",
+	  "size": "7143664",
+	  "md5": "50ae7a9d7a03a222fb2f8cd96289c411",
+	  "crc32": "876fbf49",
+	  "sha1": "e7bfbffea026fac1d4d1a0c00cd541a54d675dd9"
+	},
+	"\/vrbbdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1403466673",
+	  "size": "16070",
+	  "md5": "5632f61bf166528ea5a4290246409589",
+	  "crc32": "f4cdc381",
+	  "sha1": "ac322636c58637992fa0b268cffb133343e007fd",
+	  "rotation": "0"
+	},
+	"\/vrbbdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "3fe54795e581aa46df5d2fe08d5d9dd53124416a",
+	  "mtime": "1474579862",
+	  "size": "2206",
+	  "md5": "59c0c31d4b972bacfd5b61432076e42a",
+	  "crc32": "9c690740",
+	  "sha1": "d34e84c16760628fe103846952e9f6264d6d61e6",
+	  "format": "Archive BitTorrent"
+	},
+	"\/vrbbdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2077eecedf18b462dd22bf534c1da20c"
+	},
+	"\/vrbbdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1403466679",
+	  "size": "14336",
+	  "md5": "7dc48350de392c3b11b3758bd913aa41",
+	  "crc32": "d7930f38",
+	  "sha1": "8658e83cafc2d198a93d2d648ff877d17130878b"
+	},
+	"\/vrbbdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474579861",
+	  "size": "1079",
+	  "md5": "2728600ee9a51d0c4f13ec231a3e3f8f",
+	  "crc32": "3bcfc129",
+	  "sha1": "70257c3fa4b95a1ed648609a5dbb7eddf6c21a95"
+	},
+	"\/vrbbdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "vrbbdemo.jpg",
+	  "mtime": "1403466688",
+	  "size": "4410",
+	  "md5": "147ddf5a5a558a9112f50b35ec07164c",
+	  "crc32": "4b039203",
+	  "sha1": "d5fafd6c822195fa41189d4e07cf2e90bfb0c4e5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902501.us.archive.org\/6\/items\/vrbbdemo\/vrbbdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 328,
+	"week": 5,
+	"month": 15
+  }
+}

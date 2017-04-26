@@ -1,0 +1,129 @@
+{
+  "server": "ia601404.us.archive.org",
+  "dir": "/6/items/blueic",
+  "metadata": {
+	"identifier": [
+	  "blueic"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Psygnosis"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Blue Ice is definitely not the typical game you are used to playing with: in fact, it is barely possible to compare it with another computer game. Through the artistic environment that appeals for all senses, players will have to explore the world of Icia to find how the enlighten Edward LCCXII to the beauty of the world and teach him how to feel sensations. The various locations of the game are each a work of art in which you need to find what is hidden inside. Along with the surprising graphics, Blue Ice also features an astonishing musical environment mixing classical, jazz and new age soundtracks."
+	],
+	"publisher": [
+	  "Psygnosis"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Blue Ice Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-11-03 02:00:41"
+	],
+	"addeddate": [
+	  "2014-11-03 02:00:41"
+	],
+	"backup_location": [
+	  "ia905906_9"
+	],
+	"emulator_start": [
+	  "BLUEICE.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/blueic.png": {
+	  "source": "original",
+	  "mtime": "1414980040",
+	  "size": "126270",
+	  "md5": "ef9033bff869ed5542d128a575dcbb72",
+	  "crc32": "0338750d",
+	  "sha1": "8f81f6ce843e65b6492f6d0f9fdaad2b6a0cbb16",
+	  "format": "PNG"
+	},
+	"\/blueic.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476479326",
+	  "size": "5100304",
+	  "md5": "376c01471fc6c97654709b878434521b",
+	  "crc32": "0d23c58a",
+	  "sha1": "a5190895fbcacfe23c6d5e202844eb22da4e032f"
+	},
+	"\/blueic_archive.torrent": {
+	  "source": "original",
+	  "btih": "ba6a7f6e845dd34c15f0b430b3f8fbd3292daf19",
+	  "mtime": "1476479350",
+	  "size": "2123",
+	  "md5": "663e32b35f87e513209adcf8d657c661",
+	  "crc32": "1113a5eb",
+	  "sha1": "7ec7b7aee6ef4fa14ff33f9cd1d7fffb0c36e712",
+	  "format": "Archive BitTorrent"
+	},
+	"\/blueic_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7a1137782de130dce31c278bec4e006b"
+	},
+	"\/blueic_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1414980059",
+	  "size": "14336",
+	  "md5": "bf29f87f60524cc016e3ae5001b27596",
+	  "crc32": "e216a1d3",
+	  "sha1": "aa3f7360f5a07167ed362ca85a76b34f5c145ef7",
+	  "format": "Metadata"
+	},
+	"\/blueic_meta.xml": {
+	  "source": "original",
+	  "mtime": "1476479141",
+	  "size": "1370",
+	  "format": "Metadata",
+	  "md5": "a25445b9ee70fd73366a2d1454ed7a40",
+	  "crc32": "9385a906",
+	  "sha1": "f3cf8ebd44bdf3f98ead805f0389d397461cb350"
+	},
+	"\/blueic_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "blueic.png",
+	  "mtime": "1414980284",
+	  "size": "4511",
+	  "md5": "2ad381be22bcbf0bf8a31a1023c5362f",
+	  "crc32": "b9cb976d",
+	  "sha1": "47416fcd24be0d55b979fa51c9fc7c0bc8f85c16"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601404.us.archive.org\/6\/items\/blueic\/blueic_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 177,
+	"week": 2,
+	"month": 5
+  }
+}

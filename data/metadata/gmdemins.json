@@ -1,0 +1,116 @@
+{
+  "server": "ia600504.us.archive.org",
+  "dir": "/21/items/gmdemins",
+  "metadata": {
+	"identifier": [
+	  "gmdemins"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Monolith Productions"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>Get Medieval is an action game that combines role-playing elements with a sense of humor. There's a dragon and a bunch of other evil beasties that need slaying, and you have to pick one of four characters (Archer Eryc, The Barbarian Zared, the Sorceress Levina, or the Warrior Kellina) and rise to the occasion, in return for fame and fortune. Gameplay is similar to Gauntlet, in which you control your character from an overhead view, and features include 3D-rendered graphics, 40 levels, and 20 types of enemies. You can play with four people on the same machine or via a network.<\/div>"
+	],
+	"publisher": [
+	  "Monolith Productions"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Get Medieval Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-01-26 22:39:41"
+	],
+	"addeddate": [
+	  "2014-01-26 22:39:41"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233734[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/gmdemins.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390776014",
+	  "size": "16025351",
+	  "md5": "970b6a968e2f4ab9359699771fb5a7a8",
+	  "crc32": "676cb0ff",
+	  "sha1": "e9e18ac5a29a7c1a584c518de837d94c428dc744"
+	},
+	"\/gmdemins.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1390775980",
+	  "size": "158372",
+	  "md5": "a4745a00ae6cb8cc2373f981bd5a1e68",
+	  "crc32": "a842c1bf",
+	  "sha1": "9a5c5331e0d31f6281ee3cefd46cf09f321ca79e"
+	},
+	"\/gmdemins_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a785de3a767072393ef6c9baa0e1ef2c"
+	},
+	"\/gmdemins_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390776026",
+	  "size": "14336",
+	  "md5": "caa99944f15a3af3262f64ea34c5df7d",
+	  "crc32": "fd49ca49",
+	  "sha1": "93f1ce9da36263c30d845bab9255edca06c9396a"
+	},
+	"\/gmdemins_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473987865",
+	  "size": "1458",
+	  "md5": "722f272d7dc66f524e5ca16d0c054cb0",
+	  "crc32": "b9da7766",
+	  "sha1": "229aa100d2df1ca38df431dcb46e8086afdf7042"
+	},
+	"\/gmdemins_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "gmdemins.png",
+	  "mtime": "1390776035",
+	  "size": "4903",
+	  "md5": "b079ff817a520b4bf67b6c6bc797d658",
+	  "crc32": "2a9d713f",
+	  "sha1": "9f929ead1d9a74122fc5bfa0a38e64ac7da9f33a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600504.us.archive.org\/21\/items\/gmdemins\/gmdemins_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2791,
+	"week": 30,
+	"month": 102
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "server": "ia601409.us.archive.org",
+  "dir": "/13/items/AmericanMcgeesAliceDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "American McGee's Alice Demo"
+	],
+	"description": [
+	  "Join Alice for a return trip to a wickedly deformed Wonderland. Confront the cruel Queen of Hearts and the revolting toadies who enforce her evil will. They're all mad! A fierce and nasty fight for sanity and control turns into a lethal struggle for survival."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Rogue Entertainment"
+	],
+	"identifier": [
+	  "AmericanMcgeesAliceDemo"
+	],
+	"addeddate": [
+	  "2012-05-14 01:22:09"
+	],
+	"publicdate": [
+	  "2012-05-14 01:23:24"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/AmericanMcgeesAliceDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "f8abab624f7763e4d6e8c7c5f7933b7fb456e8cd",
+	  "mtime": "1466508288",
+	  "size": "5044",
+	  "md5": "d4495368af76872caf31f1bc64e0a66a",
+	  "crc32": "ca911d5b",
+	  "sha1": "51868e8c09eae929e60f0c6d587c9e7801aa4b3c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AmericanMcgeesAliceDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "99a2ed7e63200aa4e8db6f0b343a0370"
+	},
+	"\/AmericanMcgeesAliceDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466508287",
+	  "size": "1045",
+	  "md5": "11ff4e6c7993e2bb68486442b3dbdb94",
+	  "crc32": "e5773680",
+	  "sha1": "52a3d8dbe48b538ffd45d330bbae4661e31fcf3d"
+	},
+	"\/alice_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336958261",
+	  "size": "82499584",
+	  "md5": "29a995e2b543972a571e93eb88827e5b",
+	  "crc32": "acf1ed24",
+	  "sha1": "45c6e346a86f468db9f67d36aaa29e96e4b0d074",
+	  "title": "American McGee's Alice Demo"
+	},
+	"\/alice_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336958262",
+	  "size": "18791",
+	  "md5": "18c33510900c8263cbe628454eebe3fa",
+	  "crc32": "06137ee9",
+	  "sha1": "1a44dc3e89617df0ed592966388485c7df03bf0a",
+	  "rotation": "0"
+	},
+	"\/alice_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "alice_demo.jpg",
+	  "mtime": "1336958599",
+	  "size": "4008",
+	  "md5": "4f1e97e3133e3a2ff395cf40b855dfd5",
+	  "crc32": "71836d49",
+	  "sha1": "b0336e02dd9cce04d9e43717b6e4a169b6730253"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601409.us.archive.org\/13\/items\/AmericanMcgeesAliceDemo\/alice_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 843,
+	"week": 11,
+	"month": 21
+  }
+}

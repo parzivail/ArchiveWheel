@@ -1,0 +1,107 @@
+{
+  "server": "ia600400.us.archive.org",
+  "dir": "/26/items/ignac-demo",
+  "metadata": {
+	"identifier": [
+	  "ignac-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software"
+	],
+	"creator": [
+	  "Igor Sinkovec"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Adventure game for Windows. Created using The Games Factory."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows games",
+	  "Adventure games",
+	  "The Games Factory games"
+	],
+	"title": [
+	  "Ignac [Demo]"
+	],
+	"publicdate": [
+	  "2016-05-28 13:34:42"
+	],
+	"addeddate": [
+	  "2016-05-28 13:34:42"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20160528134515[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "1998"
+	],
+	"backup_location": [
+	  "ia906109_15"
+	]
+  },
+  "files": {
+	"\/ignac-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4f420065da2210034d039d7a5c9142cf70d546b2",
+	  "mtime": "1485026676",
+	  "size": "1765",
+	  "md5": "225fa1a99c98004a7fec34f405101036",
+	  "crc32": "eb069b80",
+	  "sha1": "e50d71a8622b4e9ed47dc00f48df9938ac9e3aeb",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ignac-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4cb8c219d56a97a8640cbd8865f38f43"
+	},
+	"\/ignac-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1464442496",
+	  "size": "9216",
+	  "md5": "0709b30d9a9e4aab7f3dd7347621e808",
+	  "crc32": "37f745ce",
+	  "sha1": "47ae9451bb2129a6c2237577b17399d58d22fdea",
+	  "format": "Metadata"
+	},
+	"\/ignac-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1485026674",
+	  "size": "926",
+	  "format": "Metadata",
+	  "md5": "0cc0477b305e6def98c21d490ea11987",
+	  "crc32": "391b6261",
+	  "sha1": "8bc0f0817a5edb23a08c245a1f77a6505692f19b"
+	},
+	"\/ignac.zip": {
+	  "source": "original",
+	  "mtime": "1464442481",
+	  "size": "4068193",
+	  "md5": "c44dbe123ab0d38461995ee1d61ee0e0",
+	  "crc32": "776d701d",
+	  "sha1": "6b8eff56a3ff496e73ae14b8ace43d3630271060",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/classicpcgames&fallback=1",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 18,
+	"week": 0,
+	"month": 1
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/13/items/NationalLampoonsChessManiac5Billionand1_1020",
+  "metadata": {
+	"identifier": [
+	  "NationalLampoonsChessManiac5Billionand1_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "Great laughs, great chess -- together at last!. Found to be raunchy and utterly degrading to everyone. Guaranteed RUDE. Sicker! Nastier! Sexier! Warning: Immature Content. May not be suitable for preteens, televangelists or former vice-presidents. Prenatal discretion advised."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Spectrum Holobyte"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "National Lampoon's Chess Maniac 5 Billion and 1 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:45:58"
+	],
+	"addeddate": [
+	  "2012-09-04 03:45:58"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "CHESSMAN\/START.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475389879",
+	  "size": "121173",
+	  "md5": "0fced4a041d45784601149b661d1e574",
+	  "crc32": "4442f87d",
+	  "sha1": "e4fff26ec500a15d97b03f95a936defbb586f351",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475389908",
+	  "size": "5068",
+	  "md5": "8302d6d18712b776024e1e3d09b4e0a1",
+	  "crc32": "937d9193",
+	  "sha1": "ca9ae4d856f08823f71a211334e5039bb001c152"
+	},
+	"\/NationalLampoonsChessManiac5Billionand1_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475389887",
+	  "size": "29858",
+	  "md5": "9d2061a7be55d54094a71d9e452c2271",
+	  "crc32": "4c5dd124",
+	  "sha1": "c373109cd2388298da86ce697d0ef896ca1da54d",
+	  "format": "Animated GIF"
+	},
+	"\/NationalLampoonsChessManiac5Billionand1_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "119006c67fdd2cbb6d32a68f0afd8143a52bc308",
+	  "mtime": "1475389913",
+	  "size": "3785",
+	  "md5": "d1776f358c19695dc53a998d9a86828d",
+	  "crc32": "854bb8cb",
+	  "sha1": "739df4c626ad66d0709681a8763e1d23b4a7b068",
+	  "format": "Archive BitTorrent"
+	},
+	"\/NationalLampoonsChessManiac5Billionand1_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b0f43cc728102f225d58c53354152a70"
+	},
+	"\/NationalLampoonsChessManiac5Billionand1_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475389895",
+	  "size": "9216",
+	  "md5": "7aedfb7a8a4b980e665daf855bcc53af",
+	  "crc32": "28c2a8ad",
+	  "sha1": "6b075f3b716c7685d37cf4a800b4b33063a1db53",
+	  "format": "Metadata"
+	},
+	"\/NationalLampoonsChessManiac5Billionand1_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471798605",
+	  "size": "1214",
+	  "md5": "26f801f92cf8676a533aef3d1fa46157",
+	  "crc32": "a7d14e6f",
+	  "sha1": "25a943afda42d4eb4d79a77daa90edec3ecb826c"
+	},
+	"\/chessman.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730373",
+	  "size": "1380542",
+	  "md5": "e8f5e2d9fd0331b3ab36fa8c7277c373",
+	  "crc32": "408a86a7",
+	  "sha1": "d3a6733840daca2418bc1c508c3e8f651eb6bf5e"
+	},
+	"\/chessman.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730373",
+	  "size": "993",
+	  "md5": "e66e6302d26171a9590a752634cb37bd",
+	  "crc32": "abf03ad6",
+	  "sha1": "0a42a354787b764c7eb172ad1119f851621bab11"
+	},
+	"\/chessman_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475389890",
+	  "size": "43160",
+	  "md5": "bfe16cd309f05f0f9448108c01ab056a",
+	  "crc32": "6bf3cbbc",
+	  "sha1": "69bd7ff4a9e91aed333bba64d395ef284f91106e",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1519.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730376",
+	  "size": "22202",
+	  "md5": "d2ef2c6d40dc5de7afad20bb8c8d734c",
+	  "crc32": "4ec58142",
+	  "sha1": "0704b804638e2748385f4f4dd52ee2c83bc825e0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1519.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730376",
+	  "size": "272",
+	  "md5": "0a14250730eae8034ae6b802fd0c1c23",
+	  "crc32": "d925d2ec",
+	  "sha1": "74adbf156d38fbefd99300c71cd50f2a03e393a6"
+	},
+	"\/resource_item_1519_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1519.jpg",
+	  "mtime": "1346730935",
+	  "size": "6712",
+	  "md5": "f5f7b6cc94465747923e33760e55fa18",
+	  "crc32": "93d58c7a",
+	  "sha1": "d782fc230028a8439eac49397c13107c9ff01f37"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475389881",
+	  "size": "120366",
+	  "md5": "92438ae0a481922d8dcb7189f15ff9e8",
+	  "crc32": "9c72ff5b",
+	  "sha1": "e45baa8bac3c7cdff49ec87a2a033c89b911e546",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475389909",
+	  "size": "4948",
+	  "md5": "1802c151eab652f4b2163cddce204c9b",
+	  "crc32": "18e89a32",
+	  "sha1": "a2e774ebc0ea23c2d0c7c521457ec964ca2eb70f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475389884",
+	  "size": "121173",
+	  "md5": "0fced4a041d45784601149b661d1e574",
+	  "crc32": "4442f87d",
+	  "sha1": "e4fff26ec500a15d97b03f95a936defbb586f351",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475389911",
+	  "size": "5068",
+	  "md5": "8302d6d18712b776024e1e3d09b4e0a1",
+	  "crc32": "937d9193",
+	  "sha1": "ca9ae4d856f08823f71a211334e5039bb001c152"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/13\/items\/NationalLampoonsChessManiac5Billionand1_1020\/NationalLampoonsChessManiac5Billionand1_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 571,
+	"week": 4,
+	"month": 8
+  }
+}

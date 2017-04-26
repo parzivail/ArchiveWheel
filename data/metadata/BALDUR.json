@@ -1,0 +1,118 @@
+{
+  "server": "ia800205.us.archive.org",
+  "dir": "/24/items/BALDUR",
+  "metadata": {
+	"identifier": [
+	  "BALDUR"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "BioWare"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Baldur's Gate brings the grand tradition of Advanced Dungeons & Dragons\u00a9 gaming to the computer like nothing before. Immerse yourself in the medieval fantasy world of the Forgotten Realms, where nations hang in the balance of your actions, dark prophecies test your resolve, and heroic dreams can be fulfilled at last.\u00a0"
+	],
+	"publisher": [
+	  "Black Isle Studios",
+	  "Interplay"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Baldur's Gate Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 01:25:30"
+	],
+	"addeddate": [
+	  "2014-02-07 01:25:30"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231922[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_32"
+	]
+  },
+  "files": {
+	"\/BALDUR.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391736386",
+	  "size": "34296832",
+	  "md5": "3c9487d89aadd4484b06024ff5b3249a",
+	  "crc32": "2dd4a747",
+	  "sha1": "e7caae4255e8ed570cef3a29642432c8d28ecdb9"
+	},
+	"\/BALDUR.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1391736330",
+	  "size": "99801",
+	  "md5": "19140895cc07c007cd97e251d293ca66",
+	  "crc32": "db747de8",
+	  "sha1": "dc7c9bb55287fbe7782555b8534da190f8bc3622",
+	  "rotation": "0"
+	},
+	"\/BALDUR_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cbb3333904430b86c9b9e995bfb15d34"
+	},
+	"\/BALDUR_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391736389",
+	  "size": "14336",
+	  "md5": "f9fc4ce5b3cbb3f97a12ea87d3965d9a",
+	  "crc32": "044d7217",
+	  "sha1": "fd3cd7bb2dcc4036e32ec418a1fb21d889ea7937"
+	},
+	"\/BALDUR_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475655470",
+	  "size": "1203",
+	  "md5": "c9dc5383d5bf68fd4bab775a99223aea",
+	  "crc32": "0d3e97c4",
+	  "sha1": "8916ad59bfb1ff9e4e6f03a6311bedc413591062"
+	},
+	"\/BALDUR_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "BALDUR.jpg",
+	  "mtime": "1391736400",
+	  "size": "6205",
+	  "md5": "853b424a2e4932246040701f86c871d7",
+	  "crc32": "376d5e64",
+	  "sha1": "af8aa30be692b2b327555c856bd9dfd8daafc941"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800205.us.archive.org\/24\/items\/BALDUR\/BALDUR_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 17416,
+	"week": 132,
+	"month": 560
+  }
+}

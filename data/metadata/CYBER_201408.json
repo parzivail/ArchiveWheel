@@ -1,0 +1,129 @@
+{
+  "server": "ia902306.us.archive.org",
+  "dir": "/12/items/CYBER_201408",
+  "metadata": {
+	"identifier": [
+	  "CYBER_201408"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Artificial Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>CyberBykes is a virtual reality experience allowing a full 6 degrees of<\/div><div>freedom. \u00a0With the user-configured byke of your choice, you enter an arena<\/div><div>where the only limits to your freedom are the physical laws governing the<\/div><div>world. \u00a0Once inside, you will meet stiff opposition as you race to collect<\/div><div>various objects of military importance.<\/div>"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Cyberbykes: Shadow Racer VR Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-08-05 15:29:01"
+	],
+	"addeddate": [
+	  "2014-08-05 15:29:01"
+	],
+	"backup_location": [
+	  "ia905901_26"
+	],
+	"emulator_start": [
+	  "cyber.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/CYBER.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476567898",
+	  "size": "4934497",
+	  "md5": "810162d01f96bc38dc6eb63e63bf3cc7",
+	  "crc32": "680fdb1d",
+	  "sha1": "72620fcc15e3771648999af9eb6ced558913d906"
+	},
+	"\/CYBER_201408_archive.torrent": {
+	  "source": "original",
+	  "btih": "98f349ac9511dea4919dd2997f5176364f4cc4fd",
+	  "mtime": "1476567910",
+	  "size": "2155",
+	  "md5": "84e44a08254fca6c4ed6c2f5ec63858a",
+	  "crc32": "47617bb3",
+	  "sha1": "57d5eb22521b151439f2438bc4355d166586c745",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CYBER_201408_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "71988a1d8e42483db72fb1154ceb51da"
+	},
+	"\/CYBER_201408_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1407252564",
+	  "size": "14336",
+	  "md5": "577382e77166f1070b09142cefd1a88d",
+	  "crc32": "e96c4c4a",
+	  "sha1": "4aa7813077636ddbeb37f2be623c62a9f6499947"
+	},
+	"\/CYBER_201408_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476567792",
+	  "size": "1239",
+	  "md5": "14ec695ec006eba553b6120bd6ca47c7",
+	  "crc32": "71d7b0a4",
+	  "sha1": "83de59f4f2e2296aeecedda48822d94f40a44ab7"
+	},
+	"\/cyber.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1407252553",
+	  "size": "11253",
+	  "md5": "d225a88f0f799c8b61c9437897a598a4",
+	  "crc32": "867b5569",
+	  "sha1": "a56f853f6d9c8fe1a6d0fdc9e934ad2cf724689b"
+	},
+	"\/cyber_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "cyber.png",
+	  "mtime": "1407252574",
+	  "size": "2960",
+	  "md5": "4d76752a67ad004229b3d8b63caa09a2",
+	  "crc32": "4664f583",
+	  "sha1": "f8d0e690efb11b8d460f2f42d94748565506197d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902306.us.archive.org\/12\/items\/CYBER_201408\/cyber_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 89,
+	"week": 4,
+	"month": 4
+  }
+}

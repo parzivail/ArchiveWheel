@@ -1,0 +1,200 @@
+{
+  "server": "ia902701.us.archive.org",
+  "dir": "/27/items/SensibleSoccer_1020",
+  "metadata": {
+	"identifier": [
+	  "SensibleSoccer_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sensible Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Sensible Soccer Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:59:44"
+	],
+	"addeddate": [
+	  "2012-09-04 03:59:44"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "SENSISOC\/SOC.EXE"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444848128",
+	  "size": "285311",
+	  "md5": "f95e438f99c22305abe97a7ec1c8570e",
+	  "crc32": "afc9aa7a",
+	  "sha1": "b2e38a126c41362a31a9fdbc6815bb56db97e605",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444848151",
+	  "size": "4780",
+	  "md5": "19f624b84c3c1c575d634bb0787274d9",
+	  "crc32": "e026b600",
+	  "sha1": "f24fc06d6ea47059838c539713f05ef1c252f839"
+	},
+	"\/SensibleSoccer_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444848133",
+	  "size": "52836",
+	  "md5": "cca8d7f893ed5e0e18644a639a9df1f9",
+	  "crc32": "5cee1614",
+	  "sha1": "e85fe56006f48375d5918d9c4e02867d9ec7414c",
+	  "format": "Animated GIF"
+	},
+	"\/SensibleSoccer_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "6cc65670bc217359d2f11a4f1207e3bbed76487a",
+	  "mtime": "1471791823",
+	  "size": "3166",
+	  "md5": "23136bc8296213e45c659f3e0c98ca80",
+	  "crc32": "2e000519",
+	  "sha1": "97412b11e2ce315e21537fdac96d8d5a4393b6ab",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SensibleSoccer_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d6a2abeb1ec31a0b8aaf989e64fec9e5"
+	},
+	"\/SensibleSoccer_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444848141",
+	  "size": "10240",
+	  "md5": "85bfba52fd31fb7bf47dc166c543f08c",
+	  "crc32": "cd2a6e76",
+	  "sha1": "2b49e3abdca8528d35d3c2eb1d0fcf750ee85f54",
+	  "format": "Metadata"
+	},
+	"\/SensibleSoccer_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471791822",
+	  "size": "814",
+	  "md5": "6587b850629cf507027440ac1f300561",
+	  "crc32": "7bcf21a7",
+	  "sha1": "9b12d633fb4f05633ca8b14bb44891e8f9a6e92f"
+	},
+	"\/resource_item_1547.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731661",
+	  "size": "7353",
+	  "md5": "889fc518b6c2ca2d717a3524c5c84cac",
+	  "crc32": "683ef570",
+	  "sha1": "228796e1d639d0dafb61de7ea1fee304a894ff01",
+	  "rotation": "0"
+	},
+	"\/resource_item_1547.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731661",
+	  "size": "271",
+	  "md5": "ece6d6d5ef3aa610c6f5123ac84c8e54",
+	  "crc32": "a03f885b",
+	  "sha1": "348c3c654dfe18fd55fed00005eda470280dc570"
+	},
+	"\/resource_item_1547_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1547.jpg",
+	  "mtime": "1346733070",
+	  "size": "2008",
+	  "md5": "b0f88e9fca77028fd25e2e2544964e28",
+	  "crc32": "0ef20bc9",
+	  "sha1": "fbca0dbafe780748c01555e91d5a85610e9dbc0b"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444848130",
+	  "size": "285311",
+	  "md5": "f95e438f99c22305abe97a7ec1c8570e",
+	  "crc32": "afc9aa7a",
+	  "sha1": "b2e38a126c41362a31a9fdbc6815bb56db97e605",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444848151",
+	  "size": "4780",
+	  "md5": "19f624b84c3c1c575d634bb0787274d9",
+	  "crc32": "e026b600",
+	  "sha1": "f24fc06d6ea47059838c539713f05ef1c252f839"
+	},
+	"\/sensisoc.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731190",
+	  "size": "264204",
+	  "md5": "701151f7a8e9b8f502c475265f088b65",
+	  "crc32": "7b461f68",
+	  "sha1": "0de81a98d9d829e65aa6e6d98ffed224b2335d1f"
+	},
+	"\/sensisoc.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731190",
+	  "size": "619",
+	  "md5": "823d10c8b02ed879f61417bc1679a70f",
+	  "crc32": "d5a711f4",
+	  "sha1": "ff03994b9c81ba085a5730e130b20bb235de27c6"
+	},
+	"\/sensisoc_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444848136",
+	  "size": "138255",
+	  "md5": "855ce9600ce50a64f5fa7178e26b6507",
+	  "crc32": "bfaab8b4",
+	  "sha1": "f8be3d051185143b8ad36d557ebaa611714c2965",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902701.us.archive.org\/27\/items\/SensibleSoccer_1020\/SensibleSoccer_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2253,
+	"week": 5,
+	"month": 15
+  }
+}

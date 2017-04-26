@@ -1,0 +1,123 @@
+{
+  "server": "ia601206.us.archive.org",
+  "dir": "/33/items/DESTINYZ",
+  "metadata": {
+	"identifier": [
+	  "DESTINYZ"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MIRINAE software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Shooting Game Demo program requires the following minimum configuration: 100% Compatible IBM 386 running at 33 MHz, 100% Compatible IBM VGA Display Adapter, Color Monitor, Hard Disk Drive with at least 4.1mb available, 2mb RAM configured to provide at least, 500k Conventional Memory<div><br \/><\/div><div><div>Key Control<\/div><div><br \/><\/div><div><span class=\"Apple-tab-span\"><\/span>arrow key<span class=\"Apple-tab-span\"><\/span> : left\/right\/up\/down move<\/div><div><span class=\"Apple-tab-span\"><\/span>F4<span class=\"Apple-tab-span\"><\/span> :<span class=\"Apple-tab-span\"><\/span>game \u00a0speed \u00a0up<\/div><div><span class=\"Apple-tab-span\"><\/span>minimum vertical retrace ( only use 386 pc)<\/div><div><br \/><\/div><div><span class=\"Apple-tab-span\"><\/span>F5<span class=\"Apple-tab-span\"><\/span> : game speed more quickly<\/div><div><span class=\"Apple-tab-span\"><\/span>F6<span class=\"Apple-tab-span\"><\/span> : game speed more slowly<\/div><div><span class=\"Apple-tab-span\"><\/span>F10 <span class=\"Apple-tab-span\"><\/span> : pause<\/div><div><span class=\"Apple-tab-span\"><\/span>ctrl key<span class=\"Apple-tab-span\"><\/span> : shooting bullet<\/div><div><span class=\"Apple-tab-span\"><\/span>alt key <span class=\"Apple-tab-span\"><\/span> : change the bullet<\/div><div><span class=\"Apple-tab-span\"><\/span>space<span class=\"Apple-tab-span\"><\/span> : shooting bomb<\/div><div><span class=\"Apple-tab-span\"><\/span>enter<span class=\"Apple-tab-span\"><\/span> : shooting multiple missile<\/div><\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Fight of Destiny Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-05 00:19:05"
+	],
+	"addeddate": [
+	  "2016-11-05 00:19:05"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "destiny.exe"
+	]
+  },
+  "files": {
+	"\/DESTINYZ.zip": {
+	  "source": "original",
+	  "mtime": "1478305145",
+	  "size": "2365572",
+	  "md5": "44158ff955e80634493b4ff213deddc5",
+	  "crc32": "b9a90bff",
+	  "sha1": "d365906001c05ce946b8eefe97a8e60d144c9b07",
+	  "format": "ZIP"
+	},
+	"\/DESTINYZ_archive.torrent": {
+	  "source": "original",
+	  "btih": "5098bd53566126d8c9745d3d071c481a0cd271ed",
+	  "mtime": "1478305223",
+	  "size": "2032",
+	  "md5": "fe809f999073d3788a113ec08fb644d0",
+	  "crc32": "4be5321b",
+	  "sha1": "422c3c9656a2297b058f9fdae1bc22337401922d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DESTINYZ_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5c2b8deb4877bfadf926c2b0cb24d2c5"
+	},
+	"\/DESTINYZ_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478305161",
+	  "size": "22528",
+	  "md5": "2b68f91667d8cf687cd758be0f370fe8",
+	  "crc32": "b44f76e6",
+	  "sha1": "41d86da9a2554099759d1820992c13b1ff56cf63",
+	  "format": "Metadata"
+	},
+	"\/DESTINYZ_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478305223",
+	  "size": "2603",
+	  "format": "Metadata",
+	  "md5": "edd8c4261e67707ad6073e111bbd532c",
+	  "crc32": "8b11fb93",
+	  "sha1": "1e14707da0d546de52127698f633dad25f1fb917"
+	},
+	"\/destiny_001.png": {
+	  "source": "original",
+	  "mtime": "1478305156",
+	  "size": "13409",
+	  "md5": "ac80ab53dbb6ebd1182ed5ba78e2bd09",
+	  "crc32": "b43da4bd",
+	  "sha1": "333fb6e2940b4239c9f21cf257d599ec2786bb5e",
+	  "format": "PNG"
+	},
+	"\/destiny_001_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "destiny_001.png",
+	  "mtime": "1478305172",
+	  "size": "4523",
+	  "md5": "b91ecea8fb6f39abb683eae7c52d2be5",
+	  "crc32": "f177b61f",
+	  "sha1": "401e2b557347053a7f89d67779deb83a4c1a4dde"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601206.us.archive.org\/33\/items\/DESTINYZ\/destiny_001_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 18,
+	"week": 2,
+	"month": 3
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/7/items/BarrowHill",
+  "metadata": {
+	"identifier": [
+	  "BarrowHill"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Shadow Tor Studios"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "Barrow Hill is a creepy tale, set among the thick woods of a Cornish hillside. The ancient burial mound, known locally as Barrow Hill, has been disturbed. Arriving on the Autumn Equinox, a powerful night in the pagan calendar, you must restore balance to a Celtic world while avoiding the dangers that lurk in the forest around you. Alchemy, puzzle solving, archaeology and adventure await those brave enough to explore Barrow Hill"
+	],
+	"publisher": [
+	  "Got Game Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Barrow Hill: Curse of the Ancient Circle Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-04-01 19:26:36"
+	],
+	"addeddate": [
+	  "2014-04-01 19:26:36"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231620[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905806_6"
+	]
+  },
+  "files": {
+	"\/Barrow Hill.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1396380395",
+	  "size": "94363375",
+	  "md5": "68508853d9d9cefc53f1ffbc85891020",
+	  "crc32": "d191271e",
+	  "sha1": "2e52d18818fe9f43e7d1ed7587c39d188e863c05"
+	},
+	"\/Barrow Hill.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1396380408",
+	  "size": "69991",
+	  "md5": "a503b90cd8b9e7dd85765927d9b165de",
+	  "crc32": "0bf73db4",
+	  "sha1": "beb8e661f9b6b2822ee3abc710582af6615098e3",
+	  "rotation": "0"
+	},
+	"\/Barrow Hill_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Barrow Hill.jpg",
+	  "mtime": "1396380439",
+	  "size": "5803",
+	  "md5": "43c78f27a40dbec3257227d8698c8a40",
+	  "crc32": "c642e1b8",
+	  "sha1": "41c958c7274ed91e08423b8ff4c025c3f2e2f315"
+	},
+	"\/BarrowHill_archive.torrent": {
+	  "source": "original",
+	  "btih": "aa71d57902ddb38584aec5db4883d135a050fb18",
+	  "mtime": "1474852340",
+	  "size": "5577",
+	  "md5": "17fea9e4831d87697d62fcd459deb3bd",
+	  "crc32": "0f330941",
+	  "sha1": "9fcf4ea42f3060339447515b79f466795047a597",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BarrowHill_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "99af542991c0c16362068a73ca23a166"
+	},
+	"\/BarrowHill_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1396380416",
+	  "size": "14336",
+	  "md5": "bf91e0cbcb674fd94394141cb1842aff",
+	  "crc32": "32608e27",
+	  "sha1": "be2b0de34b67f3f444022cceaf6091f8465259d7"
+	},
+	"\/BarrowHill_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474852337",
+	  "size": "1272",
+	  "md5": "aa16622697355e77454e403ee9fa8e1a",
+	  "crc32": "a15010a3",
+	  "sha1": "de2ca918dbda4859c1a91c0e7b6047cba610808f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/7\/items\/BarrowHill\/Barrow%20Hill_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 237,
+	"week": 5,
+	"month": 12
+  }
+}

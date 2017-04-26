@@ -1,0 +1,124 @@
+{
+  "server": "ia600506.us.archive.org",
+  "dir": "/35/items/FireKingDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Fire King Demo"
+	],
+	"description": [
+	  "\"This is a limited play demo of Strategic Studies Group's Fire King. Fire King is a mixture of role playing action and adventure problem solving. While you try to solve the mystery of the death of the Fire King, you will need to produce some quick thinking and action to survive.\n\nFire King can be played by one or two players, and controlled by joystick or keyboard. The game requires 640K and runs on EGA, VGA, CGA and Tandy CGA.\n\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Micro Fort"
+	],
+	"identifier": [
+	  "FireKingDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 09:26:07"
+	],
+	"date": [
+	  "1990"
+	],
+	"year": [
+	  "1990"
+	],
+	"publisher": [
+	  "SSG Strategic Studies Group"
+	],
+	"publicdate": [
+	  "2012-08-05 09:26:35"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"notes": [
+	  "7\/24\/16 - tested online play.  Fatal error when loading"
+	],
+	"emulator_start": [
+	  "fk.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/FireKingDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "525326723cb5e8c0db74f656af370d90fed888f6",
+	  "mtime": "1476677050",
+	  "size": "1824",
+	  "md5": "0e3389aa2e8e1383795b25fec8de0fe1",
+	  "crc32": "023f06c1",
+	  "sha1": "437dfcc5b10399ac798d606bb3018b15534c56e4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FireKingDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d219f8762c9e5620824b877b2bd48957"
+	},
+	"\/FireKingDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476677050",
+	  "size": "1380",
+	  "md5": "d3229d1668e1cf884465af3e10b21c7c",
+	  "crc32": "069ba137",
+	  "sha1": "1e0d180630dfc1426bed55da54ba08f25df9f671"
+	},
+	"\/fireking.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476677018",
+	  "size": "214504",
+	  "md5": "2a840377a338851d74c99d472dd5d694",
+	  "crc32": "33757d74",
+	  "sha1": "8305aa79fa8f66dfc741ae8ea40438221a52832d"
+	},
+	"\/resource_item_436.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344158720",
+	  "size": "29955",
+	  "md5": "b35b93f81228a9fbff114043398de277",
+	  "crc32": "3b5d878e",
+	  "sha1": "13afc2afadb86fa0969d5f59f96af7a19b841c72",
+	  "rotation": "0"
+	},
+	"\/resource_item_436_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_436.jpg",
+	  "mtime": "1344158779",
+	  "size": "6808",
+	  "md5": "8620e9b5cf278faf6ff1db6e692ff3b6",
+	  "crc32": "d9297f77",
+	  "sha1": "d95f0acdb6f5c0f2e679fc0d6426bdce54d774e1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600506.us.archive.org\/35\/items\/FireKingDemo\/resource_item_436_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 89,
+	"week": 3,
+	"month": 3
+  }
+}

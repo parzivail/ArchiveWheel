@@ -1,0 +1,122 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/10/items/MenOfValorDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Men of Valor Demo"
+	],
+	"description": [
+	  "Men of Valor follows an American marine through the early stages of the conflict in Vietnam to the Tet Offensive. In historically accurate scenarios, you must play a variety of roles in which you'll man the door gun on a Huey helicopter, steer a riverboat along enemy-infested shores, battle your way through enemy tunnel complexes, and call down fire as a forward observer. Mission types include pilot rescues, recon patrols, POW rescue, and search-and-destroy ops."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "2015"
+	],
+	"identifier": [
+	  "MenOfValorDemo"
+	],
+	"addeddate": [
+	  "2012-05-30 00:47:28"
+	],
+	"publicdate": [
+	  "2012-05-30 00:48:04"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"publisher": [
+	  "Vivendi Universal Games"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_9"
+	]
+  },
+  "files": {
+	"\/MenOfValorDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "625bcb8c69ab024f0ddf7ebd480b02ea4d8fb07e",
+	  "mtime": "1466331715",
+	  "size": "32511",
+	  "md5": "515bf271d7c4603268a53b6f387a16a0",
+	  "crc32": "790a68b1",
+	  "sha1": "c47d067d797e00bcd51251bfb9ed2c66ccf1a48a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MenOfValorDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d978c9899965b7ecceea21d20bf753aa"
+	},
+	"\/MenOfValorDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466331709",
+	  "size": "1225",
+	  "md5": "10ca4e35c917ccd62d8322b941bb52e1",
+	  "crc32": "f4b54107",
+	  "sha1": "719a178a5b2e185d5b415fe1b5039c001cf3adf0"
+	},
+	"\/MenOfValorSingle-player.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "title": "Men Of Valor Single-Player",
+	  "mtime": "1399580848",
+	  "size": "455463677",
+	  "md5": "5b7f76cfcc32e8feeda2fb99bc94df62",
+	  "crc32": "547c72b9",
+	  "sha1": "1dfef04c1533f6eed4e7006d39efaa45e9cfbb25"
+	},
+	"\/movdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338338494",
+	  "size": "344231860",
+	  "md5": "64964c933afa75b7f6eb62ac50ec7101",
+	  "crc32": "fe8fe540",
+	  "sha1": "4daab278dd3f8308ac3ce22836ebe9c8ae79842b"
+	},
+	"\/movdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338338496",
+	  "size": "285754",
+	  "md5": "f23e0da7ab735f0c52cc3446daafb035",
+	  "crc32": "13d98450",
+	  "sha1": "ef51a941d9a4e65dbf9721b6e8665f9db92a1f6b",
+	  "rotation": "0"
+	},
+	"\/movdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "movdemo.jpg",
+	  "mtime": "1338338879",
+	  "size": "4369",
+	  "md5": "757e10e822feb1d4925a1f99bb224e63",
+	  "crc32": "7c51deed",
+	  "sha1": "0eb66c05897a30b63c71b8b03cb0aa2558ddc44f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/10\/items\/MenOfValorDemo\/movdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 472,
+	"week": 9,
+	"month": 21
+  }
+}

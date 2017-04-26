@@ -1,0 +1,120 @@
+{
+  "server": "ia802606.us.archive.org",
+  "dir": "/32/items/sonic3k",
+  "metadata": {
+	"identifier": [
+	  "sonic3k"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sega"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>The Sonic & Knuckles Collection contains three games ported from the Sega Genesis:<\/div><div><br \/><\/div><div>Sonic the Hedgehog 3<\/div><div>Sonic & Knuckles<\/div><div>Sonic 3 & Knuckles (Sonic the Hedgehog 3 running with the Sonic & Knuckles modification enhancement)<\/div>"
+	],
+	"publisher": [
+	  "Sega"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Sonic & Knuckles Collection Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-11-04 04:40:06"
+	],
+	"addeddate": [
+	  "2014-11-04 04:40:06"
+	],
+	"backup_location": [
+	  "ia905906_11"
+	]
+  },
+  "files": {
+	"\/sonic3k.exe": {
+	  "source": "original",
+	  "mtime": "1415076005",
+	  "size": "5229220",
+	  "md5": "c103a62b81e05341103c41ef8a670387",
+	  "crc32": "b91950bf",
+	  "sha1": "f154266660a17185832a82aa0713726ef96514a0",
+	  "format": "Windows Executable"
+	},
+	"\/sonic3k.png": {
+	  "source": "original",
+	  "mtime": "1415076018",
+	  "size": "36936",
+	  "md5": "58ab5e1804515dd47052cf2f17025f63",
+	  "crc32": "2d552124",
+	  "sha1": "3c948f4fde418395cfa4eb73f84a5e3ea12d551d",
+	  "format": "PNG"
+	},
+	"\/sonic3k_archive.torrent": {
+	  "source": "original",
+	  "btih": "340549fc4f3875416823ba5ac8fdd296f67e29a1",
+	  "mtime": "1472321747",
+	  "size": "2136",
+	  "md5": "686ee52d032edca808a60ac164f610e5",
+	  "crc32": "72ae3dd8",
+	  "sha1": "6fa6fa0086d887e3a23f7f6400d5a27c3d684d42",
+	  "format": "Archive BitTorrent"
+	},
+	"\/sonic3k_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3c8f79165ff88c05d0c6cacc40e4c92a"
+	},
+	"\/sonic3k_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1415076024",
+	  "size": "14336",
+	  "md5": "a5d22ff50e5827a97f8cd89995ff4a72",
+	  "crc32": "66357b36",
+	  "sha1": "beabf17c93a85f626eb4f8a9df9e0281345c378a",
+	  "format": "Metadata"
+	},
+	"\/sonic3k_meta.xml": {
+	  "source": "original",
+	  "mtime": "1472321747",
+	  "size": "1027",
+	  "format": "Metadata",
+	  "md5": "63a6449bfdaccbeb704677589ca43c3f",
+	  "crc32": "ca951457",
+	  "sha1": "be0884fddbee8119e18cd2a1244dfd9509d2789a"
+	},
+	"\/sonic3k_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sonic3k.png",
+	  "mtime": "1415076065",
+	  "size": "7287",
+	  "md5": "69ea3e788f662e02a5d271319b332300",
+	  "crc32": "4d9068c6",
+	  "sha1": "00b8c528e10ba945094bec8c41274bae5a98dd38"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia802606.us.archive.org\/32\/items\/sonic3k\/sonic3k_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3613,
+	"week": 20,
+	"month": 102
+  }
+}

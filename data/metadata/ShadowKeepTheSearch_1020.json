@@ -1,0 +1,329 @@
+{
+  "server": "ia800304.us.archive.org",
+  "dir": "/15/items/ShadowKeepTheSearch_1020",
+  "metadata": {
+	"identifier": [
+	  "ShadowKeepTheSearch_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Magic Lemon Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Don Lemons"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "ShadowKeep: The Search"
+	],
+	"publicdate": [
+	  "2012-09-04 05:04:14"
+	],
+	"addeddate": [
+	  "2012-09-04 05:04:14"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"Welcome to the Land of ShadowKeep.  You are a peasant, living in a small town  in the once great kingdom of Camelot. One night, the wizard Merlin comes  to you in a dream and reveals to you your heritage, that you are the  great- grandchild of the one true king himself, Arthur.  Merlin has been  seized and captured by the Shadow King, a cruel and evil magician who  has captured Merlin and has placed the shades of the three greatest knights  of the Round- table, Sir Galahad, Sir Guy, and Sir Lancelot, under  a spell that keeps their remains from their final rest.\n\nIn the first game of ShadowKeep, Merlin tasks you with freeing the spirits  of the three knights, and with retreiving the sword Excalibur from  the Shadow King himself.\n\nIn this demo, your tasks are more limited. You must travel through the Misty  Woods, find the entrance to the tomb of Sir Guy, and fight your way  through to the catacomb of Sir Guy, defeat his shadow, and retrieve the  Emerald which holds him in his tomb.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "shadowd.exe"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475467368",
+	  "size": "145523",
+	  "md5": "99cc7045d580b5a3cb652f0e31331ed7",
+	  "crc32": "7df773c9",
+	  "sha1": "7f1c4ca0aecf7f0fe34b314be5ef761495c8eebc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475467429",
+	  "size": "4574",
+	  "md5": "f5c6ea1301d102e29e8561767d494f9f",
+	  "crc32": "d73c91a9",
+	  "sha1": "1597e0c71ab335df31f34cb28962b82239a11ded"
+	},
+	"\/SHADOW_D.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346735061",
+	  "size": "710",
+	  "md5": "6706a2c809350e7ea97683ed4782d311",
+	  "crc32": "e5fabb25",
+	  "sha1": "d2c522955ebaa575618eb5d8b672d08bafee852e"
+	},
+	"\/ShadowKeepTheSearch_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475467398",
+	  "size": "31518",
+	  "md5": "16184afb44a925f3354fb7bb42f648a4",
+	  "crc32": "f9e1736c",
+	  "sha1": "b392cdf266b0fe17e9249443ff3cc7253b435e9a",
+	  "format": "Animated GIF"
+	},
+	"\/ShadowKeepTheSearch_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "0978dbb4cead1712bdd1d5a1f5d927a5ccb29e09",
+	  "mtime": "1475467438",
+	  "size": "5300",
+	  "md5": "609d129015daea9e0ee9c09465429195",
+	  "crc32": "a355c4df",
+	  "sha1": "7708b0808b2b0378191d71832237f57d19859357",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ShadowKeepTheSearch_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f71a48243e62275c94863e660f4cf021"
+	},
+	"\/ShadowKeepTheSearch_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475467405",
+	  "size": "11264",
+	  "md5": "216ab2661e387cc796e5682a1143278c",
+	  "crc32": "88c4461e",
+	  "sha1": "c870adce7cd5acb0326021ad78526e8c4bef8372",
+	  "format": "Metadata"
+	},
+	"\/ShadowKeepTheSearch_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471905754",
+	  "size": "1928",
+	  "md5": "e41a9e9df87a570b579ffb33a97c2e13",
+	  "crc32": "eaeae391",
+	  "sha1": "aaa266d9d146f826b17fc6ddf72c8f90fcc304c6"
+	},
+	"\/Shadow_D.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471905717",
+	  "size": "432332",
+	  "md5": "7b80f0dbd38755a462a6d8656989d335",
+	  "crc32": "be7b0184",
+	  "sha1": "ff9db1b072b8f3baa093b40b43d26b68aca24b12"
+	},
+	"\/Shadow_D_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475467402",
+	  "size": "150832",
+	  "md5": "23b2842c23b873d21a493df155a3b3b6",
+	  "crc32": "f5b01681",
+	  "sha1": "7b7dd55faa0a29f3539952dd9ad62221e08ef6eb",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1718.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346736055",
+	  "size": "15663",
+	  "md5": "e7ae13ea0711fac579c365188be90d5f",
+	  "crc32": "61107185",
+	  "sha1": "96be3f0de7dbb648776ee8909676e87b047899be",
+	  "rotation": "0"
+	},
+	"\/resource_item_1718.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346736055",
+	  "size": "272",
+	  "md5": "cf70688af39cafba1a4d6e89d25afd02",
+	  "crc32": "7ff3dd50",
+	  "sha1": "bce2dee7f627d720360e555af36fb7a78a6fde3a"
+	},
+	"\/resource_item_1718_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1718.jpg",
+	  "mtime": "1346736761",
+	  "size": "4822",
+	  "md5": "23b7ec5fe885e2bde18201f5b1461490",
+	  "crc32": "0cbdc9d6",
+	  "sha1": "d8e95c071a0d90c08842f1c5d9e2f7d336b8ca10"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475467370",
+	  "size": "66446",
+	  "md5": "1e0132f118426c8eacd0b1c22718334f",
+	  "crc32": "4cb09c6e",
+	  "sha1": "d43709b86796b8e8a6239c3bb198ff7f525b4067",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475467425",
+	  "size": "5260",
+	  "md5": "a1b523ad950bf054338ac9f525ce2b60",
+	  "crc32": "4bd5a8e0",
+	  "sha1": "cb8c3692f6289644071968ab72bf5037d0243815"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475467378",
+	  "size": "66382",
+	  "md5": "51ee7cd0ddb55314b9bdd0a8bbb3ce62",
+	  "crc32": "996c29a6",
+	  "sha1": "4e929cbdcba0b789ac029f5fcea03fbf48931246",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475467428",
+	  "size": "5173",
+	  "md5": "194ecdfc4d2cf7c5f11bf439ede7369c",
+	  "crc32": "f424d9cf",
+	  "sha1": "12262934b002de08e02346c0d07873cf37832d50"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475467380",
+	  "size": "66493",
+	  "md5": "b92efd084030afe8185ada04a82f9ee4",
+	  "crc32": "477b1ae3",
+	  "sha1": "81b118a443b866623cea68ac527b11cb453c7718",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475467430",
+	  "size": "5264",
+	  "md5": "bd31448f0166fef64e04ed2720236d66",
+	  "crc32": "1533163a",
+	  "sha1": "aa4a7b19a110d8528e5199ab94e704702ab708bc"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475467382",
+	  "size": "66441",
+	  "md5": "1a438986560110edfe4283be2cc35fac",
+	  "crc32": "6f19b4be",
+	  "sha1": "cf5440eb1f318cd9ed5fb4eecf6b0cd4344b4888",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475467431",
+	  "size": "5238",
+	  "md5": "4eb2344bd96d615ed5d6c349630f4c77",
+	  "crc32": "68e394c3",
+	  "sha1": "8ef4e3f2808a91d4236816f7d5a8429fc7271eed"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475467385",
+	  "size": "66415",
+	  "md5": "9fff911afc817e2fe8dc064665e0299f",
+	  "crc32": "63f99b25",
+	  "sha1": "3505e8d3854312cd0e2d45aefff841220b0b8859",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475467434",
+	  "size": "5200",
+	  "md5": "5f84f1595d28184085c833b07ac3bd70",
+	  "crc32": "73258ce0",
+	  "sha1": "0b0d4aacf5ce34c20ec5a6dad80261fb6ae87a12"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475467387",
+	  "size": "66426",
+	  "md5": "4675a6ba8acd79f29500f887c4041776",
+	  "crc32": "363b9a7f",
+	  "sha1": "8a9e875089ba15c81be6d57871b013d9a3968ede",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475467432",
+	  "size": "5209",
+	  "md5": "15c1b19f9600b291b2649b2071d84047",
+	  "crc32": "024b82d0",
+	  "sha1": "63fd7d6cdb29d2061a2060701cad8bdbcf848349"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475467390",
+	  "size": "145523",
+	  "md5": "99cc7045d580b5a3cb652f0e31331ed7",
+	  "crc32": "7df773c9",
+	  "sha1": "7f1c4ca0aecf7f0fe34b314be5ef761495c8eebc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475467433",
+	  "size": "4574",
+	  "md5": "f5c6ea1301d102e29e8561767d494f9f",
+	  "crc32": "d73c91a9",
+	  "sha1": "1597e0c71ab335df31f34cb28962b82239a11ded"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800304.us.archive.org\/15\/items\/ShadowKeepTheSearch_1020\/ShadowKeepTheSearch_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 186,
+	"week": 5,
+	"month": 6
+  }
+}

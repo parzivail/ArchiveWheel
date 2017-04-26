@@ -1,0 +1,329 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/26/items/SuperJeopardyDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Super Jeopardy! Demo"
+	],
+	"description": [
+	  "Super Jeopardy! allows for up to four players to complete in answering trivia questions.  The game is based off the popular TV show."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"creator": [
+	  "GameTek"
+	],
+	"identifier": [
+	  "SuperJeopardyDemo"
+	],
+	"addeddate": [
+	  "2012-08-04 12:19:52"
+	],
+	"publicdate": [
+	  "2012-08-04 12:20:12"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_13"
+	],
+	"emulator_start": [
+	  "JEOPARDY.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475525565",
+	  "size": "319839",
+	  "md5": "55a7b8300ea4d632b708e5c6657b84ae",
+	  "crc32": "13ffd236",
+	  "sha1": "a7a867d909b0b4392347b3cdc79d5230d4a2fe6b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475525643",
+	  "size": "6307",
+	  "md5": "ab566cf9a77c0edfc0b14fadd3f44369",
+	  "crc32": "a27b3556",
+	  "sha1": "6ce906c7976ac6d4e9cf8613fa298f00f1dd77c5"
+	},
+	"\/SuperJeopardyDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475525618",
+	  "size": "61496",
+	  "md5": "ce0ecfff2e72c9c214a326b1320311d8",
+	  "crc32": "ad82b9e7",
+	  "sha1": "23a566ee11f849c9c02cf1f4a5451ae10dee50a2",
+	  "format": "Animated GIF"
+	},
+	"\/SuperJeopardyDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "c41bc2dd7f684961b96adc66d431898373dafa77",
+	  "mtime": "1475525655",
+	  "size": "5656",
+	  "md5": "dcf57a5f43b1a91bb923ea7192d14c23",
+	  "crc32": "219c3ba4",
+	  "sha1": "792116a7eeb6c11ef3030fe7468421043b4ffe4c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SuperJeopardyDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5731b1fa8d769cb369b696875c0d9b27"
+	},
+	"\/SuperJeopardyDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475525633",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "a521cc6c5916cdc9436a354174455cdd",
+	  "crc32": "828dfd64",
+	  "sha1": "81d5bd2f1ced60e5e39022d797790a8fb9892ea6"
+	},
+	"\/SuperJeopardyDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469816036",
+	  "size": "994",
+	  "md5": "1d794bb35cb22f3c30b270ff2f320d6c",
+	  "crc32": "9c6d3417",
+	  "sha1": "d033c98227749a352673445eb8e5609d37312ea7"
+	},
+	"\/aqst15.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "!aqst15",
+	  "mtime": "1344082756",
+	  "size": "387976",
+	  "md5": "da649414d60b4284dae398c8cbab9ba9",
+	  "crc32": "5791b0aa",
+	  "sha1": "b6d03c895138fd6eb9fd23aeca56e6a07ae3f9fa"
+	},
+	"\/aqst15_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475525625",
+	  "size": "493029",
+	  "md5": "8f987b8aa4ca8c28210d8ed826691add",
+	  "crc32": "ee65a230",
+	  "sha1": "cfd03e0e53d50fe981f48f9bc04fb1d9210f1a96",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_395.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344082765",
+	  "size": "13987",
+	  "md5": "8ecff2b2c0f13352f3b6cccbe312dc07",
+	  "crc32": "34f5d558",
+	  "sha1": "43d2cfa030a1c3665f48627e9cdb106163d4d875",
+	  "rotation": "0"
+	},
+	"\/resource_item_395_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_395.jpg",
+	  "mtime": "1344082806",
+	  "size": "4760",
+	  "md5": "77761c3a4c33405f32437799de0bd1e8",
+	  "crc32": "461e98fd",
+	  "sha1": "7089cf8fd347782a48a5a66c7ff86a83f9399c07"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475525574",
+	  "size": "311826",
+	  "md5": "420c82f4109750dbcdc0a507b1c99bca",
+	  "crc32": "d000ff24",
+	  "sha1": "92ce3d92c5cd051777027dec4d0d603f997dc037",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475525644",
+	  "size": "6223",
+	  "md5": "58775266dee516ce68e35788ac8522b8",
+	  "crc32": "688a7f58",
+	  "sha1": "7068b4d2adcd52ba4139e30768fa6d98bf3d4741"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475525580",
+	  "size": "316803",
+	  "md5": "974e19324296c8d1754c5bf91fb91ee0",
+	  "crc32": "a32c681b",
+	  "sha1": "3f11526b650a42d2bd7a409e4b858ddf46e68518",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475525646",
+	  "size": "6339",
+	  "md5": "df675f34bb6544129c850014ffa9e132",
+	  "crc32": "80327158",
+	  "sha1": "4a846b1cc07acd19178a2f11f677505f70f3c9da"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475525584",
+	  "size": "319839",
+	  "md5": "55a7b8300ea4d632b708e5c6657b84ae",
+	  "crc32": "13ffd236",
+	  "sha1": "a7a867d909b0b4392347b3cdc79d5230d4a2fe6b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475525648",
+	  "size": "6307",
+	  "md5": "ab566cf9a77c0edfc0b14fadd3f44369",
+	  "crc32": "a27b3556",
+	  "sha1": "6ce906c7976ac6d4e9cf8613fa298f00f1dd77c5"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475525586",
+	  "size": "317731",
+	  "md5": "0d94032457adf9c852599433402f2ae4",
+	  "crc32": "5526d570",
+	  "sha1": "889602cdfcec1bdc9cfcd91afcb42e2386a2a241",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475525649",
+	  "size": "6288",
+	  "md5": "3e735e580af7b1fe10d640485c0e7928",
+	  "crc32": "cf1b7502",
+	  "sha1": "35f66fa33d91eff92e8c8153609903a5a2341257"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475525602",
+	  "size": "317277",
+	  "md5": "77700f36007907a4ea76e734947608c0",
+	  "crc32": "a8d9c4b3",
+	  "sha1": "a10d35923278cc87ab073afa9252d7496b84bb43",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475525650",
+	  "size": "6211",
+	  "md5": "ce63194a41e1c9cb76b27eca2da3fbe5",
+	  "crc32": "65b65942",
+	  "sha1": "e4270908eea7b1a79ad3e775ea64db99bf00f42c"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475525605",
+	  "size": "191591",
+	  "md5": "99e31bddba2acfd06fec832b49db2837",
+	  "crc32": "214f21c2",
+	  "sha1": "57ace7132e8c934412e59e0cbd8953c02c33f96f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475525652",
+	  "size": "6653",
+	  "md5": "97fa50cee9913d922d7933c164f39868",
+	  "crc32": "75bda47b",
+	  "sha1": "57240063e165e6746f6f9eedba0dcebdc77b402b"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475525611",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475525653",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475525613",
+	  "size": "254484",
+	  "md5": "cabea465d8b7e181f822778be599b97b",
+	  "crc32": "e33785a4",
+	  "sha1": "f14bcfa85e0d603740f69d85f364afab85ea014c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475525654",
+	  "size": "5165",
+	  "md5": "eeadbe577fbd47325511cd35c03e30c7",
+	  "crc32": "69e1ca7a",
+	  "sha1": "9fce1efbcf9dfd4069f688d281f53b7c3e7d2c33"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/26\/items\/SuperJeopardyDemo\/SuperJeopardyDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 248,
+	"week": 5,
+	"month": 7
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "server": "ia601206.us.archive.org",
+  "dir": "/12/items/PYRD100",
+  "metadata": {
+	"identifier": [
+	  "PYRD100"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Randy Rasa"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Pyramid Deluxe Solitaire v1.00. This is a SuperVGA version of the classic solitaire card game, featuring 640x480x256 graphics, hint mode, undo, demo mode, and full scoring statistics for up to ten players. Requires 386, SuperVGA and mouse. Shareware by Randy Rasa.\u00a0"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Pyramid Deluxe Solitaire"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-08 01:36:30"
+	],
+	"addeddate": [
+	  "2016-11-08 01:36:30"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator_start": [
+	  "pyramid.exe"
+	]
+  },
+  "files": {
+	"\/PYRD100.ZIP": {
+	  "source": "original",
+	  "mtime": "1478568989",
+	  "size": "141604",
+	  "md5": "3134ff18fdb2bff1fd35d1e47f5a4964",
+	  "crc32": "767fc0a2",
+	  "sha1": "fe7d4ad592efd583c9566c826cf7a2b3219a847a",
+	  "format": "ZIP"
+	},
+	"\/PYRD100_archive.torrent": {
+	  "source": "original",
+	  "btih": "55a7182285efb804fd22f605a6c68ad4ccad82b3",
+	  "mtime": "1478569281",
+	  "size": "1941",
+	  "md5": "44f0b36f0cbd7edcb0baa53928420c6f",
+	  "crc32": "f20b9bc4",
+	  "sha1": "32cbe7fea04e3b692cc0a751c2cece6fd289dce3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PYRD100_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f6998a6323949a0fbca1fee18679a928"
+	},
+	"\/PYRD100_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478569007",
+	  "size": "14336",
+	  "md5": "b187686391aab4c756a0c7b4f4d4491a",
+	  "crc32": "ff3c920e",
+	  "sha1": "5e3568b64d1e54b5ed63735d9ba51786fe7297a9",
+	  "format": "Metadata"
+	},
+	"\/PYRD100_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478569280",
+	  "size": "985",
+	  "format": "Metadata",
+	  "md5": "69bec1aa7df0ae169b2a424abf9e6aeb",
+	  "crc32": "11d4980b",
+	  "sha1": "bf91fc29c1b0d3666b086040c8ea004389b00a60"
+	},
+	"\/pyramid_000.png": {
+	  "source": "original",
+	  "mtime": "1478569001",
+	  "size": "25954",
+	  "md5": "5cd733e5032489b4ab9b4cfd49afaf6a",
+	  "crc32": "e38ab45c",
+	  "sha1": "25619473a768f4ac16ca2ba6fb791ece22620ef4",
+	  "format": "PNG"
+	},
+	"\/pyramid_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "pyramid_000.png",
+	  "mtime": "1478569020",
+	  "size": "7839",
+	  "md5": "63125e4a65117e6b35d8acebffa2d3b3",
+	  "crc32": "3f571d09",
+	  "sha1": "a565eb76e3d248ea6fe9c880ad47ad9f9adbde3e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601206.us.archive.org\/12\/items\/PYRD100\/pyramid_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 19,
+	"week": 4,
+	"month": 6
+  }
+}

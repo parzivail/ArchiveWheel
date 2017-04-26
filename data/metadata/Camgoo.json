@@ -1,0 +1,117 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/34/items/Camgoo",
+  "metadata": {
+	"identifier": [
+	  "Camgoo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "bhv Software"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "Camgoo is a collection of mini-games played by moving in front of a web camera."
+	],
+	"publisher": [
+	  "Rebel Games"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Camgoo Sixplay Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2014-02-24 23:46:55"
+	],
+	"addeddate": [
+	  "2014-02-24 23:46:55"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234121[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_26"
+	]
+  },
+  "files": {
+	"\/Camgoo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1393285615",
+	  "size": "9499836",
+	  "md5": "9c5a48aaa97d941a99502efb248c79d6",
+	  "crc32": "dea92afa",
+	  "sha1": "720d5bcff591dd2e50c9ab0fb9b54c4000827346"
+	},
+	"\/Camgoo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1393285627",
+	  "size": "31082",
+	  "md5": "c4f11fe397b095444664536025faf1a6",
+	  "crc32": "e6dfc54b",
+	  "sha1": "90395c70471a46013feaaefb1b63ef22596a8fd7",
+	  "rotation": "0"
+	},
+	"\/Camgoo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f50603dd6f73c6173f67eba26a79e683"
+	},
+	"\/Camgoo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1393285633",
+	  "size": "10240",
+	  "md5": "dbb0f4ea3ad417c0eefe449c868be68c",
+	  "crc32": "bf543de9",
+	  "sha1": "5c57da23ea786d9a401a50e47a0b9e76d0320fc7"
+	},
+	"\/Camgoo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474517688",
+	  "size": "915",
+	  "md5": "874fcaa62fe850897788049c2ad395f0",
+	  "crc32": "1f0e7627",
+	  "sha1": "222a473fcd2b93da8b5f290a96ab8b6a32689b41"
+	},
+	"\/Camgoo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Camgoo.jpg",
+	  "mtime": "1393285667",
+	  "size": "8485",
+	  "md5": "520355fe184822a3e58d590dc9d8e12a",
+	  "crc32": "251c298e",
+	  "sha1": "d7697541d9a20081350ba451aa4e61e609d12ae3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/34\/items\/Camgoo\/Camgoo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 209,
+	"week": 3,
+	"month": 6
+  }
+}

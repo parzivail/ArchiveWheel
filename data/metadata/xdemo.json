@@ -1,0 +1,204 @@
+{
+  "server": "ia802705.us.archive.org",
+  "dir": "/30/items/xdemo",
+  "metadata": {
+	"identifier": [
+	  "xdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Capcom"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>In this game the X-Men, the ultimate team of mutant superheroes, face off against their evil adversaries, the Acolytes: Magneto, Omega Red, and Spiral--and it's unrelenting combat all the way. The X-Men are desperately trying to defend normal humanity--the very people that fear and despise them--from their own evil renegade kind, the Acolytes, who are bent on world domination and the enslavement of humanity. Of course, there are also those militant, mutant-killing, misguided, self-appointed, robot guardians of the nonmutant populace, the Sentinels--they're out to destroy all mutants, good or bad. X-Man or Acolyte, it makes no difference to their cold-blooded computer brains! If it's a mutant, they want it dead. This is a combat arcade game in the tradition of Street Fighter 2. Each hero and villain has special, distinct combination moves. In this demo you are Wolverine, and you must combat against Psylocke.<\/div>"
+	],
+	"publisher": [
+	  "Acclaim Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "X-Men: Children of the Atom Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-19 22:37:57"
+	],
+	"addeddate": [
+	  "2014-01-19 22:37:57"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234237[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "XMEN.BAT"
+	],
+	"backup_location": [
+	  "ia905803_7"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444836736",
+	  "size": "99145",
+	  "md5": "0d3fee13f9c8bf06aa93d6ffea8c0402",
+	  "crc32": "0c159a43",
+	  "sha1": "8c9ded8f391d2901b72237c23488878817b82c0b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444836761",
+	  "size": "5977",
+	  "md5": "b2098405dd0f56aaaa238575594b40cc",
+	  "crc32": "661fb15b",
+	  "sha1": "d54c8ed5ee5bebdc82ad1e87edb389f5677e4984"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444836739",
+	  "size": "99145",
+	  "md5": "0d3fee13f9c8bf06aa93d6ffea8c0402",
+	  "crc32": "0c159a43",
+	  "sha1": "8c9ded8f391d2901b72237c23488878817b82c0b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444836762",
+	  "size": "5977",
+	  "md5": "b2098405dd0f56aaaa238575594b40cc",
+	  "crc32": "661fb15b",
+	  "sha1": "d54c8ed5ee5bebdc82ad1e87edb389f5677e4984"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444836741",
+	  "size": "99138",
+	  "md5": "cd43248e5e884fad998b9bf5b10218fa",
+	  "crc32": "e3e4d65a",
+	  "sha1": "ba4f5a14f8fcce9c24f926b9307b42b183b18da4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444836763",
+	  "size": "5984",
+	  "md5": "2c2d9e476d80bf4dddd9c6e640c1465d",
+	  "crc32": "2b6cf978",
+	  "sha1": "e1dc47841d35bc5cb9624967422f9ba78d02bf73"
+	},
+	"\/xdemo.gif": {
+	  "source": "original",
+	  "mtime": "1444836744",
+	  "size": "14357",
+	  "md5": "2aaed568d0a90be9a7b665a7b5b4112f",
+	  "crc32": "57bf4340",
+	  "sha1": "30acc08cc2b714b66e68630181098682a031deed",
+	  "format": "Animated GIF"
+	},
+	"\/xdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390171076",
+	  "size": "31573",
+	  "md5": "6152acaaa67e984e9607e71950bbc434",
+	  "crc32": "52f5c01c",
+	  "sha1": "190a7f6bb54cd359c92bf09cc678680b732f8f3d",
+	  "rotation": "0"
+	},
+	"\/xdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1390171093",
+	  "size": "6127721",
+	  "md5": "e106456587f315e7e22e76f3781e3d40",
+	  "crc32": "8644e923",
+	  "sha1": "771290fe1054e9657460cb6d38aab3e305a36807"
+	},
+	"\/xdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "611681f4d3e0bf6896cfd764666994c3"
+	},
+	"\/xdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1444836753",
+	  "size": "16384",
+	  "md5": "d08da8e91db4c0ec68f56728c4485829",
+	  "crc32": "463f2386",
+	  "sha1": "afc7078fb67e51266b807c9d0320a011b127ddfc"
+	},
+	"\/xdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475060424",
+	  "size": "1899",
+	  "md5": "1028a43eab078e339cf342ff8d011538",
+	  "crc32": "6654853b",
+	  "sha1": "dd17ba4bd7104cef74d2c91bda713e90bff64bd9"
+	},
+	"\/xdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444836748",
+	  "size": "53296",
+	  "md5": "d3ad381ea81c92b332ff9feb9c9742ab",
+	  "crc32": "ceb6b7d2",
+	  "sha1": "e3b6c8a30291353354649c8676a47b01b66542b1",
+	  "format": "Emulator Screenshot"
+	},
+	"\/xdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "xdemo.jpg",
+	  "mtime": "1410202796",
+	  "size": "7118",
+	  "md5": "bd2ed9ba4132ce44df1a327949d658c5",
+	  "crc32": "1a3b9965",
+	  "sha1": "c5efe7768ed102a1d49d1b3122065f20c5351cdd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia802705.us.archive.org\/30\/items\/xdemo\/xdemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 7885,
+	"week": 38,
+	"month": 158
+  }
+}

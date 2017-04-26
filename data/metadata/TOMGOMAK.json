@@ -1,0 +1,126 @@
+{
+  "server": "ia601906.us.archive.org",
+  "dir": "/20/items/TOMGOMAK",
+  "metadata": {
+	"identifier": [
+	  "TOMGOMAK"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Tommy's Toys"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "The Oriental board game! Learn instantly play long time . Be the first player to get 5-in-a-row on an 8 x 8 grid. 2-player game. Demo mode. Auto game save\/restore Works with any DOS PC or clone, any monitor no mouse or joystick needed"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Tommy's Go Maku"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-03 04:36:01"
+	],
+	"addeddate": [
+	  "2016-11-03 04:36:01"
+	],
+	"emulator_start": [
+	  "gomaku.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/TOMGOMAK.ZIP": {
+	  "source": "original",
+	  "mtime": "1478147761",
+	  "size": "151280",
+	  "md5": "54fb93349703582917737a13c2fb380b",
+	  "crc32": "8c6087bb",
+	  "sha1": "b78d81a119d81ca532557189a7c8f2e2ff6ba830",
+	  "format": "ZIP"
+	},
+	"\/TOMGOMAK_archive.torrent": {
+	  "source": "original",
+	  "btih": "8f367354339bb3526676dd7967f30ea608b92b78",
+	  "mtime": "1478147870",
+	  "size": "1948",
+	  "md5": "8fbae8ceb1e2c8ab2e0724c0d2511785",
+	  "crc32": "0e406ec4",
+	  "sha1": "5fc5923cab74da06cd7dcda904ce9e355ba33f5a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TOMGOMAK_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "acb6fb2610ca2cd7c110449807c927ab"
+	},
+	"\/TOMGOMAK_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478147779",
+	  "size": "14336",
+	  "md5": "23fde8da5dd535b1677bd6b94d2666e4",
+	  "crc32": "a264f7bd",
+	  "sha1": "05409280cd20e4d74f1b38b659698bf2796c075d",
+	  "format": "Metadata"
+	},
+	"\/TOMGOMAK_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478147870",
+	  "size": "946",
+	  "format": "Metadata",
+	  "md5": "b852b2fb1666df33ca897b5ac4dde732",
+	  "crc32": "cbd4931e",
+	  "sha1": "6303f242b171b4e1583fb500a01b3fc312b3ac6f"
+	},
+	"\/gomaku_000.png": {
+	  "source": "original",
+	  "mtime": "1478147772",
+	  "size": "4831",
+	  "md5": "319fad1f194e3de0e1bbff9a7e321654",
+	  "crc32": "789f6dc6",
+	  "sha1": "a1a436e18d01b222e38a53634da718e6b0dfc4ac",
+	  "format": "PNG"
+	},
+	"\/gomaku_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "gomaku_000.png",
+	  "mtime": "1478147789",
+	  "size": "3491",
+	  "md5": "ede675364f08aa1f477a0cef7ebc584f",
+	  "crc32": "d146ca2a",
+	  "sha1": "8e74ab4977a90b053a3b2dd576371751a92f4369"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601906.us.archive.org\/20\/items\/TOMGOMAK\/gomaku_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 16,
+	"week": 3,
+	"month": 3
+  }
+}

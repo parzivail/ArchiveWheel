@@ -1,0 +1,139 @@
+{
+  "server": "ia800300.us.archive.org",
+  "dir": "/28/items/TheDig_1020",
+  "metadata": {
+	"identifier": [
+	  "TheDig_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "LucasArts"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "LucasArts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Dig Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 09:23:59"
+	],
+	"addeddate": [
+	  "2012-09-04 09:23:59"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink.\n\nOnce the wayward asteroid is nuked into a safe orbit, the trio conducts a routine examination of the rocky surface.\n\nWhat they uncover is anything but routine.\n\nLow, Brink and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The team is hurtled across the galaxy to a planet so desolate, Brink is moved to name it Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was obviously once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels.\n\nBut no Cocytans.\n\nWho were the original inhabitants of this once rich empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unraveling in the face of such uncertainty? To return to Earth, they must dig for answers, both on the planet's surface and deep within themselves.\n\nFrom the combined talents of LucasArts and legendary filmmaker Steven Spielberg comes an epic adventure that plunges headlong into the very core of the unknown. And takes you with it.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "thedig\\dig.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/THEDIG.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346750931",
+	  "size": "644",
+	  "md5": "8822aff029ee28508628902b59dfb6a9",
+	  "crc32": "19793ee5",
+	  "sha1": "06294522bdb8e5e2028e894969290241fedc55ee"
+	},
+	"\/THEDIG.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476118917",
+	  "size": "28347854",
+	  "md5": "9ee7ff33cd3ff018ee82691abd228abb",
+	  "crc32": "c9bdcad5",
+	  "sha1": "34b624e7c56f649c9643d64fa35d3af15ac50845"
+	},
+	"\/TheDig_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f0aa17d31787089bd86160489687df9e290f8e02",
+	  "mtime": "1476118956",
+	  "size": "2900",
+	  "md5": "8653f46c28be69f5f338636dc50d7e62",
+	  "crc32": "1998c6f1",
+	  "sha1": "7dbbe91025925f3ca6c299fdd615c352cb0d36b9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheDig_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "efb8e485157e10b01f34421a7363ab22"
+	},
+	"\/TheDig_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476118956",
+	  "size": "2320",
+	  "md5": "b9fcc901b3f41d0cdd11b4362fba5d3b",
+	  "crc32": "707496db",
+	  "sha1": "02af8c8705dbeabb97db178e8892b96a49e8d693"
+	},
+	"\/resource_item_2019.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346750934",
+	  "size": "13517",
+	  "md5": "7a8c7bbc75c8c64bdaa0c92290035d2e",
+	  "crc32": "05bed9cd",
+	  "sha1": "ed1bdd4e84436dd6bab2c17b7e480c09ed000cde",
+	  "rotation": "0"
+	},
+	"\/resource_item_2019.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346750934",
+	  "size": "272",
+	  "md5": "42fa3e8a8365cae5a31708c60d6e90f3",
+	  "crc32": "d58cb55a",
+	  "sha1": "82d51693aced79e4ef3ee2aeb039288d3b0f196f"
+	},
+	"\/resource_item_2019_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2019.jpg",
+	  "mtime": "1346751854",
+	  "size": "4209",
+	  "md5": "71fc4bd8754c805ca3dfe4ac363aa8e9",
+	  "crc32": "ddf59286",
+	  "sha1": "561bcd106e0e95f029bb79db958688a16c446e08"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia800300.us.archive.org\/28\/items\/TheDig_1020\/resource_item_2019_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1662,
+	"week": 7,
+	"month": 12
+  }
+}

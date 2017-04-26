@@ -1,0 +1,209 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/34/items/BrainCubes_1020",
+  "metadata": {
+	"identifier": [
+	  "BrainCubes_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"date": [
+	  "1992"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Michael Dvorkin"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "BrainCubes"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-04 23:43:16"
+	],
+	"addeddate": [
+	  "2012-09-04 23:43:16"
+	],
+	"description": [
+	  "\"The rules of the BrainCubes are very simple: you just have to repeat push sequence provided during \"\"teaching\"\" session. Start the game by selecting New option from Game menu. You will see a board with few buttons. BrainCubes then begins teaching you by pressing random buttons. Your goal is to memorize the push sequence and repeat it in the same order. Each new sequence becomes one move longer, so you have to memorize more and more moves. \n\nThe game has 3 states: teaching, examining and demo. You can see current state in upper right part of the board. Being in teaching mode you should look carefully and memorize all the moves. After the BrainCubes switches to examining mode, your goal is to repeat entire sequence. Demo mode just waits until you choose any menu item.\n\nAfter you complete all the lessons of current level, you will be switched to the next one. Each new level adds even more complexity: teaching time becomes shorter and push sequences become longer. Also increases the number of active buttons.\n\nHave a good luck!\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "d:\\runapp bcubes.exe"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475197464",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475197493",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/BCUBES.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346802202",
+	  "size": "681",
+	  "md5": "f583a5886bb8086e2771958f880a3489",
+	  "crc32": "6a496fdc",
+	  "sha1": "4b5f7374e4eea1f2b4efd6fe10b5d6652e282f64"
+	},
+	"\/BCUBES.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471376046",
+	  "size": "17249",
+	  "md5": "66fbfacf5f2798df2e762ea545928b0e",
+	  "crc32": "d9780184",
+	  "sha1": "fc775d1d2f117d434d29645ec1a95b2d4f1076e4"
+	},
+	"\/BCUBES_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475197476",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/BrainCubes_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475197473",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/BrainCubes_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f0256bc730b21c430322cd922d791a30770f2a9e",
+	  "mtime": "1475197500",
+	  "size": "3080",
+	  "md5": "015a84c5c8d5ce4c6cb9a066092389cf",
+	  "crc32": "402d9e16",
+	  "sha1": "dc20d10495976bfebae1baec8e866cfcbdab7abb",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BrainCubes_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4f9b3642edcfa9bb395a595b706b4ec2"
+	},
+	"\/BrainCubes_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475197481",
+	  "size": "8192",
+	  "md5": "2a64f140bfe3e22845767afc820a4e94",
+	  "crc32": "a98e82ea",
+	  "sha1": "371c6b598d1320360c7647e184cffb0d9320325e",
+	  "format": "Metadata"
+	},
+	"\/BrainCubes_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471376089",
+	  "size": "1980",
+	  "md5": "33e7b26d946ee5cf3c6567d0aaa87c55",
+	  "crc32": "d168dd89",
+	  "sha1": "d851076918c908e7d54557d43a65168f0bf90159"
+	},
+	"\/resource_item_2641.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346804059",
+	  "size": "18984",
+	  "md5": "39ed5202d35e6179058b28b55caa55eb",
+	  "crc32": "d30472d9",
+	  "sha1": "4ba61cfee91a58d2f78d034028360926d504352d",
+	  "rotation": "0"
+	},
+	"\/resource_item_2641.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346804059",
+	  "size": "272",
+	  "md5": "23664d14a3d09dd7b6d8c1c229f39d5e",
+	  "crc32": "96bdee48",
+	  "sha1": "247dfd59cfa06aae26d565a1fe0528b04134407d"
+	},
+	"\/resource_item_2641_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2641.jpg",
+	  "mtime": "1346820096",
+	  "size": "5504",
+	  "md5": "1bf322f61c85ab06e129e859ec60d77a",
+	  "crc32": "c1744e13",
+	  "sha1": "b04d5292282471e74bf6180ad79d89d5376238a5"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475197467",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475197494",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/34\/items\/BrainCubes_1020\/BrainCubes_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 91,
+	"week": 2,
+	"month": 2
+  }
+}

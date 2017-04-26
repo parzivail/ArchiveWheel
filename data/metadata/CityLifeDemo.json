@@ -1,0 +1,112 @@
+{
+  "server": "ia600705.us.archive.org",
+  "dir": "/31/items/CityLifeDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "City Life Demo"
+	],
+	"description": [
+	  "A city building simulation of epic proportions, City Life will challenge players to design, build and manage a modern day metropolis in a fully 3D environment. In the game, players will create a living city, striving to maintain harmony between various social classes through skilled urban planning and meeting their day-to-day needs."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Monte Cristo Multimedia"
+	],
+	"identifier": [
+	  "CityLifeDemo"
+	],
+	"addeddate": [
+	  "2012-06-25 03:43:56"
+	],
+	"publicdate": [
+	  "2012-06-25 03:46:14"
+	],
+	"date": [
+	  "2006"
+	],
+	"year": [
+	  "2006"
+	],
+	"publisher": [
+	  "CDV Software Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903805_21"
+	]
+  },
+  "files": {
+	"\/CL_Demo_Setup.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1340595494",
+	  "size": "519167540",
+	  "md5": "b45c1f2880a997794c116821828e7cd2",
+	  "crc32": "75fcb6a5",
+	  "sha1": "e84869a9e48d7f66a8895bce684050586fc38279"
+	},
+	"\/CL_Demo_Setup.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1340595496",
+	  "size": "354223",
+	  "md5": "3e2a825305dd7a1f652eeb669749ba02",
+	  "crc32": "c1c37b87",
+	  "sha1": "eed0e01a2a636231ff17c0c18ef6affeea5f9ad7",
+	  "rotation": "0"
+	},
+	"\/CL_Demo_Setup_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "CL_Demo_Setup.jpg",
+	  "mtime": "1340595968",
+	  "size": "8286",
+	  "md5": "fccdddd0c39697c55932a4ab6a6ce903",
+	  "crc32": "0bfe6dc0",
+	  "sha1": "11fadb8667763453c6dc13161c4c8cf5eb6737ca"
+	},
+	"\/CityLifeDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "aa86a673dd1e54c6fcad21b359807b0ae166b0e9",
+	  "mtime": "1465076077",
+	  "size": "21628",
+	  "md5": "9c516076cc4d88e223fc24ab3206ac33",
+	  "crc32": "ab373159",
+	  "sha1": "0bcbded508e88137bfe64a3cbbbf8a60992968a3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CityLifeDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "557c2e3ce267ae158354371db30bfb56"
+	},
+	"\/CityLifeDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465076072",
+	  "size": "1113",
+	  "md5": "5c39a9b3db6895694c1f35352e4bc1d0",
+	  "crc32": "f792fef7",
+	  "sha1": "7a18ae577c37b774bac6a716abe92124b4f6dc6b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600705.us.archive.org\/31\/items\/CityLifeDemo\/CL_Demo_Setup_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 318,
+	"week": 5,
+	"month": 18
+  }
+}

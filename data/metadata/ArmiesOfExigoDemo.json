@@ -1,0 +1,112 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/19/items/ArmiesOfExigoDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Armies of Exigo Demo"
+	],
+	"description": [
+	  "Worlds collide in Armies of Exigo, a fantasy RTS where the boundaries of the battlefield are broken and war is waged both above and below the ground.\nIn the world of Exigo, where peace and prosperity have reigned for years, the empires of man and beast faces their greatest threat yet. A sinister force known as The Fallen has awaken to strike where the inhabitants of this world least expect - from underground."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Black Hole Entertainment"
+	],
+	"identifier": [
+	  "ArmiesOfExigoDemo"
+	],
+	"addeddate": [
+	  "2012-05-29 23:47:20"
+	],
+	"publicdate": [
+	  "2012-05-29 23:47:42"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_9"
+	]
+  },
+  "files": {
+	"\/AoX_SPDemo_Install.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338335184",
+	  "size": "107638863",
+	  "md5": "467aaccc0b545a7af810ad838e2894d8",
+	  "crc32": "f890744e",
+	  "sha1": "a888a6fce3fe16f99b01d93024948f9160a7c522"
+	},
+	"\/AoX_SPDemo_Install.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338335186",
+	  "size": "396724",
+	  "md5": "74493df94671a77fa7d8f7a5be7a4025",
+	  "crc32": "c364e1a2",
+	  "sha1": "cfcf3df6e75e2986d7a479bcd6dd655f75f007f8",
+	  "rotation": "0"
+	},
+	"\/AoX_SPDemo_Install_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "AoX_SPDemo_Install.jpg",
+	  "mtime": "1338335257",
+	  "size": "5219",
+	  "md5": "705043909fdc4ceecb38cdda542daf57",
+	  "crc32": "93f44387",
+	  "sha1": "22f5035b5e0a700f3b4ce1709e96321c10faed69"
+	},
+	"\/ArmiesOfExigoDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "34f4e0e6c695efbf3b2ef66eac645d71894d9f6b",
+	  "mtime": "1462298918",
+	  "size": "6002",
+	  "md5": "17e6a7265ec491afc034051cff21bcb3",
+	  "crc32": "847a2ee0",
+	  "sha1": "819d900908b5bd9f0cd1e481bf317aae3a876ec3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ArmiesOfExigoDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b9209c4f9492e6ad588e7695b23b1b35"
+	},
+	"\/ArmiesOfExigoDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462298917",
+	  "size": "1192",
+	  "md5": "2497d94502cbdc57a42cde98d2f9cbf4",
+	  "crc32": "e62e6bbc",
+	  "sha1": "12646bfd86872ee264323d49643282131e57dd53"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/19\/items\/ArmiesOfExigoDemo\/AoX_SPDemo_Install_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 322,
+	"week": 6,
+	"month": 17
+  }
+}

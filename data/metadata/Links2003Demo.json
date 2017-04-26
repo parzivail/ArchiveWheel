@@ -1,0 +1,113 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/20/items/Links2003Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Links 2003 Demo"
+	],
+	"description": [
+	  "Tee it up on the world's great courses in an incredibly real golf experience. Link 2003 delivers a stunningly detailed and authentic golf experience so real, you'll swear you're strolling the fairways with club in hand."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"creator": [
+	  "Microsoft"
+	],
+	"identifier": [
+	  "Links2003Demo"
+	],
+	"addeddate": [
+	  "2012-05-14 01:36:01"
+	],
+	"publicdate": [
+	  "2012-05-14 01:37:08"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/2k3demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336959342",
+	  "size": "170486464",
+	  "md5": "a0134e0cc4620876bdf69b836a66d870",
+	  "crc32": "da95a554",
+	  "sha1": "aa334fcfaa8a0c39ec62ac3b1925da387e308722",
+	  "title": "Links 2003 Demo"
+	},
+	"\/2k3demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336959345",
+	  "size": "187401",
+	  "md5": "5cabe423ca2876815bf2882d218c432a",
+	  "crc32": "19168689",
+	  "sha1": "90032b3ba8144052f656bf4e4567bf54d59abb37",
+	  "rotation": "0"
+	},
+	"\/2k3demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "2k3demo.jpg",
+	  "mtime": "1336959422",
+	  "size": "4509",
+	  "md5": "90b1bf74f6cfad284ca17f1be6523ade",
+	  "crc32": "50773327",
+	  "sha1": "c2d44cefe53d7843388d54f03ba49c9dbb0d42fb"
+	},
+	"\/Links2003Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "bf96f483fd7659c8563f3583cf1e9b44d40d783b",
+	  "mtime": "1463301134",
+	  "size": "8316",
+	  "md5": "ce93b0b2f6446f5c332460708f564f04",
+	  "crc32": "07f29e65",
+	  "sha1": "9d30d7ced3dfc26072de04db6d11d8dc7ae919b0",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Links2003Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "740aeafe7676c584e274bc08455156c1"
+	},
+	"\/Links2003Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463301131",
+	  "size": "967",
+	  "md5": "27f59e07f2b858ee4066feaf369d1839",
+	  "crc32": "366e273b",
+	  "sha1": "51b4b79db04201ed840d7e3a58b8dfd850b19243"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/20\/items\/Links2003Demo\/2k3demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 887,
+	"week": 7,
+	"month": 25
+  }
+}

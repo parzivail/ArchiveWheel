@@ -1,0 +1,616 @@
+{
+  "server": "ia601005.us.archive.org",
+  "dir": "/19/items/DOMINUS",
+  "metadata": {
+	"identifier": [
+	  "DOMINUS"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Visual Concepts Entertainment"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "<div>Nothing will ever be the same once you've experienced Dominus, the new genre of strategy war simulations. Dominus is the best of all worlds. It's a strategic war game, occurring in real time, set in a fantastic medieval realm, that allows you, as the Overlord of your dominion, to run the show from above or join the action on the battlefield in furious hand-to-hand combat. There's nothing else like it. Dominus has 7 difficulty levels so it's accessible to all types of players. And the variations are infinite.<\/div><div><br \/><\/div><div>You'll create and control over 30 different types of monsters, deploy over 95 traps, cast more than 55 spells, spy on, interrogate and negotiate with the invading members of 8 different clans, each with their own unique personality. And that's just the beginning. Since every decision you make affects the decisions and actions your enemies will take, no two games are ever the same.<\/div><div><br \/><\/div><div>So grab your sword and leap into Dominus. It's a whole new breed of gameplay.<\/div>"
+	],
+	"publisher": [
+	  "U.S. Gold"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Dominus Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2014-08-17 19:26:02"
+	],
+	"addeddate": [
+	  "2014-08-17 19:26:02"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "dom.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905902_18"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475229584",
+	  "size": "470526",
+	  "md5": "4fae38ddad64595755efee7c683fc667",
+	  "crc32": "833d8c66",
+	  "sha1": "3015504958c90842f779c861ad94248f13490a87",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475229701",
+	  "size": "7577",
+	  "md5": "29e99ca02227ba6cb2af287ec3bb877f",
+	  "crc32": "8ffe583d",
+	  "sha1": "be90085d0d6ba8d0e8a7aa41fb602e5142b39094"
+	},
+	"\/DOMINUS-installer.rar": {
+	  "source": "original",
+	  "format": "RAR",
+	  "mtime": "1408303595",
+	  "size": "7980192",
+	  "md5": "69b1d2e7e9a95803e4031c91ec21ba72",
+	  "crc32": "262e492d",
+	  "sha1": "2280c711ccad645a5093cd9c7c44877e1da6b622"
+	},
+	"\/DOMINUS.gif": {
+	  "source": "original",
+	  "mtime": "1475229670",
+	  "size": "103334",
+	  "md5": "e621614ef66bda76d92972495eb2147f",
+	  "crc32": "af5bf38f",
+	  "sha1": "38118bf457c39c578d1ee40a7ea2cf2aa889cf88",
+	  "format": "Animated GIF"
+	},
+	"\/DOMINUS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473447355",
+	  "size": "8049656",
+	  "md5": "cbbdc1a85c2e6dc8408cbd9415d107c3",
+	  "crc32": "50e5df53",
+	  "sha1": "ba2112814430bd9e13159dee8f2fc47592e77635"
+	},
+	"\/DOMINUS_archive.torrent": {
+	  "source": "original",
+	  "btih": "3e4977c8d1f8f5265b038dc85d8a6a6809251c89",
+	  "mtime": "1475615417",
+	  "size": "11427",
+	  "md5": "d8a9483198d87dec916ef7ae39d6e2ca",
+	  "crc32": "73b029cd",
+	  "sha1": "c86e961277e778ef9ed21e1018d6b7390c11b537",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DOMINUS_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "64e54b1616f14933ad08947e6ad3057f"
+	},
+	"\/DOMINUS_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475229695",
+	  "size": "27648",
+	  "md5": "36a52bc3f295487168f608396eb9e9a8",
+	  "crc32": "8825426c",
+	  "sha1": "fa7e00b81b37cf67d4181cda6f1664c2cfabf8ab"
+	},
+	"\/DOMINUS_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475615415",
+	  "size": "1890",
+	  "md5": "8d9edf669940a9df6d480ec070d8ffe1",
+	  "crc32": "fc00e389",
+	  "sha1": "d78f28decffbecc707bf204181010de3b040e979"
+	},
+	"\/DOMINUS_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475229684",
+	  "size": "2161730",
+	  "md5": "138c268871625a893383f64fef9a72fb",
+	  "crc32": "edd33543",
+	  "sha1": "6bf59d686c619681208c17fb5d6ab25e47311ae5",
+	  "format": "Emulator Screenshot"
+	},
+	"\/dominus.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1408303561",
+	  "size": "29446",
+	  "md5": "53ba55c5d66351f1f40d41e639b30c17",
+	  "crc32": "53d8ef90",
+	  "sha1": "9a7f31628bce190d04b3671d09ae2a48a79ac3f6"
+	},
+	"\/dominus_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "dominus.png",
+	  "mtime": "1408303604",
+	  "size": "5970",
+	  "md5": "77c22102ff142a8fa0344f0a71348ff1",
+	  "crc32": "d730be8a",
+	  "sha1": "0e2f65e6781e1b464b24426e94f9c642c960e95a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475229587",
+	  "size": "371135",
+	  "md5": "166495f897de07b29d81014b85c4413e",
+	  "crc32": "523cf8bc",
+	  "sha1": "ada643be07698edc4fad04ed322cc853e534c86f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475229702",
+	  "size": "4986",
+	  "md5": "f04548cde6c547122ced73ebc80933a8",
+	  "crc32": "ecad23ea",
+	  "sha1": "c4c8de1a133ce534c082cc2a72220ec777e1c05f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475229591",
+	  "size": "50357",
+	  "md5": "d08279b07efa78cfd4a60cdb570ec922",
+	  "crc32": "93dcd18b",
+	  "sha1": "0aa0ba8a8805b3dfc5996c4205295d2662822ab5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475229703",
+	  "size": "2263",
+	  "md5": "69c9b834ac43b2c22efc258402caee98",
+	  "crc32": "fc8937b1",
+	  "sha1": "7c62b7438dff3f5b65e7540a76b6b0c65e893648"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475229596",
+	  "size": "64443",
+	  "md5": "2436de2cb572a976e08815f0c87633ca",
+	  "crc32": "22265b4d",
+	  "sha1": "07a6a40a221d6de79671b2419826ec83657b1207",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475229704",
+	  "size": "2444",
+	  "md5": "ec3be78d6648ac6fe95581bd0063edc3",
+	  "crc32": "896fd039",
+	  "sha1": "dac414dba3c708bdf043a4c6a05b36bc4fc65c9c"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475229598",
+	  "size": "440728",
+	  "md5": "945843325f2cd8aa336e5019b318393f",
+	  "crc32": "73fb4c9c",
+	  "sha1": "5b5e7d30fa73108b3b67c0997137bfc68524920a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475229706",
+	  "size": "5952",
+	  "md5": "231c0299df2845f3d50180ed0ad62019",
+	  "crc32": "f4981bbc",
+	  "sha1": "93ff4c42fe7d1df1e5e6388eb0ddac6726f78bcf"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475229601",
+	  "size": "432567",
+	  "md5": "497aa5249d999e3014662916e7d99940",
+	  "crc32": "b6ec2c38",
+	  "sha1": "2fadcad2de9ffbb897cdef703ee0bef3e0a5188d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475229707",
+	  "size": "5815",
+	  "md5": "75bacae9e47800e11fc7e851568f613f",
+	  "crc32": "17f12f24",
+	  "sha1": "7649a2576be3cdce824e25852899e4276f6f76e8"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475229609",
+	  "size": "427504",
+	  "md5": "98f12d849d11e9762d90da84569a5486",
+	  "crc32": "812e04ea",
+	  "sha1": "3fe9fde41be67e4c61817f49bb8a435ec34f51c8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475229708",
+	  "size": "5567",
+	  "md5": "9a52da58a9778603bec58537769cffcd",
+	  "crc32": "8323d749",
+	  "sha1": "b832f66f117ff3c4cc2ba31953a888593856e143"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475229614",
+	  "size": "308738",
+	  "md5": "579d6096e391e780421838dccadc92b6",
+	  "crc32": "89a81e96",
+	  "sha1": "fffc0ee0875f551c9e8a3a9e8f2a566e51a64217",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475229710",
+	  "size": "5891",
+	  "md5": "4e3df4c7028fcb22dbf4b9ef2e2c59ca",
+	  "crc32": "c3194f8b",
+	  "sha1": "8c28c48c7b61b7e71261716e7bd37048bad1f8db"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475229618",
+	  "size": "110065",
+	  "md5": "07ee5139ca0317cdb12147ba9e4b18bb",
+	  "crc32": "b02ae40d",
+	  "sha1": "a87d2381a240e9a039467d62251b00d152f433c2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475229711",
+	  "size": "3592",
+	  "md5": "0ac546cf674d5f02c0cef6d7bddf5e93",
+	  "crc32": "9accb5df",
+	  "sha1": "223fd69c587a9c4920ca4343049d438c11f0498c"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475229621",
+	  "size": "470526",
+	  "md5": "4fae38ddad64595755efee7c683fc667",
+	  "crc32": "833d8c66",
+	  "sha1": "3015504958c90842f779c861ad94248f13490a87",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475229713",
+	  "size": "7577",
+	  "md5": "29e99ca02227ba6cb2af287ec3bb877f",
+	  "crc32": "8ffe583d",
+	  "sha1": "be90085d0d6ba8d0e8a7aa41fb602e5142b39094"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475229623",
+	  "size": "400573",
+	  "md5": "dcbc5799d93c72ccbeddb3301ec51d75",
+	  "crc32": "441c7196",
+	  "sha1": "9a848afaabcfc09e74b24e79d2272accb212fc45",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475229714",
+	  "size": "5610",
+	  "md5": "ba1a7d91e7303abfff9e1747ab865131",
+	  "crc32": "4a0c153a",
+	  "sha1": "eb67602741b1788fef15d05688c6848bb56f5559"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475229627",
+	  "size": "382897",
+	  "md5": "604b5e666f67553d35208c89b8700905",
+	  "crc32": "4192d092",
+	  "sha1": "50a4333062a4603999dce9cad2af323e72d8d45f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475229715",
+	  "size": "4922",
+	  "md5": "1cee9eba418b860e0aceae8c68c592cf",
+	  "crc32": "a22b352b",
+	  "sha1": "1573bdecba98dc1ba346ec7ab3158054c1ac517c"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475229633",
+	  "size": "371297",
+	  "md5": "536f41e7e9695a7da59d60515ce1923c",
+	  "crc32": "87b09590",
+	  "sha1": "530027338a5f5069e9fd7b95c09e078910046654",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475229716",
+	  "size": "4643",
+	  "md5": "c0caaac049c5b455879333055b50d996",
+	  "crc32": "78bb7783",
+	  "sha1": "0d0950bf1bf79d1a651eb5dc8781d50744f84a34"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475229636",
+	  "size": "56753",
+	  "md5": "009dafbd11664750388b9a0e0f0277aa",
+	  "crc32": "2e6b14f1",
+	  "sha1": "c86b617e5e19642bea907d0bd2aec8433ab23276",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475229718",
+	  "size": "3419",
+	  "md5": "b4be25d5a28239bd65b900ade2c17624",
+	  "crc32": "6a888ea9",
+	  "sha1": "8b36859057edaff5dcbc0ac4fdcb8d2f0533cff5"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475229638",
+	  "size": "128039",
+	  "md5": "9bac1d481204a63afa6adadaf4e97cb9",
+	  "crc32": "ea27047f",
+	  "sha1": "107577566f55646a8ee2a562cb67a601ab839406",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475229719",
+	  "size": "3890",
+	  "md5": "30d42d4313852c1950338a32f915eaf1",
+	  "crc32": "49e4925e",
+	  "sha1": "8eb1a30dc85ae5ce551c81f6093ff96da10ed75b"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475229641",
+	  "size": "61606",
+	  "md5": "a69d52ccff071ec03bff5fa14c909439",
+	  "crc32": "7381cc92",
+	  "sha1": "424f1b5f0f41d5ce22e0eb3be9b00653ac6f5b41",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475229720",
+	  "size": "2424",
+	  "md5": "1c70d83c5b3e4ee822c4461572c5c6d4",
+	  "crc32": "431b5517",
+	  "sha1": "3f8c7e2fa78bdf64b6ad607cd163c1a7ed8c30b5"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475229643",
+	  "size": "267368",
+	  "md5": "2157447f861526285a4bc78c35e2319c",
+	  "crc32": "cc51f69c",
+	  "sha1": "64cdf615248721caa3275f13df535521f0930a96",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475229721",
+	  "size": "6953",
+	  "md5": "032f2a3eda3ab2337b732d6383ed459a",
+	  "crc32": "1e2f2673",
+	  "sha1": "6f0c69af5964bb4a5391874162100415584e5858"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1475229647",
+	  "size": "303310",
+	  "md5": "970b9f34f798744c997d0e843cf3449c",
+	  "crc32": "0b826480",
+	  "sha1": "7c76900ebff4d006220a8e7b3ca59fa6f49592ca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1475229722",
+	  "size": "3657",
+	  "md5": "a9eebe2e3f537a01db22d2f3fa432ee9",
+	  "crc32": "735f3ea3",
+	  "sha1": "c5d82330d59179a875a00b89793d568a37f21c7b"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1475229649",
+	  "size": "312152",
+	  "md5": "f00ed7c300bff4ce43bd73bd1e902acd",
+	  "crc32": "7cfb2c49",
+	  "sha1": "6c3ee4e9307119c0dda300714fefad5a6ed7a72d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1475229724",
+	  "size": "3668",
+	  "md5": "9a1e3cf0be363f0e65749248ab60efe9",
+	  "crc32": "f0dce54f",
+	  "sha1": "ea26630abcc254daf2168c3d71f0d828928cc4d1"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1475229652",
+	  "size": "321982",
+	  "md5": "49dca688379268c61ba72e1274c04e78",
+	  "crc32": "15f7da27",
+	  "sha1": "5aaf9e9e713fc6656e5a761fb7feea06b7e7be6b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1475229725",
+	  "size": "3681",
+	  "md5": "c25fe3486615eb4bd4f5900f2ad985e2",
+	  "crc32": "81b6e0ae",
+	  "sha1": "d7e7b8c6cc3e56b5afeb838ab178d86dd2a5d79e"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1475229654",
+	  "size": "323662",
+	  "md5": "07a9c35c2aee6b7202c25347d75f1f6d",
+	  "crc32": "9565200a",
+	  "sha1": "5a827d538355ea90cd9a2212f13b9659ea872305",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1475229726",
+	  "size": "3715",
+	  "md5": "a036129c52fb7f7dd49c2722f7903a9a",
+	  "crc32": "af5f63a6",
+	  "sha1": "f5e256144f0ac6ef68ae0fa200c29230183b9f0d"
+	},
+	"\/screenshot_20.jpg": {
+	  "source": "original",
+	  "mtime": "1475229660",
+	  "size": "332226",
+	  "md5": "f90e21b0e1db32f8b4d8892519439172",
+	  "crc32": "ab21e60c",
+	  "sha1": "4bb89876225e2ce72019f08f257f9b7b83e46769",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_20_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_20.jpg",
+	  "mtime": "1475229727",
+	  "size": "4331",
+	  "md5": "58fdfaf020cfb2e9bd2e8961c88ac8f2",
+	  "crc32": "72e4c04a",
+	  "sha1": "75baf5d0ca0557e2ce819f7e7634476b19f4704b"
+	},
+	"\/screenshot_21.jpg": {
+	  "source": "original",
+	  "mtime": "1475229665",
+	  "size": "333915",
+	  "md5": "2c10ffdd573fb4a3cd0d9d03726babfc",
+	  "crc32": "0c3435c1",
+	  "sha1": "b0d0ac2817133cd607b078e664fe6944fb5add34",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_21_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_21.jpg",
+	  "mtime": "1475229728",
+	  "size": "4661",
+	  "md5": "a987e48ae3562fd50cd4d603d97d5971",
+	  "crc32": "781db870",
+	  "sha1": "4106ef28866032e7f9e3e99659f66fb313984658"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601005.us.archive.org\/19\/items\/DOMINUS\/DOMINUS.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 243,
+	"week": 3,
+	"month": 6
+  }
+}

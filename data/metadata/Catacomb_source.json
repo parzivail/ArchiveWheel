@@ -1,0 +1,106 @@
+{
+  "server": "ia902709.us.archive.org",
+  "dir": "/21/items/Catacomb_source",
+  "metadata": {
+	"identifier": [
+	  "Catacomb_source"
+	],
+	"collection": [
+	  "gamesourcecode",
+	  "classicpcgames",
+	  "softwarehistory"
+	],
+	"creator": [
+	  "Softdisk"
+	],
+	"date": [
+	  "1989"
+	],
+	"description": [
+	  "Catacomb is a 2-D top-down third-person shooter created by John Carmack.  Flat Rock Software acquired the rights and released the source code in 2014.\n\nThis repository contains the source code for Catacomb. The source code is designed for Borland Turbo Pascal 5.5 and compiled fine at the time of the release. Use MAKECAT.BAT to compile.\n\nIt is released under the GNU GPLv2. Please see COPYING for license details.\n\nThis release does not affect the licensing for the game data files. Although they are a part of the free Gamer's Edge Sampler, this release does not include the right to commercially exploit the game data and the original copyright terms continue to hold.\n\nFurthermore, the OBJ files included in this repository for your convenience are considered game data and shall not be commercially exploited. You are allowed to use (link) these non-free resources as an exception to the GPL for the purposes of running the original game. You may distribute such program following the terms of the GNU GPL to the maximum extent possible.\n\nCompile options\n\nThe game can be made to record a demo file (DEMO.CAT) by uncommenting the block in CATACOMB.PAS with 'playmode:=demosave;'.\n\nThere also exists an editor mode which can be enabled by removing the SAMPLER define at the top of CATACOMB.PAS. At the demo sequence press E to access the editor. Note that the editor requires and creates uncompressed level data, so if done correctly the level data will be scrambled until you open the editor."
+	],
+	"license": [
+	  "GPLv2"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"source_code_release": [
+	  "2014"
+	],
+	"subject": [
+	  "Commercial Source Code"
+	],
+	"title": [
+	  "Catacomb (Source Code)"
+	],
+	"year": [
+	  "1989"
+	],
+	"publicdate": [
+	  "2015-02-03 18:58:04"
+	],
+	"addeddate": [
+	  "2015-02-03 18:58:04"
+	],
+	"backup_location": [
+	  "ia905300_23"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20170321181239[\/date][comment]checked for malware[\/comment]"
+	]
+  },
+  "files": {
+	"\/Catacomb-master.zip": {
+	  "source": "original",
+	  "mtime": "1422989883",
+	  "size": "98955",
+	  "md5": "d51a4c9506f363f8ef105a6d8162cf9d",
+	  "crc32": "fc7d7cfd",
+	  "sha1": "cb3b51529df07c0a3a5af5f5c374136a1acae036",
+	  "format": "ZIP"
+	},
+	"\/Catacomb_source_archive.torrent": {
+	  "source": "original",
+	  "btih": "8d4533f317d822c76359b0872780be35fa30f73e",
+	  "mtime": "1490119960",
+	  "size": "1679",
+	  "md5": "abedeb5858b59707a4ae5ed13730e1cb",
+	  "crc32": "69b60f1b",
+	  "sha1": "2765cf37e879c75be509c9213f9131dce9bbb65d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Catacomb_source_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "50542565d57a29b93b732744af2b3b8e"
+	},
+	"\/Catacomb_source_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1422989899",
+	  "size": "8192",
+	  "md5": "32fc717d31c0a8bec516ee7afd05cd9d",
+	  "crc32": "a4b4e91a",
+	  "sha1": "0283cc0541d23c00308e1d331d974f52c12da84e",
+	  "format": "Metadata"
+	},
+	"\/Catacomb_source_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490119959",
+	  "size": "2334",
+	  "format": "Metadata",
+	  "md5": "5fc04a00d3c051e578e5cf51cefa9d09",
+	  "crc32": "0976e61e",
+	  "sha1": "b56dabc8175d91f4b3aae84ec41c67ebd1e11b65"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/gamesourcecode&fallback=1",
+	"collection-title": "Game Source Code Collection"
+  },
+  "item": {
+	"downloads": 234,
+	"week": 1,
+	"month": 8
+  }
+}

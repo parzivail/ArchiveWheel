@@ -1,0 +1,116 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/34/items/swizzle_demu_DYN",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_DYN"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Strategic Simulations, Inc."
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Based on the Living Battlefield engine that made its debut with Panzer General II, this turn-based strategy game takes a speculative look at the Eastern Hemisphere in the year 2005."
+	],
+	"publisher": [
+	  "Strategic Simulations, Inc."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "People's General Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 02:00:01"
+	],
+	"addeddate": [
+	  "2014-02-07 02:00:01"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233748[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_32"
+	]
+  },
+  "files": {
+	"\/DYN.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1391738400",
+	  "size": "37282726",
+	  "md5": "5da3a1b8e4a2e17545bb17ea8fbe89ff",
+	  "crc32": "05ee8013",
+	  "sha1": "97a06c4d0db533220c4e04c900c07f2b02256a43"
+	},
+	"\/dyn.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391738412",
+	  "size": "167292",
+	  "md5": "906c7d8f10475bd6ddae4541f8ff0a46",
+	  "crc32": "ba312560",
+	  "sha1": "3765b8eda927749a597eb4797f0b2429f6a74e55"
+	},
+	"\/dyn_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "dyn.PNG",
+	  "mtime": "1391738429",
+	  "size": "5430",
+	  "md5": "14a80cf126890d604a348368f0eb5f66",
+	  "crc32": "bfb04ff3",
+	  "sha1": "28b6cf78dd856d5bd633632aaacace091e96925f"
+	},
+	"\/swizzle_demu_DYN_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "92c585a11d3650a4961b75c56f9ed373"
+	},
+	"\/swizzle_demu_DYN_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391738418",
+	  "size": "12288",
+	  "md5": "c20ee9841e2e588ec20db5d6d4e2c12d",
+	  "crc32": "0d4c1875",
+	  "sha1": "95da48002d223ce9a01b02fe69debe05f85c2052"
+	},
+	"\/swizzle_demu_DYN_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475754312",
+	  "size": "1062",
+	  "md5": "7fb5d5ca7002f991d74b71be6e6c130a",
+	  "crc32": "492cb141",
+	  "sha1": "a395ba66c9b9624ecee5de5c9da3b0c7d6a93e5f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/34\/items\/swizzle_demu_DYN\/dyn_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 312,
+	"week": 4,
+	"month": 8
+  }
+}

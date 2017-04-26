@@ -1,0 +1,126 @@
+{
+  "server": "ia601802.us.archive.org",
+  "dir": "/22/items/Chess_201307",
+  "metadata": {
+	"identifier": [
+	  "Chess_201307"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Davidson"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Learn the game of chess from an unorthodox teacher: Maurice Ashley. Using his lively style, he'll show you the pieces, the moves, and the strategies to becoming a good chess player."
+	],
+	"publisher": [
+	  "Simon & Schuster"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Maurice Ashley Teaches Chess Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-07-09 01:31:36"
+	],
+	"addeddate": [
+	  "2013-07-09 01:31:36"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233417[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_13"
+	]
+  },
+  "files": {
+	"\/CHESS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373333515",
+	  "size": "7085031",
+	  "md5": "76815041ef1d964d6bbc13edb6e06e00",
+	  "crc32": "a3a0a03d",
+	  "sha1": "b41cad506218469cf732a6c60413ee936285872d"
+	},
+	"\/CHESS.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373333516",
+	  "size": "1425",
+	  "md5": "58a60be600e504e3339725b85e3832e6",
+	  "crc32": "63cc7dc2",
+	  "sha1": "24b53bcdff147736d4feeeb1b8d96a039dc29641"
+	},
+	"\/Chess_201307_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c634bd3270f15e67875411bcb7902a5f"
+	},
+	"\/Chess_201307_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472647340",
+	  "size": "1045",
+	  "md5": "48afcc947dc95d2e57bb0475c972d4ac",
+	  "crc32": "1b2169c3",
+	  "sha1": "183662f0b2b81b404c13303299e25dfcf22989d8"
+	},
+	"\/chess.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1373333496",
+	  "size": "29823",
+	  "md5": "1658781878135c399b3be42df7a8eeba",
+	  "crc32": "5ffceb78",
+	  "sha1": "556d13d70aeacef8f01e05821c6945ade3437be5",
+	  "rotation": "0"
+	},
+	"\/chess.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373333496",
+	  "size": "1447",
+	  "md5": "f6cb7c4882a21d77e76a1ed33099e0c2",
+	  "crc32": "be852b9d",
+	  "sha1": "87c9a2fa1ba51c4949603715e402df952a997919"
+	},
+	"\/chess_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "chess.jpg",
+	  "mtime": "1373333523",
+	  "size": "7776",
+	  "md5": "dcf079fcce4d65f6aacead4773fb0292",
+	  "crc32": "28900290",
+	  "sha1": "354baa1c6a893c77cd1f101de90429e354b555bd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601802.us.archive.org\/22\/items\/Chess_201307\/chess_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 592,
+	"week": 6,
+	"month": 30
+  }
+}

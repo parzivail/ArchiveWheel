@@ -1,0 +1,126 @@
+{
+  "server": "ia601207.us.archive.org",
+  "dir": "/1/items/TOMTUT",
+  "metadata": {
+	"identifier": [
+	  "TOMTUT"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Tommy's Toys"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Fast addictive board game! Like Tic-Tac-Toe only on a 4x4 board! 2-player game, you vs the PC. Demo mode. Auto game save\/restore Works with any DOS PC or clone, any monitor no mouse or joystick needed"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Tommy's Tut Tut Tut Tut"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-03 05:37:07"
+	],
+	"addeddate": [
+	  "2016-11-03 05:37:07"
+	],
+	"emulator_start": [
+	  "tomtut.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/TOMTUT.ZIP": {
+	  "source": "original",
+	  "mtime": "1478151426",
+	  "size": "168719",
+	  "md5": "4a47f07dea1cb1f40fe65b1d27424ea0",
+	  "crc32": "c1388838",
+	  "sha1": "301327c90455e057ea63de4011f86082e2940555",
+	  "format": "ZIP"
+	},
+	"\/TOMTUT_archive.torrent": {
+	  "source": "original",
+	  "btih": "2392ea44e57a32b8c8f2ea94f991695348397b08",
+	  "mtime": "1478151480",
+	  "size": "1926",
+	  "md5": "638764d23dfd3e49c99ec21d3178a799",
+	  "crc32": "b5348364",
+	  "sha1": "df90830653a84b77fbe645405eb7d8c1e0e67e0f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TOMTUT_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e94213fda12a999fe783d4a833a11f43"
+	},
+	"\/TOMTUT_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478151443",
+	  "size": "12288",
+	  "md5": "3226fbefa546b2ea31deafff245ed6e5",
+	  "crc32": "09170e7f",
+	  "sha1": "c3b0a61d5abd3615d826a164dae1a6cd6c6b655d",
+	  "format": "Metadata"
+	},
+	"\/TOMTUT_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478151480",
+	  "size": "918",
+	  "format": "Metadata",
+	  "md5": "747b65b22bec4d430276197ead6d174e",
+	  "crc32": "8f6853cc",
+	  "sha1": "84f38f93ba3a6fa31f2a3c394eb7a383679f85be"
+	},
+	"\/tomtut_000.png": {
+	  "source": "original",
+	  "mtime": "1478151437",
+	  "size": "4834",
+	  "md5": "814ce13b56358a1c52fec9fc845acb0e",
+	  "crc32": "29ca64d9",
+	  "sha1": "d4c260d9a4f3dee98cd26d0f2addcd3217bb12f2",
+	  "format": "PNG"
+	},
+	"\/tomtut_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "tomtut_000.png",
+	  "mtime": "1478151454",
+	  "size": "3080",
+	  "md5": "2b96a985290043bfdb3c3f5a388b4cd7",
+	  "crc32": "12a2c09b",
+	  "sha1": "7e6c618f977507de45e58e02c6903ebae1402712"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601207.us.archive.org\/1\/items\/TOMTUT\/tomtut_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 19,
+	"week": 2,
+	"month": 4
+  }
+}

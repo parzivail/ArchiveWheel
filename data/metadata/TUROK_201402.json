@@ -1,0 +1,116 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/20/items/TUROK_201402",
+  "metadata": {
+	"identifier": [
+	  "TUROK_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Iguana Entertainment"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "\"Prepare yourself for gut-wrenching gameplay and terrifying combat... Turok - Dinosaur Hunter shows no mercy\"\u00a0"
+	],
+	"publisher": [
+	  "Acclaim Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Turok: Dinosaur Hunter Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-02-07 05:21:44"
+	],
+	"addeddate": [
+	  "2014-02-07 05:21:44"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233753[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_33"
+	]
+  },
+  "files": {
+	"\/TUROK.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391750502",
+	  "size": "10382356",
+	  "md5": "9c92578fe9a6038731722dcb9b2502ba",
+	  "crc32": "05a88e18",
+	  "sha1": "0767e968d11dd33789692cea44a3aab3ce181ad7"
+	},
+	"\/TUROK.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391750518",
+	  "size": "529923",
+	  "md5": "af1f58b8df9c2f866d033660468183ba",
+	  "crc32": "2b768520",
+	  "sha1": "51262072c5edfc86b63d4172b6a511a2d8715588"
+	},
+	"\/TUROK_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8241ba42f462775e56b296f990763dcc"
+	},
+	"\/TUROK_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391750523",
+	  "size": "10240",
+	  "md5": "a25ebce7d7d6714a91a46f0d6f27d67b",
+	  "crc32": "f52fa8b6",
+	  "sha1": "28e5c4cdd58e0c807633ebf1c7d5ab894842dbbd"
+	},
+	"\/TUROK_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472157816",
+	  "size": "979",
+	  "md5": "ed32496169f269e9735860a93e914421",
+	  "crc32": "cb9d361b",
+	  "sha1": "eb851641743c5eee5a3f4e08b58abd9b80ee0945"
+	},
+	"\/TUROK_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TUROK.png",
+	  "mtime": "1391750531",
+	  "size": "3852",
+	  "md5": "b7f6f025df696c201b59dd9857d18de2",
+	  "crc32": "34cb9beb",
+	  "sha1": "be3ef3678d5fc32ae79de8bd26dc17c64c6682b3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/20\/items\/TUROK_201402\/TUROK_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 809,
+	"week": 13,
+	"month": 40
+  }
+}

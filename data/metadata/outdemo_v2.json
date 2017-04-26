@@ -1,0 +1,143 @@
+{
+  "server": "ia800701.us.archive.org",
+  "dir": "/10/items/outdemo_v2",
+  "metadata": {
+	"identifier": [
+	  "outdemo_v2"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "LucasArts"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Outlaws combines first-person gun slinging action with stun-<\/div><div>ning cinematic cutscenes, to create an exciting Wild West\u00a0<\/div><div>adventure. \u00a0You are former Marshall James Anderson on a mission<\/div><div>to retrieve your daughter, who has been kidnapped by an evil\u00a0<\/div><div>land baron. \u00a0Drawn into a conflict that you never wanted, you\u00a0<\/div><div>will be forced to use your wits, as well as your trigger-<\/div><div>finger to save your daughter.<\/div><div><br \/><\/div><div>However, it won't be easy. \u00a0Out to stop you are the single\u00a0<\/div><div>largest group of evil-doers, misanthropes, criminals, and flat-<\/div><div>out bad guys to ever gather in the old west.<\/div>"
+	],
+	"publisher": [
+	  "LucasArts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Outlaws Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-19 22:44:59"
+	],
+	"addeddate": [
+	  "2014-01-19 22:44:59"
+	],
+	"notes": [
+	  "This is the updated single-player demo that includes support for 3D-accelerated graphics with 3Dfx video cards, support for 3D positional sound for those cards with the Aureal 3D sound chip (like the Diamond Monster sound card), and an alternate sound driver (multimedia sound) for those sound cards that are not DirectX compatible."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233729[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_7"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "5.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "i wish this was the full version",
+		"reviewtitle": "love this game",
+		"reviewer": "pillgod",
+		"reviewdate": "2015-10-10 23:23:50",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/outdemo_v2.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390171526",
+	  "size": "14186356",
+	  "md5": "ccd7678d2276fe1b39cef399598d4a6d",
+	  "crc32": "73012a91",
+	  "sha1": "5568d44da014b6be21d105b1149ec022c10c0655"
+	},
+	"\/outdemo_v2.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1390171499",
+	  "size": "91391",
+	  "md5": "d4d919b87dd31a47492cd25a61aa7c9a",
+	  "crc32": "28d9743d",
+	  "sha1": "d032b1088cb980046000a73b8bbc07c9cb7cfa10"
+	},
+	"\/outdemo_v2_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a3ba915b342b5407c001e025e5160fd2"
+	},
+	"\/outdemo_v2_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390171530",
+	  "size": "14336",
+	  "md5": "8e2b2e19bdc96cfcfa34fdf4e66d3306",
+	  "crc32": "85792d37",
+	  "sha1": "27b2e8a3d063c71acc380e41537658a0c52905f8"
+	},
+	"\/outdemo_v2_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475091152",
+	  "size": "2005",
+	  "md5": "335bad363c490d02820e274b6b9a6fc8",
+	  "crc32": "a5c14d53",
+	  "sha1": "b200205de4b13d913c5f152be00ece5e6cd33901"
+	},
+	"\/outdemo_v2_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1444519431",
+	  "size": "457",
+	  "md5": "250debb0217b5b061559c73c925fac20",
+	  "crc32": "08400bd8",
+	  "sha1": "d80b0e9c070f8ea0a673f09768ce2f45ce56cd4b",
+	  "format": "Metadata"
+	},
+	"\/outdemo_v2_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "outdemo_v2.png",
+	  "mtime": "1390171537",
+	  "size": "5234",
+	  "md5": "ad672a4166bb41177690fea049da258e",
+	  "crc32": "3df1bed2",
+	  "sha1": "acc67788e792d81b5e108e4f69e330fd48942cf5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800701.us.archive.org\/10\/items\/outdemo_v2\/outdemo_v2_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 12740,
+	"week": 29,
+	"month": 123
+  }
+}

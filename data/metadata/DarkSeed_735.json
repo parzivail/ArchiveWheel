@@ -1,0 +1,188 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/12/items/DarkSeed_735",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Dark Seed Demo"
+	],
+	"description": [
+	  "Dark Seed is a dark, science fiction-mystery game. You play Mike Dawson, a science fiction writer who recently purchased a Victorian-style house in Woodland Hills, California. Strange that you were able to buy the house for a song, and too bad you couldn't check it out thoroughly before moving in... As you explore your new home, you soon discover that you have bought more than you bargained for. The game begins when you first arrive to the house, and are drawn, almost immediately, to stumble to the bedroom and fall asleep. Frightening night-mares torment you, till you finally awaken to a pounding headache. Your challenge is to find out just what is going on, and what you can do about it. Control the fate of two worlds... the world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world... a place more terrifying than your darkest nightmare."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Cyberdreams"
+	],
+	"identifier": [
+	  "DarkSeed_735"
+	],
+	"addeddate": [
+	  "2012-08-05 09:28:46"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "Cyberdreams"
+	],
+	"publicdate": [
+	  "2012-08-05 09:29:13"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "DS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475232494",
+	  "size": "89657",
+	  "md5": "9348eedd03bf5e8c0281cc24f826e529",
+	  "crc32": "380ff776",
+	  "sha1": "f17ce959cc8e87d485e606e48aa32bf53597f260",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475232523",
+	  "size": "1802",
+	  "md5": "d2ff48e4f3a58366207eeb7053d6de5e",
+	  "crc32": "3304bcdd",
+	  "sha1": "d4c2504048b71dd17fa94bcd15bc3c7001c3a7b8"
+	},
+	"\/DarkSeed_735.gif": {
+	  "source": "original",
+	  "mtime": "1475232500",
+	  "size": "19838",
+	  "md5": "547ef277ab7d874a73c126641b0488a4",
+	  "crc32": "65f88226",
+	  "sha1": "76cce0dc50bbf1f83589fc8fa1b04c61d3cb9c69",
+	  "format": "Animated GIF"
+	},
+	"\/DarkSeed_735_archive.torrent": {
+	  "source": "original",
+	  "btih": "13c800c58b4265d8a0a28a867d0a7cdc920ebd60",
+	  "mtime": "1475232528",
+	  "size": "3092",
+	  "md5": "48301012022a07ba114df9e93d96594e",
+	  "crc32": "42b645eb",
+	  "sha1": "c1a0937917a9407386a48d8c2201e9e6a76e0093",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DarkSeed_735_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3dea43c8fb1a9e91326b182bdeaa9e76"
+	},
+	"\/DarkSeed_735_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475232508",
+	  "size": "8192",
+	  "md5": "6ced199b8592dd8bccb6e5f54b315b68",
+	  "crc32": "67df5232",
+	  "sha1": "cef195794c6ea126beaf91af5e76be96b05e47f7",
+	  "format": "Metadata"
+	},
+	"\/DarkSeed_735_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471104504",
+	  "size": "1805",
+	  "md5": "75ab714a3fcc6b644dd972122868c75a",
+	  "crc32": "15b7d234",
+	  "sha1": "64235816b8f4348c4f80c5fb57925b0c92ce68b3"
+	},
+	"\/darkseed.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471104587",
+	  "size": "899229",
+	  "md5": "ae5f15e963742c0006e63cf4568c32a9",
+	  "crc32": "3448c72b",
+	  "sha1": "702df377cdd15db362c07e4b0556de8c14de8672"
+	},
+	"\/darkseed_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475232504",
+	  "size": "22405",
+	  "md5": "55ecf2a5c09c8be0c2c93a1f7342b710",
+	  "crc32": "646ba8bd",
+	  "sha1": "2ce7d67821f6e72e4323ce1cd50ee82564c74773",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_438.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344158890",
+	  "size": "17579",
+	  "md5": "a420778f4f94e153cda365586bb08cff",
+	  "crc32": "bcc6b233",
+	  "sha1": "cda13f7345a3a3fe71b01bd9d084f3b22f8ba1e8",
+	  "rotation": "0"
+	},
+	"\/resource_item_438_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_438.jpg",
+	  "mtime": "1344158939",
+	  "size": "5275",
+	  "md5": "269bf0cd69c91d86c0e8db738c6a6446",
+	  "crc32": "afb65b5b",
+	  "sha1": "86e054f043ce1b78207b662d5058ca680398fd8d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475232497",
+	  "size": "89657",
+	  "md5": "9348eedd03bf5e8c0281cc24f826e529",
+	  "crc32": "380ff776",
+	  "sha1": "f17ce959cc8e87d485e606e48aa32bf53597f260",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475232525",
+	  "size": "1802",
+	  "md5": "d2ff48e4f3a58366207eeb7053d6de5e",
+	  "crc32": "3304bcdd",
+	  "sha1": "d4c2504048b71dd17fa94bcd15bc3c7001c3a7b8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/12\/items\/DarkSeed_735\/DarkSeed_735.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 436,
+	"week": 5,
+	"month": 7
+  }
+}

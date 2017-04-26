@@ -1,0 +1,104 @@
+{
+  "server": "ia902205.us.archive.org",
+  "dir": "/32/items/DEMworld",
+  "metadata": {
+	"identifier": [
+	  "DEMworld"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ikarion Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Demonworld Demo from GameStar"
+	],
+	"publisher": [
+	  "Ikarion Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Demonworld Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-02-07 05:45:12"
+	],
+	"addeddate": [
+	  "2014-02-07 05:45:12"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234224[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_33"
+	]
+  },
+  "files": {
+	"\/DEMworld.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391751911",
+	  "size": "66514432",
+	  "md5": "1cedf30093f8943d13e59794b9b53541",
+	  "crc32": "045ac9ab",
+	  "sha1": "5a8c0935af604a21d22bcb3f021c95f47a18ae0b"
+	},
+	"\/DEMworld_archive.torrent": {
+	  "source": "original",
+	  "btih": "4ec12a277bb5fc999e92aa07dcea759913d0e09f",
+	  "mtime": "1472334148",
+	  "size": "4131",
+	  "md5": "35e9b8d690f080d875e9137f09bc0b36",
+	  "crc32": "2dd0a3b1",
+	  "sha1": "e758c8817f8435e3d3faf6795240ae04ee960387",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DEMworld_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d2ecbcc52901ec27851b05a956a2bc25"
+	},
+	"\/DEMworld_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391751926",
+	  "size": "9216",
+	  "md5": "b7119b0118c1586739831aca5d2bfda5",
+	  "crc32": "41cf524b",
+	  "sha1": "150b6fdcd553ca89db0e99f747b482bf8cd94468"
+	},
+	"\/DEMworld_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472334147",
+	  "size": "830",
+	  "md5": "9b20d227abe4e057dd776eb2e71f01b6",
+	  "crc32": "bff8f8d9",
+	  "sha1": "c0f6d50404568c1f32846212b3663bdd9b377c98"
+	}
+  },
+  "misc": {
+	"image": "\/\/archive.org\/services\/img\/classicpcgames&fallback=1",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 240,
+	"week": 2,
+	"month": 8
+  }
+}

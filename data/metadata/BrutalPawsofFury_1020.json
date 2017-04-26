@@ -1,0 +1,148 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/33/items/BrutalPawsofFury_1020",
+  "metadata": {
+	"identifier": [
+	  "BrutalPawsofFury_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "GameTek"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Brutal: Paws of Fury Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:56:15"
+	],
+	"addeddate": [
+	  "2012-09-04 06:56:15"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Across the world, invitations were delivered.\n\nUnder the watchful eye of the great master Dall Llama, the worlds greatest martial artists would return to a place they knew well... Brutal Island. Each will use their own unique mental and physical martial arts style and training. In a tournament to prove the worlds one true champion.\n\nBrutal, Paws of Fury is a brilliantly rendered game of humorous cartoon style combat, combined with depth, philosophy, and an attention to detail not found in any other fighting game.\n\nGo ahead and Unleash the Animal, it's time to get Brutal.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "brutal.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/BRUTAL-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346741789",
+	  "size": "1338730",
+	  "md5": "e607938c80b6c4759c30c2662fb0e61d",
+	  "crc32": "4772319c",
+	  "sha1": "f0ae2a1bc615dd3e548cfb8a4df17bee9cb724c9"
+	},
+	"\/BRUTAL.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476475371",
+	  "size": "1201982",
+	  "md5": "b161e7821e9867642cc0b074dbdf8e44",
+	  "crc32": "f47a1ba3",
+	  "sha1": "478ee72aa514771d6a8291934f03c37489575f1d"
+	},
+	"\/BRUTAL.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741790",
+	  "size": "649",
+	  "md5": "e9cc04c8fd44f99d895767c532549ac0",
+	  "crc32": "75723af2",
+	  "sha1": "1f3df68e71c03c884a6afa26580109cf034aba93"
+	},
+	"\/BrutalPawsofFury_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "46498046b69c8f2d4dbe2a966b929b86d1520491",
+	  "mtime": "1476475453",
+	  "size": "2154",
+	  "md5": "451715f3b933245886a0ca796c3bbdf9",
+	  "crc32": "4ee83f4a",
+	  "sha1": "c160b6c0703ddfe1c2eaf35c99a22fd174ab724c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BrutalPawsofFury_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "29be5b3738126a6ca903a4c81abd681e"
+	},
+	"\/BrutalPawsofFury_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476475452",
+	  "size": "1447",
+	  "md5": "f786885b7d629e2342b5a0be9a9e27ac",
+	  "crc32": "416da48a",
+	  "sha1": "80e06bcc1adc47732afcf8fa3d3126cff657dc49"
+	},
+	"\/resource_item_1846.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346741792",
+	  "size": "17001",
+	  "md5": "793c366b243d3e171d54f834fc62ba4a",
+	  "crc32": "a36b61b3",
+	  "sha1": "5aa014790dd353a23efbd49a80d97d31e90ce0c7",
+	  "rotation": "0"
+	},
+	"\/resource_item_1846.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741792",
+	  "size": "272",
+	  "md5": "68e043de77a04fe6125421c1a81f7a80",
+	  "crc32": "a0c4ad01",
+	  "sha1": "5f93921f5fa23bf8a73d63cc4ddf19d21f5bd44e"
+	},
+	"\/resource_item_1846_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1846.jpg",
+	  "mtime": "1346742688",
+	  "size": "4974",
+	  "md5": "e2c0ebf33df680d6c7528b849a9cedf9",
+	  "crc32": "e5ffb648",
+	  "sha1": "9405dabe872a210890af9cd3e8f38bae6e330892"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/33\/items\/BrutalPawsofFury_1020\/resource_item_1846_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 177,
+	"week": 4,
+	"month": 5
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "server": "ia600504.us.archive.org",
+  "dir": "/34/items/AloneInTheDark2Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Alone in the Dark 2 Demo"
+	],
+	"description": [
+	  "\"You are the elusive detective of the macabre, Edward Carnby. A kidnapped child depends on your super sleuthing skills and your astonishing ability to outwit bands of ruthless gangsters, smugglers and pirates. One Eyed Jack, their nefarious leader, would give his remaining eye to see you permanently retired. Are you ready for the challenge of your life?\n\nSteel nerves and quicksilver thinking are your trademarks, so without hesitation you set out to rescue young Grace Saunders, the missing girl. Your razor sharp instincts lead you to the one place that no one in their right mind would go. One Eyed Jack's infamous hideout known as Hell's Kitchen - a forbidding mansion that resonates with venomous evil.\n\nPerched high above the unforgiving and twisting sea, Hell's Kitchen glares down at you, daring you to come closer. One Eyed Jack is in there, you whisper under your breath. And that little girl needs my help, if she's going to get out alive. You begin to scale the sheer cliffs, your fate cast aside as you realize that you are alone and in the dark again. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Infogrames"
+	],
+	"identifier": [
+	  "AloneInTheDark2Demo"
+	],
+	"addeddate": [
+	  "2012-07-08 19:50:50"
+	],
+	"publicdate": [
+	  "2012-07-08 19:51:05"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_21"
+	],
+	"emulator_start": [
+	  "alone2\/PLAY.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475164543",
+	  "size": "74868",
+	  "md5": "e5ed21bad7a682c3aa075b8c7bc3ffee",
+	  "crc32": "61b7e31b",
+	  "sha1": "242b52e02cfc2cca91779c1f84953db49d38a239",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475164575",
+	  "size": "3110",
+	  "md5": "2a52bf060e38a26ae536a4c09b7e0613",
+	  "crc32": "d81fc1b2",
+	  "sha1": "d92112834cfefdaaa4114f3c9306df10e254b6fd"
+	},
+	"\/AloneInTheDark2Demo.gif": {
+	  "source": "original",
+	  "mtime": "1475164550",
+	  "size": "22672",
+	  "md5": "878352adaf4a3c6c1952322fa55e24f3",
+	  "crc32": "3649bdde",
+	  "sha1": "821be5df87ae1f0e7ab8eb8a9bd314331ba47825",
+	  "format": "Animated GIF"
+	},
+	"\/AloneInTheDark2Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "bcf548bccba93257cc87c509766a4d75647de39c",
+	  "mtime": "1475164579",
+	  "size": "3159",
+	  "md5": "af1a0e194e0b44bb7178bdd14dfbd376",
+	  "crc32": "55879af1",
+	  "sha1": "f6e219da6e1d5985223c72c3fb91f1d6c6f9fc8a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AloneInTheDark2Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e34287177b2f28de73a95888e6441728"
+	},
+	"\/AloneInTheDark2Demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475164560",
+	  "size": "8192",
+	  "md5": "f6a32bba6ec54dc4f77104b161a5bcae",
+	  "crc32": "4d632d86",
+	  "sha1": "05de907edf8ee180106b452e622e170cee1787f7",
+	  "format": "Metadata"
+	},
+	"\/AloneInTheDark2Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473366918",
+	  "size": "1948",
+	  "md5": "0f1d771dfd4bb542b8e9b3a1526dbd2d",
+	  "crc32": "172f0551",
+	  "sha1": "50ba78e49833f5c80079c683e24e80783a63c091"
+	},
+	"\/alone2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341777023",
+	  "size": "1263343",
+	  "md5": "ea6330eaf636f6b799df76091d9b4ebb",
+	  "crc32": "123b2705",
+	  "sha1": "ad5275c51c1be49acb399846b521c5bd836edcd3"
+	},
+	"\/alone2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475164556",
+	  "size": "50351",
+	  "md5": "ff6cf13b7c0c9541e750b8427f924b4b",
+	  "crc32": "2d875d2d",
+	  "sha1": "d5ebb3d4518c6d650775181baf47d22160eae90b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_227.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341777007",
+	  "size": "14143",
+	  "md5": "8422f37efe73ac880eb45b96e8136849",
+	  "crc32": "3a8921f9",
+	  "sha1": "168b4b4db1046a1178ca04ed2f41e87fd694bfe4",
+	  "rotation": "0"
+	},
+	"\/resource_item_227_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_227.jpg",
+	  "mtime": "1341777059",
+	  "size": "4183",
+	  "md5": "6613fe9e6b9d1340fddd6997ec22bee4",
+	  "crc32": "f56734d3",
+	  "sha1": "0bb5d6522c2c74598a7b4904e5ac7823723191ca"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475164546",
+	  "size": "74868",
+	  "md5": "e5ed21bad7a682c3aa075b8c7bc3ffee",
+	  "crc32": "61b7e31b",
+	  "sha1": "242b52e02cfc2cca91779c1f84953db49d38a239",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475164577",
+	  "size": "3110",
+	  "md5": "2a52bf060e38a26ae536a4c09b7e0613",
+	  "crc32": "d81fc1b2",
+	  "sha1": "d92112834cfefdaaa4114f3c9306df10e254b6fd"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600504.us.archive.org\/34\/items\/AloneInTheDark2Demo\/AloneInTheDark2Demo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 375,
+	"week": 3,
+	"month": 7
+  }
+}

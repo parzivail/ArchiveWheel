@@ -1,0 +1,149 @@
+{
+  "server": "ia601003.us.archive.org",
+  "dir": "/21/items/S3aDemoUs",
+  "metadata": {
+	"identifier": [
+	  "S3aDemoUs"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Blue Byte Studio"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "The Settlers III: Quest Of The Amazons is the eagerly anticipated fourth Settlers\u2019 race! The warlike Amazons expands the appeal of The Settlers III to include even more variety and challenges, giving fans a taste of woman power, a feature often requested and now not to be missed!"
+	],
+	"publisher": [
+	  "Blue Byte Studio"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "The Settlers III: Quest of the Amazons Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2013-12-07 19:23:36"
+	],
+	"addeddate": [
+	  "2013-12-07 19:23:36"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233716[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_32"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": 0
+	},
+	"reviews": [
+	  {
+		"reviewbody": "The executable file is missing (probably much more as well).  ",
+		"reviewtitle": "No Executable File",
+		"reviewer": "Ptaluc",
+		"reviewdate": "2013-12-28 17:00:34"
+	  }
+	]
+  },
+  "files": {
+	"\/S3aDemoUs_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b7a3a346e6dc9ecdd4ff6f1ea38caa4f"
+	},
+	"\/S3aDemoUs_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1386444306",
+	  "size": "16384",
+	  "md5": "bf55b08dd32ecf51baaf8128b5237fb6",
+	  "crc32": "021d42fa",
+	  "sha1": "0c487998382c6aa203880d01096a18fc355a76b7"
+	},
+	"\/S3aDemoUs_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472650559",
+	  "size": "1156",
+	  "md5": "e561db8aa862ad05aa4b36afc54aefd0",
+	  "crc32": "b72f3b0b",
+	  "sha1": "4597a2006d1208997594bc0f90515edb66b7edfd"
+	},
+	"\/S3aDemoUs_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1388250035",
+	  "size": "486",
+	  "md5": "8fcb903031b6ddd2ca72073277cb9d73",
+	  "crc32": "a74c9208",
+	  "sha1": "4d76b3880dec9a2d7af876100643f5435e19e55e",
+	  "format": "Metadata"
+	},
+	"\/s3a_demo_uk.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1386444301",
+	  "size": "49627136",
+	  "md5": "ed906e63f8b7cb60ec767f199495a2a5",
+	  "crc32": "4d789eea",
+	  "sha1": "0eb75573e55872f6a1d4b25953b506b34d02fe6a"
+	},
+	"\/s3a_demo_us.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1386444216",
+	  "size": "50875904",
+	  "md5": "09ab69542e6030a11d60d1ba301d3623",
+	  "crc32": "d036cae2",
+	  "sha1": "b6e9d8217e17fb0b9e028b0ad61542611a9eb07d"
+	},
+	"\/s3a_demo_us.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1386444227",
+	  "size": "85587",
+	  "md5": "ed1d06dedd22d17759d230c021e23809",
+	  "crc32": "43265a5d",
+	  "sha1": "34a7e484f5e18a56feeca6bd32ecb9d6d174932a",
+	  "rotation": "0"
+	},
+	"\/s3a_demo_us_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "s3a_demo_us.jpg",
+	  "mtime": "1386444317",
+	  "size": "7425",
+	  "md5": "61c170fd10ee08a4bd37ce6987091dfb",
+	  "crc32": "fce73786",
+	  "sha1": "5ab81165a92f2f0b7809e95eaf4a4ada567d8e5f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601003.us.archive.org\/21\/items\/S3aDemoUs\/s3a_demo_us_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1050,
+	"week": 6,
+	"month": 24
+  }
+}

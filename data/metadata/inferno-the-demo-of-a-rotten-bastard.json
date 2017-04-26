@@ -1,0 +1,136 @@
+{
+  "server": "ia902702.us.archive.org",
+  "dir": "/24/items/inferno-the-demo-of-a-rotten-bastard",
+  "metadata": {
+	"identifier": [
+	  "inferno-the-demo-of-a-rotten-bastard"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "The Butcher",
+	  "Spyros Soldatos"
+	],
+	"date": [
+	  "2002-12-09"
+	],
+	"description": [
+	  "Point and click adventure game, created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games; AGS Awards 2002; AGS Award nominees; AGS Best Demo Award nominees"
+	],
+	"title": [
+	  "Inferno: The Demo of a Rotten Bastard"
+	],
+	"publicdate": [
+	  "2015-01-03 00:37:30"
+	],
+	"addeddate": [
+	  "2015-01-03 00:37:30"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150103004308[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "19"
+	],
+	"ags_packing_version": [
+	  "10"
+	],
+	"has_ogg": [
+	  "true"
+	]
+  },
+  "files": {
+	"\/145.jpg": {
+	  "source": "original",
+	  "mtime": "1420245464",
+	  "size": "74730",
+	  "md5": "ea058e5201b9455c183c2c2f1be02278",
+	  "crc32": "29e563d6",
+	  "sha1": "86feddae988781e3cdbe8fa39a8ab313cf31d7de",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/145_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "145.jpg",
+	  "mtime": "1420245793",
+	  "size": "6052",
+	  "md5": "6a8d7a0276b6ebde791808d50f44aab3",
+	  "crc32": "3fd963c0",
+	  "sha1": "e92e39db5118a0f0ff8d3e284605ac44082c6e7a"
+	},
+	"\/inferno-the-demo-of-a-rotten-bastard.zip": {
+	  "source": "original",
+	  "mtime": "1420245449",
+	  "size": "3308360",
+	  "md5": "3c5f5737b6b107e55478e54daa9fa3de",
+	  "crc32": "1c6e9879",
+	  "sha1": "e1aed51cba03d5be7887b3ff9198df6c458caf71",
+	  "format": "ZIP"
+	},
+	"\/inferno-the-demo-of-a-rotten-bastard_archive.torrent": {
+	  "source": "original",
+	  "btih": "a5e706b6566f2a4e96ac8c10e1838ea40f187583",
+	  "mtime": "1492047505",
+	  "size": "2339",
+	  "md5": "747ce357742b925fb64275db74d104b7",
+	  "crc32": "e54dbdc4",
+	  "sha1": "16bc95be87b990e1262028486837a361211a8437",
+	  "format": "Archive BitTorrent"
+	},
+	"\/inferno-the-demo-of-a-rotten-bastard_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "36f67d7f37ba9ea48b428ee13f75deb5"
+	},
+	"\/inferno-the-demo-of-a-rotten-bastard_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420245469",
+	  "size": "10240",
+	  "md5": "c4ebb9cb5a1d09a147fcebb8763e80a5",
+	  "crc32": "411336a3",
+	  "sha1": "403ac5fedfcaad33842ff3bc8db394d8168561da",
+	  "format": "Metadata"
+	},
+	"\/inferno-the-demo-of-a-rotten-bastard_meta.xml": {
+	  "source": "original",
+	  "mtime": "1492047504",
+	  "size": "1190",
+	  "format": "Metadata",
+	  "md5": "6b5757cef4bf64ed4fb26b5f7fffff3b",
+	  "crc32": "21e3762a",
+	  "sha1": "bd385fbdd98e67c6a236ce6aab720938935a3a0c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902702.us.archive.org\/24\/items\/inferno-the-demo-of-a-rotten-bastard\/145_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 69,
+	"week": 4,
+	"month": 6
+  }
+}

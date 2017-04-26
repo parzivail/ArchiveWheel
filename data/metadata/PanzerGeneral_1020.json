@@ -1,0 +1,246 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/20/items/PanzerGeneral_1020",
+  "metadata": {
+	"identifier": [
+	  "PanzerGeneral_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Mindscape"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Panzer General Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:00:36"
+	],
+	"addeddate": [
+	  "2012-09-04 06:00:36"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"Here's a fun and innovative strategy game that looks as good as it plays!\n\nAs a strategy game, PANZER GENERAL will challenge and stimulate your mind -- something you'd expect from SSI. But this time, we've pulled out all the stops: Prepare for a gaming experience that will also overwhelm your other senses. Your eyes will revel in stunning Super VGA graphics as well as authentic World War II combat photography and film footage interspersed throughout. Your ears will enjoy CD-quality music and dynamite sound effects.\n\nThe illusion is complete: The year is 1939 and you are German General with fresh command in Poland. Anything can happen. Win and advance to the next front of your choice with your newly experienced core group of units.\n\nContinue to lead well and those inexperienced units from Poland could turn into an overwhelming force plowing through Norway, Belgium, France, North Africa and the Eastern Front. You could even end up on the shores of England by 1940 -- or in America by 1945!\n\nIn addition to the campaign game, Panzer General featured over 35 progressive scenarios which you can play independently as either Allied or Axis side. Choose from over 350 unit types -- Tiger tanks to B-17 Flying Fortresses.\n\nGive your senses a treat. Play Panzer General today!\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "START.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475411621",
+	  "size": "432020",
+	  "md5": "00cb65e56978966366af37881b0948f2",
+	  "crc32": "21ed8fde",
+	  "sha1": "90ee587c6b5c4b246930e6fd88a3f0a51b381bab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475411657",
+	  "size": "4653",
+	  "md5": "3690dddf8b558544ce2bff540f0da94a",
+	  "crc32": "ddc94ea4",
+	  "sha1": "32a17b3faeaefcde99f8a0beb23300e7b8b5884b"
+	},
+	"\/PanzerGeneral_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475411633",
+	  "size": "123098",
+	  "md5": "a9056c8111f288962bd088bbff05bd02",
+	  "crc32": "b04b4362",
+	  "sha1": "69781d6452412b602f7da08d6d779a56e44c96f7",
+	  "format": "Animated GIF"
+	},
+	"\/PanzerGeneral_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "5f11e7654bb6c4f05ff207d2d8b300ee82d969b7",
+	  "mtime": "1475411666",
+	  "size": "3904",
+	  "md5": "427a1d6f78e966fd33b64ad26f00589b",
+	  "crc32": "c0a23490",
+	  "sha1": "e9910f779b906bb0c231a6046e0a427b716cbfce",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PanzerGeneral_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6c50aca9686bc1aa6d151a502c1b9200"
+	},
+	"\/PanzerGeneral_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475411644",
+	  "size": "9216",
+	  "md5": "27947c0c66236c952b4c45739279a537",
+	  "crc32": "3762fe8b",
+	  "sha1": "d545e618eb027c217b671a4d068be35afd420581",
+	  "format": "Metadata"
+	},
+	"\/PanzerGeneral_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465884545",
+	  "size": "2142",
+	  "md5": "13c8da20b9fcf172f86c10a69bdaa522",
+	  "crc32": "03a7b88c",
+	  "sha1": "dcd6135ac7b47613a2b3fd0ef99d50ecc65a16c2"
+	},
+	"\/pgd.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346738446",
+	  "size": "1029266",
+	  "md5": "d1eb0028d3582c120a1348f190e42e57",
+	  "crc32": "ce591662",
+	  "sha1": "309b7ac6fcc3458b626e6498ce27e82257e902c6"
+	},
+	"\/pgd.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738446",
+	  "size": "643",
+	  "md5": "53aa1d2ac64bdd5e7f973c076ace7043",
+	  "crc32": "8260945c",
+	  "sha1": "264771c877a2d36defe48754d8e21eb63a82d9f4"
+	},
+	"\/pgd_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475411639",
+	  "size": "321795",
+	  "md5": "ca7870dc524bfe3bece1a3589dbe50d6",
+	  "crc32": "68d1a916",
+	  "sha1": "fe3f56679fa3c4302cc5dc2c3901e6c91c969cd2",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1815.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346738448",
+	  "size": "13660",
+	  "md5": "7f281c0e5237cb7e176391b4f4e5e13d",
+	  "crc32": "917c9d8f",
+	  "sha1": "8b7a87f4085ff234444ae40db5490ae939275801",
+	  "rotation": "0"
+	},
+	"\/resource_item_1815.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738448",
+	  "size": "272",
+	  "md5": "ef0d9656c98ee3c42ac24d1edc0c79eb",
+	  "crc32": "98838cba",
+	  "sha1": "c2e2829f434b970ef44dff86f0a693cdc8a3671f"
+	},
+	"\/resource_item_1815_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1815.jpg",
+	  "mtime": "1346739184",
+	  "size": "4316",
+	  "md5": "bd3619ebb7f117ff72e08012de5e3149",
+	  "crc32": "ab115114",
+	  "sha1": "9a16a4af3712b8763a07f896da01dfd93e32199a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475411624",
+	  "size": "42905",
+	  "md5": "b4b8c08178a674c15e6a3410c5f5be98",
+	  "crc32": "62b99e66",
+	  "sha1": "218287a6993339382b75f1ee2ef7748744907216",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475411658",
+	  "size": "2449",
+	  "md5": "e1928df3e0964327729a0f0488001963",
+	  "crc32": "add3e8f7",
+	  "sha1": "6605bea5bd61df6e5b7ab8de0e30895ff88c1aea"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475411626",
+	  "size": "285986",
+	  "md5": "f930f614775807ba85632c90e024e5fb",
+	  "crc32": "b4d153db",
+	  "sha1": "5edc4116c2cd149125d37a8ae2bbfbb2766746c5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475411660",
+	  "size": "3868",
+	  "md5": "f34583e5246dbe64a3db493dc35e94d6",
+	  "crc32": "b62d91ac",
+	  "sha1": "c7f8d089d0085b8a6b7b4566f0e06aae8133f10c"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475411629",
+	  "size": "432020",
+	  "md5": "00cb65e56978966366af37881b0948f2",
+	  "crc32": "21ed8fde",
+	  "sha1": "90ee587c6b5c4b246930e6fd88a3f0a51b381bab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475411662",
+	  "size": "4653",
+	  "md5": "3690dddf8b558544ce2bff540f0da94a",
+	  "crc32": "ddc94ea4",
+	  "sha1": "32a17b3faeaefcde99f8a0beb23300e7b8b5884b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/20\/items\/PanzerGeneral_1020\/PanzerGeneral_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1257,
+	"week": 9,
+	"month": 31
+  }
+}

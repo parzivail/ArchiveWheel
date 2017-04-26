@@ -1,0 +1,133 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/19/items/FlightOfTheAmazonQueen",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Flight of the Amazon Queen Demo"
+	],
+	"description": [
+	  "\"Crash Land Into Adventure! An animated graphic adventure starring Joe King, Faye Russel and Dr. Frank Ironstein.\n\nFlight of the Amazon Queen is an irreverent pastiche of the adventure serials that were popular in the 1940's, it is brimming with fun-filled action and a progressively difficult level of play. The game has over 100 different graphic locations with over 40 characters with which to interact. The story progresses through the use of full screen cutaway sequences giving the game dramatic depth. The CD-ROM version features full in-game speech using a variety of actors, and atmospheric sound effects. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Interactive Binary Illusions"
+	],
+	"identifier": [
+	  "FlightOfTheAmazonQueen"
+	],
+	"addeddate": [
+	  "2012-07-08 19:31:17"
+	],
+	"publicdate": [
+	  "2012-07-08 19:31:30"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"notes": [
+	  "This game has been released as freeware by the copyright holder. The freeware versions (disk and CD-ROM) are for the SCUMMVM program, and can be downloaded from the SCUMMVM website (http:\/\/www.scummvm.org\/)."
+	],
+	"publisher": [
+	  "Renegade Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_21"
+	],
+	"emulator_start": [
+	  "QUEEN.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/FlightOfTheAmazonQueen_archive.torrent": {
+	  "source": "original",
+	  "btih": "21708bfbd2b077b91b75c4a79c546a90ecc653d0",
+	  "mtime": "1476638152",
+	  "size": "2141",
+	  "md5": "9472bb8f0bbe725a800599556925acc6",
+	  "crc32": "2be726bb",
+	  "sha1": "b76f735689e8ff42eeab241d6c3bf5d7bec5feac",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FlightOfTheAmazonQueen_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "321ac1cac490b4576167ee617e9efaf8"
+	},
+	"\/FlightOfTheAmazonQueen_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476638151",
+	  "size": "1750",
+	  "md5": "b20be41a0d415c8deeb169e8f938c268",
+	  "crc32": "4b6baa08",
+	  "sha1": "b284fa0f33c339754f1210742d835db7a33e30bd"
+	},
+	"\/queen_demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341775843",
+	  "size": "1111027",
+	  "md5": "e373bf549e974f336c37fea37bd4e1e2",
+	  "crc32": "da73d3c2",
+	  "sha1": "02a191f6cd266688581e71ce038834af99640ddc"
+	},
+	"\/queen_interview.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341775847",
+	  "size": "940872",
+	  "md5": "3fd7feb20ad3055bd6030dd98a23d636",
+	  "crc32": "60483be1",
+	  "sha1": "5ff88fa92176653b7e6eb832194025d0df278b50"
+	},
+	"\/resource_item_220.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341775849",
+	  "size": "19281",
+	  "md5": "5ba91e31e653295973f4cb9cb6923ae7",
+	  "crc32": "5605bb08",
+	  "sha1": "d97d9c6c8894a2b242588bbf9445f5169ed64701",
+	  "rotation": "0"
+	},
+	"\/resource_item_220_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_220.jpg",
+	  "mtime": "1341775884",
+	  "size": "5843",
+	  "md5": "dc7bcca4c9408e02f84421277f0014e8",
+	  "crc32": "3218a005",
+	  "sha1": "3a020a20a9205304f5d964c3a1d59ce37e8eb2db"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/19\/items\/FlightOfTheAmazonQueen\/resource_item_220_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 345,
+	"week": 3,
+	"month": 6
+  }
+}

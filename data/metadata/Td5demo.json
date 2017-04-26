@@ -1,0 +1,141 @@
+{
+  "server": "ia601009.us.archive.org",
+  "dir": "/8/items/Td5demo",
+  "metadata": {
+	"identifier": [
+	  "Td5demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "The Pitbull Syndicate"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Test Drive 5 continues where Test Drive 4 left off, but takes it into higher gear with high resolution graphics, branching roads, shortcuts, and photo-realistic graphics. Drive any one of twenty-eight licensed cars, including fourteen exotic sports cars and fourteen classic muscle cars of the past. Test Drive 5's seventeen tracks recreate real world locales."
+	],
+	"publisher": [
+	  "Accolade"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Test Drive 5 Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2013-11-30 00:14:02"
+	],
+	"addeddate": [
+	  "2013-11-30 00:14:02"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233546[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_20"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "5.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "Does anyone know how to run this game on Windows 7\/8\/10? I really would love to play that demo :)",
+		"reviewtitle": "Windows 10",
+		"reviewer": "beachboyjeffrey",
+		"reviewdate": "2016-02-17 14:32:45",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/Td5demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a56a6cf860739423c1c8ce7c44539cdd"
+	},
+	"\/Td5demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385770472",
+	  "size": "14336",
+	  "md5": "d23220a4b753f322df9f65a49bdd0dda",
+	  "crc32": "db0ac319",
+	  "sha1": "30f6459b99c0ba01c805c11ce6e6ac129a810924"
+	},
+	"\/Td5demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475146123",
+	  "size": "1205",
+	  "md5": "a4cd2282bf692c584ca20d9195ee1667",
+	  "crc32": "68dda0e0",
+	  "sha1": "7d721a37e3d5ba2fb0605e75539ed1602851145a"
+	},
+	"\/Td5demo_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1455719567",
+	  "size": "523",
+	  "md5": "fe6b9f2be6f86c158f159a74664ee47d",
+	  "crc32": "3508f500",
+	  "sha1": "a0e02ed847993d076c6d8b6964df2a248270a716",
+	  "format": "Metadata"
+	},
+	"\/td5demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385770468",
+	  "size": "11360751",
+	  "md5": "638eefec7e02d9386105bd1949ec7843",
+	  "crc32": "9f089ffa",
+	  "sha1": "d83cc6f8d443da57100f0c421c50b3bb0bcb0b35"
+	},
+	"\/td5demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385770441",
+	  "size": "17894",
+	  "md5": "c7a2cb27c447b1d3237d0362111ed5ef",
+	  "crc32": "92ee4ebf",
+	  "sha1": "b0ef8809c815a97a3121b40f541dd432bcebb03f",
+	  "rotation": "0"
+	},
+	"\/td5demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "td5demo.jpg",
+	  "mtime": "1385770478",
+	  "size": "4785",
+	  "md5": "f975a5e04b7fb4d63e90db574ee6d591",
+	  "crc32": "21f23b11",
+	  "sha1": "ae84d7bfd94bb138723f682be653628394347e8b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601009.us.archive.org\/8\/items\/Td5demo\/td5demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5392,
+	"week": 47,
+	"month": 227
+  }
+}

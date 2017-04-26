@@ -1,0 +1,132 @@
+{
+  "server": "ia902701.us.archive.org",
+  "dir": "/25/items/el-burro",
+  "metadata": {
+	"identifier": [
+	  "el-burro"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Janez Kranjc"
+	],
+	"date": [
+	  "2001-10-19"
+	],
+	"description": [
+	  "Point and click adventure game, created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "El Burro [demo 2001-10-19]"
+	],
+	"publicdate": [
+	  "2015-01-02 22:46:36"
+	],
+	"addeddate": [
+	  "2015-01-02 22:46:36"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102225208[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2001"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/78.jpg": {
+	  "source": "original",
+	  "mtime": "1420238809",
+	  "size": "11901",
+	  "md5": "c04fb8756486337d0127859f7ef41dab",
+	  "crc32": "83f4e74c",
+	  "sha1": "c7e0d952da1903ec79e4697e69e30c16cff90424",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/78_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "78.jpg",
+	  "mtime": "1420239136",
+	  "size": "3807",
+	  "md5": "421a3f3ecc190d847846e8a20cf3d86c",
+	  "crc32": "97860bf6",
+	  "sha1": "267cd446a7dc4a3fc9e2fe56c1e3e96b2df87fe3"
+	},
+	"\/el-burro.zip": {
+	  "source": "original",
+	  "mtime": "1420238795",
+	  "size": "500292",
+	  "md5": "a5d985ca12471f2371209f436438a812",
+	  "crc32": "ad1bb6c9",
+	  "sha1": "ebcbe7d1aa7b623b0dfce8e00fbac0da45c734ac",
+	  "format": "ZIP"
+	},
+	"\/el-burro_archive.torrent": {
+	  "source": "original",
+	  "btih": "c3af5b5b6ceca1cd374988ee14e88a801bfdebe0",
+	  "mtime": "1490654777",
+	  "size": "1953",
+	  "md5": "6daba69ce2f28e6b1a1dfc88d8c298ee",
+	  "crc32": "996ceb4d",
+	  "sha1": "1127870fa25ac005ba040f01cf807cc1c6133f60",
+	  "format": "Archive BitTorrent"
+	},
+	"\/el-burro_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2a48c01515b427f9e9b330271315aa5c"
+	},
+	"\/el-burro_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420238814",
+	  "size": "10240",
+	  "md5": "2fee0ae1db3d6a53d268dd3c0ea86660",
+	  "crc32": "91ed29b1",
+	  "sha1": "0823d8fe460e569d75fe940fbc3963ada94a6a55",
+	  "format": "Metadata"
+	},
+	"\/el-burro_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490654776",
+	  "size": "1022",
+	  "format": "Metadata",
+	  "md5": "8c5ac6adae8031898f5c14af145f064a",
+	  "crc32": "f07ed3b4",
+	  "sha1": "b294a4d678356d4258f732205c2b8a42040ccba1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902701.us.archive.org\/25\/items\/el-burro\/78_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 64,
+	"week": 4,
+	"month": 7
+  }
+}

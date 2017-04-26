@@ -1,0 +1,134 @@
+{
+  "server": "ia601000.us.archive.org",
+  "dir": "/11/items/Rct3Demo",
+  "metadata": {
+	"identifier": [
+	  "Rct3Demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Frontier Developments"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "<div>If you can build it, you can ride it in RollerCoaster Tycoon 3, a game that lets you create your own amusement park. The third installment in the RollerCoaster tycoon series features a new Coaster Cam that lets you ride the rides you design. Your rides can attract diverse characters with changing facial expressions and hundreds of animations including running, jumping, dancing, and throwing up. Customize your guests, walk around your park, and become a true roller coaster tycoon.<\/div>"
+	],
+	"publisher": [
+	  "Atari"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "RollerCoaster Tycoon 3 Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2013-11-29 08:21:40"
+	],
+	"addeddate": [
+	  "2013-11-29 08:21:40"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233544[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_19"
+	]
+  },
+  "files": {
+	"\/RCT3_USA_DEMO_1.1.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385713556",
+	  "size": "171042332",
+	  "md5": "f74014420e8428a39529bd8f3be74249",
+	  "crc32": "f0aef1ff",
+	  "sha1": "37eaee911d8bef568d790d913358c03478fcfee9"
+	},
+	"\/RCT3_USA_DEMO_FINAL.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385713800",
+	  "size": "171100464",
+	  "md5": "01b43a1a2545dca857cb13f027db501d",
+	  "crc32": "72c28c5f",
+	  "sha1": "d10a13fca3876002b15fdf0cd8adcab0c3a51b3b"
+	},
+	"\/Rct3Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "161e41509cb17a94f3585074c8f9f516"
+	},
+	"\/Rct3Demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385714086",
+	  "size": "19456",
+	  "md5": "e56bd72d391a9669b20309d49c2cec73",
+	  "crc32": "865dbe94",
+	  "sha1": "9f8e82364953f612f5aaac56c794f8f68d02dcef"
+	},
+	"\/Rct3Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475329189",
+	  "size": "1358",
+	  "md5": "89d1ff91919f1b420bd4cefd17b6c9a5",
+	  "crc32": "7b66ca34",
+	  "sha1": "a8bba4aa3b2b2e5d7ffcf49ace52cef7578ebad8"
+	},
+	"\/rct3_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385714077",
+	  "size": "193456737",
+	  "md5": "79f7737691bcf26827be33aeea5250f7",
+	  "crc32": "0109a3d2",
+	  "sha1": "6e84beb0307e210bae56fd94bea01026fd1b6e29"
+	},
+	"\/rct3_demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1385713299",
+	  "size": "846912",
+	  "md5": "74f3b37b65708f38a21ce736d107c009",
+	  "crc32": "805a31f0",
+	  "sha1": "379c9eeffc98ddfc4f19ef5850a1526155477dd5"
+	},
+	"\/rct3_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "rct3_demo.png",
+	  "mtime": "1385714105",
+	  "size": "5497",
+	  "md5": "151b061331b42d05eed712255b0b8ebc",
+	  "crc32": "97f3cb10",
+	  "sha1": "c33103d118fba135819fadb52c83b6abcdb19699"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601000.us.archive.org\/11\/items\/Rct3Demo\/rct3_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 970,
+	"week": 9,
+	"month": 25
+  }
+}

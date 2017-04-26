@@ -1,0 +1,117 @@
+{
+  "server": "ia601004.us.archive.org",
+  "dir": "/2/items/Bh2003Demo",
+  "metadata": {
+	"identifier": [
+	  "Bh2003Demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sunstorm Interactive"
+	],
+	"date": [
+	  "2002"
+	],
+	"description": [
+	  "With your decoys set and your trusty dog at your side ready to retrieve your kills, you await the small feathered game for the perfect shot."
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Bird Hunter 2003 Demo"
+	],
+	"year": [
+	  "2002"
+	],
+	"publicdate": [
+	  "2013-11-28 12:01:01"
+	],
+	"addeddate": [
+	  "2013-11-28 12:01:01"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233554[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_18"
+	]
+  },
+  "files": {
+	"\/Bh2003Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385640060",
+	  "size": "108631272",
+	  "md5": "f20bc6c18cc5b7403e6f9698919bfa02",
+	  "crc32": "80eebb5f",
+	  "sha1": "c2472a848b873ff3c1a83f096b6bd7a76c21cab9"
+	},
+	"\/Bh2003Demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385640072",
+	  "size": "121395",
+	  "md5": "82feb9bd13ba27849b4c4a96315a9939",
+	  "crc32": "f59d9045",
+	  "sha1": "3ee79487b803350a5f798785caef2c39a0c3cecc",
+	  "rotation": "0"
+	},
+	"\/Bh2003Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "698ce2485e025a6c10ce9ea5716d48fb"
+	},
+	"\/Bh2003Demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385640079",
+	  "size": "10240",
+	  "md5": "65f67dbc3a6531215cac6832f7044f7a",
+	  "crc32": "3e174912",
+	  "sha1": "112df7e3a07178a4649f1d7d7e2d9a2b5813d34b"
+	},
+	"\/Bh2003Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474271833",
+	  "size": "989",
+	  "md5": "6d18b7b466498f16d8544f0c1670f94b",
+	  "crc32": "6ecb0190",
+	  "sha1": "305e5b94764e72ce4990b7ee0e43c248aea5699d"
+	},
+	"\/Bh2003Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Bh2003Demo.jpg",
+	  "mtime": "1385640100",
+	  "size": "3518",
+	  "md5": "b8ce227fc27e97c3054c50861f22da3a",
+	  "crc32": "f2d71c0b",
+	  "sha1": "cb408a5dac34903a8c05ba25799d391dfda3da46"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601004.us.archive.org\/2\/items\/Bh2003Demo\/Bh2003Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1971,
+	"week": 17,
+	"month": 72
+  }
+}

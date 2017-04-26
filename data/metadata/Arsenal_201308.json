@@ -1,0 +1,265 @@
+{
+  "server": "ia600405.us.archive.org",
+  "dir": "/6/items/Arsenal_201308",
+  "metadata": {
+	"identifier": [
+	  "Arsenal_201308"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "TACTICAL Soft"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>This our first big project - A THRILLING REAL TIME WARGAME !\u00a0<\/div><div><br \/><\/div><div>SVGA graphics (640x480 - 800x600 - 1024x768) featuring real time video mode changing\u00a0<\/div><div>Random map generation (more than a billion maps availlable for custom game)\u00a0<\/div><div>A (real) Artificial Intelligence for war engine to give you hard time !\u00a0<\/div><div>Three different landscapes (Europe - Desert - Arctic)\u00a0<\/div><div>Uploadable language kits (English - French - German...)\u00a0<\/div><div>Preset campaign games and random custom games\u00a0<\/div><div>This is a world concept (not a map concept), there's no map edges\u00a0<\/div><div>A detailed hardware encyclopedia to get the best advantage of each unit\u00a0<\/div><div>1 hour original music on CD Audio (registred version)\u00a0<\/div><div>Full realistic engines featuring :\u00a0<\/div><div><br \/><\/div><div>More than 30 units based on 2nd world war (ground - sea - air)\u00a0<\/div><div>Real flying aircrafts (landing and take off from airfield and carrier as well)\u00a0<\/div><div>Civilization like research management\u00a0<\/div><div>4 secret weapons (atomic bomb, toxic missile, buzz bomb, kamikaze)\u00a0<\/div><div>Fuel Management\u00a0<\/div><div>Repairing facilities\u00a0<\/div><div>Ranking up for armed units\u00a0<\/div>"
+	],
+	"license": [
+	  "shareware"
+	],
+	"named-persons": [
+	  "Eric Mathiault, Matthieu Rotchi, Romuald Genevois"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "A.R.S.E.N.A.L Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2013-08-05 05:10:01"
+	],
+	"addeddate": [
+	  "2013-08-05 05:10:01"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233917[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "arsenal.exe"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905704_18"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475172087",
+	  "size": "37705",
+	  "md5": "1a3f06d74e95f8f2b41773517a2aa136",
+	  "crc32": "e4e9b868",
+	  "sha1": "4e09061da89d0ba492c2524985c85ec69b6e2f5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475172133",
+	  "size": "2515",
+	  "md5": "b6d7b08244ba6c1ea609cb96bae81775",
+	  "crc32": "64b486dc",
+	  "sha1": "1dfd0ec3e8e5fcd0a4599da3b730490182468dab"
+	},
+	"\/Arsenal_201308.gif": {
+	  "source": "original",
+	  "mtime": "1475172108",
+	  "size": "7432",
+	  "md5": "4bb701924b5e7da30f65d48da95e8942",
+	  "crc32": "d715d92b",
+	  "sha1": "d7f80094b922986c32102f89f0dce7b3746eef14",
+	  "format": "Animated GIF"
+	},
+	"\/Arsenal_201308_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4777408071f7153bf218c64d438d20c8"
+	},
+	"\/Arsenal_201308_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475172121",
+	  "size": "21504",
+	  "md5": "c257264fca91ec5faf71eb7e3b64ce55",
+	  "crc32": "93e7d6b6",
+	  "sha1": "77326967f9664718496262cdd43d0fb1d4270ffe"
+	},
+	"\/Arsenal_201308_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475299585",
+	  "size": "2519",
+	  "md5": "b7638b320946920b0a8a6d78fbc00880",
+	  "crc32": "1aa495c7",
+	  "sha1": "e0984f52d72af96853d4ff43d60f62a6d1f43d14"
+	},
+	"\/arsenal.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1375679401",
+	  "size": "8640987",
+	  "md5": "697df70f95f41402978a6f9afe52f51a",
+	  "crc32": "0ca5fef6",
+	  "sha1": "d0043c52961a4c5168aa61d731e67d89eb5ec7fb"
+	},
+	"\/arsenal.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1375679410",
+	  "size": "67901",
+	  "md5": "9289debea87a9e682503a3762d802936",
+	  "crc32": "06e811f0",
+	  "sha1": "643ea3388094a4df695e58c28f31535aa1ef492c",
+	  "rotation": "0"
+	},
+	"\/arsenal.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1474730554",
+	  "size": "8505384",
+	  "md5": "dcd94e6ccce23a4969a2f166ef137b6a",
+	  "crc32": "1a6972a1",
+	  "sha1": "37f5f0820317aa5c523da2a15ab4433662f7a5dd"
+	},
+	"\/arsenal_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475172112",
+	  "size": "22583",
+	  "md5": "f3c114ef7cd350c1d286442f162766c8",
+	  "crc32": "e7959aec",
+	  "sha1": "b4f5f0770fe58b782a562d75e79c893ca305e25c",
+	  "format": "Emulator Screenshot"
+	},
+	"\/arsenal_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "arsenal.jpg",
+	  "mtime": "1375679428",
+	  "size": "7160",
+	  "md5": "073200e4645d6543e13ab6503abc8eef",
+	  "crc32": "fe41a63d",
+	  "sha1": "73ed241f21426f86bd02d8631f8b5c306ca71593"
+	},
+	"\/demofix.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1375679412",
+	  "size": "196857",
+	  "md5": "750279dc1ef06eb65bb5405934a509e9",
+	  "crc32": "ed0cd415",
+	  "sha1": "2b3372d04484092dfd7d84873036286be202719a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475172090",
+	  "size": "37705",
+	  "md5": "1a3f06d74e95f8f2b41773517a2aa136",
+	  "crc32": "e4e9b868",
+	  "sha1": "4e09061da89d0ba492c2524985c85ec69b6e2f5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475172134",
+	  "size": "2515",
+	  "md5": "b6d7b08244ba6c1ea609cb96bae81775",
+	  "crc32": "64b486dc",
+	  "sha1": "1dfd0ec3e8e5fcd0a4599da3b730490182468dab"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475172094",
+	  "size": "37687",
+	  "md5": "ea0a8ae375e7dd67d41b12e9a38d3c49",
+	  "crc32": "289e9479",
+	  "sha1": "be7a5c86c5d0fd052cef3942d1dbf6d5c4588a4f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475172135",
+	  "size": "2502",
+	  "md5": "116f1553cb1d76a4d234e69bd379d880",
+	  "crc32": "a49b3a28",
+	  "sha1": "3eabc70c23317f1a3c27146eefaff88ab7927ff6"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475172099",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475172136",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475172103",
+	  "size": "3344",
+	  "md5": "93d5b312274946def60f8517f994f6f1",
+	  "crc32": "233180a6",
+	  "sha1": "e0f00c3527d0c666ad2c2b79814bc954e18926a8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475172137",
+	  "size": "1011",
+	  "md5": "f818b3bf910e19a6035f892d85616795",
+	  "crc32": "acb9e222",
+	  "sha1": "93bf5ad2a39276576ec479e3c31d21708f842da1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600405.us.archive.org\/6\/items\/Arsenal_201308\/Arsenal_201308.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 906,
+	"week": 5,
+	"month": 9
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "server": "ia600201.us.archive.org",
+  "dir": "/25/items/GoreUltimateSoldierDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Gore: Ultimate Soldier Demo"
+	],
+	"description": [
+	  "Gore Ultimate Soldier is a fast paced first person shooter with multiplayer and first person modes. Anarchy reigns on Earth and you must train in the Meat Machine to prove yourself. Deep in the bowels of UMC research and development, secret experiments have led to the creation of the advanced massively parallel bio-computational neural network, with the ability to emulate higher-level thought processes and simulate the nonlinear processing of computations and complex algorithms. This advanced bio-computational neural network has created a perfect artificial environment, this new system avoids failures from the past and jerkiness caused by computational spasming in older non-bio based artificial environments."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "4D Rulers Software"
+	],
+	"identifier": [
+	  "GoreUltimateSoldierDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 00:17:14"
+	],
+	"publicdate": [
+	  "2012-05-28 00:17:36"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"publisher": [
+	  "DreamCatcher Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/GoreRetailDemo.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338164145",
+	  "size": "105888534",
+	  "md5": "82c264f7fde52f13a0adbad67de00d62",
+	  "crc32": "eb25bbdf",
+	  "sha1": "dcca9b357542025b62734741b6f347dfff869348"
+	},
+	"\/GoreRetailDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338164146",
+	  "size": "187447",
+	  "md5": "9be9bb98beb23668cfc2131d74c3aeeb",
+	  "crc32": "fe21a75e",
+	  "sha1": "055467990954d25fd760413da4b6e74e0ab8b4bd",
+	  "rotation": "0"
+	},
+	"\/GoreRetailDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "GoreRetailDemo.jpg",
+	  "mtime": "1338164250",
+	  "size": "6169",
+	  "md5": "5e0c002f72f4908287e47d4a02c9bfed",
+	  "crc32": "c61419e8",
+	  "sha1": "a347511c8823d598cc5c1e90e66dc9e8469093ef"
+	},
+	"\/GoreUltimateSoldierDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "1377f1fffb3100357513455544bc1e294dbf8094",
+	  "mtime": "1464622402",
+	  "size": "5958",
+	  "md5": "7a7be296538f2bf47fbab25daaca9904",
+	  "crc32": "75546b8d",
+	  "sha1": "4973a718274e06eebe0bcc1e42512a7567a2ae19",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GoreUltimateSoldierDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "acbdc0cba71d1fc8a892832c2d4d22c5"
+	},
+	"\/GoreUltimateSoldierDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464622400",
+	  "size": "1510",
+	  "md5": "c92714070f1f63b7fbb7887facc23e25",
+	  "crc32": "148f51ad",
+	  "sha1": "329193cca355e0ddd6ea6800ccbc0d4e9320da0a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600201.us.archive.org\/25\/items\/GoreUltimateSoldierDemo\/GoreRetailDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 509,
+	"week": 5,
+	"month": 10
+  }
+}

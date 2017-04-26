@@ -1,0 +1,139 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/30/items/MortalKombat3_1020",
+  "metadata": {
+	"identifier": [
+	  "MortalKombat3_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Midway"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Atari"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Mortal Kombat 3 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 09:46:53"
+	],
+	"addeddate": [
+	  "2012-09-04 09:46:53"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Looks and plays just like the coin-up version!\n\nPlay head-to-head over local networks!\n\nThe portal is open... And Shao Khan will finally have his revenge on Earth. Now you must pull-out all the stops and join the kombatants as you rip into the most action-packed confrontation yet! Eight all-new characters join the fray on 12 new 3D-rendered backgrounds. Secret moves, encryption \"\"kodes\"\" and a slew of wild new \"\"-alities\"\" put you in command as never before!\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "kombat.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/MK3DEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476203335",
+	  "size": "6459254",
+	  "md5": "6300c835aff61e9ddd7153a0b9040ebd",
+	  "crc32": "2e3fc1cb",
+	  "sha1": "256b8c0a068f997460e85fa82b8873c47610315c"
+	},
+	"\/MK3DEMO.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752083",
+	  "size": "641",
+	  "md5": "051de1f55d890c74ba26c439f03b4b5f",
+	  "crc32": "9f6b01a9",
+	  "sha1": "a59b437141f921dcb586b2a8a4688d05a53a0905"
+	},
+	"\/MortalKombat3_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "78c0205e95094787849963a239956b2bb84d89e8",
+	  "mtime": "1476203365",
+	  "size": "2115",
+	  "md5": "8494f0e9d1178942fa41ff5fe3e1defd",
+	  "crc32": "81919bdd",
+	  "sha1": "d9f9177e3b722535259e2eee61dbedb98fbd1545",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MortalKombat3_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4924e294c3bc104bb25c6a1378c01ddd"
+	},
+	"\/MortalKombat3_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476203364",
+	  "size": "1321",
+	  "md5": "6d7ecd65d07fd83ac114ee24715794af",
+	  "crc32": "ea3c7710",
+	  "sha1": "398390ddc9743a5e40c7403b065e263814ff6b57"
+	},
+	"\/resource_item_2008.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346752085",
+	  "size": "20500",
+	  "md5": "2691059a47dffaaf1c21a3ebae698d4d",
+	  "crc32": "33ff5f68",
+	  "sha1": "88c990dfb7dd6f2fb3f03b2668046844658fdd9c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2008.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752085",
+	  "size": "272",
+	  "md5": "b479054a98179c63c1849bb807c85869",
+	  "crc32": "ebf5b819",
+	  "sha1": "b487dc64784dbb243050365adcc0175d1343d985"
+	},
+	"\/resource_item_2008_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2008.jpg",
+	  "mtime": "1346752655",
+	  "size": "5997",
+	  "md5": "3a5371ec1e3e5476f18c8e1f8b287e52",
+	  "crc32": "9e8703d7",
+	  "sha1": "40aef389077c10b1025c78e2ff9d5542005daf2b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/30\/items\/MortalKombat3_1020\/resource_item_2008_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 848,
+	"week": 4,
+	"month": 14
+  }
+}

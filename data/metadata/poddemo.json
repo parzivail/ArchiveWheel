@@ -1,0 +1,126 @@
+{
+  "server": "ia600209.us.archive.org",
+  "dir": "/34/items/poddemo",
+  "metadata": {
+	"identifier": [
+	  "poddemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ubi Soft Entertainment"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>This new multiplayer version of POD allows shareware users access to the retail edition's free matchmaking service for the first time. Shareware users can test-drive the game and ask POD's Game Service to arrange play sessions against owners of the full retail edition. All games organized in this fashion are played with one car, the Fuego (the retail edition has 8 plus the 18 new downloadable vehicles) and on one track, Lake (the retail edition comes with 16 plus 15 downloadable tracks). This gives shareware players a taste of the full rip-roaring, eye-popping, 280 mph power that has made POD one of the biggest hits in online gaming. MMX and non-MMX versions are included in the demo. So test-drive this adrenaline-fueled demo! Note: This demo is also compatible with non-MMX machines.<\/div>"
+	],
+	"publisher": [
+	  "Ubi Soft Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "POD Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-19 23:08:57"
+	],
+	"addeddate": [
+	  "2014-01-19 23:08:57"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233729[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_7"
+	]
+  },
+  "files": {
+	"\/poddemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390172982",
+	  "size": "11754801",
+	  "md5": "e161ebf71ee05c4759fbc4e34caa6e8a",
+	  "crc32": "32780eba",
+	  "sha1": "dca97cf9d01a9aa3671d2d0a378258edb183b660"
+	},
+	"\/poddemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390172937",
+	  "size": "109875",
+	  "md5": "e84c2d2824cd1cad3f5bfff4ef74eaaf",
+	  "crc32": "04e0970d",
+	  "sha1": "a7f481e626929e0b4ff7e503f5af8188f8c344b7",
+	  "rotation": "0"
+	},
+	"\/poddemo3dfx.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390172963",
+	  "size": "12304078",
+	  "md5": "7eddae9f1a7a9c5c40d0240e901a5d64",
+	  "crc32": "863c2f08",
+	  "sha1": "a7eea79f7f4658ffe75733c3c84cbb714d7e014d"
+	},
+	"\/poddemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f3d204788c43047ba25aec7e65358bb9"
+	},
+	"\/poddemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390172988",
+	  "size": "18432",
+	  "md5": "803ccd93ad4ea44762a840a1f1eeb6c0",
+	  "crc32": "2dd55d35",
+	  "sha1": "a03d96f949667f7020bd4eca1761541c5e16a307"
+	},
+	"\/poddemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475195481",
+	  "size": "1662",
+	  "md5": "fc09a1888912e60b109aa5a9ba52ce0a",
+	  "crc32": "38d88a0f",
+	  "sha1": "b90c44fc6aef6882ac4841c33210a992b9e889cd"
+	},
+	"\/poddemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "poddemo.jpg",
+	  "mtime": "1390172996",
+	  "size": "6455",
+	  "md5": "bd6d1cb32905951bd8e52c5c7cc1d1b8",
+	  "crc32": "0abd4e59",
+	  "sha1": "3a5241e09fe4d34f37a55427676af356cbef1512"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600209.us.archive.org\/34\/items\/poddemo\/poddemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 483,
+	"week": 6,
+	"month": 17
+  }
+}

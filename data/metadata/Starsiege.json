@@ -1,0 +1,124 @@
+{
+  "server": "ia600802.us.archive.org",
+  "dir": "/6/items/Starsiege",
+  "metadata": {
+	"identifier": [
+	  "Starsiege"
+	],
+	"title": [
+	  "Starsiege Demo"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "They are multiplying in the void somewhere beyond Neptune, changing, evolving into new models. Constructing their armada in hidden shipyards and factories, waiting for the opportunity to return to Earth. Increasingly, Cybrid drones slip toward the inner planets, observing human activity.\n\nThe Cybrids are ready. Their legions are more than enough to decimate the , according to their calculations. However, they have defied such conclusions before, and Prometheus wants to be even more certain."
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-21 03:45:29"
+	],
+	"addeddate": [
+	  "2012-02-21 03:45:09"
+	],
+	"updater": [
+	  "Swizzley",
+	  "Swizzley"
+	],
+	"updatedate": [
+	  "2012-02-21 03:45:59",
+	  "2012-02-21 04:45:31"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233743[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_7"
+	]
+  },
+  "files": {
+	"\/SSDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1329795840",
+	  "size": "55008256",
+	  "md5": "f52e8ed2c0f8c710546b2684ceee0562",
+	  "crc32": "a3a6de34",
+	  "sha1": "de50f3ad1bccfbc0d454a0422ee554ec6cb4b97a",
+	  "title": "Starsiege Demo (v1.0)"
+	},
+	"\/STARSIEG.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391737005",
+	  "size": "30930432",
+	  "md5": "1ed10acbf9693a636e85993fd16ec097",
+	  "crc32": "0ab4e2b5",
+	  "sha1": "2e01f68e3ff1cd8fabbb65d32843b5a524780ca0"
+	},
+	"\/StarsiegeScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Starsiege Screenshot",
+	  "mtime": "1329795841",
+	  "size": "48463",
+	  "md5": "bd1fbee516bef779abcc13e2ef0e7c7a",
+	  "crc32": "805665de",
+	  "sha1": "8ba61b01818c09665744457decf89b09d63e06f0",
+	  "rotation": "0"
+	},
+	"\/StarsiegeScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "StarsiegeScreenshot.jpg",
+	  "mtime": "1329795921",
+	  "size": "4855",
+	  "md5": "a14ee16b361fa24d295470dcd2dc35c3",
+	  "crc32": "6f629ff1",
+	  "sha1": "9d79289228836fffbf718754ee967456ff99915a"
+	},
+	"\/Starsiege_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b9a20890e4d2423b0d842464a8721923"
+	},
+	"\/Starsiege_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1461891705",
+	  "size": "1425",
+	  "md5": "593bfcef53243422771b83fb40f8e3a1",
+	  "crc32": "476d5662",
+	  "sha1": "d377ed291550187d7fa6ee5aa19e55288d56aa5a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600802.us.archive.org\/6\/items\/Starsiege\/StarsiegeScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 543,
+	"week": 7,
+	"month": 16
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/3/items/MagicPocketsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Magic Pockets Demo"
+	],
+	"description": [
+	  "\"NO ONE MESSES WITH THE BITMAP KID!\n\nWith a liberal dose of wit and more than a little imagination, Magic Pockets will provide ST, Amiga and PC owners with the most fun that they've had in years. The graphics are stylish, the gameplay is fast and complex. With music by Betty Boo, Magic Pockets will be sure to provide COMPLETE entertainment. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Bitmap Brothers"
+	],
+	"identifier": [
+	  "MagicPocketsDemo"
+	],
+	"addeddate": [
+	  "2012-07-19 23:11:43"
+	],
+	"publicdate": [
+	  "2012-07-19 23:11:58"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "Renegade Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903901_12"
+	],
+	"emulator_start": [
+	  "POCKETS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475355447",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475355491",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/MagicPocketsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475355456",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/MagicPocketsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "71da26ca296a55c586eb129bb38c3a2bef8e1990",
+	  "mtime": "1475355495",
+	  "size": "3107",
+	  "md5": "086a2b925f9d29ecf7102856e5717f54",
+	  "crc32": "2d77c999",
+	  "sha1": "90d7909e6584f4fa07478737bb41260a1e55c557",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MagicPocketsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "40d37e9efe259d7f94c1110394536c2b"
+	},
+	"\/MagicPocketsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475355478",
+	  "size": "8192",
+	  "format": "Metadata",
+	  "md5": "1efcf1dc61963074a21437dbb1d78d11",
+	  "crc32": "a2ac00f6",
+	  "sha1": "91338ee17a18ca909dbac70123b3e3dac48dbbd9"
+	},
+	"\/MagicPocketsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471113556",
+	  "size": "1221",
+	  "md5": "a5477e65dc862c5817272d633b38f5b7",
+	  "crc32": "f7a8c080",
+	  "sha1": "41955fe147b7ff444e2406e3a2d5aa5009183f85"
+	},
+	"\/mpdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471113741",
+	  "size": "239290",
+	  "md5": "d55111aa4926c668a556f636cae44a4c",
+	  "crc32": "26bcd23c",
+	  "sha1": "d556639dc8a9042fbb65e5f353ae6332879d03c2"
+	},
+	"\/mpdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475355468",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_296.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1342739474",
+	  "size": "27376",
+	  "md5": "4aa81e98b45a4f1cad9d4b744506300f",
+	  "crc32": "5e15a2a9",
+	  "sha1": "25ae0630712d8b8129ea55d0a840cbc6c8cf3678",
+	  "rotation": "0"
+	},
+	"\/resource_item_296_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_296.jpg",
+	  "mtime": "1342739513",
+	  "size": "7522",
+	  "md5": "3bd696bcdb72fd2075b99bce4e93b48a",
+	  "crc32": "821aa803",
+	  "sha1": "44f33ee5ee26ebffe7c6fbf56335155fd07a155b"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475355450",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475355492",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/3\/items\/MagicPocketsDemo\/MagicPocketsDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 233,
+	"week": 3,
+	"month": 7
+  }
+}

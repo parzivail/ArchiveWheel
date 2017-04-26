@@ -1,0 +1,229 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/33/items/KiddyPuzzles_1020",
+  "metadata": {
+	"identifier": [
+	  "KiddyPuzzles_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Vantage Software Company"
+	],
+	"date": [
+	  "1992"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Kiddy Puzzles"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-04 16:13:03"
+	],
+	"addeddate": [
+	  "2012-09-04 16:13:03"
+	],
+	"description": [
+	  "\"kiddie Puzzles is a children's educational program running under Microsoft Windows 3.0 and 3.1.  It is designed for children from 2 to 6.  This program teaches children about the use of mouse and improves hand-eye coordination.\n\nThe registered version contains 10 different puzzles consisting of animals, people, objects, numbers, and shapes.  The different puzzles will display randomly to provide continuous fun for children.  The demo version contains only one puzzle of animals.  If your children likes to play kiddie puzzles on the computer, please register for the complete set of puzzles.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "d:\\runapp PUZZLES.EXE"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475324510",
+	  "size": "178433",
+	  "md5": "44eefad80d5543a306ecd4dbc4106c1b",
+	  "crc32": "c6d66cd9",
+	  "sha1": "1b299718e800408a2f62eccb77e17f1237906295",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475324555",
+	  "size": "6231",
+	  "md5": "35e605992bba6cc28effa5409313dff5",
+	  "crc32": "ee53731e",
+	  "sha1": "7530f28e7328123fb241814239786b17a1507f88"
+	},
+	"\/KiddyPuzzles_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475324528",
+	  "size": "15731",
+	  "md5": "e263ab28cbcffcc5b1a70d5e9b9f44b5",
+	  "crc32": "5e199b42",
+	  "sha1": "7a59096c7fcc580d13f424b6d5365116eccd69da",
+	  "format": "Animated GIF"
+	},
+	"\/KiddyPuzzles_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "81d121250a337d8daffd97faed36856b7d769511",
+	  "mtime": "1475324561",
+	  "size": "3469",
+	  "md5": "2ca509045657beb1d9738883cc6f175b",
+	  "crc32": "5241500b",
+	  "sha1": "1dcdc36bfae59f10ccfb8a4b9edaa6f000a2c3c7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/KiddyPuzzles_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cb04da6343dd7b37043237d5d6cea5c8"
+	},
+	"\/KiddyPuzzles_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475324538",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "497ea203febdb403f49bdf4340b663b3",
+	  "crc32": "1a79174a",
+	  "sha1": "5e9722d652638b37ba0a53911665a08fc8f207c6"
+	},
+	"\/KiddyPuzzles_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471127515",
+	  "size": "1545",
+	  "md5": "139546337a34b35213659ea1717f84d3",
+	  "crc32": "abced868",
+	  "sha1": "b5b5e0ef4849eebefc1620fd8d4f3f15fa55be62"
+	},
+	"\/kidpuz.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346775189",
+	  "size": "24406",
+	  "md5": "0327d02075af149d7e39a1e823c68996",
+	  "crc32": "181d8c36",
+	  "sha1": "7230f0a336b9a35e2e2f43ee271e83b50287cec0"
+	},
+	"\/kidpuz.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775189",
+	  "size": "692",
+	  "md5": "057f9b244f36157a695a6bfd62138a47",
+	  "crc32": "721f3924",
+	  "sha1": "d2802491690f3aa7f579efa74cfd19e492dbc0ed"
+	},
+	"\/kidpuz_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475324531",
+	  "size": "78551",
+	  "md5": "7457b3462b13a070476ab1fb281d9945",
+	  "crc32": "b2574bdc",
+	  "sha1": "7af114aaf759969fdc564058ebea08a08d657b8c",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_2373.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346780651",
+	  "size": "17340",
+	  "md5": "4426fb1a236f38584a8dec6c0f4a30e3",
+	  "crc32": "9e129d93",
+	  "sha1": "747d25606e96177c3f7aabf0579cbb897869bc10",
+	  "rotation": "0"
+	},
+	"\/resource_item_2373.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346780651",
+	  "size": "272",
+	  "md5": "22f06f9912a430bc355232d437ccbc76",
+	  "crc32": "6b3b0612",
+	  "sha1": "b4431875b5933daf04626ac645276abd1175bdb2"
+	},
+	"\/resource_item_2373_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2373.jpg",
+	  "mtime": "1346817894",
+	  "size": "6361",
+	  "md5": "9970ed03310a886ab3a6a60f656925f9",
+	  "crc32": "5a4ec287",
+	  "sha1": "9e19ca85440a16573b5b0c92bb02c041f90823c8"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475324513",
+	  "size": "145099",
+	  "md5": "f11e233cee173fe5e42f64d147524afe",
+	  "crc32": "c3041cde",
+	  "sha1": "dfaf031db3a44017edade4c556a87afb447a400b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475324557",
+	  "size": "5575",
+	  "md5": "e0f5d4e16720a05df5121d7cf88a8fff",
+	  "crc32": "087bef21",
+	  "sha1": "e322586cd7570b845c6f8b3f14986c22fe2aa3ee"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475324522",
+	  "size": "178433",
+	  "md5": "44eefad80d5543a306ecd4dbc4106c1b",
+	  "crc32": "c6d66cd9",
+	  "sha1": "1b299718e800408a2f62eccb77e17f1237906295",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475324559",
+	  "size": "6231",
+	  "md5": "35e605992bba6cc28effa5409313dff5",
+	  "crc32": "ee53731e",
+	  "sha1": "7530f28e7328123fb241814239786b17a1507f88"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/33\/items\/KiddyPuzzles_1020\/KiddyPuzzles_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 172,
+	"week": 3,
+	"month": 4
+  }
+}

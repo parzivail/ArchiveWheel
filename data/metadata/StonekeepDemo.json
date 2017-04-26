@@ -1,0 +1,121 @@
+{
+  "server": "ia600709.us.archive.org",
+  "dir": "/9/items/StonekeepDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "StoneKeep Demo"
+	],
+	"description": [
+	  "INTERPLAY BRINGS ITS MOST ELECTRIFYING EPIC FROM THE COMPUTER SCREEN INTO YOUR MIND, BODY AND SOUL.\n\nImmerse yourself in an epic experience more powerful and realistic than anything you've imagined. Using innovative new technology, Stonekeep draws you into its dark reaches so completely you'll forget it's just a game. Your feet will walk the ancient corridors. Your hands will wield weapons of metal and magic. You'll battle disembodied foes, rescue your allies from evil, liberate a massive dragon from bondage and discover an experience more realistic than anything you've ever imagined.\n\nStep into the mystery of Stonekeep and begin a quest through dark corridors, treacherous sewers and subterranean realms of faeries, magic and the living dead. You'll discover a world where darkness reigns and where you become part of a detailed story line that unfolds to your commands. Defeat evil, reclaim your immortal soul and experience the adventure that is Stonekeep."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "StonekeepDemo"
+	],
+	"addeddate": [
+	  "2012-07-04 22:29:40"
+	],
+	"publicdate": [
+	  "2012-07-04 22:29:59"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "SKDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/StonekeepDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8afd8f4dea184d82c81aa2e66ddb80a77b0036ec",
+	  "mtime": "1476405278",
+	  "size": "1871",
+	  "md5": "dcf1d9263bd91bd68da0c7d8ac3b338d",
+	  "crc32": "96ee2de6",
+	  "sha1": "8ef1b102fa7aab36bf67b51dfd91fa4c1eba9f79",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StonekeepDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "26bfdf4f4965e73883dc46c577960bb7"
+	},
+	"\/StonekeepDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476405277",
+	  "size": "1828",
+	  "md5": "d1f31ee0dba57a7cf727384ac046276c",
+	  "crc32": "73373c88",
+	  "sha1": "37abfd56a2c1a37fb3daa82c860ca8da3cda2a3a"
+	},
+	"\/resource_item_117.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341440935",
+	  "size": "13246",
+	  "md5": "782f0895eef647de913149ecc4640294",
+	  "crc32": "e8aa5f00",
+	  "sha1": "744a3330525e7a9e9823c8da0fb6dfc9d2766f5f",
+	  "rotation": "0"
+	},
+	"\/resource_item_117_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_117.jpg",
+	  "mtime": "1341440993",
+	  "size": "3999",
+	  "md5": "d6389b6a4615140659aea5e4cfdec280",
+	  "crc32": "889ff9fb",
+	  "sha1": "02674cead80c8f373bcbe1a4ec3ec65d2a9a03d4"
+	},
+	"\/sknidemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341484738",
+	  "size": "1311575",
+	  "md5": "3d5bc17c621395f55cf864aef2d3f5b1",
+	  "crc32": "452e98b5",
+	  "sha1": "f69bf57c36bb3fff87f39f49058f98551a4212b3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600709.us.archive.org\/9\/items\/StonekeepDemo\/resource_item_117_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 424,
+	"week": 5,
+	"month": 10
+  }
+}

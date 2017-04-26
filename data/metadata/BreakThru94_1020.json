@@ -1,0 +1,351 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/33/items/BreakThru94_1020",
+  "metadata": {
+	"identifier": [
+	  "BreakThru94_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "ZOO"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Steve Fry"
+	],
+	"publisher": [
+	  "Spectrum Holobyte"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "BreakThru!"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 19:03:49"
+	],
+	"addeddate": [
+	  "2012-09-05 19:03:49"
+	],
+	"description": [
+	  "\"Despite BreakThru's seemingly simple rules, you'll soon be addicted to this action\/puzzle game. All you need to do is find two or more bricks of the same color that are side by side either vertically or horizontally. Click the left mouse button on any one of the bricks in the group to clear the entire group. The object is to clear all the bricks in the wall in a certain time limit so that you can pass through to the next wall.\n<p>\nTo help you clear the wall, other items such as bombs, rockets and super bricks will come to your aid. In addition, as you progress to later stages, less friendly objects will appear in the wall.\n<\/p><p>\nIf an unknown object appears in the wall, try clicking on it. The four-colored super brick is the most confusing but most beneficial. Once you click on a super brick, the wall border will begin blinking. Click on any brick and the remaining bricks of that same color will all disappear.\n<\/p><p>\nOften when the wall is almost completely cleared, you'll need to use the new bricks at the top of the wall. First, position the new bricks and then drop them into the right spots in the wall, and you'll be able to clear the rest of the bricks.\n<\/p><p>\nThis demo will let you clear as many walls as you can in five minutes. The demo is limited to one wall in Berlin at Medium difficulty level.\"<\/p>"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "d:\\runapp BTDEMO.EXE"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475198167",
+	  "size": "541950",
+	  "md5": "1e7b4148d18dcc64e440936f943d67fe",
+	  "crc32": "22b1049d",
+	  "sha1": "1c6fce91f1464c6c1dd6b40eaad506365538c1ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475198226",
+	  "size": "4748",
+	  "md5": "4ed4505ff9c06c994f671b3cbf06db54",
+	  "crc32": "cd21bba0",
+	  "sha1": "2c9d9e154b6d838b1e68554aceae223ab66ce73c"
+	},
+	"\/BreakThru94_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475198198",
+	  "size": "169390",
+	  "md5": "217ba7ef476e12c08f43cab6e4640a78",
+	  "crc32": "d1db005e",
+	  "sha1": "428b9f79836a3733dda30969fe996e117a75ec42",
+	  "format": "Animated GIF"
+	},
+	"\/BreakThru94_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "8bcc361043a035663f712a652d2998936ae5f951",
+	  "mtime": "1475198243",
+	  "size": "5776",
+	  "md5": "c4465da904f673b46fe5bb83df0086bc",
+	  "crc32": "58479136",
+	  "sha1": "a4bb0f28592c088c7ca64ecbff743db08be8b6d4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BreakThru94_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "aee8a55b081dd47ab830d153be5e7acd"
+	},
+	"\/BreakThru94_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475198206",
+	  "size": "12288",
+	  "md5": "e0e4fa3803ffd29c3f7e670aa0afb68c",
+	  "crc32": "acaa75ca",
+	  "sha1": "188d96faf264f169381543bffa797c333b3d5c4f",
+	  "format": "Metadata"
+	},
+	"\/BreakThru94_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473346831",
+	  "size": "2352",
+	  "md5": "078ce66638abeeea1430e8c23b7bc4e5",
+	  "crc32": "5b7fed40",
+	  "sha1": "bda0f71e9b52eb119b1ea27b2ac75f4c134f9b7c"
+	},
+	"\/brkdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346871835",
+	  "size": "477011",
+	  "md5": "259a18edf8a3f910cfb849f62b1fa60b",
+	  "crc32": "3b0af161",
+	  "sha1": "e056fb1a2b3f463a0199af8a20d35e496cfeb276"
+	},
+	"\/brkdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346871836",
+	  "size": "714",
+	  "md5": "acd5d16dd301898ffb53f452d3ec9bcf",
+	  "crc32": "725934ea",
+	  "sha1": "13dbfee1207eb2154231c4e8981b8ec5b907ae23"
+	},
+	"\/brkdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475198203",
+	  "size": "1502107",
+	  "md5": "58f2e46e7442bbe620fc125cd2caf479",
+	  "crc32": "eec98a77",
+	  "sha1": "ef7f77bf18313f517a741b86dfd0d9dc7414fc28",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3576.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346875682",
+	  "size": "121740",
+	  "md5": "fe9901cdb88425976ecea0df5d9a9109",
+	  "crc32": "214157dd",
+	  "sha1": "f1fe832725e7843f7e2b45bef6befb937898d2d7"
+	},
+	"\/resource_item_3576.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875683",
+	  "size": "273",
+	  "md5": "85323ba3cb2402f65cc59ab0c94b3445",
+	  "crc32": "939e6783",
+	  "sha1": "e4dba8a96b3295470cc0e09c143d4a758ccd8ea0"
+	},
+	"\/resource_item_3576_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3576.png",
+	  "mtime": "1346878631",
+	  "size": "6174",
+	  "md5": "b5a2b1fd51d38a5fba6e9cf4e2c1e57f",
+	  "crc32": "884a5004",
+	  "sha1": "173c0fd2e4914eed3d6e826272f9a0963e141f3d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475198170",
+	  "size": "123495",
+	  "md5": "4a9a7f9f04bacdc0cdb11d36734b6cf2",
+	  "crc32": "4bffe5ae",
+	  "sha1": "67b79a285118de2717b6f46330e29e708e179f04",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475198227",
+	  "size": "4378",
+	  "md5": "6478072d81f7a4dd0d9987eed9fece33",
+	  "crc32": "e3c6c559",
+	  "sha1": "1b16fd94073db1b3dd5c448f45fc5da683645a5e"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475198173",
+	  "size": "541950",
+	  "md5": "1e7b4148d18dcc64e440936f943d67fe",
+	  "crc32": "22b1049d",
+	  "sha1": "1c6fce91f1464c6c1dd6b40eaad506365538c1ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475198223",
+	  "size": "4748",
+	  "md5": "4ed4505ff9c06c994f671b3cbf06db54",
+	  "crc32": "cd21bba0",
+	  "sha1": "2c9d9e154b6d838b1e68554aceae223ab66ce73c"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475198176",
+	  "size": "541385",
+	  "md5": "f00b2a1ab550d76a10285aa8646b595c",
+	  "crc32": "e83a310b",
+	  "sha1": "a9700de1e971a4a8e900cebe5020d5f8c60dbc37",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475198224",
+	  "size": "4950",
+	  "md5": "c9e29a67bde680adb588090b7486055a",
+	  "crc32": "a68b0be4",
+	  "sha1": "4092e4c12d21197b582c1eb86c9362c0e4148a0f"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475198179",
+	  "size": "541027",
+	  "md5": "9b73352167e03c229936bdcfcebcf99f",
+	  "crc32": "fe755ea2",
+	  "sha1": "86f3e594660ab73695d0fc9eb67b6e67bdd02ac7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475198233",
+	  "size": "5020",
+	  "md5": "05da7ddd8f102616d80826d3895b8ded",
+	  "crc32": "ef16c84c",
+	  "sha1": "c634eca858fcacfd1a55092b0df327f59a340474"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475198182",
+	  "size": "541502",
+	  "md5": "c9fd6009c6348519c6310f68abbfd0bd",
+	  "crc32": "ed01868f",
+	  "sha1": "95673cb3f5c05a9a278d022b9deb121813dca440",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475198238",
+	  "size": "5392",
+	  "md5": "4bc84765c8f73d6618b36af6e05f97fa",
+	  "crc32": "0076aa06",
+	  "sha1": "520d630b1e7fd21023af1900a799f6d81f26d013"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475198188",
+	  "size": "539581",
+	  "md5": "a7660f94ab82f86a4ebbd9ca003d68eb",
+	  "crc32": "136d555e",
+	  "sha1": "2934534340cb6d5f983b804c955600d4de41e700",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475198239",
+	  "size": "5930",
+	  "md5": "0bc1cf172f0a6c8729ac57f183722bd5",
+	  "crc32": "865c6d76",
+	  "sha1": "08f3cf1f2ba6dbb0aa3e352596a4ed433db82819"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475198192",
+	  "size": "541413",
+	  "md5": "edadad670d6a947582ed9c5c6f6ba4c0",
+	  "crc32": "95e3194d",
+	  "sha1": "0c9e15a531e068baae0a8d58beedea5a563ebb61",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475198235",
+	  "size": "5146",
+	  "md5": "55a57b22e00772d4f8666a1d53b54af0",
+	  "crc32": "d62518ea",
+	  "sha1": "6a31969654a2b184148d0cfe257d6d59d7791c2b"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475198195",
+	  "size": "540573",
+	  "md5": "bfeaacd9672d6b61872fb5f03c275620",
+	  "crc32": "c79f0405",
+	  "sha1": "715fe58648967e78ab54a5cbf566f00178db6863",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475198236",
+	  "size": "5535",
+	  "md5": "00afdf7033f05a3a71dae432eebfcb98",
+	  "crc32": "af0338d1",
+	  "sha1": "ccfa5380de59eb1a5cdf25e966d172042561469b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/33\/items\/BreakThru94_1020\/BreakThru94_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 533,
+	"week": 9,
+	"month": 16
+  }
+}

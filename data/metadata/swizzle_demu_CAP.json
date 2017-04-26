@@ -1,0 +1,129 @@
+{
+  "server": "ia902302.us.archive.org",
+  "dir": "/18/items/swizzle_demu_CAP",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_CAP"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Capstone Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Combine top casino simulations in tournament format with modem and network play, and you've got one hot game. Casino Tournament of Champions is truly the next move in casino gaming.<div><br \/><\/div><div>This demo includes Blackjack.<\/div>"
+	],
+	"publisher": [
+	  "IntraCorp"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Casino Tournament of Champions Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-08-15 19:22:03"
+	],
+	"addeddate": [
+	  "2014-08-15 19:22:03"
+	],
+	"backup_location": [
+	  "ia905902_12"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/CAP.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476636405",
+	  "size": "2056025",
+	  "md5": "0525212f091daa01194febf41fddf8b7",
+	  "crc32": "260062a8",
+	  "sha1": "14e168071c2be94f6e4fe0da02ef425c4a092ad5"
+	},
+	"\/cap.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1408130518",
+	  "size": "16207",
+	  "md5": "33567e4f7d2bf06167bbf17ffdac710c",
+	  "crc32": "8a03939e",
+	  "sha1": "afe331adba16b34b8107b2be828dfaf09f92e831"
+	},
+	"\/cap_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "cap.png",
+	  "mtime": "1408130551",
+	  "size": "7461",
+	  "md5": "47f706b7a8f7bd741c46a8e10daec5cf",
+	  "crc32": "06cf2fd9",
+	  "sha1": "711f205151325759bb52e859d63728eab33936e9"
+	},
+	"\/swizzle_demu_CAP_archive.torrent": {
+	  "source": "original",
+	  "btih": "358cb544924c239ebeadcdf7432d09fd6d825097",
+	  "mtime": "1476636484",
+	  "size": "2064",
+	  "md5": "356ad117b9606aadae56b659e6f461ed",
+	  "crc32": "17c86be1",
+	  "sha1": "7a903c273fa98dd3d9e63bc525f3d5f8b2272e11",
+	  "format": "Archive BitTorrent"
+	},
+	"\/swizzle_demu_CAP_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "00a52b3132109340a8a1fa884b6cf001"
+	},
+	"\/swizzle_demu_CAP_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1408130542",
+	  "size": "12288",
+	  "md5": "a113b9d97fd534226560967a2f3cdc8e",
+	  "crc32": "78ff78ad",
+	  "sha1": "d614752a0a712566a0793a6bb2302b38579e1ab8"
+	},
+	"\/swizzle_demu_CAP_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476636483",
+	  "size": "1064",
+	  "md5": "f2a6eb7aba89676e5adfe506c4acbbfb",
+	  "crc32": "cc99f031",
+	  "sha1": "286aa5f4401d24f99ad4692b8e47b465301f740c"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia902302.us.archive.org\/18\/items\/swizzle_demu_CAP\/cap_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 61,
+	"week": 3,
+	"month": 5
+  }
+}

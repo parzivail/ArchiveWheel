@@ -1,0 +1,397 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/15/items/TheAdventures_812",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "The Adventures"
+	],
+	"description": [
+	  "I remember when I was a little kid at the age of 7. Back then I used to think that the games we played on the computer was great, but they could be better. When I started programming in Qbasic my goal was to create my own platform game - like Sonic the Hedgehog or Super Mario. The Adventurers is made to prove that you don't need a language like C++ to make a quality game. QuickBasic can still do more than many think.\n\nOur goal were to create the best game ever made in QuickBasic. Well the game still doesn't have music, but we think there are plenty of fun and excitement in the game. A lot of people see Wetspot II as being the greatest - but when I saw ECG's Spinball, I knew QB had potentials. That's why I consider that game as being the greatest. Now in 1999 the standard has moved from Stick fighter to the fantastic 3D fighter SFB2. Wetspot II may still be the greatest Maze game ever - but not the best all-around game!\n\nAmong other platform games there is 'Peanut Patrol'. This game features a nice idea, but the combination of slow graphics together with poor gameplay makes it something that I wouldn't play. Then my favourite JumP. That game really shows potential, but the gameplay could have been done better. The gameplay in The Adventures has been improved since the demo release, I think it's the best yet.\n\nAll the levels in the game was made using 'The Level Creator'. To get this tool, go to our web site. But remember, don't publish your levels as being the official ones. You may not publish the whole game either.\n\nAnd remember. We could have chosen not to publish the source code. We believe that you will not steal ANY of it."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "TMB Production"
+	],
+	"identifier": [
+	  "TheAdventures_812"
+	],
+	"addeddate": [
+	  "2012-09-16 22:23:46"
+	],
+	"publicdate": [
+	  "2012-09-16 22:24:02"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"license": [
+	  "freeware"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_22"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "THEADVEN.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475542588",
+	  "size": "190471",
+	  "md5": "09b55f81ccdbf5da6822f90cfbd9e612",
+	  "crc32": "d1fd3d2c",
+	  "sha1": "a52f0dcd8d346ed7f5f30e92d1808650dcff31ad",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475542662",
+	  "size": "2229",
+	  "md5": "b9625e739693aed9c7e91a69adf189f7",
+	  "crc32": "1beed87a",
+	  "sha1": "f6cb5b5d0c1e9baf7fbd2a924ffa31c9a5488129"
+	},
+	"\/Adventures.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1347834118",
+	  "size": "6402",
+	  "md5": "4d7ad31bac5106f2005d2b043cd85c97",
+	  "crc32": "93a50f6f",
+	  "sha1": "b106acf68211b76f9e1ff28f0a04c63cbfee572f"
+	},
+	"\/Adventures.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1347834119",
+	  "size": "535491",
+	  "md5": "16b9b9ed082f6573f59e4f6e0c6abf4b",
+	  "crc32": "5b361578",
+	  "sha1": "e6c0feb7f65b338be64aa9fc0fad06d0a9e3a6a1"
+	},
+	"\/Adventures_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475542633",
+	  "size": "284385",
+	  "md5": "44c2503bb72e124adbbdf1460c5755f5",
+	  "crc32": "7dcccdcc",
+	  "sha1": "9ac4104f7dd40ba7775a8a3ecd394e570c63db73",
+	  "format": "Emulator Screenshot"
+	},
+	"\/TheAdventures_812.gif": {
+	  "source": "original",
+	  "mtime": "1475542628",
+	  "size": "51946",
+	  "md5": "3929d1e6c2bea336b96cd6fef7ca979f",
+	  "crc32": "dcfa1b83",
+	  "sha1": "eebc8cffa0f4154123e3488a47ee4e4847b5c0ec",
+	  "format": "Animated GIF"
+	},
+	"\/TheAdventures_812_archive.torrent": {
+	  "source": "original",
+	  "btih": "a9774c8f275d98d29820019749551a4ef892fff0",
+	  "mtime": "1475542675",
+	  "size": "6822",
+	  "md5": "36eac9e4b9793f0c76a96ccbdea09fc7",
+	  "crc32": "0371c8e5",
+	  "sha1": "3c575a8033e72cbcdb43656c7af679dbeda1b73f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheAdventures_812_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7b636ad5c6aafd614d4db18b5e89bcbb"
+	},
+	"\/TheAdventures_812_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475542640",
+	  "size": "14336",
+	  "md5": "83d095e5314ed8c1c14b21f790d8e883",
+	  "crc32": "e3a3b2ae",
+	  "sha1": "5039b01d5e132e04d2e728bd466a1d32494f61c7",
+	  "format": "Metadata"
+	},
+	"\/TheAdventures_812_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474385191",
+	  "size": "2515",
+	  "md5": "0c4128eccf8ddcf0be987d862401a4ab",
+	  "crc32": "a42220f8",
+	  "sha1": "622d082c622c34e33a9596b304447bd7df90836d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475542590",
+	  "size": "39668",
+	  "md5": "69e2d4572348d0acc522832ce6794c5a",
+	  "crc32": "23ddc1d1",
+	  "sha1": "7cb155574afda174f8504fe95e01f0de4cb48f7f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475542657",
+	  "size": "2592",
+	  "md5": "0ee1e282b2afa03cf6906438ec594aa1",
+	  "crc32": "dc245cb2",
+	  "sha1": "2282df12390c11262212fa06a81a790d4db9524b"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475542592",
+	  "size": "82041",
+	  "md5": "66cf2cfb147b9ef4b0da6a87b449d505",
+	  "crc32": "283f1323",
+	  "sha1": "969b2a27481ffff02d227c638cbac56d55e9d756",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475542663",
+	  "size": "3400",
+	  "md5": "36a8678494fdc216956c63d8848a79de",
+	  "crc32": "b3a4ba51",
+	  "sha1": "18b51f71b020be5c98731e8bab143d36c0a9ee5c"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475542597",
+	  "size": "81524",
+	  "md5": "28569531cc31a25ea18253bb1315b5dc",
+	  "crc32": "d00d113d",
+	  "sha1": "3383fe97b0f5ae8df905330b70e705871674357f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475542656",
+	  "size": "3391",
+	  "md5": "ffe2fa002c71ed37bb0349ab448ad691",
+	  "crc32": "fa5d326a",
+	  "sha1": "a4aa36190d6b03b2fa7e313f2786efc5e22592ea"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475542600",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475542659",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475542602",
+	  "size": "137843",
+	  "md5": "1b3266dd21d058ae1555efe4780040d7",
+	  "crc32": "8b3faf95",
+	  "sha1": "c238621b5723f5a6ca97c33aedf6285e6cf43334",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475542660",
+	  "size": "1863",
+	  "md5": "a012b9b8aadf84cbcd92c7fbaa365a00",
+	  "crc32": "38f9b365",
+	  "sha1": "1d716e57155c6cda0064832b7fbe00f84f9e3591"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475542604",
+	  "size": "190471",
+	  "md5": "09b55f81ccdbf5da6822f90cfbd9e612",
+	  "crc32": "d1fd3d2c",
+	  "sha1": "a52f0dcd8d346ed7f5f30e92d1808650dcff31ad",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475542664",
+	  "size": "2229",
+	  "md5": "b9625e739693aed9c7e91a69adf189f7",
+	  "crc32": "1beed87a",
+	  "sha1": "f6cb5b5d0c1e9baf7fbd2a924ffa31c9a5488129"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475542609",
+	  "size": "167209",
+	  "md5": "c92c6b50f73e89688a1dbfcc3a4cea03",
+	  "crc32": "866ace63",
+	  "sha1": "b503403671f07c4a1392c512c4cfe921606146f3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475542672",
+	  "size": "2042",
+	  "md5": "6bd4525213ebcd2af7b12b96a3d96ba7",
+	  "crc32": "7b6a9414",
+	  "sha1": "b217b086e2c2d5c14ad937c8c44b42252855f1d0"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475542612",
+	  "size": "46393",
+	  "md5": "948ced637089bb2ead6fa8bc200abf14",
+	  "crc32": "1564f5a9",
+	  "sha1": "a03dec2c3c6b99d26f4fea6a6088f56ccefc441e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475542667",
+	  "size": "3048",
+	  "md5": "82f13b661ad661b7f009f8776115e60a",
+	  "crc32": "5bef654e",
+	  "sha1": "a6b215a26cbbac5b710005c7b8dac198a48f6658"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475542614",
+	  "size": "61929",
+	  "md5": "ced4ca05050e667ca969c8db63124a76",
+	  "crc32": "80db5645",
+	  "sha1": "bf4aba7bb56f2117597afb24d59f7ac11cf62cc1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475542673",
+	  "size": "3814",
+	  "md5": "36e818d0662be2783c0a37d598b51057",
+	  "crc32": "5873e2c0",
+	  "sha1": "d9487e66cb1ebbfaaaaea23692f10491df4dd680"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475542617",
+	  "size": "60622",
+	  "md5": "80587e1945d89b427f38994cec32a655",
+	  "crc32": "83a518c9",
+	  "sha1": "475cb669c0a4d2558e7d5408802b2c2e10a4f6d5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475542666",
+	  "size": "3792",
+	  "md5": "1e547ff19a8bd7fc54304dc9be7c4434",
+	  "crc32": "309f1a3e",
+	  "sha1": "2b97a18d9f7f071de6a5149445f298ba6caf6bba"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475542623",
+	  "size": "86534",
+	  "md5": "3c4857758d019cca1daf9d46c41740b6",
+	  "crc32": "6e50ae98",
+	  "sha1": "24f549c92736075b9b82f60b5a8102ae7a2a784d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475542669",
+	  "size": "4483",
+	  "md5": "8ac85c603c310f8c16bfd52fb36b1bdb",
+	  "crc32": "047e1c44",
+	  "sha1": "b05cbf19b5c703063fe4a3fd1be1ef671f3d412e"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475542625",
+	  "size": "117691",
+	  "md5": "0e6d1492509dc4199bcee97868a6d261",
+	  "crc32": "abfa6960",
+	  "sha1": "df3ab2c7e375938e6545aeadc974a45b3da2e5ec",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475542671",
+	  "size": "5399",
+	  "md5": "a7b3aca9490ada000e4fb7591920045c",
+	  "crc32": "afe048e2",
+	  "sha1": "c7e3e021092133a0359fde3e1c4d6d937618ece7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/15\/items\/TheAdventures_812\/TheAdventures_812.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 157,
+	"week": 2,
+	"month": 4
+  }
+}

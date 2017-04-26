@@ -1,0 +1,209 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/8/items/Actions123_1020",
+  "metadata": {
+	"identifier": [
+	  "Actions123_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Vantage Software Company"
+	],
+	"date": [
+	  "1992"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Actions 123"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-04 21:59:44"
+	],
+	"addeddate": [
+	  "2012-09-04 21:59:44"
+	],
+	"description": [
+	  "\"Actions 123 is a children's educational program running under Microsoft Windows 3.0 and 3.1.  It is designed for children from 2 to 6.  This program teaches children about numbers, counting, addition, and subtraction using animated animals.\n\nActions 123 uses four scenarios and eight animals to create the animation. Each scenery is accompanied by a different music.  These scenarios and animals alternate to create more variety in learning.\n\nThis demo version of Action 123 only offers the number display selection. The fully functional program with four different selections  - number display, counting, addition, and subtraction is available in the registered version of ACTION 123.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "d:\\runapp act123.exe"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475159026",
+	  "size": "129389",
+	  "md5": "5e9f5eaecefbebf718d3e733f1155ac4",
+	  "crc32": "54b7f412",
+	  "sha1": "4f072e9cc4dc818c9023c2cb6eb0764c4d9248ec",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475159050",
+	  "size": "5840",
+	  "md5": "541dd7629470548d61b20f4b3f712179",
+	  "crc32": "448650b9",
+	  "sha1": "bde183f8a87513d429ae8d37ccdcc79362429a34"
+	},
+	"\/ACT123_A.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346795990",
+	  "size": "691",
+	  "md5": "f90b483f4e4b2eb6aeb99016796a05ea",
+	  "crc32": "990f43ea",
+	  "sha1": "2c82bf5aeac90f2d9ffd2cc9082532d9fe9795d6"
+	},
+	"\/ACT123_A.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471127695",
+	  "size": "108551",
+	  "md5": "5c690484002c139147cea7d6c49a9193",
+	  "crc32": "360bd368",
+	  "sha1": "4ccb37531ecd2268eec0ac8099a827962b7b27bb"
+	},
+	"\/ACT123_A_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475159038",
+	  "size": "53175",
+	  "md5": "4c0c0c2963850ce513d59c21cdb0c95f",
+	  "crc32": "60e116c5",
+	  "sha1": "26dcb275275b9a3b95599eef48c5fa0bb4191dd3",
+	  "format": "Emulator Screenshot"
+	},
+	"\/Actions123_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475159034",
+	  "size": "12738",
+	  "md5": "dd7f995756ec36b06f2a20fd5ea84d65",
+	  "crc32": "e7b1ff80",
+	  "sha1": "ce95ec56269327454cf0e1938d7ad4eda002f603",
+	  "format": "Animated GIF"
+	},
+	"\/Actions123_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "906cadfa0bb00c67d115cb3676492406e7af3668",
+	  "mtime": "1475159053",
+	  "size": "3084",
+	  "md5": "0466913f68c6f8f257b87488c537c995",
+	  "crc32": "ff77bc00",
+	  "sha1": "9811b1181f9dfbd6c15eff782f594936a77d8dd0",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Actions123_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2b7c6719d11b2f8b6dd62234e5af3a90"
+	},
+	"\/Actions123_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475159041",
+	  "size": "8192",
+	  "md5": "568cf912f00a9e4a37a6215dd134176e",
+	  "crc32": "4c00d139",
+	  "sha1": "f79bc667a26d844e5fa30dcba934eb93640b74e7",
+	  "format": "Metadata"
+	},
+	"\/Actions123_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471127744",
+	  "size": "1630",
+	  "md5": "570e07a5dba18e6b5bc73d11ff01be5f",
+	  "crc32": "d371aab7",
+	  "sha1": "5843c9a697c7154b74a63e1112aaf10242c6cfe5"
+	},
+	"\/resource_item_2626.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346798216",
+	  "size": "21740",
+	  "md5": "d16243184b015f93493db81e95610bad",
+	  "crc32": "8b30c5ea",
+	  "sha1": "c25dba2652ecf03dbb85eab451a41c1a913dd262",
+	  "rotation": "0"
+	},
+	"\/resource_item_2626.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346798216",
+	  "size": "272",
+	  "md5": "460069f8b9022c6bf2a5382115e1a977",
+	  "crc32": "0311bc93",
+	  "sha1": "6f9fcc9feb2e471069dfbf94b578abf4a287809f"
+	},
+	"\/resource_item_2626_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2626.jpg",
+	  "mtime": "1346819856",
+	  "size": "7211",
+	  "md5": "0813746a0d97218468b19fe511cb53be",
+	  "crc32": "d86e5c2a",
+	  "sha1": "0f2638389d4714e7c7561474eff63afa1678418e"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475159030",
+	  "size": "129389",
+	  "md5": "5e9f5eaecefbebf718d3e733f1155ac4",
+	  "crc32": "54b7f412",
+	  "sha1": "4f072e9cc4dc818c9023c2cb6eb0764c4d9248ec",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475159051",
+	  "size": "5840",
+	  "md5": "541dd7629470548d61b20f4b3f712179",
+	  "crc32": "448650b9",
+	  "sha1": "bde183f8a87513d429ae8d37ccdcc79362429a34"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/8\/items\/Actions123_1020\/Actions123_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 163,
+	"week": 3,
+	"month": 3
+  }
+}

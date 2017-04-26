@@ -1,0 +1,139 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/4/items/Creation_1020",
+  "metadata": {
+	"identifier": [
+	  "Creation_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bullfrog Productions"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Join the biggest environmental project ever undertaken by human kind.  Control the oceans of a distant moon - the last refuge of marine life.  One human caretaker and a displaced aquatic population stand between the future and extinction."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Creation Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 07:29:05"
+	],
+	"addeddate": [
+	  "2012-09-04 07:29:05"
+	],
+	"year": [
+	  "1995"
+	],
+	"notes": [
+	  "This game was canceled by Bullfrog and never released."
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "CRE8CD\/CRE8DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/CRE8CD.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346743935",
+	  "size": "18211921",
+	  "md5": "37b42239d26d904842179998bd0473c2",
+	  "crc32": "6a376127",
+	  "sha1": "edb84317d832b0cb412fe2dceda0247d5bd12eb7"
+	},
+	"\/CRE8CD.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743935",
+	  "size": "888",
+	  "md5": "4bc5bc8ebd1a5046eb4e9723f455db02",
+	  "crc32": "c4dd26ff",
+	  "sha1": "a4b5f0352d1648ee158fcd87bf42aa7ee3abc63f"
+	},
+	"\/Creation_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "88ce3206ffa3b2fc52655a90529f0eab4436860c",
+	  "mtime": "1476403071",
+	  "size": "2513",
+	  "md5": "6486238871278586fc83b8dfc6d1434b",
+	  "crc32": "85aa3eff",
+	  "sha1": "7a79fa7fedc190e5959b7f6699c3f450b1c5a283",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Creation_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5a8c0343f741c34a4d356666367d8d07"
+	},
+	"\/Creation_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476403071",
+	  "size": "1151",
+	  "md5": "af379ca8d8d2fc88ad2e7a04b3ae5898",
+	  "crc32": "89cf80c4",
+	  "sha1": "c5af1687a5414f87ac1d863d1f01c4f72e0427db"
+	},
+	"\/resource_item_1882.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346743937",
+	  "size": "11178",
+	  "md5": "d6583369e1906ba7f3f421af59ac8ad5",
+	  "crc32": "25b23806",
+	  "sha1": "a628f31b398af829add878b8005e0fd239e080f2",
+	  "rotation": "0"
+	},
+	"\/resource_item_1882.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346743937",
+	  "size": "272",
+	  "md5": "ca4fe1c8886e52b85a2a7eb6bc742cc7",
+	  "crc32": "aeb3687b",
+	  "sha1": "bccfd2c2341baf97059a20a6496fc98d07971517"
+	},
+	"\/resource_item_1882_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1882.jpg",
+	  "mtime": "1346744760",
+	  "size": "3814",
+	  "md5": "4e47421562d6c1ba31ce30b998172294",
+	  "crc32": "f7da33f4",
+	  "sha1": "e8858caf785143c4894ebe94686f1244a020cbf1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/4\/items\/Creation_1020\/resource_item_1882_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 549,
+	"week": 3,
+	"month": 6
+  }
+}

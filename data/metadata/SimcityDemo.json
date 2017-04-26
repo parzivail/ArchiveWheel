@@ -1,0 +1,565 @@
+{
+  "server": "ia600808.us.archive.org",
+  "dir": "/24/items/SimcityDemo",
+  "metadata": {
+	"identifier": [
+	  "SimcityDemo"
+	],
+	"title": [
+	  "SimCity Demo"
+	],
+	"creator": [
+	  "Maxis Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Design and Build the City of Your Dreams Fight crime, unemployment and pollution. Control budgets, transit and population. Create industry, shopping centers, parks, stadiums, seaports and airports. Pre-built cities include: Tokyo, San Francisco, Bern, Hamburg, Rio De Janeiro, Detroit and Boston. Confront disasters, floods, earthquakes, fires, tornadoes, meltdowns and monsters. Real-time graphics and demographic mapping keep you constantly informed. SimCity includes maps of famous cities on disk, open to your design. It's up to you to save the population, or engineer it's destruction. SimCity is Alive! SimCity is a model that works, but no toy train set ever looked this good! Lay roads and traffic moves. Supply electricity and smokestacks churns. A SYSTEM SIMULATION FROM MAXIS."
+	],
+	"date": [
+	  "1989"
+	],
+	"year": [
+	  "1989"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:20:21"
+	],
+	"addeddate": [
+	  "2012-02-23 02:19:55"
+	],
+	"publisher": [
+	  "Broderbund Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:20:46"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232018[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "SIMDEMO.EXE"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444847290",
+	  "size": "392301",
+	  "md5": "97a30ad0118bfdcfe92222f3533bdff7",
+	  "crc32": "db58aa7d",
+	  "sha1": "c8c3ac9bd09b7468e359713c5e1c31ab4d7f4080",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444847366",
+	  "size": "5004",
+	  "md5": "c58f763efbd2c8b21b0433c9ada91abf",
+	  "crc32": "5231b83f",
+	  "sha1": "85d329fb636fb433f442987d0b1225fd0587659a"
+	},
+	"\/SIMCITY.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432836943",
+	  "size": "351842",
+	  "md5": "11cdbc870b1f1c7e96a3c922c0b6407e",
+	  "crc32": "56d354bc",
+	  "sha1": "d44eaa28ea4f4330ba6dcd2b91c840a8e382d4cb"
+	},
+	"\/SimcityDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444847341",
+	  "size": "53364",
+	  "md5": "adb38c0c638d51320304de6c494d4133",
+	  "crc32": "6939a214",
+	  "sha1": "2e2b2d12fe9a6826eb4a2c6348731a65e5daf649",
+	  "format": "Animated GIF"
+	},
+	"\/SimcityDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "12665c26cc610fdad20cafbf6517160e4cc7eac0",
+	  "mtime": "1465076600",
+	  "size": "9819",
+	  "md5": "8035d8ce53d44948e7ea58327f684d2b",
+	  "crc32": "c8cbe40f",
+	  "sha1": "5090b224387537bfb71230e0af7e06f54407451e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SimcityDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3ba12b3f3325bfe1304f1ad44ee50cbf"
+	},
+	"\/SimcityDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444847358",
+	  "size": "18432",
+	  "format": "Metadata",
+	  "md5": "e7d1a8f54053207b8c103453e66a6c23",
+	  "crc32": "75720cb4",
+	  "sha1": "1fd69b13730f53ff2ea95e85fbe7a71180d6cf65"
+	},
+	"\/SimcityDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465076599",
+	  "size": "1718",
+	  "md5": "d75e980cb0628aa8305a2d18b245d30f",
+	  "crc32": "28597943",
+	  "sha1": "ba6c6768d95bb503c882623500924ac192542f22"
+	},
+	"\/SimcityScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "SimCity Screenshot",
+	  "mtime": "1329963556",
+	  "size": "17850",
+	  "md5": "6e22e0ced6bc6bc7a2870640d77a4eed",
+	  "crc32": "fa75788a",
+	  "sha1": "3ff74a90591044ac81c9d5fcbb88cc0e0560466d",
+	  "rotation": "0"
+	},
+	"\/SimcityScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "SimcityScreenshot.jpg",
+	  "mtime": "1329963613",
+	  "size": "5057",
+	  "md5": "77866bd9eb23d1ab9f7ef12e92a6b067",
+	  "crc32": "7be4767b",
+	  "sha1": "1b2ec365278445dadfa0a9ae1184e37f72fcb458"
+	},
+	"\/citydemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329963555",
+	  "size": "580952",
+	  "md5": "9ce6f11b2129e7604b12bdb6afa84df1",
+	  "crc32": "6d6209c1",
+	  "sha1": "1b8bd90cabb66ec3b13ed0c877bcf977b8fbf3b9",
+	  "title": "SimCity Demo"
+	},
+	"\/citydemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444847353",
+	  "size": "1035416",
+	  "md5": "444044fcb78ed045250a24650662e852",
+	  "crc32": "48e9d9a2",
+	  "sha1": "407789065ed5969436574f1d58058df4d1c7dc65",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444847293",
+	  "size": "259530",
+	  "md5": "4cc6247a5fa4b3100581f063fcefbc62",
+	  "crc32": "b0b277c1",
+	  "sha1": "75dfded81b5ab1866289e10dc79dab7c4da9093b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444847362",
+	  "size": "3548",
+	  "md5": "67d77b0d816ed1e76b1d0609d393bfec",
+	  "crc32": "e2e2d976",
+	  "sha1": "d71c1a6b0e747c74cb9105ae26724bc5da26e638"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444847295",
+	  "size": "259828",
+	  "md5": "cd30b3923c9c007b50ec995294a339a7",
+	  "crc32": "78d203fa",
+	  "sha1": "d0d6bbb057566c1244652aab5f6143590b49157a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444847363",
+	  "size": "3558",
+	  "md5": "569427bb29776ea506895c9daaf757c6",
+	  "crc32": "01f7f532",
+	  "sha1": "6c9f0de0985e3cfffc8a3036bf70459c85be6359"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444847298",
+	  "size": "300981",
+	  "md5": "02aa201e5f5192cb4df1591bac73c13e",
+	  "crc32": "22c48883",
+	  "sha1": "a610ada9368bbc2978952e9c5770ad4878b5c683",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444847364",
+	  "size": "3155",
+	  "md5": "02c2c5d264130bad8a11abc2c5f145b6",
+	  "crc32": "90ad61f7",
+	  "sha1": "b490bd3b99f02dd6292fb5eea60684a5d815230a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444847300",
+	  "size": "347078",
+	  "md5": "3c2e3f7e0777b3342973905dd8969d16",
+	  "crc32": "491485e5",
+	  "sha1": "3a133d6a3f73b990753313ee3e85aca24f6ac76e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444847361",
+	  "size": "4472",
+	  "md5": "b9516f754a30c51830ef14c0756a6078",
+	  "crc32": "40549801",
+	  "sha1": "9bd15925ea07e55308968c9c887a50ed725c9362"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444847302",
+	  "size": "347163",
+	  "md5": "e1a4cf0f7c9d84d0c5a87058e4c045fd",
+	  "crc32": "19240581",
+	  "sha1": "a8a7ac72e50372d49c2c80294f8d532bd08c457b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444847365",
+	  "size": "4480",
+	  "md5": "b6e89769ae37bc577c17d218a52d0733",
+	  "crc32": "461fe648",
+	  "sha1": "07a857f1944d6bde575b0594372147df78a6c976"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444847305",
+	  "size": "347929",
+	  "md5": "8ebeed6c263d9118bc71a87bfcaef5e8",
+	  "crc32": "4eab1396",
+	  "sha1": "9034a3db24921d798a4a2caabcaf4db42913c441",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444847367",
+	  "size": "4494",
+	  "md5": "5fc1d03cd99da5a24c5495a51cfc0727",
+	  "crc32": "db011715",
+	  "sha1": "2270cbfa2b2382acfccf54aa5361523c655b294f"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444847307",
+	  "size": "347628",
+	  "md5": "c71bc5ba5311f6c0309d6eae079e14db",
+	  "crc32": "76e4a2ea",
+	  "sha1": "364615d62ae358e34728e4d26027a7954b8ae3b3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444847368",
+	  "size": "4491",
+	  "md5": "a28aa4d6acb1319523cb2fae2e8a98e3",
+	  "crc32": "a462268f",
+	  "sha1": "abfc9659c91b093dce984efeaf3d895cd624f65c"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444847309",
+	  "size": "347692",
+	  "md5": "4394b6fabaa739b9bf40d0e542da130e",
+	  "crc32": "c5292240",
+	  "sha1": "74906f0ed19eb3d5a71a47e9be281d4943ef1762",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444847365",
+	  "size": "4505",
+	  "md5": "16677434e312038a7dbecfefb71d7ab3",
+	  "crc32": "ab3a3013",
+	  "sha1": "00f9e9626800e279a11198ba7b59346e29a6eaab"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444847312",
+	  "size": "359904",
+	  "md5": "23cd238424ebe74f18ce1eabea48383b",
+	  "crc32": "056e62cf",
+	  "sha1": "575231aa9a6aa111ef73b0c3b75570e214a9f464",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444847369",
+	  "size": "4442",
+	  "md5": "3a1c8fe86d2285d9c5620711cb60f636",
+	  "crc32": "4bcdd3e8",
+	  "sha1": "c4dee8fa460fa28c1a8aaf8a7426b8449262c257"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444847314",
+	  "size": "343827",
+	  "md5": "b6e4b4e08fbb26879b1e3ef3753de052",
+	  "crc32": "c7a70217",
+	  "sha1": "4d6040c769cf4c5b45c91fc8d2b946cf74cdb853",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444847370",
+	  "size": "4466",
+	  "md5": "9224a5029025cd2053243bd0d8c96be0",
+	  "crc32": "72a8aaeb",
+	  "sha1": "2556e48c3a5a60803e88c4476bd0816fa3c536db"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1444847316",
+	  "size": "342333",
+	  "md5": "cc962b509b855c39aded6b4e20d81f04",
+	  "crc32": "8babaf23",
+	  "sha1": "5dbcf529d728c480b0bc39040dadc9ba4c311222",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1444847371",
+	  "size": "4491",
+	  "md5": "fca1fe332bfc98556ea9f42e94dfd50c",
+	  "crc32": "ae3d894e",
+	  "sha1": "09a2c764d30e3542dcc8500d8f2f4a5063df3777"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1444847319",
+	  "size": "372109",
+	  "md5": "663359c315e313c48606dec1b7097e36",
+	  "crc32": "d976a9d5",
+	  "sha1": "2ffe1ce92f31aef8052a7e1db8c4310f79db94ec",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1444847372",
+	  "size": "4849",
+	  "md5": "8357bdf46626cbdaad9e35ced6dfee3a",
+	  "crc32": "fe34b830",
+	  "sha1": "5b82c9a166860039900e0248088ce1915ad6ea81"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1444847321",
+	  "size": "382239",
+	  "md5": "3782ebb81e7b93bc5c55f83f54450de7",
+	  "crc32": "cbe3a889",
+	  "sha1": "2ce4160ba482145a3380388ec6b2ceafeed1aaca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1444847373",
+	  "size": "4865",
+	  "md5": "4c768c4dbf51be416e79c40246244203",
+	  "crc32": "1aebfa55",
+	  "sha1": "f7aa1f1cca3c88d12014bb6d178ac1697fb195b7"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1444847324",
+	  "size": "383988",
+	  "md5": "75ea92c3fddd28da2426495517b4761b",
+	  "crc32": "baed27bc",
+	  "sha1": "8bfc8524f96397494a6618f76143fc5c5f7ed1f3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1444847378",
+	  "size": "4822",
+	  "md5": "a55c493c0adc7222b5eb5b95e1f594cd",
+	  "crc32": "3ea81fef",
+	  "sha1": "2dfe8620f5940ffb61408737e3ac579c9c579a76"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1444847326",
+	  "size": "391951",
+	  "md5": "2d1cdb5c8574dce0b615bbcf8795c9e1",
+	  "crc32": "9e5512aa",
+	  "sha1": "22948ff05b313a63dc2f3d9c6a1c2a59f3c781fa",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1444847374",
+	  "size": "5000",
+	  "md5": "41b1a021fbcc0b30e466f675cf6823eb",
+	  "crc32": "11ba9e35",
+	  "sha1": "3eef55e631dc549dbe651bd740b0740dd6e50f7c"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1444847328",
+	  "size": "392223",
+	  "md5": "600b44b0a09a1ad42cfddf7f7ffbb70c",
+	  "crc32": "12e73f8b",
+	  "sha1": "38d7f8710afe157b3e2f7efe0b9b1cdec2d03d3f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1444847375",
+	  "size": "5010",
+	  "md5": "16d90e31e0ad8de4d75d6dddd4929ed0",
+	  "crc32": "7797adf4",
+	  "sha1": "3a1ac9646f500a4eedf0725fa288a9bca21aa646"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1444847331",
+	  "size": "392301",
+	  "md5": "97a30ad0118bfdcfe92222f3533bdff7",
+	  "crc32": "db58aa7d",
+	  "sha1": "c8c3ac9bd09b7468e359713c5e1c31ab4d7f4080",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1444847376",
+	  "size": "5004",
+	  "md5": "c58f763efbd2c8b21b0433c9ada91abf",
+	  "crc32": "5231b83f",
+	  "sha1": "85d329fb636fb433f442987d0b1225fd0587659a"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1444847333",
+	  "size": "392297",
+	  "md5": "39d2688ecc7ede6606d5605d76b82446",
+	  "crc32": "477ccf74",
+	  "sha1": "6c4229ed95af27020ce286876eff01fa288ba82b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1444847377",
+	  "size": "5026",
+	  "md5": "5ecad2736777c8696d2e5423739eb80b",
+	  "crc32": "04b1e8fc",
+	  "sha1": "9c6b31683ab03e38b0b1f5f05268cea12befbc6e"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1444847337",
+	  "size": "391204",
+	  "md5": "c51c5676207e1af4df4d876ae27b2ead",
+	  "crc32": "840c03ce",
+	  "sha1": "b04f3c9615f8c1649bdf97aec8827f697909a9ed",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1444847377",
+	  "size": "5015",
+	  "md5": "dd50c877fe60f6c1b692c523e47da7a4",
+	  "crc32": "d2c388b6",
+	  "sha1": "dda078bdad94c5fea3d54db2e3818411fbce7e92"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600808.us.archive.org\/24\/items\/SimcityDemo\/SimcityDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1619,
+	"week": 8,
+	"month": 22
+  }
+}

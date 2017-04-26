@@ -1,0 +1,246 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/20/items/Detroit_1020",
+  "metadata": {
+	"identifier": [
+	  "Detroit_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Impressions Games"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "This Detroit demo contains everything in the real game except some animations & fading effects. The game will end after 5 years. Also see the note regarding modem play."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Detroit Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:03:24"
+	],
+	"addeddate": [
+	  "2012-09-04 04:03:24"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "det\/DETROIT.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475237590",
+	  "size": "348930",
+	  "md5": "ebe68b9c2b7543c150c693cef43aa578",
+	  "crc32": "203e369a",
+	  "sha1": "439f46f8dfc17a66d850869e2d94088cfe8eb266",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475237832",
+	  "size": "5659",
+	  "md5": "434c608dfbefab355f11afa2bfe5fdef",
+	  "crc32": "dacab857",
+	  "sha1": "f3f77e5f6c1b2c97a2e4a01f951fc69b6b5f8797"
+	},
+	"\/Detroit_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475237604",
+	  "size": "111504",
+	  "md5": "4eda3166e7553c1489e7dab930bcc8f4",
+	  "crc32": "96d693f6",
+	  "sha1": "8fc05adb803530f8fa2756b1bb05c9c369179312",
+	  "format": "Animated GIF"
+	},
+	"\/Detroit_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "144ed1c38afc91560f5aa3b42e77857588fffb04",
+	  "mtime": "1475237858",
+	  "size": "3831",
+	  "md5": "770c59f09fcea8f18e09e6dcac0dd04f",
+	  "crc32": "0236db61",
+	  "sha1": "7e2dbdc431344a880693fd828c65c4b1d9000e21",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Detroit_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "96c5bcaab6335476ab8999921c39b55f"
+	},
+	"\/Detroit_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475237788",
+	  "size": "9216",
+	  "md5": "9428fcdf94309f44bc56c5cbbabdf626",
+	  "crc32": "f8f261ba",
+	  "sha1": "8f667b50cfc28b3b93076f489e718676f1e70aa0",
+	  "format": "Metadata"
+	},
+	"\/Detroit_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475237857",
+	  "size": "1042",
+	  "md5": "49ba7e0a1c599701160ce3d381e0bf5a",
+	  "crc32": "7345fec5",
+	  "sha1": "54b0cb7a6332dd3bbabc460673cf4b04bea1fbec"
+	},
+	"\/detroit.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471799159",
+	  "size": "1362775",
+	  "md5": "67a6a5b960cceb8e7df61fdea94a9942",
+	  "crc32": "6d0ec911",
+	  "sha1": "1c97e620ff5b697b608c1611f6b01684e7216e36"
+	},
+	"\/detroit.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731416",
+	  "size": "852",
+	  "md5": "597b880d62ec7fcaea11c6d1d7e3a149",
+	  "crc32": "1e1879dd",
+	  "sha1": "05ee986687fc83e05d1de23c52039cbc552e8716"
+	},
+	"\/detroit_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475237609",
+	  "size": "251359",
+	  "md5": "1724104ca0b95f82f3460bc39e86da29",
+	  "crc32": "282f540b",
+	  "sha1": "7e1ae15830b45562b62035f6708ddc85d61933a7",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1503.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731419",
+	  "size": "15179",
+	  "md5": "10c84c1880721fffb7e82bdf89e23097",
+	  "crc32": "f30007e7",
+	  "sha1": "73c79bf53d2fc5c9de9e549539b6332c6bc7ef16",
+	  "rotation": "0"
+	},
+	"\/resource_item_1503.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731419",
+	  "size": "272",
+	  "md5": "75ab9b7c04be19e8fef454d52a2303a4",
+	  "crc32": "0f6b7f91",
+	  "sha1": "a38ef100139bd0cf991dde0722f8a0a832210f24"
+	},
+	"\/resource_item_1503_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1503.jpg",
+	  "mtime": "1346732975",
+	  "size": "5095",
+	  "md5": "8957040e6d80e12840853701007ddafa",
+	  "crc32": "8be8e73e",
+	  "sha1": "67c4f248c586a87ea0c4f3dc51c7a4ee6356e922"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475237594",
+	  "size": "60039",
+	  "md5": "e30bfbb7a37f7653caf5b824b7bc11a1",
+	  "crc32": "8fccfb80",
+	  "sha1": "c37f30f47b944f55008505d81acf0d1653bc1e60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475237834",
+	  "size": "2429",
+	  "md5": "a970789ad268761fbff15dcd792a3937",
+	  "crc32": "6a825578",
+	  "sha1": "e929409b0d06a0fd830a6eed3ec01135e6a49143"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475237597",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475237837",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475237600",
+	  "size": "348930",
+	  "md5": "ebe68b9c2b7543c150c693cef43aa578",
+	  "crc32": "203e369a",
+	  "sha1": "439f46f8dfc17a66d850869e2d94088cfe8eb266",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475237839",
+	  "size": "5659",
+	  "md5": "434c608dfbefab355f11afa2bfe5fdef",
+	  "crc32": "dacab857",
+	  "sha1": "f3f77e5f6c1b2c97a2e4a01f951fc69b6b5f8797"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/20\/items\/Detroit_1020\/Detroit_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 554,
+	"week": 5,
+	"month": 10
+  }
+}

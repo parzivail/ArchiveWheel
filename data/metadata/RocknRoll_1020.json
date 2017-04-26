@@ -1,0 +1,223 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/35/items/RocknRoll_1020",
+  "metadata": {
+	"identifier": [
+	  "RocknRoll_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rainbow Arts Software"
+	],
+	"date": [
+	  "1990"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Rock 'n Roll Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:45:33"
+	],
+	"addeddate": [
+	  "2012-09-04 03:45:33"
+	],
+	"year": [
+	  "1990"
+	],
+	"description": [
+	  "\"Rock 'n' Roll is an action-oriented puzzle game with 32 levels (plus a secret bonus level). You control a ball and your job is to reach the exit on each level.\n\nNumerous objects help or hinder your path to the exit. These include locked doors that you need to find a key to, ice which hinders your steering, fans that push you away or magnets that pull you toward them, crumbling floor tiles, and others. A map of the level is accessible at any time, but it starts out completely blank. You have to collect eyes along the level to make various objects visible on the map. You may buy various supplies like a fastball, a spikeball, bombs, and even hints for game secrets like extra money, extra lives and short cuts.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "ROCKNROL\/ROCKDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475452872",
+	  "size": "223746",
+	  "md5": "d349d41ffb519c93b7a3f5032949c786",
+	  "crc32": "fcaf1927",
+	  "sha1": "351778c4faf581d5b8101277c7c6c13a312f095c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475452906",
+	  "size": "5939",
+	  "md5": "6c607e06921267fa66137c4abf02889d",
+	  "crc32": "facbd185",
+	  "sha1": "221e93060a8c379b5717a702622cb3c3563aebb0"
+	},
+	"\/RocknRoll_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475452881",
+	  "size": "26591",
+	  "md5": "ec00bde3f3144396cf5aa5bcc2ed23b0",
+	  "crc32": "f9e58a18",
+	  "sha1": "8e05fc77c71977ad28f79fd12702a2ab272d233a",
+	  "format": "Animated GIF"
+	},
+	"\/RocknRoll_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "e8c36c450ae85949e22cca3a7ba029ada6ebef0b",
+	  "mtime": "1475452911",
+	  "size": "3467",
+	  "md5": "c98d4ba30c639361d022e1a3931bc6f2",
+	  "crc32": "49885e63",
+	  "sha1": "cd16ae5b506668d4ec775a4409ce65d2d27fe937",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RocknRoll_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f3c096ec6d55ce276bfa621de97de09a"
+	},
+	"\/RocknRoll_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475452889",
+	  "size": "9216",
+	  "md5": "9fe15a88c6269912285ddd7982393537",
+	  "crc32": "46a236f0",
+	  "sha1": "1d83c91dfe29118a6c115930444548ea78f1a532",
+	  "format": "Metadata"
+	},
+	"\/RocknRoll_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468010532",
+	  "size": "1562",
+	  "md5": "efbe6bb0c516dd744509b1dba857ce2a",
+	  "crc32": "a73b28fe",
+	  "sha1": "be2f5c9e594a1b46af8fd3a52ff3abd530b1d915"
+	},
+	"\/resource_item_1545.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731599",
+	  "size": "29807",
+	  "md5": "657a9bafc4000fac03365efc2add7d66",
+	  "crc32": "8e27e4bb",
+	  "sha1": "1d959916820b54edd235f3e2763d73718b347ed1",
+	  "rotation": "0"
+	},
+	"\/resource_item_1545.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731599",
+	  "size": "272",
+	  "md5": "d5bf02eaa8bcdd1678b100e74d5dad2b",
+	  "crc32": "5e026089",
+	  "sha1": "f27a4c0d5ab6047f9f092903a0b138d69613ea70"
+	},
+	"\/resource_item_1545_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1545.jpg",
+	  "mtime": "1346733052",
+	  "size": "7806",
+	  "md5": "b92cb0921270d915240af2c393434d34",
+	  "crc32": "c1764843",
+	  "sha1": "95213a08e69674ab15d152b9f013ebb1d187c7ef"
+	},
+	"\/rocknroll.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730339",
+	  "size": "258563",
+	  "md5": "baacf23578426ae07e58b7f8501fb8fc",
+	  "crc32": "4859f895",
+	  "sha1": "2aca03089501d8f5b5fcb9217e2a2b9a80cb7243"
+	},
+	"\/rocknroll.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730339",
+	  "size": "620",
+	  "md5": "b49b8c6aa9cb5535279b48f479d20a9f",
+	  "crc32": "fdfe17a5",
+	  "sha1": "6447567cf0bc647b22c7b57e70d9296a757fcedc"
+	},
+	"\/rocknroll_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475452886",
+	  "size": "174965",
+	  "md5": "4cd6ea288ccf5a4b730da8979e0c902d",
+	  "crc32": "00c851fb",
+	  "sha1": "5e3978f01ec681dfbafcdc93f1b316b3ffb61d1e",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475452875",
+	  "size": "222498",
+	  "md5": "7bb7fbadee76ddb553aec46ca673ce55",
+	  "crc32": "0e332dda",
+	  "sha1": "b1d1f5d639d4eff986401142a3716d45f7778595",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475452908",
+	  "size": "5917",
+	  "md5": "433d4b939a66473a006f46a169cb87bc",
+	  "crc32": "12f255d9",
+	  "sha1": "31746f4fcad5b999b1b54c6be503174f9c5fc9b4"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475452878",
+	  "size": "223746",
+	  "md5": "d349d41ffb519c93b7a3f5032949c786",
+	  "crc32": "fcaf1927",
+	  "sha1": "351778c4faf581d5b8101277c7c6c13a312f095c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475452910",
+	  "size": "5939",
+	  "md5": "6c607e06921267fa66137c4abf02889d",
+	  "crc32": "facbd185",
+	  "sha1": "221e93060a8c379b5717a702622cb3c3563aebb0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/35\/items\/RocknRoll_1020\/RocknRoll_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 324,
+	"week": 4,
+	"month": 4
+  }
+}

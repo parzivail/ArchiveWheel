@@ -1,0 +1,127 @@
+{
+  "server": "ia800802.us.archive.org",
+  "dir": "/6/items/FIFASoccer97_1020",
+  "metadata": {
+	"identifier": [
+	  "FIFASoccer97_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "FIFA Soccer 97 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:22:50"
+	],
+	"addeddate": [
+	  "2012-09-04 02:22:50"
+	],
+	"year": [
+	  "1996"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"description": [
+	  "The exciting new soccer simulation that's raised PC soccer to new heights.  Multiple camera angles, fluid player movements, and excellent control make this a sports game worth checking out whether you're a soccer fan or not."
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/FIFASoccer97_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "68ebddfe05d2a19df43e48d1cf41238edf565ada",
+	  "mtime": "1464737180",
+	  "size": "2244",
+	  "md5": "ca899ed41743ab6eaafa03b3374020b6",
+	  "crc32": "73384ed6",
+	  "sha1": "b06e09d5858b43b160005853d83f971e8293da48",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FIFASoccer97_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e4412a457ae921a01f4dd9a87c105a7b"
+	},
+	"\/FIFASoccer97_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464737179",
+	  "size": "946",
+	  "md5": "de28154e914869b94afc8388ee443dca",
+	  "crc32": "8e838bcf",
+	  "sha1": "7a58df08b6e4bc64dcef62c7df35e6ad89e051b0"
+	},
+	"\/fifa97.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346725471",
+	  "size": "10333518",
+	  "md5": "1f06f96523ddde4a80a668ee3f7203a2",
+	  "crc32": "3c85d0da",
+	  "sha1": "257608a0a30861a59fbe71270bb5524c76cc81d6"
+	},
+	"\/fifa97.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725471",
+	  "size": "618",
+	  "md5": "675abc729f1918d41c9e7769e2375f4f",
+	  "crc32": "09745824",
+	  "sha1": "b9feb951f1842607e5b025d9113bf47e67439bdb"
+	},
+	"\/resource_item_1384.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346725473",
+	  "size": "10089",
+	  "md5": "2b2af4ccb11dbc3122738b9669d4222d",
+	  "crc32": "e4fb498b",
+	  "sha1": "56a51f6c97686eada9434b6c3f7af06c0856f3a0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1384.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725473",
+	  "size": "272",
+	  "md5": "986ad6b391ddc8f50c26356d544fcea9",
+	  "crc32": "392dc992",
+	  "sha1": "52a403c2ccecc1f1a58fe43c82e85feaa3e69e40"
+	},
+	"\/resource_item_1384_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1384.jpg",
+	  "mtime": "1346726586",
+	  "size": "3281",
+	  "md5": "81f8fe695b5560e12cd4b2cabf5683bf",
+	  "crc32": "6a8b4465",
+	  "sha1": "476c644d68910608d48e36a485abf7f80bb05c54"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800802.us.archive.org\/6\/items\/FIFASoccer97_1020\/resource_item_1384_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 11535,
+	"week": 65,
+	"month": 211
+  }
+}

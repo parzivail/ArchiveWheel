@@ -1,0 +1,113 @@
+{
+  "server": "ia600703.us.archive.org",
+  "dir": "/25/items/ARCADE_201402",
+  "metadata": {
+	"identifier": [
+	  "ARCADE_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Team17"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Chalk up your cue for a pool tournament or take a shot at Arcade Challenge. Arcade Pool II is easy to pick up and fun to play. Challenge your opponent and experience the thrill of making the break and walking away a winner. This very realistic pool game is endorsed by the European 8-Ball Pool Champion 1998-1999 Darren Appleton.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Arcade Pool II Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-14 02:06:25"
+	],
+	"addeddate": [
+	  "2014-02-14 02:06:25"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234259[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_10"
+	]
+  },
+  "files": {
+	"\/ARCADE.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1392343584",
+	  "size": "4539716",
+	  "md5": "740e2a2298b3de327ce092ccd779cdc4",
+	  "crc32": "8db3afff",
+	  "sha1": "7bb3ed00dfc3efb342f32469d6eebbc03fe89b04"
+	},
+	"\/ARCADE_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cedc5bf7426dcae05b49a827095c2ce1"
+	},
+	"\/ARCADE_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392343602",
+	  "size": "14336",
+	  "md5": "6185e9b3c4a5646aee03e2c75fe33711",
+	  "crc32": "f50693ad",
+	  "sha1": "0c36974f6f6a6cca49ac07be31e83ac6d8bf8d61"
+	},
+	"\/ARCADE_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471540834",
+	  "size": "1152",
+	  "md5": "afb8d74952f12a4c0304db014c28fe8c",
+	  "crc32": "ca5ecda8",
+	  "sha1": "6b057e581aa5e570a0700ada164255ab8bcf754f"
+	},
+	"\/arcade.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1392343597",
+	  "size": "96968",
+	  "md5": "fb9ff0e4512b3abf5bf3e07a7f17daf9",
+	  "crc32": "f3f71dcb",
+	  "sha1": "101e09c2559bcba8f36baf34c50f3cea3014e514"
+	},
+	"\/arcade_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "arcade.PNG",
+	  "mtime": "1392343618",
+	  "size": "3711",
+	  "md5": "2e51742141570431613d1ccc139e845a",
+	  "crc32": "15b61397",
+	  "sha1": "575ed0da6c487feef0b2070518f4331f7d6a75ce"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600703.us.archive.org\/25\/items\/ARCADE_201402\/arcade_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 690,
+	"week": 8,
+	"month": 27
+  }
+}

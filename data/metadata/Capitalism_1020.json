@@ -1,0 +1,141 @@
+{
+  "server": "ia600806.us.archive.org",
+  "dir": "/2/items/Capitalism_1020",
+  "metadata": {
+	"identifier": [
+	  "Capitalism_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Enlight Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Interactive Magic"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Capitalism Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:50:21"
+	],
+	"addeddate": [
+	  "2012-09-04 00:50:21"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"The Strategy Game of Money, Power and Wealth.\n\nMonitor your business performance against competitors; plot your strategy and hostile takeovers. Capitalism is the ideal strategy game for those who mean business! \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234613[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "CAP.EXE"
+	]
+  },
+  "files": {
+	"\/CAP.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476452282",
+	  "size": "4249016",
+	  "md5": "f645ca6c01905ac34c3ce8ce939e37f0",
+	  "crc32": "e9b5c5a2",
+	  "sha1": "6a4648e061c8e9c3bba286f693fc1e0d5ad55d18"
+	},
+	"\/Capitalism_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "32cef99b573a7afe975ca761062f2d67"
+	},
+	"\/Capitalism_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476452350",
+	  "size": "1110",
+	  "md5": "346fd7e5f4caedfdcf17ed2e2e7987f6",
+	  "crc32": "1d1d2767",
+	  "sha1": "ff5cbea341d4660a37f7d7c7eebc4d71db4c8048"
+	},
+	"\/capdemo-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346719863",
+	  "size": "4342671",
+	  "md5": "d20c17d6e70ba7d09c920d19a573247d",
+	  "crc32": "37930036",
+	  "sha1": "498ddd0c01c1befd964b30229e2b31b4b651ec91"
+	},
+	"\/capdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719863",
+	  "size": "660",
+	  "md5": "4ee1ad3f0a7ab6be69e392608230b5bf",
+	  "crc32": "d6de85e9",
+	  "sha1": "db7768ceb8f427ba23fc73b632d31aa551b9d995"
+	},
+	"\/resource_item_1068.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346719865",
+	  "size": "19650",
+	  "md5": "1ecd85210de4475d3e36d23535d6a51c",
+	  "crc32": "766f9ef1",
+	  "sha1": "360e792bd5d1f2c8378d093ba3daa4431379b64c",
+	  "rotation": "0"
+	},
+	"\/resource_item_1068.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719865",
+	  "size": "272",
+	  "md5": "c1a17d61ba52ceea6add29a14d9c8436",
+	  "crc32": "3fe6f85c",
+	  "sha1": "ff09260231f2f217a7099ffd49af81c795b5bdee"
+	},
+	"\/resource_item_1068_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1068.jpg",
+	  "mtime": "1346721150",
+	  "size": "6175",
+	  "md5": "acc41d4b3e5055ec66fdb6ac41a60367",
+	  "crc32": "8c3ed18a",
+	  "sha1": "07812f201c5b1738d627dfdb74e8ea07d026f27b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600806.us.archive.org\/2\/items\/Capitalism_1020\/resource_item_1068_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 335,
+	"week": 3,
+	"month": 10
+  }
+}

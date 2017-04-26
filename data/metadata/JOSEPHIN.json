@@ -1,0 +1,146 @@
+{
+  "server": "ia601803.us.archive.org",
+  "dir": "/24/items/JOSEPHIN",
+  "metadata": {
+	"identifier": [
+	  "JOSEPHIN"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MediaAge Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "The music of Anthrax and live-action video complement this first-person shooter from MediaAge. The company's Web site will offer new levels, free for the downloading."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Josephine: Portrait of an Assassin Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2013-07-08 22:33:56"
+	],
+	"addeddate": [
+	  "2013-07-08 22:33:56"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233455[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_12"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": 0
+	},
+	"reviews": [
+	  {
+		"reviewbody": "A really bad 3D game, which seems to be slightly more technologically advanced than Wolfenstein, even if it was released three years after Doom. Terrible visuals and controls, grainy FMVs and no real reason to play this. Requires wing32.dll to be placed in the windows\/system32 directory.",
+		"reviewtitle": "A bad Wolfenstein 3D clone",
+		"reviewer": "RamzesXIII",
+		"reviewdate": "2013-08-11 01:17:35"
+	  }
+	]
+  },
+  "files": {
+	"\/JOSEPHIN.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373322835",
+	  "size": "20817415",
+	  "md5": "f98d99c41112ac55e96cd135e8fc3633",
+	  "crc32": "29267e60",
+	  "sha1": "941e53db4d0d311426bb4c7aeafbfe41e13d6596"
+	},
+	"\/JOSEPHIN.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373322836",
+	  "size": "1395",
+	  "md5": "910025289edf8a99dd020f6e8e02266f",
+	  "crc32": "e4ebbeef",
+	  "sha1": "f4e758421f39f574bb48ce74566e4dc51e6c34c9"
+	},
+	"\/JOSEPHIN_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5d6067f542c54ac6fab199f091fd4928"
+	},
+	"\/JOSEPHIN_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476175186",
+	  "size": "990",
+	  "md5": "76e741e46c25086ed020ffabf670f4b4",
+	  "crc32": "a75126dd",
+	  "sha1": "7670b70f42fb3cc1f6c43d6c02e739b336758c30"
+	},
+	"\/JOSEPHIN_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1376183856",
+	  "size": "723",
+	  "md5": "f7a6e2baf6942d2a1c33fdad3b2a2fce",
+	  "crc32": "b70369ae",
+	  "sha1": "642c98ec91fc96986daa4502f18ce2cc4990d9ee",
+	  "format": "Metadata"
+	},
+	"\/josephin.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1373322847",
+	  "size": "460282",
+	  "md5": "7068993e7de00da168a0612ce1418b3b",
+	  "crc32": "7b01bb2f",
+	  "sha1": "68a1ebf112a590eaf838e8aaaab7d0ec2034d1e0",
+	  "rotation": "0"
+	},
+	"\/josephin.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373322847",
+	  "size": "1365",
+	  "md5": "4268e914687699a7c060231d218489b7",
+	  "crc32": "7ce82ed3",
+	  "sha1": "ab6bdbbd3c99dd0eab45f22e102b19f014423214"
+	},
+	"\/josephin_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "josephin.jpg",
+	  "mtime": "1373322858",
+	  "size": "7162",
+	  "md5": "1b558a793561afbf0f993feb21ee3ac0",
+	  "crc32": "84f35aee",
+	  "sha1": "d7aca88ee68c6cf84872f80a43b71355f7c0c1b6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601803.us.archive.org\/24\/items\/JOSEPHIN\/josephin_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1115,
+	"week": 7,
+	"month": 25
+  }
+}

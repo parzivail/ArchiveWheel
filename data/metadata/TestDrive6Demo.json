@@ -1,0 +1,113 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/16/items/TestDrive6Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Test Drive 6 Demo"
+	],
+	"description": [
+	  "Test Drive is back and better than ever . . . Check This Out! Try a Lotus GT-1 on for size. How about a Dodge Viper GTS? Does the Shelby Series 1 have what it takes to satisfy? Strap into the Plymouth Prowler or Jaguar XKR to get your thrills. Test Drive muscle and speed with cars from Dodge, Plymouth, Macros, TVR, Jaguar, Aston Martin, Subaru, Caterham, Nissan, Audi, Venturi, Panoz, Lotus, Shelby, Toyota, and Ford."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Racing games"
+	],
+	"creator": [
+	  "The Pitbull Syndicate"
+	],
+	"identifier": [
+	  "TestDrive6Demo"
+	],
+	"addeddate": [
+	  "2012-05-13 09:59:17"
+	],
+	"publicdate": [
+	  "2012-05-13 09:59:51"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/TestDrive6Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "817b4b091ffe6214638a3a81a03b2254841b69cf",
+	  "mtime": "1477257033",
+	  "size": "2912",
+	  "md5": "61d698cf57de21150324d821b53e4b4e",
+	  "crc32": "7a5f8fa9",
+	  "sha1": "6e7e6ac5112ce187e89a88f6eece7ce6a2bda16a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TestDrive6Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "29956aafd828439ae3ae80ffa0dd2590"
+	},
+	"\/TestDrive6Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1477257030",
+	  "size": "1184",
+	  "md5": "a86bfdc5c366304ed9bb19e8eee3cb8a",
+	  "crc32": "63efc432",
+	  "sha1": "be60b074ac339e659303d42370501eca6322e559"
+	},
+	"\/testdrive6.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336903068",
+	  "size": "28354181",
+	  "md5": "4a90cd307a04d95f06e662e19cbab91f",
+	  "crc32": "249f503c",
+	  "sha1": "e797f49ae343decb10c6d705c22a4853851165c1",
+	  "title": "Test Drive 6 Demo"
+	},
+	"\/testdrive6.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336903069",
+	  "size": "59918",
+	  "md5": "4b491dca6975f4e6e3ccdb9bff18ee54",
+	  "crc32": "fd7354f6",
+	  "sha1": "e266db03095045f4e1db57a9635f2267ac9ccb34",
+	  "rotation": "0"
+	},
+	"\/testdrive6_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "testdrive6.jpg",
+	  "mtime": "1336903185",
+	  "size": "5396",
+	  "md5": "8b68056c0a3f9d19ad0f509ca976583c",
+	  "crc32": "8fddeae7",
+	  "sha1": "5231a3324ffa2b45f85d87f5ffd3736286cce1fc"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/16\/items\/TestDrive6Demo\/testdrive6_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1542,
+	"week": 17,
+	"month": 59
+  }
+}

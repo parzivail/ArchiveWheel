@@ -1,0 +1,121 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/19/items/MegaManXDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Mega Man X Demo"
+	],
+	"description": [
+	  "\"THE FUTURE HAS ARRIVED!\n\nNear the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger as well as great possibilities. Fearful of the possible consequences of unleashing his creation on the world, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to decide his fate....\n\nReleased from the capsule by Dr. Cain, \"\"X\"\" is born into the world of the future where the robot rebellions are a thing of the past. But when Dr. Cain tries to implement Dr. Light's designs into a new series of Reploids, something goes hideously wrong. Now the future lies on the brink of destruction and a new Mega Man must emerge to face Sigma and his forces before the human race is wiped from the planet!\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Capcom"
+	],
+	"identifier": [
+	  "MegaManXDemo"
+	],
+	"addeddate": [
+	  "2012-08-06 09:08:12"
+	],
+	"publicdate": [
+	  "2012-08-06 09:08:45"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"publisher": [
+	  "Capcom"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_16"
+	],
+	"emulator_start": [
+	  "MMXDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/MegaManXDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "b2805ad06d39ca3d5c37f7608e5f3783d3878a81",
+	  "mtime": "1476403414",
+	  "size": "1865",
+	  "md5": "26e42ae3248b84467978fad1224bb7e6",
+	  "crc32": "943d8dd2",
+	  "sha1": "b4d07813213904a4815b0ca059b231b7ed715d68",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MegaManXDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a73586b6889643f7a045232ec7f78bd4"
+	},
+	"\/MegaManXDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476403414",
+	  "size": "1728",
+	  "md5": "5398358d68258b63e26817d055c09f9d",
+	  "crc32": "7818b48a",
+	  "sha1": "88ba937bd6639bc0ff2822ce330ee913b37da906"
+	},
+	"\/megamanx.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344244061",
+	  "size": "1054923",
+	  "md5": "744394fefe292d0a510400d932ce96a5",
+	  "crc32": "6ff34993",
+	  "sha1": "58c45c679959a507e780ae2868993b1afe88e150"
+	},
+	"\/resource_item_506.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344244066",
+	  "size": "15850",
+	  "md5": "732ee758c8650a5f7d84f1bb7755ff39",
+	  "crc32": "1bea7c60",
+	  "sha1": "8ac7510d0086c888727b64ccd8f9addee8b276f2",
+	  "rotation": "0"
+	},
+	"\/resource_item_506_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_506.jpg",
+	  "mtime": "1344244119",
+	  "size": "4850",
+	  "md5": "a9cbbae35251f73c0244415c1ac5d785",
+	  "crc32": "6c2f4bba",
+	  "sha1": "088ad083e6249bbe109e297089235e272aac28b4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/19\/items\/MegaManXDemo\/resource_item_506_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 550,
+	"week": 8,
+	"month": 21
+  }
+}

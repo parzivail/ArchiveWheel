@@ -1,0 +1,133 @@
+{
+  "server": "ia902709.us.archive.org",
+  "dir": "/3/items/larry-vales-3-demo",
+  "metadata": {
+	"identifier": [
+	  "larry-vales-3-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Philip J. Reed"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "<div>Point and click adventure game, created with Adventure Game Studio.<\/div>\n<div>Winner of the 2001 AGS Award for Best Demo.<\/div>"
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games",
+	  "AGS Award winners; AGS Awards 2001; AGS Award nominees; AGS Best Demo Award nominees; AGS Best Demo Award winners; AGS Best Player Character Award winners; AGS Best Player Character Award nominees"
+	],
+	"title": [
+	  "Larry Vales III: Time Heals All 'Burns [Demo]"
+	],
+	"publicdate": [
+	  "2015-01-03 11:40:54"
+	],
+	"addeddate": [
+	  "2015-01-03 11:40:54"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150103114623[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2001"
+	],
+	"backup_location": [
+	  "ia905909_6"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/851.jpg": {
+	  "source": "original",
+	  "mtime": "1420285265",
+	  "size": "12373",
+	  "md5": "24831a6f53e8af85d3234af387c90ea6",
+	  "crc32": "d186188a",
+	  "sha1": "c116ac665cabaa20f75d627e2e15ee8c27ed09b3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/851_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "851.jpg",
+	  "mtime": "1420285590",
+	  "size": "4041",
+	  "md5": "2159e41cfa9273008bf70baa524084fc",
+	  "crc32": "8af93084",
+	  "sha1": "3b151966ded02d3958bebbda75ed4ac44ad8dec8"
+	},
+	"\/larry-vales-3-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "27dec453373830fa1c1a90f3d8abca7989249462",
+	  "mtime": "1490803748",
+	  "size": "2073",
+	  "md5": "7a2bb37561b5ea9c8cd25e9991c9f867",
+	  "crc32": "6f273980",
+	  "sha1": "1357afab9260cc4ea539f53b16680e173a44f8a7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/larry-vales-3-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8afed0cb294217e42b91dbdd01902db5"
+	},
+	"\/larry-vales-3-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420285270",
+	  "size": "10240",
+	  "md5": "7b71880747926ca03e568071cd94680f",
+	  "crc32": "01a15da2",
+	  "sha1": "34efd7ecbc87cd2d2506ec4c3c3a81b05dedc777",
+	  "format": "Metadata"
+	},
+	"\/larry-vales-3-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490803747",
+	  "size": "1355",
+	  "format": "Metadata",
+	  "md5": "7784b811f2eee8919dc85303b7de606f",
+	  "crc32": "f991a415",
+	  "sha1": "35c3431674373fed35a3535feb9b030156823741"
+	},
+	"\/larry-vales-iii-time-heals-all-burns.zip": {
+	  "source": "original",
+	  "mtime": "1420285254",
+	  "size": "554144",
+	  "md5": "90a3c62f2762d73627dc988f8a6c1aed",
+	  "crc32": "a0b480ce",
+	  "sha1": "7658eacb87630920ecdc3ba3610583c96478fe02",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902709.us.archive.org\/3\/items\/larry-vales-3-demo\/851_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 84,
+	"week": 5,
+	"month": 9
+  }
+}

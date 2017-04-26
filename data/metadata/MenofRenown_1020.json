@@ -1,0 +1,229 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/6/items/MenofRenown_1020",
+  "metadata": {
+	"identifier": [
+	  "MenofRenown_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Integrity Software"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Men Of Renown Bible maze game demo: This is a functional demo of a commercial product one of 3 games in Agape Arcade #2 which is one of 5 packages of VGA Games with FM Sound"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Dan Sharpe"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Men of Renown"
+	],
+	"publicdate": [
+	  "2012-09-03 23:46:50"
+	],
+	"addeddate": [
+	  "2012-09-03 23:46:50"
+	],
+	"year": [
+	  "1994"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "MENOFDEM.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475369265",
+	  "size": "166806",
+	  "md5": "da69af1e6e70d929c5b03875ec262eeb",
+	  "crc32": "9743d60f",
+	  "sha1": "03d5ba3cab9a446b39da4d38d8deedc973dff7e8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475369294",
+	  "size": "6546",
+	  "md5": "7e66d3557fc9d17a56de28b3960d0076",
+	  "crc32": "76543bb7",
+	  "sha1": "453794e0283dca984da2673c270fcccf54c4d068"
+	},
+	"\/MenofRenown_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475369274",
+	  "size": "29006",
+	  "md5": "269c51b77875b2ef2b4b1c31f713526a",
+	  "crc32": "d7096909",
+	  "sha1": "8c28c707497228e8b661d88f61a641c7cf27e65a",
+	  "format": "Animated GIF"
+	},
+	"\/MenofRenown_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b0ed7bdd4df445426ef578bd14d1bf7bf7151e9d",
+	  "mtime": "1475369298",
+	  "size": "3459",
+	  "md5": "7d13194dd0ea52760ecb0bf05c84190e",
+	  "crc32": "5bee0383",
+	  "sha1": "3066afbd682a57bd3400396e9623c908fac74ebe",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MenofRenown_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "807aca41267b8017c933ec9e5b36239c"
+	},
+	"\/MenofRenown_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475369282",
+	  "size": "9216",
+	  "md5": "c61931eadaa768b20dbc098d8b8dec0c",
+	  "crc32": "6c24043f",
+	  "sha1": "a4cf95478466d38d5e0f8ded29578ab833d306a0",
+	  "format": "Metadata"
+	},
+	"\/MenofRenown_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474090941",
+	  "size": "1084",
+	  "md5": "4a2362142b8fa0cf760fbdf36bf4910f",
+	  "crc32": "8a6c435f",
+	  "sha1": "648d760764ea583f8d65c5c04b86c49bc6d576ed"
+	},
+	"\/men_demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346716016",
+	  "size": "275331",
+	  "md5": "2a6f27b729a6bc9812818ba454609804",
+	  "crc32": "959a9018",
+	  "sha1": "25dbdd9324141c98c32e37dab1625d237cc115eb"
+	},
+	"\/men_demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716016",
+	  "size": "900",
+	  "md5": "3dd146d8cc3831538fc8718876d5dd10",
+	  "crc32": "429c1c53",
+	  "sha1": "b9176df5bb1022a7cca0f53f44864e04f5324f3b"
+	},
+	"\/men_demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475369277",
+	  "size": "49415",
+	  "md5": "b1749ad137b95cc2104c45d33693f2cc",
+	  "crc32": "bab17086",
+	  "sha1": "45e187fde966c35d84f4bb592c7b1b636074a10b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_883.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346716345",
+	  "size": "10782",
+	  "md5": "cbfc71481cb0d05526b2420a404c1ebe",
+	  "crc32": "b7f2946d",
+	  "sha1": "56fa7a3396a8ee2e3a5997509a5ff3e66de8ccd3",
+	  "rotation": "0"
+	},
+	"\/resource_item_883.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716345",
+	  "size": "272",
+	  "md5": "98fd0e39aa5cf5784dbc7503cbc3ca0b",
+	  "crc32": "7c968c71",
+	  "sha1": "89f65dd9810044bf6e8c6f30bc4af717dafcfe7a"
+	},
+	"\/resource_item_883_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_883.jpg",
+	  "mtime": "1346717174",
+	  "size": "3959",
+	  "md5": "e54376a99835b8d5749adf5d42638716",
+	  "crc32": "30e87cce",
+	  "sha1": "44a3c3c808c6dc3797c83de46a0aeefa9c4a4b08"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475369269",
+	  "size": "166806",
+	  "md5": "da69af1e6e70d929c5b03875ec262eeb",
+	  "crc32": "9743d60f",
+	  "sha1": "03d5ba3cab9a446b39da4d38d8deedc973dff7e8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475369295",
+	  "size": "6546",
+	  "md5": "7e66d3557fc9d17a56de28b3960d0076",
+	  "crc32": "76543bb7",
+	  "sha1": "453794e0283dca984da2673c270fcccf54c4d068"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475369271",
+	  "size": "61069",
+	  "md5": "42052109e11640668a1ae859a7cfcccb",
+	  "crc32": "0f5d2c1d",
+	  "sha1": "34a56d47d1d04863e21eba78ea108fc2067f9747",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475369297",
+	  "size": "2714",
+	  "md5": "02f8a11a902b1e034c2ad12645794315",
+	  "crc32": "3564f7c0",
+	  "sha1": "a72008f08e3bde96cb068d7ad9ce18d7be24a491"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/6\/items\/MenofRenown_1020\/MenofRenown_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 82,
+	"week": 7,
+	"month": 9
+  }
+}

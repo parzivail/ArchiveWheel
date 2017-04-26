@@ -1,0 +1,236 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/18/items/SuperheroLeagueofHoboken_1020",
+  "metadata": {
+	"identifier": [
+	  "SuperheroLeagueofHoboken_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Legend Entertainment Company"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Superhero League of Hoboken Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 01:45:27"
+	],
+	"addeddate": [
+	  "2012-09-04 01:45:27"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"The United States is a nightmareland of toxic waste, melted ice caps, and desperate shortages of oat bran. Horrible mutations roam the countryside... monsters spawned of radiation, environmental toxins, and unregulated bio-engineering.\n\nBut in a tiny corner of New Jersey, a small group of Superheroes has banded together. Their mission: to nurture the rebirth of a new society, to ease the suffering of the dark age, and to provide a place where Superheroes can always find a date on Saturday night. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234220[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475527479",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475527513",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/SuperheroLeagueofHoboken_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475527492",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/SuperheroLeagueofHoboken_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e40034ce9e4c900f1f70acbcedde7738"
+	},
+	"\/SuperheroLeagueofHoboken_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475527499",
+	  "size": "9216",
+	  "md5": "ac636ef70d5e427dd269b964ba8e767c",
+	  "crc32": "2e3bc063",
+	  "sha1": "ab5ba5f3d47db5f8453e4080dc2ad1f0a82ddfb0",
+	  "format": "Metadata"
+	},
+	"\/SuperheroLeagueofHoboken_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473470713",
+	  "size": "1405",
+	  "md5": "19dee2cddb47596e127018630543bd73",
+	  "crc32": "3ae58e5e",
+	  "sha1": "942b5e0a5335416511ddcc6c944ae4e0a9f1ebaf"
+	},
+	"\/resource_item_1239.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346724159",
+	  "size": "20990",
+	  "md5": "533eed64ad98561320cce89ebe87ed41",
+	  "crc32": "0b8ccf47",
+	  "sha1": "e82c2b9a1620cdd84d328de678250ade85b788eb",
+	  "rotation": "0"
+	},
+	"\/resource_item_1239.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346724159",
+	  "size": "272",
+	  "md5": "01da59866b30579b0d0e8d93ae1eee5d",
+	  "crc32": "c1de0e54",
+	  "sha1": "02bc00210ec4cf49efc5313f961f7d9d4218f0a0"
+	},
+	"\/resource_item_1239_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1239.jpg",
+	  "mtime": "1346724963",
+	  "size": "5627",
+	  "md5": "bbedd48bd9d0e899e9313bf48b787521",
+	  "crc32": "7ab706b2",
+	  "sha1": "74ff1e1c8602da9877a275b7ff5ee6ce4462ce29"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475527481",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475527514",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475527484",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475527516",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475527486",
+	  "size": "78290",
+	  "md5": "bfaabca9ac1561cc7e1ac226914f2aad",
+	  "crc32": "8d5b25c3",
+	  "sha1": "f4d4da5c84b8066ec4748ddd55944610cdc7f5c1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475527517",
+	  "size": "1789",
+	  "md5": "bd92e2284b30d46e4745b55c62717335",
+	  "crc32": "d07352c3",
+	  "sha1": "29053e7ca37af65225d15eaee6f84d66f9571494"
+	},
+	"\/suphhdmo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346723134",
+	  "size": "434822",
+	  "md5": "69e9d5d8e7cd462ac42a0443d1f7ef04",
+	  "crc32": "5fa20ea3",
+	  "sha1": "f40ec3d1e5f1f8a4d708862758b797c6f32ddc83"
+	},
+	"\/suphhdmo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346723134",
+	  "size": "648",
+	  "md5": "083296480143ee0918ed8ec2a2f5831c",
+	  "crc32": "505a3560",
+	  "sha1": "569eabc807944fb22a82be685a29bf96b7f9d400"
+	},
+	"\/suphhdmo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475527496",
+	  "size": "162583",
+	  "md5": "943a2ab1be0a3e6b2bc904c12290e49f",
+	  "crc32": "8dcb60ec",
+	  "sha1": "e7a368312b720cfe151c002d80399ad05ec64cb6",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/18\/items\/SuperheroLeagueofHoboken_1020\/SuperheroLeagueofHoboken_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 164,
+	"week": 4,
+	"month": 7
+  }
+}

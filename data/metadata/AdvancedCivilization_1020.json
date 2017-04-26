@@ -1,0 +1,136 @@
+{
+  "server": "ia600802.us.archive.org",
+  "dir": "/5/items/AdvancedCivilization_1020",
+  "metadata": {
+	"identifier": [
+	  "AdvancedCivilization_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Avalon Hill"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Advanced Civilization Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 05:45:25"
+	],
+	"addeddate": [
+	  "2012-09-04 05:45:25"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Below is a *basic* explanation of the rules of Avalon Hill's Advanced Civilization (ACIV), enough to let you try out the demo and decide if the game is for you.  ACIV is based on an AH board game with a reputation as being an excellent pure strategy game whose only disadvantage is that in order to play you need to find 4 or 5 like minded players willing to sit down for a marathon session of 6-8 hours or more.  The game is no relation to Sid Meier's Civilization, and predates it by 12 or 15 years, but does have a few similarities, most notably the importance in the game of obtaining advances (called TOOLS in ACIV) in the technical, artistic, and philosophical sophistication of your culture.  It is a good guess that Sid Meier had some exposure to AH's game and that it influenced his design.\n\nACIV models the period of time from the Stone Age thru the Late Iron Age, and takes place in the historical \"\"Cradle of Civilization\"\" - the area around the Mediterranean Sea.  The object of the game is to be the first civilization to move your token to the right hand side of the \"\"AST\"\", a track showing advances thru the Stone Age, Bronze Age and Iron Age.  You move on the AST based on how many and what type \"\"TOOLS\"\" (such as Astronomy, Law, Pottery) you have and how many \"\"CITIES\"\" you have.\n\nAt the start of the game you put down tokens to indicate your population, which increases each turn, in territories on the map. There is a limit as how many population tokens can be in each area indicated on the area, and if you have excess at the end of a turn you lose them.  In the first part of the game you want to move your tokens (moving to adjacent areas) so as to carve out a largish rural empire.  Later, you may move population tokens via ships built using taxes you have accumulated (cities-see below-yield taxes), with the ships having the ability to move several areas along the coast (and further out to sea once the Astronomy \"\"TOOL\"\" is acquired).  All conflict is resolved purely by removing tokens in equal numbers from each side, with _no_ random elements.  Remember the object is _NOT_ to conquer the entire map (token limit for each player prevents that in any case), but only to give yourself some room to advance and... build CITIES.\n\nIf you put 6 tokens in a area which is marked as a good city site (red or yellow squares on the map), instead of losing the extra token at the end of the turn, _all_ the tokens are replaced by a *city*, _and_ at the end of the turn (for each city) you get a TRADING CARD which is symbolic of some common trade commodity from the period such as hides, wine, or gems.  The cards all have values from 1 to 9, and are drawn from stacks sorted by value, so that you will tend to get only low cards if you have only a few cities and higher value cards if you have more.  You accumulate cards and then trade them in on TOOLS (see above) each round if you desire.  You can also trade the cards with other players, with the condition that you must offer sets of 3 cards, telling honestly what 2 of them are, and bluffing, if you wish, about the 3rd.  Trading of cards to make _sets_ is important, as sets have numeric value over and above the the numbers on each card.  There are also disaster cards, some of which can be dumped in trading, which cause floods, revolts, etc.\n\nThere's a lot more to the game, but this should get you started and let you experiment.  Remember the ultimate goal is to advance your civilization, so direct your strategy toward acquiring trade goods and converting them to TOOLS.  The demo is a \"\"generous\"\" one, and will let you play over half of a full game, giving you a score and rating when it ends.\n\nAdvanced Civilization is a truely superior strategy game with lots of opportunities for various approaches depending on your starting civilization, your territorial position, and your approach to trade and advancement.  It has the further benefit of being finely tuned and play balanced due to it's board game heritage.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "aciv.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/AdvancedCivilization_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "5f83fc739eb33643a55f985d9d371f80e61e54a0",
+	  "mtime": "1476204964",
+	  "size": "2010",
+	  "md5": "29fd7f0d55864fe0c3f0dc921f634c91",
+	  "crc32": "69818843",
+	  "sha1": "662b2a3410bb53c56d6253fa8783a52ee0fa3327",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AdvancedCivilization_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e39451398e0a02d7a6f9067dacfbf864"
+	},
+	"\/AdvancedCivilization_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204963",
+	  "size": "4851",
+	  "md5": "6cee7273e303f5ca645d46b67602a5f4",
+	  "crc32": "f99af10d",
+	  "sha1": "9a17b0602e9ed4b8d55b91c4a118a91cbc706c67"
+	},
+	"\/adcvdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476204929",
+	  "size": "2442900",
+	  "md5": "3b39a7bb5d8d275b2dc88895cbe74f2d",
+	  "crc32": "c4ccaede",
+	  "sha1": "e8cad702f1c7d9b66a3c8165ba15959c60dd03fd"
+	},
+	"\/adcvdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737550",
+	  "size": "622",
+	  "md5": "f265b30e965e2396df3eb3a977d6f3bd",
+	  "crc32": "c2c995a0",
+	  "sha1": "58489ed030b144bbe601584ab0de88859524d689"
+	},
+	"\/resource_item_1809.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346737552",
+	  "size": "18622",
+	  "md5": "f71b98c5c66e1eedbe8a939e79175d62",
+	  "crc32": "b3f09778",
+	  "sha1": "6eac2e977895f06abe404a271f7a9f498f99ca68",
+	  "rotation": "0"
+	},
+	"\/resource_item_1809.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737552",
+	  "size": "272",
+	  "md5": "954992ee7b3e9b05eb595f8312a22835",
+	  "crc32": "3d7a0b7c",
+	  "sha1": "8748eddbcb3a68b4154313dfe0add5e3503d83d5"
+	},
+	"\/resource_item_1809_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1809.jpg",
+	  "mtime": "1346738522",
+	  "size": "5620",
+	  "md5": "ef7acbf197d0dad15703bc26786d184e",
+	  "crc32": "0c8f95ae",
+	  "sha1": "c32bb29e825cff81398abdf3c40e0485965be362"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600802.us.archive.org\/5\/items\/AdvancedCivilization_1020\/resource_item_1809_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 629,
+	"week": 5,
+	"month": 9
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia601202.us.archive.org",
+  "dir": "/13/items/VJDEMO_201610",
+  "metadata": {
+	"identifier": [
+	  "VJDEMO_201610"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SouthPeak Interactive"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Welcome to our special Virtual Jigsaw Holiday Edition!!!\u00a0<\/div><div><br \/><\/div><div>If you enjoy this demo, you will love our other titles in the Virtual Jigsaw series<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Virtual Jigsaw Holiday Edition"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2016-10-23 21:36:50"
+	],
+	"addeddate": [
+	  "2016-10-23 21:36:50"
+	],
+	"backup_location": [
+	  "ia906209_15"
+	]
+  },
+  "files": {
+	"\/VIRTJIGS.png": {
+	  "source": "original",
+	  "mtime": "1477258624",
+	  "size": "57151",
+	  "md5": "f48540c60841d1bcfbbf93bdd5dd3cf3",
+	  "crc32": "68af7d9b",
+	  "sha1": "8915ea14dd6aa800a1afcfbd4261ec751115d6c7",
+	  "format": "PNG"
+	},
+	"\/VIRTJIGS_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "VIRTJIGS.png",
+	  "mtime": "1477258641",
+	  "size": "5232",
+	  "md5": "e439ba940c9474d3e49666a7aa47f563",
+	  "crc32": "be780aef",
+	  "sha1": "9e8163c10cbb5735c05b0c068ade378711153507"
+	},
+	"\/VJDEMO.EXE": {
+	  "source": "original",
+	  "mtime": "1477258610",
+	  "size": "5876388",
+	  "md5": "77a57e0c8e6730c4e102f7140785836f",
+	  "crc32": "fad4eddb",
+	  "sha1": "eff9b28ea9d35cd62f3220624f8a3130ce62e8f4",
+	  "format": "Windows Executable"
+	},
+	"\/VJDEMO_201610_archive.torrent": {
+	  "source": "original",
+	  "btih": "8a9b6c84dc717412fd2936c6adbbdb735d4ddd3b",
+	  "mtime": "1482825844",
+	  "size": "2212",
+	  "md5": "20fe411597eab79dc84ffe811b8f2d99",
+	  "crc32": "8a1f7db9",
+	  "sha1": "ce9420ae0570f3cbd7a46ab0a7d6bb262c5dc90f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/VJDEMO_201610_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0619ac70ae4d9150b455f91bdf9179cf"
+	},
+	"\/VJDEMO_201610_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1477258630",
+	  "size": "12288",
+	  "md5": "a25161bced5fba4ffaab447f3bbea3bf",
+	  "crc32": "11d54ff3",
+	  "sha1": "3dbc6a18cd71a1a373b352f1fe3289b030f7ba05",
+	  "format": "Metadata"
+	},
+	"\/VJDEMO_201610_meta.xml": {
+	  "source": "original",
+	  "mtime": "1482825843",
+	  "size": "874",
+	  "format": "Metadata",
+	  "md5": "ae1d086c05354455587124b3c79b38fb",
+	  "crc32": "93cc515e",
+	  "sha1": "62b03dc29add5ca3b4156689e0104b4b7fac5346"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601202.us.archive.org\/13\/items\/VJDEMO_201610\/VIRTJIGS_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 20,
+	"week": 3,
+	"month": 3
+  }
+}

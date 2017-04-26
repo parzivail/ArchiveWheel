@@ -1,0 +1,572 @@
+{
+  "server": "ia601003.us.archive.org",
+  "dir": "/9/items/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational",
+  "metadata": {
+	"identifier": [
+	  "WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Broderbund"
+	],
+	"date": [
+	  "1989"
+	],
+	"description": [
+	  "<div>As a detective, the player must hunt down Carmen Sandiego's henchmen, who have stolen outrageous items that are important in US history and heritage. Using clues, the player will follow the henchmen from city to city.<br \/><\/div>"
+	],
+	"publisher": [
+	  "Broderbund"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Where in the USA is Carmen Sandiego Demo"
+	],
+	"year": [
+	  "1989"
+	],
+	"publicdate": [
+	  "2013-11-16 19:10:07"
+	],
+	"addeddate": [
+	  "2013-11-16 19:10:07"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233957[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "CARMEN.EXE"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905709_32"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475603351",
+	  "size": "231209",
+	  "md5": "0ee54c46a94fc59c3c9c16530a669a99",
+	  "crc32": "c54059f2",
+	  "sha1": "6e4bc80114b560f6dfca4614611ac42af81d9eeb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475603500",
+	  "size": "7522",
+	  "md5": "13e9056ff5d6fcbec01790a34a9dd483",
+	  "crc32": "16aca8f3",
+	  "sha1": "469c84c5e91291653d6d66f04cf6275a8a2b77df"
+	},
+	"\/Where in the USA is Carmen Sandiego_ v2.0 (Demo) (1989)(Broderbund Software, Inc.) [Adventure, Educational].png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1384629017",
+	  "size": "5139",
+	  "md5": "ee3a65d112bc1870bce0e84178b30def",
+	  "crc32": "34ad98f5",
+	  "sha1": "1c3d1a274172658d570aecbf6bbf6f1ed21056be"
+	},
+	"\/Where in the USA is Carmen Sandiego_ v2.0 (Demo) (1989)(Broderbund Software, Inc.) [Adventure, Educational].zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1384629004",
+	  "size": "260693",
+	  "md5": "217838e58562d04a73963978ff9a33d8",
+	  "crc32": "65f9d7ba",
+	  "sha1": "8b827db60ae11ac486e4364c6ab266bed7d3a4f9"
+	},
+	"\/Where in the USA is Carmen Sandiego_ v2.0 (Demo) (1989)(Broderbund Software, Inc.) [Adventure, Educational]_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Where in the USA is Carmen Sandiego_ v2.0 (Demo) (1989)(Broderbund Software, Inc.) [Adventure, Educational].png",
+	  "mtime": "1384629029",
+	  "size": "7512",
+	  "md5": "886cd6e4773ebac59e2116e511527982",
+	  "crc32": "27ab8e43",
+	  "sha1": "9bda0b97c2562731ab0b5684662e5e19d56f508a"
+	},
+	"\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational.gif": {
+	  "source": "original",
+	  "mtime": "1475603446",
+	  "size": "33265",
+	  "md5": "1a979a233a6640025f1d8edb47871161",
+	  "crc32": "998e5a56",
+	  "sha1": "3e5792214ff82a8b869fa9e21255752430d4b9e6",
+	  "format": "Animated GIF"
+	},
+	"\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6e34c35762110e9c8d68e352e1841c41"
+	},
+	"\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475603466",
+	  "size": "27648",
+	  "md5": "0986de61d6fca8c316dcebe2c793c947",
+	  "crc32": "e0ee123c",
+	  "sha1": "63f18296b19aedcd284eb86c383d2e24e0740920"
+	},
+	"\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476360421",
+	  "size": "1296",
+	  "md5": "5803aaeed2835ba1d2486219eee612f9",
+	  "crc32": "ef8d7a7a",
+	  "sha1": "66fb7ec5eb27ea78af38e0fbd396a39173640c04"
+	},
+	"\/WhereintheUSAisCarmenSandiego_v2.0(Demo)(1989)(BroderbundSoftware,Inc.)[Adventure,Educational]_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475603455",
+	  "size": "518387",
+	  "md5": "94af8c4bbc10863724551d9c8cf6d9cb",
+	  "crc32": "c3e520ea",
+	  "sha1": "eea7b80946942ff0a42ff5580d150cf2d709c750",
+	  "format": "Emulator Screenshot"
+	},
+	"\/carmen.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452451164",
+	  "size": "260693",
+	  "md5": "217838e58562d04a73963978ff9a33d8",
+	  "crc32": "65f9d7ba",
+	  "sha1": "8b827db60ae11ac486e4364c6ab266bed7d3a4f9"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475603354",
+	  "size": "10706",
+	  "md5": "97af13eebd7079b1fedc4717d953d323",
+	  "crc32": "d239e654",
+	  "sha1": "9cb11266c823a0e7bec77d4ce0a9aa78eb5d1441",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475603488",
+	  "size": "1470",
+	  "md5": "9ff11da26d7848aa5a89b6e4191f0ab8",
+	  "crc32": "ae1a0370",
+	  "sha1": "8c9c7d5bd116e27f743dbe8d1e9fe816749b14dd"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475603359",
+	  "size": "117510",
+	  "md5": "e130d264df68c0a1d1ce5ca0137ff467",
+	  "crc32": "75116ae5",
+	  "sha1": "49f083a45921718e5db3a4506788e7ae9ba675d9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475603489",
+	  "size": "3055",
+	  "md5": "8416f941aad8dcf2ede0d66aff3f409f",
+	  "crc32": "e05e070b",
+	  "sha1": "f9e19c497f3baea1351bdb683b3755e09ef02be9"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475603367",
+	  "size": "121206",
+	  "md5": "8a9ab779b25d00ffc82661080c5635eb",
+	  "crc32": "89f3c478",
+	  "sha1": "96505681938d04aab473b855c6835e37230bd96d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475603495",
+	  "size": "3184",
+	  "md5": "2d337790509b661dc4482b11d0cba8e2",
+	  "crc32": "1bee60d9",
+	  "sha1": "f639bf0c227311ef2bf7f75d9a06e0e46e67fb7e"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475603369",
+	  "size": "121318",
+	  "md5": "654e3f5f1d1878f413b797b875f5bcb3",
+	  "crc32": "65007c53",
+	  "sha1": "961ca87f830f2cee0b69a3015b2036fb823be9aa",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475603505",
+	  "size": "3185",
+	  "md5": "e7eafeb89237de6dedbffcab25f49ee6",
+	  "crc32": "d445735d",
+	  "sha1": "253e6deab49145abed73a26c493d8a8567d58a08"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475603374",
+	  "size": "122072",
+	  "md5": "b965e8af5896ee16462b326a947d5577",
+	  "crc32": "ea6c0cc4",
+	  "sha1": "5d86e840d3e8c5a3fe6572652f78a4e8e6d3e641",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475603486",
+	  "size": "3199",
+	  "md5": "03fd89c3ddc10872c4d459f33ddff05a",
+	  "crc32": "5f01028e",
+	  "sha1": "0b0bf2abde9ff2f1908b0d338ce76042d4746f30"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475603377",
+	  "size": "123511",
+	  "md5": "2b1cdf56187ff88aefe16e25c055eb9b",
+	  "crc32": "2791c227",
+	  "sha1": "3d74081b16fa126b81e4666e81cc49064c3bd216",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475603497",
+	  "size": "3289",
+	  "md5": "e04e86ff8ba2a5dc65153a02a54d1fea",
+	  "crc32": "ea0ffeb0",
+	  "sha1": "4c90319958bfe0e84c5f280200db169a4bbbada6"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475603381",
+	  "size": "122062",
+	  "md5": "784fdeda82b992875086a1f92edc22e8",
+	  "crc32": "5a8bae70",
+	  "sha1": "510cb42d1977cd7a8d40eba60d0f39fc3c58cb33",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475603501",
+	  "size": "3223",
+	  "md5": "70b10619530fc7aa32886471e52d9d9b",
+	  "crc32": "4c4c77ca",
+	  "sha1": "35f62c399f2022ddd2017408b0924ea9034e1efd"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475603385",
+	  "size": "122228",
+	  "md5": "8d8a635168d7f6af1820a071bde7fc68",
+	  "crc32": "39912be0",
+	  "sha1": "2368f9f19f42d5c5308bec5fb1c3ad4bf12e57f4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475603503",
+	  "size": "3205",
+	  "md5": "dabcd89ba8f65e4c16abb174b7a56710",
+	  "crc32": "b1108afc",
+	  "sha1": "474c5d1111e673ae6b9eff42b580e0059a6bf9bf"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475603387",
+	  "size": "121903",
+	  "md5": "8027a4aeebc9f2af6d5f0f082a80af4c",
+	  "crc32": "702f3572",
+	  "sha1": "4a498365b1c8153dfa9e75f828e9f3691ca420d5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475603498",
+	  "size": "3198",
+	  "md5": "1024aa61d44733d44e81281106f44f0d",
+	  "crc32": "3a07a325",
+	  "sha1": "d34746a62e386ca32d20893136c7243f6cc3274e"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475603391",
+	  "size": "74002",
+	  "md5": "ab9bea3ba433837c98a35e57a0ced4d5",
+	  "crc32": "2e17c350",
+	  "sha1": "fd1178f6b502f075ca8c94de9f52602634cd06b5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475603506",
+	  "size": "4556",
+	  "md5": "4bf7ab405078bbb7280d3410e3b827ef",
+	  "crc32": "db1375b1",
+	  "sha1": "5b5afafce676a0e3015eafd7a6a88522a579a9a1"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475603394",
+	  "size": "231209",
+	  "md5": "0ee54c46a94fc59c3c9c16530a669a99",
+	  "crc32": "c54059f2",
+	  "sha1": "6e4bc80114b560f6dfca4614611ac42af81d9eeb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475603520",
+	  "size": "7522",
+	  "md5": "13e9056ff5d6fcbec01790a34a9dd483",
+	  "crc32": "16aca8f3",
+	  "sha1": "469c84c5e91291653d6d66f04cf6275a8a2b77df"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475603401",
+	  "size": "93067",
+	  "md5": "f45c02f2250dd1cbf086e9c7b0466e81",
+	  "crc32": "19e4fb7a",
+	  "sha1": "3c3427f725191929bd6c98633d1fa657500ddfd5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475603509",
+	  "size": "4165",
+	  "md5": "374ffda21f1f18c9bbf832170671744d",
+	  "crc32": "32745af0",
+	  "sha1": "1768b9453a7f02bc735e8d5cca455c6cb5d2d912"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475603409",
+	  "size": "92911",
+	  "md5": "6e3dbc52c8dccaf109d5c5014b92a67d",
+	  "crc32": "8b7d2c94",
+	  "sha1": "c2f9c3e59e6b719557b1aacf08274de91a2ca69c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475603510",
+	  "size": "4161",
+	  "md5": "04c29f56f557cb6d4ba51d80e646571c",
+	  "crc32": "9c0ce027",
+	  "sha1": "92b6bfee18c0873c454a2ab442f4ed262e5c8f54"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475603413",
+	  "size": "92885",
+	  "md5": "48e5d7fa18faaf8a2917501fa0466b9d",
+	  "crc32": "66cb3e88",
+	  "sha1": "fd0e895fe2a2dab1d127efa773388611e899f66f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475603511",
+	  "size": "4156",
+	  "md5": "3bf37908d8800012313e82a378a4b24e",
+	  "crc32": "77665814",
+	  "sha1": "2fa333649a7c0166fa24f1e5baf4db9ce768647c"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475603416",
+	  "size": "92814",
+	  "md5": "995446182aff7922f43cd568b5a7caa2",
+	  "crc32": "3f940a89",
+	  "sha1": "cd6df428e1d629e277f185b35ecfe2a4eea4d099",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475603525",
+	  "size": "4166",
+	  "md5": "2abfe6953b52b083d72b087531918fcc",
+	  "crc32": "a3aa9ef1",
+	  "sha1": "f9c09855512b7f97466515de6e49be440dc741f1"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475603418",
+	  "size": "17783",
+	  "md5": "60d050ba84a38850dc084cd2f1438e7e",
+	  "crc32": "3368ad33",
+	  "sha1": "e8df1dbae0637490da092dd63791614126b3cbd7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475603507",
+	  "size": "2191",
+	  "md5": "d6b620dbfb50c82d7946b174b80667b5",
+	  "crc32": "bb7ad607",
+	  "sha1": "e29b52918b65459c4956e349d8796d4c77324c9a"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1475603421",
+	  "size": "11152",
+	  "md5": "99bac3c6b81ed56b2a3430376dd51a42",
+	  "crc32": "8e1923d8",
+	  "sha1": "259220085ff8dc1bc0939bb4f5980e6145f5723d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1475603513",
+	  "size": "1528",
+	  "md5": "08784bf84d1e6f140dae92d5c17b35db",
+	  "crc32": "afbede86",
+	  "sha1": "4c4c0caaba7c8775892046ccc54ebb4ca43417a2"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1475603425",
+	  "size": "33008",
+	  "md5": "46c1fde107b415e989e8e007bf83134a",
+	  "crc32": "b50d2067",
+	  "sha1": "3b7b70679872539702c765275bfc81f8a1b0c1e1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1475603522",
+	  "size": "3657",
+	  "md5": "b2980579d7d9462984e881ec4a28d45f",
+	  "crc32": "4d80ea6c",
+	  "sha1": "9524e59e4343e32a96c6cbc8ee6bb924b83ea539"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1475603427",
+	  "size": "36196",
+	  "md5": "5c18482a4d328fd214a5707239626826",
+	  "crc32": "15fd952b",
+	  "sha1": "98d65c4b295f428625020b7639ee59072a2a204e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1475603523",
+	  "size": "3794",
+	  "md5": "6158fa0e4a9b946266c23b1b1c4a8148",
+	  "crc32": "30bba95c",
+	  "sha1": "4adaee91a1d068d1e5642c7c77f2310031cab233"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1475603431",
+	  "size": "37985",
+	  "md5": "350f1c8e6ee51e82c5519cfe6ecc288a",
+	  "crc32": "3e547af3",
+	  "sha1": "37d153e7e3c39f4f11c5ca316101c2b7c10b5f2b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1475603514",
+	  "size": "3952",
+	  "md5": "b4dfe66576aec4149e6ce85e0d5dd3e4",
+	  "crc32": "3681a88f",
+	  "sha1": "2e68dcb341f61ddb5ecee0191232f32e6ced5b69"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601003.us.archive.org\/9\/items\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational\/WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2329,
+	"week": 14,
+	"month": 37
+  }
+}

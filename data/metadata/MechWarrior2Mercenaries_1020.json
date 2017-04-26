@@ -1,0 +1,123 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/8/items/MechWarrior2Mercenaries_1020",
+  "metadata": {
+	"identifier": [
+	  "MechWarrior2Mercenaries_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Activision"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "You are a mercenary. Caught in a brutal war between two rival houses of the Inner Sphere. Honor and glory have yielded to betrayal and greed. Now a combat-hardened warrior, your quest leads you to pilot your 'mech into darker, more desperate realms of the universe. Where victory means nothing... and power, fame and the almighty C-Bill mean everything."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "MechWarrior 2: Mercenaries Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 16:21:00"
+	],
+	"addeddate": [
+	  "2012-09-04 16:21:00"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233720[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/MERCS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346775867",
+	  "size": "21592675",
+	  "md5": "faa75f4e2558c1440971efd624b0711c",
+	  "crc32": "8ad82e5f",
+	  "sha1": "9b5f368e5a3fb3ededfcf5574f513281c36b2589"
+	},
+	"\/MERCS.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775867",
+	  "size": "1074",
+	  "md5": "494f0f13082f14e661e88303d2d1208e",
+	  "crc32": "6d0d501d",
+	  "sha1": "6bc14435abddb7914001642529e6af02d8857e54"
+	},
+	"\/MechWarrior2Mercenaries_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "daa194dbf38942a628d274d280016e31"
+	},
+	"\/MechWarrior2Mercenaries_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465363485",
+	  "size": "1160",
+	  "md5": "8db6e6cd78e4877256ea1d3ce4260770",
+	  "crc32": "f14ba589",
+	  "sha1": "3e9b0ae40c558bd5ca718ed68297cd481d016272"
+	},
+	"\/resource_item_2319.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346775869",
+	  "size": "9599",
+	  "md5": "c96b4e735d07330a0b468390ecbc6e5d",
+	  "crc32": "48596fc6",
+	  "sha1": "76e6c40740e664e128fd161aa693de9b9d8717cd",
+	  "rotation": "0"
+	},
+	"\/resource_item_2319.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775869",
+	  "size": "271",
+	  "md5": "3c4872b476ac214c7a63cfe103878949",
+	  "crc32": "1c357f7e",
+	  "sha1": "4ca9c1cfe0a651a8095c7c8c3f87851a6c384b2f"
+	},
+	"\/resource_item_2319_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2319.jpg",
+	  "mtime": "1346777266",
+	  "size": "3486",
+	  "md5": "952fc47c12d402ba7523af27e017d6bb",
+	  "crc32": "560ac5e7",
+	  "sha1": "93e469050b7b50258c075017955d8a3e09e5798e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/8\/items\/MechWarrior2Mercenaries_1020\/resource_item_2319_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2806,
+	"week": 15,
+	"month": 53
+  }
+}

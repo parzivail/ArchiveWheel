@@ -1,0 +1,117 @@
+{
+  "server": "ia600504.us.archive.org",
+  "dir": "/21/items/zoopzip",
+  "metadata": {
+	"identifier": [
+	  "zoopzip"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Hookstone"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>Defend Zoop's center square by firing against advancing rows of multicolored, fast-moving shapes which approach simultaneously from four different directions. \"\"Opti-Challenge\"\" backgrounds increase the complexity of advancing levels: they are designed so that your eye is forced to look one way, while the approaching shapes move in from two other directions.<\/div>"
+	],
+	"publisher": [
+	  "Viacom New Media"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Zoop Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-02-15 19:43:32"
+	],
+	"addeddate": [
+	  "2014-02-15 19:43:32"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235108[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_13"
+	]
+  },
+  "files": {
+	"\/zoopzip.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392493407",
+	  "size": "1297638",
+	  "md5": "cdd8b74f69247d66b1b8323c9fdcb1fa",
+	  "crc32": "84588f54",
+	  "sha1": "5a434ab8b038e2b674c9d8abdd143f7ea9412e55"
+	},
+	"\/zoopzip.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392493425",
+	  "size": "49302",
+	  "md5": "103b6b1f387b62ec3d32ba48d9168d81",
+	  "crc32": "c753724b",
+	  "sha1": "722f89974c57cba8f678e3a38ebe02b85ee29f99",
+	  "rotation": "0"
+	},
+	"\/zoopzip_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f174052c3cc4be86c255a61f93d85b0b"
+	},
+	"\/zoopzip_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392493440",
+	  "size": "14336",
+	  "md5": "ab47d0a21dbcd158d8dddd26242231f8",
+	  "crc32": "5973fcc8",
+	  "sha1": "212b938e02d849d053788bb0b671435d6db9b4d6"
+	},
+	"\/zoopzip_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473073324",
+	  "size": "1212",
+	  "md5": "13419e693e53df81d7e055c14a25a041",
+	  "crc32": "da1f3bb8",
+	  "sha1": "b706e31aa0d250a2d3b1e3348c80e8164d390c89"
+	},
+	"\/zoopzip_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "zoopzip.jpg",
+	  "mtime": "1392493450",
+	  "size": "6420",
+	  "md5": "30d74e8e1af474956f80bfe20eff3717",
+	  "crc32": "843287bc",
+	  "sha1": "bc50363164ae4aba93a8b7d660ce036fee338c46"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600504.us.archive.org\/21\/items\/zoopzip\/zoopzip_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 230,
+	"week": 2,
+	"month": 7
+  }
+}

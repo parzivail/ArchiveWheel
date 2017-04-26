@@ -1,0 +1,177 @@
+{
+  "server": "ia902309.us.archive.org",
+  "dir": "/6/items/GFDEMO",
+  "metadata": {
+	"identifier": [
+	  "GFDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Quantum Quality Productions"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Only one fleet will be left afloat in this thrilling masterpiece from QQP. \u00a0Experience the grueling campaigns, the agony of defeat and the exhilaration of VICTORY! \u00a0Develop cultural resources and manage the growth of your population. \u00a0Allocate natural resources to build missile sites, radar stations, shipbuilding facilities and superships. \u00a0It is up to you to destroy your nemesis... or end up in Davy Jones' locker."
+	],
+	"publisher": [
+	  "Quantum Quality Productions"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "The Grandest Fleet Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2014-08-15 21:53:08"
+	],
+	"addeddate": [
+	  "2014-08-15 21:53:08"
+	],
+	"backup_location": [
+	  "ia905902_13"
+	],
+	"emulator_start": [
+	  "gfleet.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475271411",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475271442",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/GFDEMO-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473373169",
+	  "size": "2383047",
+	  "md5": "33c6a1e64b92c4c5f2b4dc13c8c264e1",
+	  "crc32": "65674fff",
+	  "sha1": "59838fff5e423353d1d60331783d32253b1ecfdd"
+	},
+	"\/GFDEMO-installer_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475271424",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/GFDEMO-play.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473373503",
+	  "size": "2047972",
+	  "md5": "574386ba8ed635cf231028dc86611fe3",
+	  "crc32": "aa14a3a8",
+	  "sha1": "c4c52af64bc542cc6659576d5f1e6010caf75627"
+	},
+	"\/GFDEMO.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1475271420",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2"
+	},
+	"\/GFDEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "3389a9c668319a9298f7efce5cb1b4ad67cf5ada",
+	  "mtime": "1475271445",
+	  "size": "3004",
+	  "md5": "108638a7dc009b3705f3b1070c48213b",
+	  "crc32": "d5d56901",
+	  "sha1": "5975052bb600271c61bb43e32af517647db41507",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GFDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ecb5187bf2df1ca1474d2ef83659c48a"
+	},
+	"\/GFDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475271427",
+	  "size": "14336",
+	  "md5": "2d48a832c1c5f3cb6557c36189276f71",
+	  "crc32": "1870ddd5",
+	  "sha1": "952c02a3cedd5659ea936ef1dfe3f9b055017da6"
+	},
+	"\/GFDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473373616",
+	  "size": "1229",
+	  "md5": "27026620e5749810fd60ae5132397f7a",
+	  "crc32": "1d1c318b",
+	  "sha1": "f8321102b3c680939811254ba4430efb7472b726"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475271415",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475271443",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902309.us.archive.org\/6\/items\/GFDEMO\/GFDEMO.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 336,
+	"week": 3,
+	"month": 6
+  }
+}

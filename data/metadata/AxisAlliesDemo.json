@@ -1,0 +1,112 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/34/items/AxisAlliesDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Axis & Allies Demo"
+	],
+	"description": [
+	  "Determine the fate of the world as you command the army, navy and air force of one of five world powers in the most dynamic WWII Real Time Strategy experience you've ever booted up. The start of the conflict is 1939. The end? Well, that all depends on you."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "TimeGate Studios"
+	],
+	"identifier": [
+	  "AxisAlliesDemo"
+	],
+	"addeddate": [
+	  "2012-06-22 06:51:51"
+	],
+	"publicdate": [
+	  "2012-06-22 06:52:51"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"publisher": [
+	  "Atari Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903805_16"
+	]
+  },
+  "files": {
+	"\/AXIS_ALLIES_DEMO_Setup.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1340347794",
+	  "size": "287796859",
+	  "md5": "ed27c7f19e73ca9cf9bfc271430d9d14",
+	  "crc32": "f83ceae9",
+	  "sha1": "edbc066e3eea060ff386a72cfb5e59eca280db24"
+	},
+	"\/AXIS_ALLIES_DEMO_Setup.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1340347795",
+	  "size": "115587",
+	  "md5": "f0b1cbb8f40e565786477beb634c5b9a",
+	  "crc32": "c3dbe916",
+	  "sha1": "41a64094b538606b42f061c2f5ae0755826486e4",
+	  "rotation": "0"
+	},
+	"\/AXIS_ALLIES_DEMO_Setup_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "AXIS_ALLIES_DEMO_Setup.jpg",
+	  "mtime": "1340347965",
+	  "size": "6290",
+	  "md5": "fc95dc5d1c0d4b3c53f5f6bdd8f25539",
+	  "crc32": "69563931",
+	  "sha1": "257d0473232665eda28eeeda7ad238ca637135d6"
+	},
+	"\/AxisAlliesDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6323d64fe22c2036c7804a6a63a5f9b185696b0b",
+	  "mtime": "1465000943",
+	  "size": "12851",
+	  "md5": "98fb548b901086076fde9ca90dd7351d",
+	  "crc32": "57d8414e",
+	  "sha1": "3f4df24606588cbcd190da48c23c35ce75d18dab",
+	  "format": "Archive BitTorrent"
+	},
+	"\/AxisAlliesDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "aeec9295c560170688a2db9a4792b3b6"
+	},
+	"\/AxisAlliesDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465000939",
+	  "size": "1029",
+	  "md5": "f1f63344e3c6f0d7c3018fc9bb6e9ece",
+	  "crc32": "238b1c3b",
+	  "sha1": "76bd38a90a47fd10c581e6d516413962742bf8a3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/34\/items\/AxisAlliesDemo\/AXIS_ALLIES_DEMO_Setup_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1383,
+	"week": 15,
+	"month": 42
+  }
+}

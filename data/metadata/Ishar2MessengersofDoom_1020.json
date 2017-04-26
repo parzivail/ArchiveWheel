@@ -1,0 +1,765 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/0/items/Ishar2MessengersofDoom_1020",
+  "metadata": {
+	"identifier": [
+	  "Ishar2MessengersofDoom_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Silmarils"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Silmarils"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Ishar 2: Messengers of Doom Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2012-09-05 20:07:31"
+	],
+	"addeddate": [
+	  "2012-09-05 20:07:31"
+	],
+	"description": [
+	  "\"Following the incredible success of ISHAR, Silmarils bring you a new, unmissable RPG, even closer to reality !\n<p>\n* Exceptional 3D graphics, interior and exterior views, dungeons, tree-cities, mountain-paths with real graded height effect, medieval towns with a unique mix of locations- harbor, banks, inns, libraries, temples, prisons-even nightclubs !\n<\/p><p>\n* Gigantic play area (3 times the size of Ishar, 400.000 views).\n<\/p><p>\n* Detailed challenging adventure scenarios.\n<\/p><p>\n* Several hundred characters.\n<\/p><p>\n* User friendly RPG environment will please young and old, novices and experts.\n<\/p><p>\n* Create and modify your own team.\n<\/p><p>\n* Detailed maps, character sheets, character development, day and night cycle, create magic potions and use pet animals as allies !\n<\/p><p>\n* Team-members have their own personalities\n<\/p><p>\n* Save game at any time without penalty.\n<\/p><p>\n* Reuse your saved team from Ishar (you do not need to own Ishar to play Ishar II). \"<\/p>"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	],
+	"emulator_start": [
+	  "START.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475309709",
+	  "size": "158732",
+	  "md5": "202c147f4b93756adbe8d120c41b2f1d",
+	  "crc32": "b177fee7",
+	  "sha1": "c4078370a85cb2a6a4008ea5058523a73b3907a0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475309844",
+	  "size": "4362",
+	  "md5": "caa8cb0f72eb8f30a41f2f5ed5482139",
+	  "crc32": "dfd3bbc7",
+	  "sha1": "bf19fbff3f4df68741c05da083ae6e54063655ee"
+	},
+	"\/Ishar2MessengersofDoom_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475309812",
+	  "size": "43465",
+	  "md5": "852ed7156b9e52c7836a01bac9f3312a",
+	  "crc32": "57b1f7f4",
+	  "sha1": "28ad7453c2b3a6a417e8422420f1e047b8fd5850",
+	  "format": "Animated GIF"
+	},
+	"\/Ishar2MessengersofDoom_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "db58abeda1de86a2cc660af72804310aa7701670",
+	  "mtime": "1475309885",
+	  "size": "13208",
+	  "md5": "0880d733a10b697a104b20f3f3c58def",
+	  "crc32": "284d3a11",
+	  "sha1": "0956d587a48576b82a4a01ac9473872cfa54d740",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Ishar2MessengersofDoom_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "36c413d9a78a971c11900b576fe2f752"
+	},
+	"\/Ishar2MessengersofDoom_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475309837",
+	  "size": "24576",
+	  "format": "Metadata",
+	  "md5": "7b19694f35e945dcfa8665080b22530b",
+	  "crc32": "9c2cad5f",
+	  "sha1": "f3b636472cd4ee53b4f896db11bc7abf587567b6"
+	},
+	"\/Ishar2MessengersofDoom_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471792845",
+	  "size": "1998",
+	  "md5": "85596876986cc8172995daec693ccacb",
+	  "crc32": "d2fa8c42",
+	  "sha1": "0a49766e7e8acde101d129fc469e1b6fc6df29f0"
+	},
+	"\/ishar2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346875658",
+	  "size": "526621",
+	  "md5": "ee4897952223c802212f1e9c0648508f",
+	  "crc32": "0e7d1be6",
+	  "sha1": "5d8bc1b2465325e006c715cbbb6d040021df6353"
+	},
+	"\/ishar2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875658",
+	  "size": "691",
+	  "md5": "716226e7a520691105c5302ce9150dec",
+	  "crc32": "6f3c7fd6",
+	  "sha1": "fb4a67d4dad54d80851c603a8445a49d1d0a9442"
+	},
+	"\/ishar2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475309825",
+	  "size": "1563813",
+	  "md5": "15a087a88b133affa77b26d49abe4678",
+	  "crc32": "9e199fa5",
+	  "sha1": "368b4f022c03ce2e3906da17b84fcf1c6b97c0e4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3723.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346875997",
+	  "size": "61247",
+	  "md5": "096e557ac61b96569c7006516a36384c",
+	  "crc32": "bfd223f7",
+	  "sha1": "f9b503c57f234884c643e33d95843f70be06c3a9"
+	},
+	"\/resource_item_3723.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875997",
+	  "size": "272",
+	  "md5": "72aef24698c602d96c6e4f65ba0d4760",
+	  "crc32": "ef13537f",
+	  "sha1": "96167e64950f3db1adde7e02483c6cd699c2baeb"
+	},
+	"\/resource_item_3723_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3723.png",
+	  "mtime": "1346879006",
+	  "size": "7250",
+	  "md5": "252af3b4bf202448da5359ed55722780",
+	  "crc32": "06d82498",
+	  "sha1": "fe46394c7b6c16e0006ca2a6c4ffac2f2fbaf67e"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475309713",
+	  "size": "158124",
+	  "md5": "6dd2b84e79a74e31c1773a638872aafb",
+	  "crc32": "c913e8e0",
+	  "sha1": "9b4667c3099e8f4ca3dd0f322b367d7028eef77e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475309864",
+	  "size": "4331",
+	  "md5": "6c883bcb0ba5c0a7bbda5174d76f1fba",
+	  "crc32": "79385f1d",
+	  "sha1": "f39352e406b987a7d447766a5810a88c4783420c"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475309716",
+	  "size": "158394",
+	  "md5": "a66ed697b45960fecb01497de45603dd",
+	  "crc32": "d64d3a2c",
+	  "sha1": "4f7314f4a0ab834f2774a5429ffbbf732a976cce",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475309847",
+	  "size": "4342",
+	  "md5": "2e9eaf700fa970faa7600fdc05690831",
+	  "crc32": "226de1a7",
+	  "sha1": "5f32d609e55a3a0169b981312fa5696397f6b438"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475309721",
+	  "size": "158347",
+	  "md5": "6c5436132de37d8ac42d4389ae789541",
+	  "crc32": "a1d2d0c9",
+	  "sha1": "edbc3667e86f765aeb51aa216e4915a69819322e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475309848",
+	  "size": "4355",
+	  "md5": "6e27283221c6e749edde33ab0a2be1c4",
+	  "crc32": "9c95a72c",
+	  "sha1": "53881bb507b51b4bb03daeb6c07ef3be055bbe73"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475309728",
+	  "size": "157661",
+	  "md5": "d93c02d96e3f70937bfdea1e940c7193",
+	  "crc32": "7eb766f7",
+	  "sha1": "abf9583d22232dffb6fc4b8dfb2de7b5d23dc8ea",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475309849",
+	  "size": "4322",
+	  "md5": "8b4447e25a68137e4c9500c8c579abda",
+	  "crc32": "befd4ffb",
+	  "sha1": "f3bb368fb192569e7d277703f0c63adc2dac899f"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475309732",
+	  "size": "157673",
+	  "md5": "61a39d1dd7909ed6b636b7f852ef640c",
+	  "crc32": "52df3fb3",
+	  "sha1": "8999d108a968175305ca4ab46fa16d354b15e37d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475309851",
+	  "size": "4329",
+	  "md5": "72188827a0d53b95a4ed51466765c1cc",
+	  "crc32": "f5e3c690",
+	  "sha1": "9a5aae5565ac769f8cedc8c9aaf1b8583088cf74"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475309737",
+	  "size": "157887",
+	  "md5": "57f2175bead40351e25c2a6d7ffefbd0",
+	  "crc32": "5396ea45",
+	  "sha1": "0674c726284ba6176e0abfe3488fe97125f27577",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475309853",
+	  "size": "4328",
+	  "md5": "988c1030cd73cbaf58be69902f588a8c",
+	  "crc32": "3fb58f7d",
+	  "sha1": "5c6df1a6db93dec0494db6d65821ab7de4070b0b"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475309741",
+	  "size": "158323",
+	  "md5": "b9414be99682d3cf00a07c7b534eeb1e",
+	  "crc32": "87de4321",
+	  "sha1": "5abc45f1c5e4a77c21e2842e7cb10275739bdd90",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475309854",
+	  "size": "4336",
+	  "md5": "343030683e58f29b150fe4d30717ccd1",
+	  "crc32": "90e4ab5c",
+	  "sha1": "573042b1abe3f6bd6d02260ba3919100b3d5b41e"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475309744",
+	  "size": "158732",
+	  "md5": "202c147f4b93756adbe8d120c41b2f1d",
+	  "crc32": "b177fee7",
+	  "sha1": "c4078370a85cb2a6a4008ea5058523a73b3907a0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475309855",
+	  "size": "4362",
+	  "md5": "caa8cb0f72eb8f30a41f2f5ed5482139",
+	  "crc32": "dfd3bbc7",
+	  "sha1": "bf19fbff3f4df68741c05da083ae6e54063655ee"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475309749",
+	  "size": "157907",
+	  "md5": "ef271ade2bda9a1f5c60b7046b0a62d8",
+	  "crc32": "825b97ce",
+	  "sha1": "13933d228ea771ae7b147e75b8b3b36a1f1ddb1e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475309857",
+	  "size": "4324",
+	  "md5": "bf915299cd3d57df44cc71266c424294",
+	  "crc32": "5564aab7",
+	  "sha1": "0a0dd356637bf24892569bb2dbc205ea58a89a2f"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475309753",
+	  "size": "157890",
+	  "md5": "1c42e76455233e09356320b20b3feec1",
+	  "crc32": "b69bd13d",
+	  "sha1": "04b10b55b2ffc2a340226942cc8f6de592642b14",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475309858",
+	  "size": "4334",
+	  "md5": "8fbaecf56831ae93775cac88cbf23da9",
+	  "crc32": "34146ad2",
+	  "sha1": "5aa8ca94367e5314652d7264a8d60c5f1d1dab20"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475309756",
+	  "size": "157978",
+	  "md5": "1d10fa04a503ca3b4306763ec902789b",
+	  "crc32": "16a9365f",
+	  "sha1": "dbe0e3d77c416ab79436a2cff7cde596537a9d74",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475309859",
+	  "size": "4366",
+	  "md5": "bd731c107d2606d7eef1b39f9a589ec0",
+	  "crc32": "21e4b2af",
+	  "sha1": "31fe2fe3eae4f08a58126b2a6e579e77127482c3"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475309758",
+	  "size": "158260",
+	  "md5": "b93f8080fd3529dad9242f083f7748f7",
+	  "crc32": "3262c3f4",
+	  "sha1": "ddd20a24fa6db83e4a25f78bab4bb9dddfc10568",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475309860",
+	  "size": "4322",
+	  "md5": "c1a7b9d827551c8e22610b439062b6dc",
+	  "crc32": "415a252c",
+	  "sha1": "76b2f09798c892e6909e3110b54bc38c3a3f3d34"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475309760",
+	  "size": "157684",
+	  "md5": "b302e6f5af40d86ac1059680fe3ee8c2",
+	  "crc32": "d4805a51",
+	  "sha1": "e19b750eb008fcdb3050ad5636e8c09e56b97f02",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475309862",
+	  "size": "4319",
+	  "md5": "520860978a6c4b40da722ed7e5ca7f8f",
+	  "crc32": "e5920726",
+	  "sha1": "8be225f7b2397d0ee7661a47818625f44400bc14"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475309763",
+	  "size": "158034",
+	  "md5": "f40bb6a99112e5d22e264cf75e6f7acc",
+	  "crc32": "a813be9f",
+	  "sha1": "98bdf743da2a54fac39e4a988fa737aea47b19b2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475309846",
+	  "size": "4338",
+	  "md5": "da67cb8219c9f22d98e7b513855c5caf",
+	  "crc32": "8a928a11",
+	  "sha1": "ac7b875258299ac93fbd976261cffeb5dbc15a64"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475309766",
+	  "size": "158082",
+	  "md5": "6e0b273785ffa171f98fe74035d9663d",
+	  "crc32": "7127a51b",
+	  "sha1": "a17e87af136fa7cdb0c2643d9f3f77d23bfd3b9f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475309866",
+	  "size": "4323",
+	  "md5": "6bfd08275ff1dc96c81dd4d891ca629b",
+	  "crc32": "a9da0a2d",
+	  "sha1": "732eeb5871f15a561c86284166024ebeda6daa85"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475309769",
+	  "size": "158231",
+	  "md5": "1c386d6e772a5a7837d8075bb92a4077",
+	  "crc32": "48fc2f31",
+	  "sha1": "0ac982bcbff06591507f965fabc3356c1db524b4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475309865",
+	  "size": "4329",
+	  "md5": "fad5693d35b4f8f4dc5ce0b811184d74",
+	  "crc32": "33b20da9",
+	  "sha1": "1e2d3a1328c63ed8120686f8f898510b051d1c81"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1475309772",
+	  "size": "158484",
+	  "md5": "52d1154e8ca8b044fba02495dd3cbc5a",
+	  "crc32": "609dd9af",
+	  "sha1": "7f87c4494ca2fd7f71370999e6b40d23418c6947",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1475309867",
+	  "size": "4375",
+	  "md5": "3a38ff1ed9b1b71201cc1adc7ad66967",
+	  "crc32": "39c3873d",
+	  "sha1": "7c8a1446ac0699d14bc214131da880c36e1bfaad"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1475309775",
+	  "size": "158100",
+	  "md5": "4079bc1e9da6d0c0b499845fd40d9ea3",
+	  "crc32": "11038517",
+	  "sha1": "8d782024212177f5d6315d79d5243b3976f10c94",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1475309869",
+	  "size": "4362",
+	  "md5": "45dedfa9f18f355180e199f309a2bda0",
+	  "crc32": "5f991456",
+	  "sha1": "1606c3ffb342a1657a2891868c52c3c84a84a420"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1475309780",
+	  "size": "157813",
+	  "md5": "12dd5851ac5d5159f348bb388ecf2075",
+	  "crc32": "9389658c",
+	  "sha1": "32c66f0595bbcc5026bc1fdc4d2f5be30ff7808d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1475309870",
+	  "size": "4338",
+	  "md5": "ec08e43fdf32ae8cc96e0a7a7a5aa261",
+	  "crc32": "b631d9aa",
+	  "sha1": "739fbccd21e4699d4935ac3e8ec4686a6ead20ff"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1475309783",
+	  "size": "158511",
+	  "md5": "81dff1a8e606628eea825e008513efa2",
+	  "crc32": "e4f3c7ae",
+	  "sha1": "6d6a0f3f8ee2f913c5c45b700d2cd5bd2805c2fa",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1475309872",
+	  "size": "4338",
+	  "md5": "8dc9be421930a490db835ba3e877d7c0",
+	  "crc32": "4c43e996",
+	  "sha1": "95f621bf3755554294e9dc3ad3b48921c0ce5597"
+	},
+	"\/screenshot_20.jpg": {
+	  "source": "original",
+	  "mtime": "1475309785",
+	  "size": "157999",
+	  "md5": "dc71beb9291ded426b95d2097166b593",
+	  "crc32": "8967f8ca",
+	  "sha1": "295056c0ec4ba567a51aa35cd4853c0b890cae32",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_20_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_20.jpg",
+	  "mtime": "1475309873",
+	  "size": "4344",
+	  "md5": "6b2ef872f0ee6778f1672705856df117",
+	  "crc32": "97d8163d",
+	  "sha1": "aeb675de9f5c86740efa10c888c4b56aa8925f6e"
+	},
+	"\/screenshot_21.jpg": {
+	  "source": "original",
+	  "mtime": "1475309788",
+	  "size": "158244",
+	  "md5": "220498daad85ddc3a5fb4407e02f03d0",
+	  "crc32": "d0b58518",
+	  "sha1": "5823d3d06628972e219ca8130854454fd5a29385",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_21_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_21.jpg",
+	  "mtime": "1475309874",
+	  "size": "4343",
+	  "md5": "d21c78b64138c1b32a9a25a06ca7e83e",
+	  "crc32": "f4b69fef",
+	  "sha1": "01f514414301089656835760f538bfa335205aaa"
+	},
+	"\/screenshot_22.jpg": {
+	  "source": "original",
+	  "mtime": "1475309790",
+	  "size": "158646",
+	  "md5": "71ea09e3f16da8c04990e60270c45650",
+	  "crc32": "9da318dd",
+	  "sha1": "ec4c60bab06b95956fda3d440576364b0940b0a6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_22_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_22.jpg",
+	  "mtime": "1475309876",
+	  "size": "4358",
+	  "md5": "455d7f4880111c042740ec2e75fe5c01",
+	  "crc32": "cb71b2b1",
+	  "sha1": "43ea0c726bc911498447b2c9ce8801fa8c2ab832"
+	},
+	"\/screenshot_23.jpg": {
+	  "source": "original",
+	  "mtime": "1475309793",
+	  "size": "157659",
+	  "md5": "4beddef88eece2f9beae5fc25e2ec306",
+	  "crc32": "7248f9dd",
+	  "sha1": "1dd073ddf47aae86a5e231f4450a0c7197a76066",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_23_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_23.jpg",
+	  "mtime": "1475309877",
+	  "size": "4316",
+	  "md5": "8a5f86cf9d9a5a48d71fff44b6171350",
+	  "crc32": "b58b5701",
+	  "sha1": "40628b35295e559b0bd6182b38bd6faf4c49a9f6"
+	},
+	"\/screenshot_24.jpg": {
+	  "source": "original",
+	  "mtime": "1475309797",
+	  "size": "158169",
+	  "md5": "f2ecca94e4a5e8ad203331fc476e10d8",
+	  "crc32": "821f577d",
+	  "sha1": "60f14eefd53671cb2e2968491383bcee4577910f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_24_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_24.jpg",
+	  "mtime": "1475309878",
+	  "size": "4345",
+	  "md5": "d72f5f47ef406318f3d612e199fb62d1",
+	  "crc32": "ba35cacd",
+	  "sha1": "7a408d7f5a7e2732e9a2bcf4cd1810fe47ab1650"
+	},
+	"\/screenshot_25.jpg": {
+	  "source": "original",
+	  "mtime": "1475309800",
+	  "size": "158485",
+	  "md5": "572109a3921833d5a4d4f322910cf393",
+	  "crc32": "564aac76",
+	  "sha1": "972ce014640bb39881d959a54f85e3b57f4d2492",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_25_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_25.jpg",
+	  "mtime": "1475309879",
+	  "size": "4341",
+	  "md5": "580112c69bed7855127d5cfe90b69f69",
+	  "crc32": "922f7d24",
+	  "sha1": "25ac273bc6dba34f1a6f41b0d3eebc5746730a4d"
+	},
+	"\/screenshot_26.jpg": {
+	  "source": "original",
+	  "mtime": "1475309802",
+	  "size": "158450",
+	  "md5": "098b417d840ab5d728ff0f1d80eb30e7",
+	  "crc32": "9d287bb2",
+	  "sha1": "05af35b3396cc3c693bc48e8c609b156397f4afe",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_26_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_26.jpg",
+	  "mtime": "1475309881",
+	  "size": "4338",
+	  "md5": "64df8dec808587aafadbd05287ad7d9b",
+	  "crc32": "86288241",
+	  "sha1": "54afe5fc06dbe42d9bb669f0f8ded278d9a12e13"
+	},
+	"\/screenshot_27.jpg": {
+	  "source": "original",
+	  "mtime": "1475309806",
+	  "size": "158479",
+	  "md5": "a317184b31a477c79c60886e9f83810f",
+	  "crc32": "6108c1a4",
+	  "sha1": "a8a785be475386d09718247c865718f791b7586e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_27_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_27.jpg",
+	  "mtime": "1475309882",
+	  "size": "4359",
+	  "md5": "2d559fb96f3d55c0d91a10b7eb27b23f",
+	  "crc32": "3e7a0db7",
+	  "sha1": "76254d2e8e2c896e53bb4eb40d900e613f4fcdb9"
+	},
+	"\/screenshot_28.jpg": {
+	  "source": "original",
+	  "mtime": "1475309809",
+	  "size": "158293",
+	  "md5": "926b0be329268979028f812258301f5c",
+	  "crc32": "6a2ce53a",
+	  "sha1": "3234511f5ac8d4ec620874acd2a4042791ddb524",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_28_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_28.jpg",
+	  "mtime": "1475309883",
+	  "size": "4332",
+	  "md5": "00fa6cf03df5c7beecdb0d1ac164b2ba",
+	  "crc32": "cad59dfc",
+	  "sha1": "a046757b3cf56593616a914e94336b3e2a7f3b5d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/0\/items\/Ishar2MessengersofDoom_1020\/Ishar2MessengersofDoom_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1048,
+	"week": 7,
+	"month": 15
+  }
+}

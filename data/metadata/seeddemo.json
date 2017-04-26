@@ -1,0 +1,114 @@
+{
+  "server": "ia600207.us.archive.org",
+  "dir": "/29/items/seeddemo",
+  "metadata": {
+	"identifier": [
+	  "seeddemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Human Soft"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Seed fuses the viewpoint of a 3D shooter and the elements of a traditional platform game. It offers that \"\"inside\"\" first-person view to what is happening with the player, but with a twist: in Seed, the whole body is visible, because it casts a lifelike shadow.<\/div><div><br \/><\/div><div>In a platform game or in any other near-combat game, you must be able to ascertain your position. Without this, you would have no idea where a punch would land or if a slow-moving projectile, customary in platform games, has hit any part of your body. Knowing exactly where you are is especially important during jumps, as you need to know the edges of the platform. Because the player's shadow is visible in Seed, all the criteria are met as far as orientation is concerned, yet you have a first-person view that you can take advantage of. With a first-person view such as this, you can better \"\"feel\"\" all the forces of nature, such as currents, acting on you; the sudden jolt or spin of a platform has a more realistic effect as you follow its movement with your own eyes.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Seed Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-01-27 15:25:10"
+	],
+	"addeddate": [
+	  "2014-01-27 15:25:10"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233738[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_19"
+	]
+  },
+  "files": {
+	"\/seeddemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390836339",
+	  "size": "15828305",
+	  "md5": "475d5b6d931c0f6b4a2ec633b83a663d",
+	  "crc32": "5ccb56d2",
+	  "sha1": "3fef6e6c69ac43fb1fd5fe885642af936f785789"
+	},
+	"\/seeddemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390836309",
+	  "size": "30903",
+	  "md5": "19a2c287f0dd3bbff30251b58d3a6aca",
+	  "crc32": "65f53c97",
+	  "sha1": "f7f093ff2c57556630b4add15ed148222d2aef95",
+	  "rotation": "0"
+	},
+	"\/seeddemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "22ac2df603638d09ae920a6bf454dd9f"
+	},
+	"\/seeddemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390836345",
+	  "size": "18432",
+	  "md5": "52d6afd53f50be502fbc2e65be623bdd",
+	  "crc32": "74226b19",
+	  "sha1": "94352168752ccfde9edf483bc06511f64c2a1ed7"
+	},
+	"\/seeddemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472499726",
+	  "size": "1906",
+	  "md5": "723d4c0c6c4b3fd76e30e419d628cb41",
+	  "crc32": "6adba05c",
+	  "sha1": "7a44ffb4007637bda48f316c420418f2cb911266"
+	},
+	"\/seeddemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "seeddemo.jpg",
+	  "mtime": "1390836352",
+	  "size": "2852",
+	  "md5": "e41c61a41148be541a4165ed87aa80ea",
+	  "crc32": "9e73a5c4",
+	  "sha1": "a401ca8f03e4c295298f433dddad715b251d6ea9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600207.us.archive.org\/29\/items\/seeddemo\/seeddemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 750,
+	"week": 13,
+	"month": 32
+  }
+}

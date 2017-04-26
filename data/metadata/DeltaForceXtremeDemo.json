@@ -1,0 +1,112 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/32/items/DeltaForceXtremeDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Delta Force: Xtreme Demo"
+	],
+	"description": [
+	  "Powered by today\u2019s gaming technology, Delta Force: Xtreme brings the classic Delta Force game back to life to face the enemy once more. As a member of the elite Delta Force, prepare yourself to take on over 60 levels of frantic single and multiplayer FPS action, including graphically enhanced missions from the original game, new maps, improved game features, STATS and much more."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "NovaLogic"
+	],
+	"identifier": [
+	  "DeltaForceXtremeDemo"
+	],
+	"addeddate": [
+	  "2012-06-11 00:05:26"
+	],
+	"publicdate": [
+	  "2012-06-11 00:06:30"
+	],
+	"date": [
+	  "2005"
+	],
+	"year": [
+	  "2005"
+	],
+	"publisher": [
+	  "NovaLogic"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_34"
+	]
+  },
+  "files": {
+	"\/DeltaForceXtremeDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "981bf2073859fbe47a3c816b7575bbd991a56147",
+	  "mtime": "1464206845",
+	  "size": "13513",
+	  "md5": "3ea78f9d3fa9082f73fe274b33853a21",
+	  "crc32": "39f6b92a",
+	  "sha1": "6a8f887a7a105a2f5ad1550b751d046cf5a5ed13",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DeltaForceXtremeDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "71903a837abf7560c855474086539f51"
+	},
+	"\/DeltaForceXtremeDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464206842",
+	  "size": "1147",
+	  "md5": "354b660e2104cc0d7faae33fd708fe47",
+	  "crc32": "9a028068",
+	  "sha1": "cec576127b165509a7902b230c121cdcf6fb3e23"
+	},
+	"\/dfx_demo_05172005_xx.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1339372976",
+	  "size": "304201198",
+	  "md5": "a45333101239fb2a697fb6a0ff60361d",
+	  "crc32": "5df55199",
+	  "sha1": "fd623303ad73ac91cb369bf474380fa1545274fc"
+	},
+	"\/dfx_demo_05172005_xx.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1339372977",
+	  "size": "160647",
+	  "md5": "b71ce5dbfffe7a3fa6a3241677637c9e",
+	  "crc32": "4553d480",
+	  "sha1": "516018fc6407f668858174794c532fb33f0a443e",
+	  "rotation": "0"
+	},
+	"\/dfx_demo_05172005_xx_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "dfx_demo_05172005_xx.jpg",
+	  "mtime": "1339373183",
+	  "size": "5115",
+	  "md5": "fbd7971c390c6493f6728d6e6dd0cae7",
+	  "crc32": "7ca8efcf",
+	  "sha1": "65e0eb8d992b1110695fa40669ba70b588de1ae8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/32\/items\/DeltaForceXtremeDemo\/dfx_demo_05172005_xx_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1290,
+	"week": 11,
+	"month": 32
+  }
+}

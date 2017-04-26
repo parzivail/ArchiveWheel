@@ -1,0 +1,102 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/14/items/SoldierOfFortuneIiDoubleHelixDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Soldier of Fortune II: Double Helix Demo"
+	],
+	"description": [
+	  "You are John Mullins, a professional consultant with a long combat record and a reputation for getting the job done when the world\u00e2s governments can\u00e2t. After a long and distinguished career in the Army\u00e2s Special Forces, you\u00e2re now in business for yourself, taking most of your contracts from a secret organization known only as The Shop. Together with your old friend Sam Gladstone and your partner, Madeline Taylor, you combat terrorism around the globe.\n\nYou\u00e2ve learned that a bloodthirsty worldwide terrorist organization has developed a deadly genetic virus and is threatening to unleash it on the world unless their demands are met. Your mission: root out the terrorist organization, uncover their secret plans, put a stop to their operation and bring their leader to justice.\n\nFailure is not an option."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"identifier": [
+	  "SoldierOfFortuneIiDoubleHelixDemo"
+	],
+	"addeddate": [
+	  "2012-05-15 01:56:03"
+	],
+	"publicdate": [
+	  "2012-05-15 01:56:49"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232919[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_16"
+	]
+  },
+  "files": {
+	"\/SoldierOfFortuneIiDoubleHelixDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a73bf5669e28b3aa6ec85bc67a2a25a8"
+	},
+	"\/SoldierOfFortuneIiDoubleHelixDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463182932",
+	  "size": "1603",
+	  "md5": "e0781a973bee04f5386971c4e99b4ab8",
+	  "crc32": "4d3c2a08",
+	  "sha1": "c04087cf60a31b4282cb94fa1d15812cd49da420"
+	},
+	"\/sp_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1337001156",
+	  "size": "143531627",
+	  "md5": "25aae86e835747174523861d40facec1",
+	  "crc32": "73cef070",
+	  "sha1": "6f60d4a089d235512b0f16b7fdd60e4460ad15aa"
+	},
+	"\/sp_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1337001157",
+	  "size": "63249",
+	  "md5": "28fd82e14a39c882d5740c31b41a0349",
+	  "crc32": "d7369bcd",
+	  "sha1": "8951fff01b9c495fe098ac172e3ceb8a8b063d36",
+	  "rotation": "0"
+	},
+	"\/sp_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sp_demo.jpg",
+	  "mtime": "1337047004",
+	  "size": "4778",
+	  "md5": "d48e5d04460ac038e3425bd567a4e0a3",
+	  "crc32": "595177bb",
+	  "sha1": "b05a820323abc95156f505955a0818eb85c5b6da"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/14\/items\/SoldierOfFortuneIiDoubleHelixDemo\/sp_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1403,
+	"week": 17,
+	"month": 48
+  }
+}

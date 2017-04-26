@@ -1,0 +1,369 @@
+{
+  "server": "ia601903.us.archive.org",
+  "dir": "/35/items/WanderingHamsterDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Wandering Hamster Demo"
+	],
+	"description": [
+	  "This is a Work-in-Progress demo of Wandering Hamster. This version\ncontains roughly three hours of playing time\n\nLord Hasim has been overthrown, plips run rampant, and a menacing evil lurks in the shadows... or is it a cactus? What hamster is spiffy enough to save the world? Bob!"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Hamster Republic Productions"
+	],
+	"identifier": [
+	  "WanderingHamsterDemo"
+	],
+	"addeddate": [
+	  "2013-01-19 22:09:46"
+	],
+	"publicdate": [
+	  "2013-01-19 22:10:02"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"license": [
+	  "freeware"
+	],
+	"named-persons": [
+	  "James Paige"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232510[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "wander.exe"
+	],
+	"backup_location": [
+	  "ia905605_4"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475599290",
+	  "size": "210762",
+	  "md5": "98f62a903b428de4e8e574ad038fe4e8",
+	  "crc32": "523572f0",
+	  "sha1": "568ebd23dc43bd5754736bb4b16023520de12cf2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475599368",
+	  "size": "4286",
+	  "md5": "8a5c4530e4920700592c91aabd447317",
+	  "crc32": "b1616ac0",
+	  "sha1": "004b0f10de0fec2e1cb05da700faa6446bbfd8de"
+	},
+	"\/WanderingHamsDemo.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1358633320",
+	  "size": "14410",
+	  "md5": "e19954d9cb6b468f2f28721f81751bf8",
+	  "crc32": "547f760c",
+	  "sha1": "81ad4523af94794bd729839d8d2e72940632013e"
+	},
+	"\/WanderingHamsDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1358633325",
+	  "size": "1235935",
+	  "md5": "4b5eb3f74d82c46521180d6ef64183db",
+	  "crc32": "c3a1bcf9",
+	  "sha1": "f835c9382e86d7dbc9003b35d34b37ac9b388abc"
+	},
+	"\/WanderingHamsDemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475599337",
+	  "size": "464031",
+	  "md5": "dc4954964ec44a74e94de31ae47a5142",
+	  "crc32": "a807ca3b",
+	  "sha1": "729ab7edf18348000f882df55f922874b9b3eb40",
+	  "format": "Emulator Screenshot"
+	},
+	"\/WanderingHamsterDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475599332",
+	  "size": "37646",
+	  "md5": "da0164dfa812e818eb9fea375d2f719d",
+	  "crc32": "1b2c92c8",
+	  "sha1": "041aa4c994664a954c4a4b27a4a03e30d4222abe",
+	  "format": "Animated GIF"
+	},
+	"\/WanderingHamsterDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "aae4af97cb3703ab02f3ce5b0deffa47769dab17",
+	  "mtime": "1475599378",
+	  "size": "6521",
+	  "md5": "44658567fbb606aa68bacc714ea17306",
+	  "crc32": "9b84f7e6",
+	  "sha1": "05ecdba653d89ff79abcf1c86e922968860e059a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WanderingHamsterDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b2106a4dd3e3b47693a9de4f9f95e7ba"
+	},
+	"\/WanderingHamsterDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475599341",
+	  "size": "13312",
+	  "md5": "65103c2ccf129e6a607d0341c7bcb545",
+	  "crc32": "53d33c67",
+	  "sha1": "7a7b4e87d408859d8f1c0737fa0de723dcd527a7",
+	  "format": "Metadata"
+	},
+	"\/WanderingHamsterDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475094299",
+	  "size": "1196",
+	  "md5": "c3f133b9d2d189c99357d5fad5bdfd3e",
+	  "crc32": "51c5d44d",
+	  "sha1": "d0f5521d2df893d817c115a572f182447978b81b"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475599292",
+	  "size": "9155",
+	  "md5": "9a14d0aaacdf5caf17f453f7ee11358a",
+	  "crc32": "ab5ff1a0",
+	  "sha1": "2c7ddf5c0564322773801be2c76d06927588a12b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475599369",
+	  "size": "1259",
+	  "md5": "39854af419bf77daaa67b825a89c0b09",
+	  "crc32": "6b0219a3",
+	  "sha1": "ab9dcd1f1e6a6729e336e0403dc11e841e0ba907"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475599295",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475599361",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475599299",
+	  "size": "180983",
+	  "md5": "b7b4d3a639d1746a27cf52215f1f9027",
+	  "crc32": "ed774868",
+	  "sha1": "999309101c92387c7cde0c58f39a3d82e55a88db",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475599362",
+	  "size": "4205",
+	  "md5": "d5a5406805f8b8841c86a4b3609409f2",
+	  "crc32": "814a6c07",
+	  "sha1": "25a01aac642f2e2a1d32e88b79fd069dc8d37eb3"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475599302",
+	  "size": "181609",
+	  "md5": "bfd1759ffa31f7f48f9902ae03fd0ef2",
+	  "crc32": "877cdbf2",
+	  "sha1": "4eb19400177dd611c801608e1d483b7bc6ed2317",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475599363",
+	  "size": "4228",
+	  "md5": "6448dd3d26d5a0fad67850f6e5fbb222",
+	  "crc32": "68eee1bb",
+	  "sha1": "d37ddc304c0bcdeb675a933752fab5a21a6d43a3"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475599305",
+	  "size": "208801",
+	  "md5": "27ac48d2167fd3a8f8d7578731a43659",
+	  "crc32": "c24b9ad2",
+	  "sha1": "3a189c784ccf11f46a214cb879138634aa4c3ac7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475599370",
+	  "size": "4275",
+	  "md5": "e60a6dd600acf1bf4d8befe3a00611de",
+	  "crc32": "9fa8683f",
+	  "sha1": "93334ea46b00b8e6af6844dfb226cfdcfff8e746"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475599313",
+	  "size": "210762",
+	  "md5": "98f62a903b428de4e8e574ad038fe4e8",
+	  "crc32": "523572f0",
+	  "sha1": "568ebd23dc43bd5754736bb4b16023520de12cf2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475599375",
+	  "size": "4286",
+	  "md5": "8a5c4530e4920700592c91aabd447317",
+	  "crc32": "b1616ac0",
+	  "sha1": "004b0f10de0fec2e1cb05da700faa6446bbfd8de"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475599316",
+	  "size": "207800",
+	  "md5": "0b58af83ac4bd6e6c18a735debfd7a62",
+	  "crc32": "6ebf889f",
+	  "sha1": "41cecf8da75e5c129916ca172d96a6dc8b0ceb5f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475599376",
+	  "size": "4308",
+	  "md5": "fec5180c2a3a9ab5d5568ced8c36bd67",
+	  "crc32": "27f1e9ef",
+	  "sha1": "148a05d127c03aeaa9af12424fff2e692e22fa6a"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475599319",
+	  "size": "209284",
+	  "md5": "6cbdf864ec35df2e6c48240848f50abf",
+	  "crc32": "531b25e8",
+	  "sha1": "3e4e10479c6c85d3c9225241103a41cab7bda712",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475599371",
+	  "size": "4257",
+	  "md5": "16ab8aa71173400d45bb32d31bd0f5a1",
+	  "crc32": "31900974",
+	  "sha1": "e6b701699968fc48a0be100ec0aa33e3ac5c6de9"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475599322",
+	  "size": "206649",
+	  "md5": "910c38346fd7f95813a70970792c4d8f",
+	  "crc32": "e6b3bfc7",
+	  "sha1": "372fa0ebdd24c5ab19cc4efe206d3ccbfaea63d1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475599372",
+	  "size": "4254",
+	  "md5": "ab5268de7cdbd20f1c3d99840624d391",
+	  "crc32": "4eb346b2",
+	  "sha1": "836747d11064e9c44f83f55b85a596a1c29184ff"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475599326",
+	  "size": "205404",
+	  "md5": "b8cc94a676214cdcb4bf70a624426b09",
+	  "crc32": "f541296a",
+	  "sha1": "03668bc48e845a83d5c9b4040210187d73ca3005",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475599373",
+	  "size": "4273",
+	  "md5": "df7e285afe0a20a96221d835496da5f3",
+	  "crc32": "6303a6e6",
+	  "sha1": "fb2212efffb6b6eac14c1bad7dd84bec29c4b40c"
+	},
+	"\/wandering-hamster.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1358633522",
+	  "size": "3047949",
+	  "md5": "a881d20bab161069703fcd6e7dd2ba81",
+	  "crc32": "f6139cb1",
+	  "sha1": "cd85049bc0844d3e03767c764d3a148e6aa60eb2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601903.us.archive.org\/35\/items\/WanderingHamsterDemo\/WanderingHamsterDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 75,
+	"week": 4,
+	"month": 6
+  }
+}

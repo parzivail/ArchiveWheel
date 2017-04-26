@@ -1,0 +1,123 @@
+{
+  "server": "ia600808.us.archive.org",
+  "dir": "/18/items/Mageslayer_1020",
+  "metadata": {
+	"identifier": [
+	  "Mageslayer_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "From the wizards who brought us Hexen, we now have MageSlayer, a trip into the bowels of darkness for a battle against the forces of evil. This 3D game has a dizzying overhead perspective that takes some time to get used to, but it's worth the wait. You assume the role of one of four savage MageSlayers who are on a quest to rescue ancient relics. Whip out the old spell book and thwart your enemies with a curse or two, solve a few wickedly entertaining puzzles, and participate in some righteous slaughtering with your armory of weapons. Graphics feature true 3D rooms-over-rooms, overhanging bridges, and the ability to plop a bomb on unsuspecting creatures below you."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GT Interactive"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "MageSlayer Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 01:05:48"
+	],
+	"addeddate": [
+	  "2012-09-05 01:05:48"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234733[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/Mageslayer_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0125d1c1cac595470d07c17c97111ee7"
+	},
+	"\/Mageslayer_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463613638",
+	  "size": "1458",
+	  "md5": "ea9e0d0604ddf8827fd4d8d0ff3935ee",
+	  "crc32": "7add95a3",
+	  "sha1": "a09a14327b1acc22988b73bba62c46e2143b51c5"
+	},
+	"\/magedemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346807234",
+	  "size": "8966018",
+	  "md5": "b65867e63a0edee6760febc0aab1240d",
+	  "crc32": "1639fe35",
+	  "sha1": "39d911c0dc65b2492822fb7bad6e6ef0d953507f"
+	},
+	"\/magedemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346807234",
+	  "size": "1384",
+	  "md5": "c998bb827ba998fac74ffe3148662a9f",
+	  "crc32": "80e1ba3f",
+	  "sha1": "e4d5f90f6a1ac5ef36bcca2d7c24b8e34abc591e"
+	},
+	"\/resource_item_2819.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346807236",
+	  "size": "15006",
+	  "md5": "69d2cb4b4f64bfe80c27ce30cf0606fe",
+	  "crc32": "15adc9ae",
+	  "sha1": "75c6c0a85cd6bfb6c496596467de4b78378dd301",
+	  "rotation": "0"
+	},
+	"\/resource_item_2819.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346807236",
+	  "size": "272",
+	  "md5": "e24f27ce710b9e2fe301d60d8b3ef628",
+	  "crc32": "13459f99",
+	  "sha1": "45337727080b9ea8436cc4240000d46ab19caacb"
+	},
+	"\/resource_item_2819_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2819.jpg",
+	  "mtime": "1346820160",
+	  "size": "4646",
+	  "md5": "a08ac3689aa9649b2352eccdb16e05d7",
+	  "crc32": "a2f27eb3",
+	  "sha1": "c27a40f6287d2155de8e7979f38486d5ea834675"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600808.us.archive.org\/18\/items\/Mageslayer_1020\/resource_item_2819_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 406,
+	"week": 7,
+	"month": 19
+  }
+}

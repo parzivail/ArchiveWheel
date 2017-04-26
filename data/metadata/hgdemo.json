@@ -1,0 +1,116 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/33/items/hgdemo",
+  "metadata": {
+	"identifier": [
+	  "hgdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Activision"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Heavy Gear is a war game in which you command giant mechanized bots set 4,000 years into the future on the planet Terra Nova. Two rival factions, the Confederated Northern City States (CNCS) and the Allied Southern Territories (AST), have colonized the planet, and the seeds of conflict are arising between the territories. This demo places you in the admirable shoes of Senior Ranger Edward Scott, the most skilled bot pilot in the CNCS force. Your mission is to guard the critical CNCS borders against encroaching forces. Rookie pilots will help you, and you can choose from eleven different bots with splendid names like the Grizzly, KODIAK, and the GRZ Destroyer. Get out there and kick some bot.<\/div>"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Heavy Gear Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-26 21:33:48"
+	],
+	"addeddate": [
+	  "2014-01-26 21:33:48"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233729[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/hgdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390772027",
+	  "size": "45449972",
+	  "md5": "af6ef840242045f4f641aa9c18f8bd37",
+	  "crc32": "81492779",
+	  "sha1": "d5e16a25d044c5221dcb1512031d55f3f37e0bab"
+	},
+	"\/hgdemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1390772039",
+	  "size": "99304",
+	  "md5": "881e487f671d94b5df42019227623919",
+	  "crc32": "f9e6ae0b",
+	  "sha1": "cd1494820375a0351e6d0b0c27b8c0cc024400e0"
+	},
+	"\/hgdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1b5666326a02bcf636ce0c44d1b938c0"
+	},
+	"\/hgdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390772054",
+	  "size": "14336",
+	  "md5": "f93d0300d40466a00659bf196680f4a9",
+	  "crc32": "d503cfe9",
+	  "sha1": "d452537776826f0a1973d56f3407c88afc3f7b5e"
+	},
+	"\/hgdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473855945",
+	  "size": "1556",
+	  "md5": "9d8a00754d27af33a6601cebc9fb3896",
+	  "crc32": "fe14e0e6",
+	  "sha1": "199aa61616cd80dba1ab9eb67c66f46da7ee7c47"
+	},
+	"\/hgdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "hgdemo.png",
+	  "mtime": "1390772071",
+	  "size": "3895",
+	  "md5": "666472b4221d924aedbc368d3ec328c6",
+	  "crc32": "93cc768a",
+	  "sha1": "33d400c1c018d00d2012f6efb4d69bb58a3fa337"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/33\/items\/hgdemo\/hgdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 543,
+	"week": 11,
+	"month": 21
+  }
+}

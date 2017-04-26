@@ -1,0 +1,628 @@
+{
+  "server": "ia800807.us.archive.org",
+  "dir": "/14/items/KingsQuestIvThePerilsOfRosellaDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "King's Quest IV: The Perils of Rosella Demo"
+	],
+	"description": [
+	  "\"Be prepared for a spectacular adventure, three times larger than any previous Sierra adventure, a landmark in computer gaming that transcends existing standards of computer graphics, sound, and animation.\n\nPowerfully dramatic, King's Quest IV evokes emotion like no other computer game with a unique combination of lifelike animated personalities, beautiful landscapes, and soul-stirring music. Sierra has recreated the universe of King's Quest, a world that one moment will pull at your heartstrings, the next moment place terror in your heart. Uniting the best programmers, artists, and musicians in the business, Sierra has created a constantly evolving universe where landscapes change from day to night, characters roam freely, and dramatic music interludes tantalize your emotions in a complicated tale of faith and mistrust. Your quest begins with a full-length cartoon and proceeds to plunge you into a fantasy world of mystery, intrigue, and enough plot twists to confound even the most dedicated adventurer.\n\nEmbark upon a perilous journey into the darkest corners of the King's Quest universe. Not one, but many successful quests must be completed to save the royal family from a tragic destiny. With a surprise introduction and an equally unexpected conclusion, plot twists abound as you strive to discover the mysteries of a strange land, overcome its hostile inhabitants, and reveal the secrets hidden therein.\n\nRoam the grounds at night and discover areas which remain hidden during daylight hours. Travel swiftly, as time is of the essence, and each moment brings the royal family closer to ruin. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"identifier": [
+	  "KingsQuestIvThePerilsOfRosellaDemo"
+	],
+	"addeddate": [
+	  "2012-07-08 19:08:51"
+	],
+	"date": [
+	  "1988"
+	],
+	"year": [
+	  "1988"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"publicdate": [
+	  "2012-07-08 19:09:14"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "sierra.com"
+	],
+	"backup_location": [
+	  "ia903806_21"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444837637",
+	  "size": "81397",
+	  "md5": "05ed75620c25c73413a88f20a398d904",
+	  "crc32": "c959bfed",
+	  "sha1": "6371c9b1cbf1a94cd9e0127514da82045f6cadda",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444837756",
+	  "size": "5005",
+	  "md5": "55746d603d55d32ff861ddf00fb1fd8e",
+	  "crc32": "2ed7c6e9",
+	  "sha1": "9cbb4016a7cb558c566e5920bc87bbc0b0f201d2"
+	},
+	"\/KingsQuestIvThePerilsOfRosellaDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444837727",
+	  "size": "16011",
+	  "md5": "9ec6693281eae0a6419bfbc2cd4c46b1",
+	  "crc32": "14a29157",
+	  "sha1": "25d66ddf9cb9e85756fb9704d72d506596c5855c",
+	  "format": "Animated GIF"
+	},
+	"\/KingsQuestIvThePerilsOfRosellaDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4dde74b1d2cdd050069e2cb21ae319c42a9a28cf",
+	  "mtime": "1463844089",
+	  "size": "10978",
+	  "md5": "590e8a7f72d0494808e22b481922d610",
+	  "crc32": "d7ed3e4e",
+	  "sha1": "06c5c9e280d18dd65001b3fdb50d8db7f571a64c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/KingsQuestIvThePerilsOfRosellaDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a51c46d0cb026516ca869e9910b22213"
+	},
+	"\/KingsQuestIvThePerilsOfRosellaDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444837738",
+	  "size": "21504",
+	  "format": "Metadata",
+	  "md5": "635ac8e68a3d6409b98f9c6252b86f18",
+	  "crc32": "e2d05355",
+	  "sha1": "f0a0767d956b8271ac9fd282347317a2628830e9"
+	},
+	"\/KingsQuestIvThePerilsOfRosellaDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463844088",
+	  "size": "2532",
+	  "md5": "e034eba7f25bf5a98288022bb99bbc47",
+	  "crc32": "46912df2",
+	  "sha1": "263d96b642c05cb650506424933c012f73bae918"
+	},
+	"\/kq4.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341774449",
+	  "size": "137254",
+	  "md5": "66a9d955894bb0791aa266e80ff87710",
+	  "crc32": "3e6cf83b",
+	  "sha1": "ac08f57b2df3cb4c682f15f1d030528576c56a06"
+	},
+	"\/kq4_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444837734",
+	  "size": "296745",
+	  "md5": "cedbeef133443236d0476e1c6318dc40",
+	  "crc32": "7b87222f",
+	  "sha1": "45ece9b7f6ea249e89f06513e5037c63c49aa566",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_210.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341774455",
+	  "size": "21786",
+	  "md5": "4c2d5a9f04b9a285e0be64cae4c34060",
+	  "crc32": "f749455a",
+	  "sha1": "5e732c151418ee9b706d45532da737924771b7b4",
+	  "rotation": "0"
+	},
+	"\/resource_item_210_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_210.jpg",
+	  "mtime": "1341774539",
+	  "size": "6831",
+	  "md5": "b22d26ea31602c21d0dd675cf0c56c02",
+	  "crc32": "2de39aeb",
+	  "sha1": "6ccacd6b66ee57281a22a4dc77f84bb624c0b8db"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444837639",
+	  "size": "76454",
+	  "md5": "757bc0b4ae5e4a01a8dcb5c855b6099a",
+	  "crc32": "243539a3",
+	  "sha1": "fbc900b5e53bd05834aaf225e909abfdc831948c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444837751",
+	  "size": "3480",
+	  "md5": "52e61121851813c0ec594ce9d6084cca",
+	  "crc32": "4a91cc45",
+	  "sha1": "74ba8594b3b4dec27f8124be3a1a3e33b640ba71"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444837648",
+	  "size": "59409",
+	  "md5": "43af49706feeed6892fb748813c42559",
+	  "crc32": "1e87b8fb",
+	  "sha1": "7ed06a824da312225f2a34bf0618a6552761b6c5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444837752",
+	  "size": "4955",
+	  "md5": "8cc89785124e62d35c3846370885e43d",
+	  "crc32": "e8b23d36",
+	  "sha1": "b102216c41b0c89c2ee1ca45437395027130a6d0"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444837650",
+	  "size": "80562",
+	  "md5": "a7f81296e4c4bd4d4cca292a6ea94be0",
+	  "crc32": "cc7360f4",
+	  "sha1": "769d641bdce55469fa79d3e4af378ab4c84ee84e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444837753",
+	  "size": "4523",
+	  "md5": "6ec2ac145fb9983eaaf2ec82d29e0de7",
+	  "crc32": "191803b1",
+	  "sha1": "b135447201d15e5dc132059818aa153d992db034"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444837654",
+	  "size": "81387",
+	  "md5": "85ed380c6957bcc53984995c7d278885",
+	  "crc32": "be9e290d",
+	  "sha1": "57641c016ffa3e6488f994d4617c30c270ca82a0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444837754",
+	  "size": "4919",
+	  "md5": "38bb303e87f2d2595399c28b5e8e271c",
+	  "crc32": "c9b96e9b",
+	  "sha1": "514acc836f1edff0214441905954d5b612565751"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444837656",
+	  "size": "49049",
+	  "md5": "cc9ec3883b4fb1819a959143c449c96f",
+	  "crc32": "95561c4e",
+	  "sha1": "5be239377cfdc96e0725ee11aaff42931a8a4cdd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444837752",
+	  "size": "2978",
+	  "md5": "959f0c7669ba67c18fd7c580a377eeca",
+	  "crc32": "48d27cc2",
+	  "sha1": "184d71ded278d79ec603282984c9b0350efa8d4d"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444837659",
+	  "size": "80923",
+	  "md5": "6dabe896cb3746479849a35f07242dc6",
+	  "crc32": "e857633d",
+	  "sha1": "775a4de5eb73f9928f2058d3a036371c39bbc1ff",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444837755",
+	  "size": "5001",
+	  "md5": "5298e9590e4bcd4621bd88527cc8bb98",
+	  "crc32": "4747cd8e",
+	  "sha1": "673732e6662629431760b1ef3203f17908e7072e"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444837661",
+	  "size": "79284",
+	  "md5": "a9bde236191db5143b422210730aeaf6",
+	  "crc32": "df30e4de",
+	  "sha1": "6cba50788382d7965107093ab504fae80afc0c43",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444837757",
+	  "size": "4382",
+	  "md5": "c5f7174056fce31de5579144953565e8",
+	  "crc32": "4c56b9d4",
+	  "sha1": "e24a8acf374a671a5d65e398b664e9545f8193b1"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444837664",
+	  "size": "80690",
+	  "md5": "3945a0037f0043cebfa69b67742823e7",
+	  "crc32": "e4583c76",
+	  "sha1": "07aa6b332fc3245b201df8c494ec08d24abff92e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444837758",
+	  "size": "4566",
+	  "md5": "208fd68055b580ffd37ad0e756cc1682",
+	  "crc32": "15eaf5bf",
+	  "sha1": "a2ebf96cd8a781cad1fec9b2fa2983497cda7b8c"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444837672",
+	  "size": "80591",
+	  "md5": "f1b2cd1a15cc55b03fa7138b4c43bf28",
+	  "crc32": "897c3fc5",
+	  "sha1": "43b6cb0fec75a3dffd51d87f1374f52f22e84b7e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444837759",
+	  "size": "4525",
+	  "md5": "4430fd01d9c4754dff2746a2ac630615",
+	  "crc32": "dbc283dc",
+	  "sha1": "01da3ec5133bf1a295d88a64ac1b13b88f3d2595"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444837674",
+	  "size": "81397",
+	  "md5": "05ed75620c25c73413a88f20a398d904",
+	  "crc32": "c959bfed",
+	  "sha1": "6371c9b1cbf1a94cd9e0127514da82045f6cadda",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444837756",
+	  "size": "5005",
+	  "md5": "55746d603d55d32ff861ddf00fb1fd8e",
+	  "crc32": "2ed7c6e9",
+	  "sha1": "9cbb4016a7cb558c566e5920bc87bbc0b0f201d2"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1444837678",
+	  "size": "40410",
+	  "md5": "fb4524659f3a0fab9c11702cd2ee7b6d",
+	  "crc32": "11357aa7",
+	  "sha1": "96886f9a21eb7426f28a4be5e57394c3032df635",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1444837760",
+	  "size": "2801",
+	  "md5": "7653af4631296018a0cbc8b5a04446d5",
+	  "crc32": "982eade6",
+	  "sha1": "a7848b0c5c4273fbd1ce56c077fddfbcd0c073c3"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1444837688",
+	  "size": "79491",
+	  "md5": "6e3864ea17202cb04c7ea8ef8df9822c",
+	  "crc32": "2477b6cb",
+	  "sha1": "b2a3873c4c09cd49305659f706fb442abf98baa7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1444837761",
+	  "size": "4408",
+	  "md5": "b418e8f92299dc89cb95f91d7ce230f6",
+	  "crc32": "68c163f9",
+	  "sha1": "d9e609a12aa3e464af9ad79ad4deec729ed6ac49"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1444837692",
+	  "size": "77834",
+	  "md5": "e47ba6e8d22ac5d9f4d6e8f0a8b6b30a",
+	  "crc32": "60440095",
+	  "sha1": "24d04cdcebe8713c8f1e759f310a7fd011d3eae6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1444837761",
+	  "size": "5031",
+	  "md5": "5bece1436b91aa37174661b3ef4543a3",
+	  "crc32": "d8ebf886",
+	  "sha1": "545b58876693f36923a9bfe8f94ed88b00642fd9"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1444837694",
+	  "size": "42180",
+	  "md5": "ddc73b9b3ab82cac83cf00411fa6165a",
+	  "crc32": "ba481044",
+	  "sha1": "56f94ee06fb2b0caf1a2994e943e059e04ce4f3a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1444837762",
+	  "size": "2871",
+	  "md5": "2d4ff8bac9a864dffa7222bd1b81f700",
+	  "crc32": "fa26e819",
+	  "sha1": "3c74c8195ecee5bc11c6d2a709548aa0e445bea3"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1444837696",
+	  "size": "81317",
+	  "md5": "95145ef95ec6f091a18d91f8a798477a",
+	  "crc32": "4f037a4b",
+	  "sha1": "0d0c6167f7d9fbc3be5a729fc1bc995b8459fe82",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1444837763",
+	  "size": "4939",
+	  "md5": "89612b5e32195bf2d7e0c33331b451fe",
+	  "crc32": "5d66a7cd",
+	  "sha1": "fe7ef1f5db9159090f17cecd445d8f0b9ad3feca"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1444837699",
+	  "size": "80241",
+	  "md5": "b19b4d4dbc00d61321b24489b415d453",
+	  "crc32": "41815d62",
+	  "sha1": "8af9158f2cbda9697f0530146c3429228375cd0e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1444837769",
+	  "size": "4510",
+	  "md5": "0d025e091e8d17cb18ef4c63743c358f",
+	  "crc32": "ed29ccd1",
+	  "sha1": "e6f01916a783bd1c931e00f3cb05b295008a39da"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1444837705",
+	  "size": "59795",
+	  "md5": "8681d0d6676528cc8ca89218839c9737",
+	  "crc32": "770410ba",
+	  "sha1": "866c98abc650499503707c7d8ce4e14b9da45ae5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1444837764",
+	  "size": "4947",
+	  "md5": "76e7cc3e8d25fabf8b0406da7c266717",
+	  "crc32": "e7079b71",
+	  "sha1": "4ab97f78100845297ca7bb0117163d2f7c838f43"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1444837709",
+	  "size": "78137",
+	  "md5": "3b55688f5e41965ad9d9ea1e147c057a",
+	  "crc32": "9cd8626c",
+	  "sha1": "bfc73bc005c4af88e4e391d9ea9c0abede6a4515",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1444837764",
+	  "size": "3969",
+	  "md5": "2dddba56428fe5a6b411bdfb03012788",
+	  "crc32": "9a02cad3",
+	  "sha1": "449dac0690a4f1b66a599e5382b38c8cb9af1001"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1444837713",
+	  "size": "70116",
+	  "md5": "626f5e57ff7cd55846846d446bfb8233",
+	  "crc32": "7a2125ca",
+	  "sha1": "ed93d10079134c96c6f213cc8a8300e084a89281",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1444837765",
+	  "size": "4993",
+	  "md5": "ce5ab646f382c749124bf4a28e858e16",
+	  "crc32": "96f59ef9",
+	  "sha1": "ef41f267b66acb31a7e67af49476e8bd52745dfa"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1444837717",
+	  "size": "79228",
+	  "md5": "fdc20ab5022818d8fb1a130887e19eb2",
+	  "crc32": "7bf65de7",
+	  "sha1": "d5d182d2e383545b1240eebd9578d45bf38c4219",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1444837766",
+	  "size": "4333",
+	  "md5": "1389defaff3e2cec0c2ee138488748fb",
+	  "crc32": "eb436d23",
+	  "sha1": "255e87228d3b9956230b99495f9014ca8f9c820e"
+	},
+	"\/screenshot_20.jpg": {
+	  "source": "original",
+	  "mtime": "1444837719",
+	  "size": "80446",
+	  "md5": "606de033dfe260596d1c37b4e5ca919f",
+	  "crc32": "fd4bd0fe",
+	  "sha1": "05ae3c981b1ab061ce411552762e90e6aa3c30e3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_20_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_20.jpg",
+	  "mtime": "1444837767",
+	  "size": "4523",
+	  "md5": "42e0af58c1e4d19847df166c32a1c8b3",
+	  "crc32": "f8173248",
+	  "sha1": "c91c51fda8e1477e69d181a8fe24631d1f24d028"
+	},
+	"\/screenshot_21.jpg": {
+	  "source": "original",
+	  "mtime": "1444837721",
+	  "size": "76901",
+	  "md5": "2bd8daf5c430aca7a7565ba40d52db93",
+	  "crc32": "ee9a4319",
+	  "sha1": "51d1f6462132308d5555f61f11ac6124809c8179",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_21_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_21.jpg",
+	  "mtime": "1444837768",
+	  "size": "3612",
+	  "md5": "6f1a993b5665007bd6bc8ce95900c565",
+	  "crc32": "f9693746",
+	  "sha1": "a6c7f2eaf4eb447de3806787b8dcb7c8cbe20ef5"
+	},
+	"\/screenshot_22.jpg": {
+	  "source": "original",
+	  "mtime": "1444837725",
+	  "size": "75589",
+	  "md5": "5b46f09bd5e1be97c0ad557134f161bc",
+	  "crc32": "f583dde0",
+	  "sha1": "d1f4edfc84331647fe939cbab6203a37b5659a69",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_22_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_22.jpg",
+	  "mtime": "1444837769",
+	  "size": "5053",
+	  "md5": "aad02a8eb8891069dd3150afe033b4fc",
+	  "crc32": "c6837de1",
+	  "sha1": "fafe6421876afcf65ff167d0a10ccd535513bffa"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/14\/items\/KingsQuestIvThePerilsOfRosellaDemo\/KingsQuestIvThePerilsOfRosellaDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1446,
+	"week": 7,
+	"month": 30
+  }
+}

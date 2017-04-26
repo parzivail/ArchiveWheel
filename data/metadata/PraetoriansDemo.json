@@ -1,0 +1,112 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/32/items/PraetoriansDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Praetorians Demo"
+	],
+	"description": [
+	  "Set amidst the reign of Julius Caesar, Praetorians is an epic troop-based strategy game from the creators of the award-winning, best-selling Commandos series.\n\nAs a Roman General on a quest to forge an empire, you will be transported back to the dusty battlefields of Egypt, the frozen lands of the Gauls, and finally to the heart of the Empire itself, Italy. Your quest will be no easy task as the lands you seek to conquer are heavily defended by thousands of powerful troops."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Pyro Studios"
+	],
+	"identifier": [
+	  "PraetoriansDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 02:21:33"
+	],
+	"publicdate": [
+	  "2012-05-28 02:21:51"
+	],
+	"date": [
+	  "2003"
+	],
+	"year": [
+	  "2003"
+	],
+	"publisher": [
+	  "Eidos Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/PraetoriansDemo_US.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338171667",
+	  "size": "119007291",
+	  "md5": "99efd4ca49688f8f29c9f1860834d9c9",
+	  "crc32": "c60d3a85",
+	  "sha1": "26ed55a88e8afc51e3289b66a1c22403abce4117"
+	},
+	"\/PraetoriansDemo_US.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338171668",
+	  "size": "153779",
+	  "md5": "92f56256ec74823a6af88e988c0bc8df",
+	  "crc32": "9f02c1e9",
+	  "sha1": "327f91316a0894eac56e199b5972a6b17187eba8",
+	  "rotation": "0"
+	},
+	"\/PraetoriansDemo_US_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "PraetoriansDemo_US.jpg",
+	  "mtime": "1338171706",
+	  "size": "6629",
+	  "md5": "d109af4d21a79fa05fb877cbbddf23cf",
+	  "crc32": "51d3fb6c",
+	  "sha1": "786414a867505d5a8a3e6e43a87d0930ae421761"
+	},
+	"\/PraetoriansDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "fbd5461012f0dd74dbce6d40e9ba1d48ac69ab1e",
+	  "mtime": "1462647194",
+	  "size": "6406",
+	  "md5": "f5d19186392b7c77576315dac53f40f9",
+	  "crc32": "de1bdb49",
+	  "sha1": "d5db781afbe699cb7c528449da5da89fb21ffbaf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PraetoriansDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c99ff06f9d1f3c3cb12c9a84ec6bad8d"
+	},
+	"\/PraetoriansDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462647192",
+	  "size": "1240",
+	  "md5": "da4a3004b157e00f479b9a9d7d5d24bf",
+	  "crc32": "73406cb7",
+	  "sha1": "a438c3af79fc94f6325d251a510c795ec6cead4d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/32\/items\/PraetoriansDemo\/PraetoriansDemo_US_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 662,
+	"week": 10,
+	"month": 27
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "server": "ia600403.us.archive.org",
+  "dir": "/8/items/F.e.a.r.ExtractionPointDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "F.E.A.R.: Extraction Point Demo"
+	],
+	"description": [
+	  "The F.E.A.R. - Extraction Point expansion pack takes you to the next chapter \u00e2 now Alma is looking for retribution!"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "TimeGate Studios"
+	],
+	"identifier": [
+	  "F.e.a.r.ExtractionPointDemo"
+	],
+	"addeddate": [
+	  "2012-09-03 06:10:01"
+	],
+	"publicdate": [
+	  "2012-09-03 06:11:23"
+	],
+	"date": [
+	  "2006"
+	],
+	"year": [
+	  "2006"
+	],
+	"publisher": [
+	  "Vivendi Universal Games"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_0"
+	]
+  },
+  "files": {
+	"\/F.e.a.r.ExtractionPointDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "d19e686d9af0ca8f8b889730fe760075510933e1",
+	  "mtime": "1466687806",
+	  "size": "24054",
+	  "md5": "719af42999e0e0f0266b86175a102704",
+	  "crc32": "28d968d0",
+	  "sha1": "b4c9f6eca611cbf148ca92d2de1dc5ac05856e47",
+	  "format": "Archive BitTorrent"
+	},
+	"\/F.e.a.r.ExtractionPointDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "80b876e23f5ae08ff60532f5ec2a621f"
+	},
+	"\/F.e.a.r.ExtractionPointDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466687802",
+	  "size": "914",
+	  "md5": "3e8a484eaa3f0642e69ff4870ddc7cc8",
+	  "crc32": "bf81fbe3",
+	  "sha1": "50fafad3eba43b1a83575721eb20e54d9d21f05e"
+	},
+	"\/fearxp_spdemo_en.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1346644462",
+	  "size": "579207879",
+	  "md5": "ae3b976fe176a6165c7c9cfd38ba7683",
+	  "crc32": "493bef4f",
+	  "sha1": "349d63d8441a14e70b21f122567b802b6aa00ee9"
+	},
+	"\/fearxp_spdemo_en.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346644464",
+	  "size": "291721",
+	  "md5": "3766ab5eafddd4c372aaa73595a0d71c",
+	  "crc32": "96e99be6",
+	  "sha1": "a67ea2f933a253e83de59c3fc5514605aefcbc45",
+	  "rotation": "0"
+	},
+	"\/fearxp_spdemo_en_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "fearxp_spdemo_en.jpg",
+	  "mtime": "1346652678",
+	  "size": "3961",
+	  "md5": "f01871cfa4b9b6c7e4a3e4d3ac0c3275",
+	  "crc32": "5b8366c3",
+	  "sha1": "6d9943d34df044ffa27e2fa58b36510c9aa24b99"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600403.us.archive.org\/8\/items\/F.e.a.r.ExtractionPointDemo\/fearxp_spdemo_en_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 390,
+	"week": 5,
+	"month": 10
+  }
+}

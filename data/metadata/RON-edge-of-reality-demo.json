@@ -1,0 +1,131 @@
+{
+  "server": "ia902701.us.archive.org",
+  "dir": "/16/items/RON-edge-of-reality-demo",
+  "metadata": {
+	"identifier": [
+	  "RON-edge-of-reality-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Blake Speers"
+	],
+	"date": [
+	  "2001-07-15"
+	],
+	"description": [
+	  "The <a href=\"https:\/\/archive.org\/details\/RON-edge-of-reality\" rel=\"nofollow\">full version<\/a> of Edge of Reality was released in 2009. Official page: <a href=\"http:\/\/realityonthenorm.info\/game.php?id=176\" rel=\"nofollow\">http:\/\/realityonthenorm.info\/game.php?id=176<\/a>"
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"title": [
+	  "Edge of Reality [Demo]"
+	],
+	"publicdate": [
+	  "2014-12-24 19:48:44"
+	],
+	"addeddate": [
+	  "2014-12-24 19:48:44"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20141224195414[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2001"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"backup_location": [
+	  "ia905908_24"
+	],
+	"collection": [
+	  "realityonthenorm",
+	  "classicpcgames",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/RON-edge-of-reality-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "c4dc4f2b66b89918d1bd046421685ab7f622a44c",
+	  "mtime": "1490803746",
+	  "size": "2176",
+	  "md5": "2d5b21f1d65ff6d26b54e141b52cdbd0",
+	  "crc32": "6100c4e2",
+	  "sha1": "7f0ed69a3a800948a8479d9572705ef3c16d65fe",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RON-edge-of-reality-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "95846ff75a2630b57ac62e5b159b72fb"
+	},
+	"\/RON-edge-of-reality-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1419450541",
+	  "size": "12288",
+	  "md5": "3f0a9ae62d48e429ec6c8f4695a2592b",
+	  "crc32": "14799fbe",
+	  "sha1": "0c7c950725a19e434b5f920318b7971fbc436b8d",
+	  "format": "Metadata"
+	},
+	"\/RON-edge-of-reality-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490803744",
+	  "size": "1268",
+	  "format": "Metadata",
+	  "md5": "6a873bdf5792f36df07ffb28a79e46e5",
+	  "crc32": "5fee383f",
+	  "sha1": "521f53f0f10cfbb7201421b9f9d5c5587a317dc1"
+	},
+	"\/edgeof.zip": {
+	  "source": "original",
+	  "mtime": "1419450523",
+	  "size": "2126778",
+	  "md5": "a1b307a53705e0bfab0076caddd1cf43",
+	  "crc32": "d057f849",
+	  "sha1": "eb6e51ef9ef432fb140d00dc5e589ff685c38085",
+	  "format": "ZIP"
+	},
+	"\/screenshot.png": {
+	  "source": "original",
+	  "mtime": "1419450538",
+	  "size": "48251",
+	  "md5": "c91a674a6fae4d11e7debd815ac0e4ba",
+	  "crc32": "aa0bdf61",
+	  "sha1": "ffc02d59d1c952c12a963158208604792959df70",
+	  "format": "PNG"
+	},
+	"\/screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot.png",
+	  "mtime": "1419450858",
+	  "size": "3869",
+	  "md5": "62be20e765786e4f5f365adb974c495d",
+	  "crc32": "91c90897",
+	  "sha1": "efb02ec8a8aa624a42ff07090578c73023a1ab20"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902701.us.archive.org\/16\/items\/RON-edge-of-reality-demo\/screenshot_thumb.jpg",
+	"collection-title": "Reality-on-the-Norm "
+  },
+  "item": {
+	"downloads": 57,
+	"week": 3,
+	"month": 5
+  }
+}

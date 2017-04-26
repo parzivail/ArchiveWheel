@@ -1,0 +1,226 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/34/items/HexxHeresyoftheWizard_1020",
+  "metadata": {
+	"identifier": [
+	  "HexxHeresyoftheWizard_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Psygnosis"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Psygnosis"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Hexx: Heresy of the Wizard Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 05:08:17"
+	],
+	"addeddate": [
+	  "2012-09-05 05:08:17"
+	],
+	"description": [
+	  "\"The Realm is under siege. Its four Gods of Magic have been usurped. And an evil Wizard -- known only as the Nameless One -- has embarked upon a reign of Chaos...\n\nOnly you can wage war on the wizard in an epic clash of combat and conjuring. Guide four adventurers through a texture-mapped labyrinth in this action-packed first person perspective role playing game. Develop a formidable armoury of spells and weapons as you fight your way towards an apocalyptic confrontation with the Nameless One. The fate of the Realm hangs in the balance... \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "HEXX.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475296102",
+	  "size": "15035",
+	  "md5": "05c556170329d7685023798a0c23ea9c",
+	  "crc32": "69032222",
+	  "sha1": "7f8ac811b43c5649952f439887e3b6b9540dcd39",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475296131",
+	  "size": "1668",
+	  "md5": "ad89c889207007351ad8c84763d7b486",
+	  "crc32": "2b378210",
+	  "sha1": "c1adb83a3d1348cc33d9583663f6d01581f5593f"
+	},
+	"\/HEXX.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346821712",
+	  "size": "1375575",
+	  "md5": "6d757e8447e2f5b999ae5fcb5e851bd9",
+	  "crc32": "78ca6f77",
+	  "sha1": "9fbd9fde0ae7101c3b81ec106bbcb96403b76b3a"
+	},
+	"\/HEXX.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821712",
+	  "size": "691",
+	  "md5": "ce2e78eb5a3aa4584622aa7d6a5a41e3",
+	  "crc32": "bb305eb6",
+	  "sha1": "bb91c9e15986c1d333b8e9f6b82e6cee120f8e5d"
+	},
+	"\/HEXX_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475296120",
+	  "size": "15969",
+	  "md5": "be26e95ec39b4c6a4ebd4a39d92814b2",
+	  "crc32": "a25c4a43",
+	  "sha1": "862f000c786dba6de6409e76b3e9e605d18612c4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/HexxHeresyoftheWizard_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475296116",
+	  "size": "3015",
+	  "md5": "4b9d4b737306a50378084a7c0d5b4fc7",
+	  "crc32": "8b953165",
+	  "sha1": "8915c64f3aba1656b5ac4a375e7030abd664de36",
+	  "format": "Animated GIF"
+	},
+	"\/HexxHeresyoftheWizard_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "80686ca7b6ca51c05658deabedbec50a512cc3b2",
+	  "mtime": "1475296135",
+	  "size": "3572",
+	  "md5": "b3f12c19f32313ba67fb20a0e98a306a",
+	  "crc32": "f53b0b8d",
+	  "sha1": "8dc4635a92ac3d8d5abe1ca9ec1e9d9f3a931a06",
+	  "format": "Archive BitTorrent"
+	},
+	"\/HexxHeresyoftheWizard_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "31a138d3d2001606aecd835664a1b2fc"
+	},
+	"\/HexxHeresyoftheWizard_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475296125",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "f537ac6be2f989278c6b0065e7c75a5c",
+	  "crc32": "3f0c988d",
+	  "sha1": "660106782a16d87ca0822eae81e978862f2c9430"
+	},
+	"\/HexxHeresyoftheWizard_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473368114",
+	  "size": "1433",
+	  "md5": "866f8504f2a9edd1fa754a35a8f450db",
+	  "crc32": "60790b59",
+	  "sha1": "a3926c40300b6455b3a7391437c22a78dd2f1b0d"
+	},
+	"\/resource_item_3137.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346821714",
+	  "size": "19621",
+	  "md5": "5c5891e2664bfc3a89edb54808a37fe5",
+	  "crc32": "3f1451ef",
+	  "sha1": "51aade8d10bdcb29a53626028307d940cc51b83f",
+	  "rotation": "0"
+	},
+	"\/resource_item_3137.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821714",
+	  "size": "272",
+	  "md5": "31e37f8c2d68dae67aed2ca90187c9cf",
+	  "crc32": "0a802517",
+	  "sha1": "36e50cf14feab42eb436908dea16213ce9b99878"
+	},
+	"\/resource_item_3137_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3137.jpg",
+	  "mtime": "1346835006",
+	  "size": "5911",
+	  "md5": "f30d5d957087769e4dd8883744b35d03",
+	  "crc32": "506327f4",
+	  "sha1": "3f3429b5bb93d9c065c8e8ef6213f60ee5e11e62"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475296105",
+	  "size": "15022",
+	  "md5": "b9de51345ecaf240b79d2092b91a1d6e",
+	  "crc32": "c5e12435",
+	  "sha1": "b5ff3d42391e7d3f0c36777f1d3450630a5c605e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475296133",
+	  "size": "1654",
+	  "md5": "f5ee0de2d80e5f92e38802eb838ac391",
+	  "crc32": "69097441",
+	  "sha1": "70ae53a37cd2c881f9f91bee5b9639f8d429c195"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475296108",
+	  "size": "15035",
+	  "md5": "05c556170329d7685023798a0c23ea9c",
+	  "crc32": "69032222",
+	  "sha1": "7f8ac811b43c5649952f439887e3b6b9540dcd39",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475296134",
+	  "size": "1668",
+	  "md5": "ad89c889207007351ad8c84763d7b486",
+	  "crc32": "2b378210",
+	  "sha1": "c1adb83a3d1348cc33d9583663f6d01581f5593f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/34\/items\/HexxHeresyoftheWizard_1020\/HexxHeresyoftheWizard_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 343,
+	"week": 4,
+	"month": 8
+  }
+}

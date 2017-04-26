@@ -1,0 +1,188 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/14/items/MarioAndrettisRacingChallengeDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Mario Andretti's Racing Challenge Demo"
+	],
+	"description": [
+	  "Mario Andretti's Racing Challenge features a career mode with several different tracks.  Upon winning races you receive money which you can use to buy other cars, and continue to track your progress through the ranks."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"creator": [
+	  "Distinctive Software"
+	],
+	"identifier": [
+	  "MarioAndrettisRacingChallengeDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 16:35:17"
+	],
+	"publicdate": [
+	  "2012-08-05 16:35:36"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "demo.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475359164",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475359193",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/MarioAndrettisRacingChallengeDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475359170",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/MarioAndrettisRacingChallengeDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6562d2180277f1cdf82228b406912a16a783c9d8",
+	  "mtime": "1475359196",
+	  "size": "3279",
+	  "md5": "4efe699d0d6d9dc143d05c377ac008b7",
+	  "crc32": "848eca73",
+	  "sha1": "152c8734f762d09ac4b323ec389a2d3b60e45c56",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MarioAndrettisRacingChallengeDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6b0f44a46bb9b3af8f48e1ba19bfabdb"
+	},
+	"\/MarioAndrettisRacingChallengeDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475359178",
+	  "size": "8192",
+	  "md5": "1302a0227403176c602869d3d8f5a131",
+	  "crc32": "135ae08c",
+	  "sha1": "293903e1fadc405afd764bbd9e309d25b0f95169",
+	  "format": "Metadata"
+	},
+	"\/MarioAndrettisRacingChallengeDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1470074188",
+	  "size": "1134",
+	  "md5": "c8565eb65cdff523594d72d563abe6e2",
+	  "crc32": "4a5db6cd",
+	  "sha1": "9ca0350afd74c3f0469fdb8eb40219dc6cef8c49"
+	},
+	"\/andrac.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1470074134",
+	  "size": "430928",
+	  "md5": "ea92df99d9e68f6b8088c25342a6ab1f",
+	  "crc32": "60d9674b",
+	  "sha1": "dbeb8bfadc9f079247a9a115e5b03800d3925cc0"
+	},
+	"\/andrac_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475359173",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_442.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344184478",
+	  "size": "14257",
+	  "md5": "9ed6c7b986399869823f73f5157ff0b9",
+	  "crc32": "9c7e78bd",
+	  "sha1": "52e3bd40f97635e173cb49657b39585f4d44dd1f",
+	  "rotation": "0"
+	},
+	"\/resource_item_442_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_442.jpg",
+	  "mtime": "1344184531",
+	  "size": "4711",
+	  "md5": "b74040b893f3a55e78174e8246807f5b",
+	  "crc32": "584220d7",
+	  "sha1": "80bf6b6e9a0e7fe7a9babc5013766369b2b85398"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475359167",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475359194",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/14\/items\/MarioAndrettisRacingChallengeDemo\/MarioAndrettisRacingChallengeDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 172,
+	"week": 3,
+	"month": 4
+  }
+}

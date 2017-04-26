@@ -1,0 +1,246 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/9/items/M.A.X.MechanizedAssaultandExploration_1020",
+  "metadata": {
+	"identifier": [
+	  "M.A.X.MechanizedAssaultandExploration_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Your Mission: colonize new worlds on distant planets. As the Mission Commander, you and the Mechanized Assault & Exploration (M.A.X.) Force you lead are the first ones in. Mining stations, power plants, tactical combat vehicle factories, habitats - it's up to you to plan and construct them. The entire new colony? You create it. The resources you find there? Control them. Enemies? Crush 'em! And there will be enemies. You're not the only Mission Commander trying to colonize the planets. You'll have to push yourself to the limit to survive the ultimate showdown in strategic warfare. It's espionage, heavy artillery, offensives, counter offensives and intelligence - all with maximum consequences! Features: For ultimate customization control, play as one of eight factions, choose from over 50 land, sea, and air units, upgrade armor, speed, and range. Campaign and custom missions. Simultaneous or turn based gameplay plus adjustable turn length and game speed will challenge both real-time and turn-based strategy gamers. Any combination of up to four human or computer opponents can wage war. Battle over a network or clash head-to-head via modem. Stunning top-down view SVGA graphics and battle units rendered from 3D models pack an astounding visual punch."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "M.A.X.: Mechanized Assault and Exploration Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 18:47:30"
+	],
+	"addeddate": [
+	  "2012-09-04 18:47:30"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "MAX.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475714547",
+	  "size": "259667",
+	  "md5": "cee0f27aa9026786f9f23ea9177c054e",
+	  "crc32": "bf007f0a",
+	  "sha1": "58e1e293ea9a84fd48e2707a2349d5ef7c6e9c8f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475714579",
+	  "size": "6586",
+	  "md5": "93c7d5c46a34f7017d912be464b35c5d",
+	  "crc32": "d684c786",
+	  "sha1": "893b9afb4f58aa51755463dea77d4f9e1b64af4a"
+	},
+	"\/M.A.X.MechanizedAssaultandExploration_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475714557",
+	  "size": "21899",
+	  "md5": "462abe35b227b78481efd4a6df89b63a",
+	  "crc32": "8ee1b886",
+	  "sha1": "27b037cb4d206445b3cff9527443ed54c0bbd9b8",
+	  "format": "Animated GIF"
+	},
+	"\/M.A.X.MechanizedAssaultandExploration_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "419cac822c529eeacecd0bae799f84c3c578df12",
+	  "mtime": "1475714591",
+	  "size": "4493",
+	  "md5": "f39a7adaee87b3a4119f36b9fb1d3b93",
+	  "crc32": "e4145d57",
+	  "sha1": "19e7997f43bc017287b11d24a970c376e0243126",
+	  "format": "Archive BitTorrent"
+	},
+	"\/M.A.X.MechanizedAssaultandExploration_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8ce804c3a61ebe8d0efe40c9a90e84bd"
+	},
+	"\/M.A.X.MechanizedAssaultandExploration_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475714565",
+	  "size": "9216",
+	  "md5": "74fff901ce94097f11e1c8c586d9d577",
+	  "crc32": "106d5e79",
+	  "sha1": "5a29d59b564df6c8ecb87bf83d448b98b2a517fc",
+	  "format": "Metadata"
+	},
+	"\/M.A.X.MechanizedAssaultandExploration_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475714590",
+	  "size": "2184",
+	  "md5": "7791ebf9fec8a9bfbcc6c9426a34462b",
+	  "crc32": "ad55b86d",
+	  "sha1": "9693279bfcacd033c87784af57dfd1269744af2d"
+	},
+	"\/maxdemo1.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346784551",
+	  "size": "10478015",
+	  "md5": "8b80b009b7d02b0af72240a711c6fe23",
+	  "crc32": "ac5088ad",
+	  "sha1": "83e5f0cedc30a3c9a53d57350de9167e81398419"
+	},
+	"\/maxdemo1.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346784551",
+	  "size": "1999",
+	  "md5": "70119067c144918bb37a66dd9bbb8ad4",
+	  "crc32": "a4411b3a",
+	  "sha1": "83cd9bc70a671f8760b1026c3b929ab1700bdd89"
+	},
+	"\/maxdemo1_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475714561",
+	  "size": "99499",
+	  "md5": "7a55256cc46a63694d3c4fe36905ac33",
+	  "crc32": "25d61b9d",
+	  "sha1": "a00d9f50c0d89450e0f6bffe380d58fd04289733",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_2492.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346784553",
+	  "size": "18693",
+	  "md5": "58906ac23d46701ecaee70139c1b554d",
+	  "crc32": "20530a22",
+	  "sha1": "2e89ff26d1276e34dac36e6ae228b5373b4baa74",
+	  "rotation": "0"
+	},
+	"\/resource_item_2492.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346784553",
+	  "size": "272",
+	  "md5": "093b02d0bdde487814e2562b3f594397",
+	  "crc32": "5844fae4",
+	  "sha1": "7066530d770923294fedaf751ef77768cad046ee"
+	},
+	"\/resource_item_2492_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2492.jpg",
+	  "mtime": "1346819246",
+	  "size": "6146",
+	  "md5": "1a42abdcca1ca46818ed625b94d54e15",
+	  "crc32": "afac6a81",
+	  "sha1": "447ecb444dbbe76e547786b3111e460d50d2fb82"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475714549",
+	  "size": "259667",
+	  "md5": "cee0f27aa9026786f9f23ea9177c054e",
+	  "crc32": "bf007f0a",
+	  "sha1": "58e1e293ea9a84fd48e2707a2349d5ef7c6e9c8f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475714581",
+	  "size": "6586",
+	  "md5": "93c7d5c46a34f7017d912be464b35c5d",
+	  "crc32": "d684c786",
+	  "sha1": "893b9afb4f58aa51755463dea77d4f9e1b64af4a"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475714551",
+	  "size": "244645",
+	  "md5": "b86d44ff97459397934c998b19515f83",
+	  "crc32": "317c838e",
+	  "sha1": "66bfd4527d5c87fea60b241f2fe6ecd2e44f3b12",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475714582",
+	  "size": "5297",
+	  "md5": "2eb2076639a103db8e5facc0edcd46f0",
+	  "crc32": "3192ad8f",
+	  "sha1": "da2556667447e65c2a1a038c3e12bdfd521ceecb"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475714554",
+	  "size": "244723",
+	  "md5": "9f29dcb71145bde4a4a8077c47e72554",
+	  "crc32": "e77e0b50",
+	  "sha1": "4c98b5193848f7653a9dda0d9f705f888dac646e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475714583",
+	  "size": "5305",
+	  "md5": "0b90535316367baba4b8968d2f50ff44",
+	  "crc32": "71ea96cb",
+	  "sha1": "5f51c99337d6f06bc783222f04945102255baa0f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/9\/items\/M.A.X.MechanizedAssaultandExploration_1020\/M.A.X.MechanizedAssaultandExploration_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1059,
+	"week": 5,
+	"month": 14
+  }
+}

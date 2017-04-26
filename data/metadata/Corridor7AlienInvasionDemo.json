@@ -1,0 +1,633 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/3/items/Corridor7AlienInvasionDemo",
+  "metadata": {
+	"identifier": [
+	  "Corridor7AlienInvasionDemo"
+	],
+	"title": [
+	  "Corridor 7: Alien Invasion Demo"
+	],
+	"creator": [
+	  "Capstone Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "The year is 2012. A team of U.S. scientists returns from Mars with a small, metallic object - the first hard proof that life exist beyond our planet. Rushed to a top secret underground facility, through a maze-like series of hallways and test chambers, the object is secured in the lowest level laboratory - at the end of Corridor 7. Subjected to gamma radiation, the sphere explodes - transformed into a radiating gateway, linking our world with another. An army of creatures emerges from the pulsating vortex. The Alien Invasion has begun. You are Special Forces Agent, sent to eliminate all invaders, floor by floor - by whatever means possible. Wage a ferocious battle through the overrun military base and reach your destination. Down Corridor 7 looms the fate of the entire human race."
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"publicdate": [
+	  "2012-02-22 18:40:52"
+	],
+	"addeddate": [
+	  "2012-02-22 18:40:25"
+	],
+	"publisher": [
+	  "Capstone Software"
+	],
+	"updatedate": [
+	  "2012-02-22 18:41:26"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_9"
+	],
+	"emulator_start": [
+	  "corr7.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475799066",
+	  "size": "372807",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "ca95bb7c872b03efdedadc8123966748",
+	  "crc32": "aa864e5f",
+	  "sha1": "d8b322c11188ede4df975e108fdde300d8ac2fd8"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475799175",
+	  "size": "4835",
+	  "md5": "3e0a0be62176d82e655993c926ca3c6b",
+	  "crc32": "33b85ad9",
+	  "sha1": "54cb18b36da414a718d679a896c0f411de9684a9"
+	},
+	"\/C7.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473367122",
+	  "size": "1199472",
+	  "md5": "f9177cddab676ea59a38a492804bb0d1",
+	  "crc32": "3033fcb5",
+	  "sha1": "5bb431070953b22123bd8f8518b4f46bca7d86a1"
+	},
+	"\/C7_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475799156",
+	  "size": "1191044",
+	  "md5": "4e83252f935e6e5d41786aa8a781a05a",
+	  "crc32": "f872d4a1",
+	  "sha1": "4adc47f1e0e0fb93902e2f403a02bba167872b2c",
+	  "format": "Emulator Screenshot"
+	},
+	"\/Corridor7AlienInvasionDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475799148",
+	  "size": "113477",
+	  "format": "Animated GIF",
+	  "md5": "89f56d4f9380ab17364eab11ee39face",
+	  "crc32": "ffd9740b",
+	  "sha1": "38fde8839122ddfe66a642c02e1dbbb70cec546f"
+	},
+	"\/Corridor7AlienInvasionDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "d9c8c2945be3c15ef9f4407fb5d235a9e57d69f1",
+	  "mtime": "1475799207",
+	  "size": "11202",
+	  "md5": "91b28bffa205a3c1886d4b9b12567303",
+	  "crc32": "9003b7a0",
+	  "sha1": "59fba75821478035c1f873c58d1809c45b80f5fd",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Corridor7AlienInvasionDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "31c5709a695e4d5e57ea8a0d7435b64e"
+	},
+	"\/Corridor7AlienInvasionDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475799159",
+	  "size": "22528",
+	  "format": "Metadata",
+	  "md5": "613d25eb0d6ba091ba7a6598a7c8d66e",
+	  "crc32": "34830823",
+	  "sha1": "816f6b26be576b443cc53944c602532dd32ca18a"
+	},
+	"\/Corridor7AlienInvasionDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473367189",
+	  "size": "1766",
+	  "md5": "b9a81e15eb434454de7e34d89ce57e9e",
+	  "crc32": "a0979b1b",
+	  "sha1": "8a01eb4df4ec34cafecf07da09725d05fd0e68ad"
+	},
+	"\/Corridor7AlienInvasionScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Corridor 7: Alien Invasion Screenshot",
+	  "mtime": "1329935988",
+	  "size": "11984",
+	  "md5": "78c632cc03db8ff60b86116bcbc7cf68",
+	  "crc32": "e7ef4dbf",
+	  "sha1": "64e6fe31d88f74d6e4e02b613b1e491638b62d25",
+	  "rotation": "0"
+	},
+	"\/Corridor7AlienInvasionScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Corridor7AlienInvasionScreenshot.jpg",
+	  "mtime": "1329936045",
+	  "size": "3426",
+	  "md5": "55f96e07aca437e019c2094bb73e5de7",
+	  "crc32": "9a71035e",
+	  "sha1": "e88c371c20dc8a8c91ad3bf3a81d3b1f75086fa1"
+	},
+	"\/corr7-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1435201306",
+	  "size": "1396102",
+	  "md5": "00fe8344f3f7144bbc0b3f8fbd8a6349",
+	  "crc32": "cb9caf87",
+	  "sha1": "9f3b86793468cfc8f967d4fcb71bfcd3be00b440"
+	},
+	"\/corr7-installer_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475222724",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475799069",
+	  "size": "325618",
+	  "md5": "059fd1c4f822b37bfe2f47ad4095680a",
+	  "crc32": "fa877902",
+	  "sha1": "15ab846629c14f83f3ebef559b59c62160defd69",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475799177",
+	  "size": "4987",
+	  "md5": "35434904b5b41bcf626d273e7641346b",
+	  "crc32": "0fa1606a",
+	  "sha1": "b5c46cfdc1c71c70c81478cd7be1421db92e4ad3"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475799073",
+	  "size": "158331",
+	  "md5": "ebf8bec1c4e41d5551b02199ce90e6de",
+	  "crc32": "775ac36a",
+	  "sha1": "2f12f628788d540e219d68f1e5abdba642caf784",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475799178",
+	  "size": "2520",
+	  "md5": "4276e7f05fca9661fe07e20de87e077a",
+	  "crc32": "a4c0c7c0",
+	  "sha1": "eb52e7ea0b2182cb39ed907a2c59ab4f81dbad09"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475799078",
+	  "size": "179610",
+	  "md5": "ad176b2880943356787a422ca5ea3651",
+	  "crc32": "0995c447",
+	  "sha1": "2f770902299df2236894cd2e904d91dd34295996",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475799179",
+	  "size": "4144",
+	  "md5": "a915c2578bdf45c0406e4011dc140b0f",
+	  "crc32": "aa7c6807",
+	  "sha1": "29669d95503a6ef569d8bef974463a419bf51405"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475799083",
+	  "size": "250083",
+	  "md5": "cda8ea9b6a377c9b24002c281879fcc5",
+	  "crc32": "5514ca90",
+	  "sha1": "f634c5c1a3d40f89ae37c1add403d0435ac36c48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475799181",
+	  "size": "4732",
+	  "md5": "56a958b46792d0560a2b23ec84a79925",
+	  "crc32": "2f27b6fe",
+	  "sha1": "7bdf0a4660408102a408fa7c486ba228225ee4e2"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475799086",
+	  "size": "256036",
+	  "md5": "eeac27f221f622e258c17c41328c5c03",
+	  "crc32": "3fd2e843",
+	  "sha1": "02db25b9ecefa8160fddd28d4150bcb0788a2bde",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475799182",
+	  "size": "4870",
+	  "md5": "95f902841aaece82aa2663e6900538be",
+	  "crc32": "a3c26924",
+	  "sha1": "164dc278738db4d1e700304da2c2f5c19d8df7ff"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475799089",
+	  "size": "18549",
+	  "md5": "ce371e9b40128dc8527870714de678f2",
+	  "crc32": "913c90ee",
+	  "sha1": "9690cc8f225b52fa52509c1dddfe0f3c0ea396d5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475799183",
+	  "size": "2071",
+	  "md5": "e9ae093d5804ef6135c3d6c1a1eb9ec2",
+	  "crc32": "94baddb3",
+	  "sha1": "e6e02351a9f68af2358c2eaf8b9f4cc4c8ab32a9"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475799092",
+	  "size": "251304",
+	  "md5": "70987cf2be32f5ee55588e226f937766",
+	  "crc32": "f921bad0",
+	  "sha1": "be8e5036dba81bf7d18a868eb99c5345c1f04c62",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475799185",
+	  "size": "4530",
+	  "md5": "c6fda6aff8e838d75a00a835d938e0c2",
+	  "crc32": "ecf7c92e",
+	  "sha1": "36d679640016d7c5c2615098246f1eaa57b4006c"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475799098",
+	  "size": "348505",
+	  "md5": "c51fcaccba931ea130642f76b3d97a22",
+	  "crc32": "6afb7366",
+	  "sha1": "94cd196cfe304f8c5f6b23ca9916bd96a2f8d497",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475799186",
+	  "size": "4582",
+	  "md5": "3507491b55762ce5a062fe894bcb7abe",
+	  "crc32": "a5279153",
+	  "sha1": "52f4d016b506fcc7d4a39146c3822fa10c228b66"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475799100",
+	  "size": "197230",
+	  "md5": "4147e7da7c37e131fe51ef55fa16db4d",
+	  "crc32": "cc1ce33c",
+	  "sha1": "0fd9c85d06e262e970a58b0bd47d9d23e34e7dd6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475799188",
+	  "size": "3750",
+	  "md5": "91c534cd28c2195066d0a9a14a13f22a",
+	  "crc32": "32c4ff49",
+	  "sha1": "cc7feca0a16559b5d552cbe9bcdff86ad2b671a6"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475799103",
+	  "size": "197476",
+	  "md5": "d282434a4160fd28d43a10a1610a91d6",
+	  "crc32": "f6b0d8a2",
+	  "sha1": "4c51d88292db3cbb7bc8d07cfbfb68f8039c4b96",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475799189",
+	  "size": "3763",
+	  "md5": "c561adaf9a35a4ad5b97d0740ba01d8f",
+	  "crc32": "7ca81d36",
+	  "sha1": "2cd689abbb33f8c96d8d57b07fe18fe186317d7f"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475799105",
+	  "size": "209140",
+	  "md5": "ada891f0fc1cfc9cc47f4cdc17090f65",
+	  "crc32": "719256c6",
+	  "sha1": "6f7f066b2384020a85c5601614871a809d348512",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475799190",
+	  "size": "3865",
+	  "md5": "d85bd165ec25476069aff615c5531779",
+	  "crc32": "ad87852e",
+	  "sha1": "b3a08ed9d91d806f9fd796413b93105395226d89"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475799110",
+	  "size": "173469",
+	  "md5": "fa079641f4855adc65ddd6f88027714e",
+	  "crc32": "5fb14654",
+	  "sha1": "2412bff686b6cb39d9be245a88a57eff810ee167",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475799192",
+	  "size": "3995",
+	  "md5": "b60d2f55f26169be1e5d5ff0826a2792",
+	  "crc32": "206bbab7",
+	  "sha1": "fe353fa68648571afc4a2e4633f705b31290e3da"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475799113",
+	  "size": "134574",
+	  "md5": "e5587eacc980b7d93a7ab9bcea7f7b79",
+	  "crc32": "9b698729",
+	  "sha1": "1810078fab21f1cecb32a450c13ab503417d44b7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475799193",
+	  "size": "4058",
+	  "md5": "038cec47f386130ce7b30687c044f842",
+	  "crc32": "3b024ba6",
+	  "sha1": "1a93b3bead00744739cda402ac2fafcc42a6dcb5"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475799116",
+	  "size": "112991",
+	  "md5": "b3014072c91cc6c8757467ca075ebe88",
+	  "crc32": "5e89f083",
+	  "sha1": "7c234e31a7c203910d1ce78aaa5d7d067201a56d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475799194",
+	  "size": "3907",
+	  "md5": "e279d0a957824ce6a6ff663a7b799f1d",
+	  "crc32": "ff547d76",
+	  "sha1": "b28abf1f4f05bedcc8fa7af538494171ed97584b"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475799124",
+	  "size": "131559",
+	  "md5": "d77e116ef5cea4c581595d88873a05a9",
+	  "crc32": "796160ce",
+	  "sha1": "be3733ac4802db998dc156e0c2cc1fab57729ca0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475799196",
+	  "size": "3993",
+	  "md5": "88580da13b4c3a4d1db85b7a555e04a8",
+	  "crc32": "03f6d5fc",
+	  "sha1": "e693de867ab1ab0301001232487d58e411760a91"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475799127",
+	  "size": "136491",
+	  "md5": "5902237925ea891596a31f4394fd7e20",
+	  "crc32": "5342a7ec",
+	  "sha1": "e0bba76502fc42a6cc4a4d3db7817a2ac751498e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475799197",
+	  "size": "3914",
+	  "md5": "24c25bb73eb5999c5eadd97dd8934374",
+	  "crc32": "ac8bff13",
+	  "sha1": "2a594d3ca0e8551c70f3b88aa47406a7a4fe5dd2"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1475799129",
+	  "size": "133866",
+	  "md5": "586a786bf8db29c53bb20a6842a029ec",
+	  "crc32": "bf4de2da",
+	  "sha1": "f727f09b42d1fb60c3d96840f120533c74d44616",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1475799199",
+	  "size": "3889",
+	  "md5": "60fbb891c5c163deec142a4542afb497",
+	  "crc32": "a6fb6351",
+	  "sha1": "17b20eec1789e73ffaaa657f8ab41c82726edf45"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1475799134",
+	  "size": "143520",
+	  "md5": "e366382ba70d367b0ed61f265cc08d22",
+	  "crc32": "008e668a",
+	  "sha1": "d70fcec19d4b7b6ef8b2de2d33be520702483228",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1475799200",
+	  "size": "3711",
+	  "md5": "03c98eda7173446811a7d289fd9f556f",
+	  "crc32": "f50415b0",
+	  "sha1": "ceb376aae6dda621bfc9c48e9f284a1922bfb913"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1475799136",
+	  "size": "133623",
+	  "md5": "1b03886cac8f74b622daf76c1f80fe5e",
+	  "crc32": "2ad846da",
+	  "sha1": "0f222b0b8be0e4840e068b1c487ec4940e9669a2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1475799201",
+	  "size": "3710",
+	  "md5": "53c53b8d7e0d802d0ce80aa7142d71bc",
+	  "crc32": "05edabb9",
+	  "sha1": "b5e1d1fbe500eeb39889f976bc9042c7878b0669"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1475799138",
+	  "size": "145556",
+	  "md5": "9a5a7086ac72169aa953e863eeb15f04",
+	  "crc32": "ddc56cbd",
+	  "sha1": "4ce630c058cff504883f6b497c787bbfe5bff51f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1475799202",
+	  "size": "3743",
+	  "md5": "8b3c8123171aa9fe0d9cf9990ef9ecbc",
+	  "crc32": "b6711307",
+	  "sha1": "88ff63744e9b04c70b249a5d72e28ca6973c40b4"
+	},
+	"\/screenshot_20.jpg": {
+	  "source": "original",
+	  "mtime": "1475799141",
+	  "size": "372595",
+	  "md5": "94d2e96c5af090af4140b0de634af0bb",
+	  "crc32": "e158ba12",
+	  "sha1": "e6eb40340976b99f9f65b74f4edde05f623f3c8c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_20_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_20.jpg",
+	  "mtime": "1475799204",
+	  "size": "4827",
+	  "md5": "28dedfada55a53252ac3a8006db9505c",
+	  "crc32": "fcabb561",
+	  "sha1": "1ada4fdcfd60c4a1fe18728dbf8d8cb2e225ce04"
+	},
+	"\/screenshot_21.jpg": {
+	  "source": "original",
+	  "mtime": "1475799144",
+	  "size": "372807",
+	  "md5": "ca95bb7c872b03efdedadc8123966748",
+	  "crc32": "aa864e5f",
+	  "sha1": "d8b322c11188ede4df975e108fdde300d8ac2fd8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_21_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_21.jpg",
+	  "mtime": "1475799205",
+	  "size": "4835",
+	  "md5": "3e0a0be62176d82e655993c926ca3c6b",
+	  "crc32": "33b85ad9",
+	  "sha1": "54cb18b36da414a718d679a896c0f411de9684a9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/3\/items\/Corridor7AlienInvasionDemo\/Corridor7AlienInvasionDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 333,
+	"week": 3,
+	"month": 6
+  }
+}

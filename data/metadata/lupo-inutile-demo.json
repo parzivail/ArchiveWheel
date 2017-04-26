@@ -1,0 +1,132 @@
+{
+  "server": "ia902705.us.archive.org",
+  "dir": "/23/items/lupo-inutile-demo",
+  "metadata": {
+	"identifier": [
+	  "lupo-inutile-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Manu79"
+	],
+	"date": [
+	  "2002-04-07"
+	],
+	"description": [
+	  "Italian point and click adventure game, created with Adventure Game Studio."
+	],
+	"language": [
+	  "ita"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Lupo Inutile [Demo]"
+	],
+	"publicdate": [
+	  "2015-01-02 22:53:11"
+	],
+	"addeddate": [
+	  "2015-01-02 22:53:11"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102230343[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "12"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/83.jpg": {
+	  "source": "original",
+	  "mtime": "1420239204",
+	  "size": "9648",
+	  "md5": "45e194e0ab2774cbd23e552d168d444c",
+	  "crc32": "54148726",
+	  "sha1": "e5e44b776dbef2488d3dca8f5c69f955567abac6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/83_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "83.jpg",
+	  "mtime": "1420239828",
+	  "size": "3170",
+	  "md5": "a8ad3fc839e077ffa16eece81bdaa0e7",
+	  "crc32": "6b447db4",
+	  "sha1": "8dca4dc243ffff740bc00199af9d0897565575f4"
+	},
+	"\/lupo-inutile-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6a62bfb935596ecbeaf7596156e7f9e9e1ffcf0c",
+	  "mtime": "1490657268",
+	  "size": "2039",
+	  "md5": "3d9709ce57384bd4d678f2a2d67aa55c",
+	  "crc32": "e6fb2ecf",
+	  "sha1": "cfa48353faeeaf4cf26e8e67ad062fe07ef7f642",
+	  "format": "Archive BitTorrent"
+	},
+	"\/lupo-inutile-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "377a6a87954aeeb3d2704a4cf72e1914"
+	},
+	"\/lupo-inutile-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420239209",
+	  "size": "10240",
+	  "md5": "f984b8488b2ab63540f5ae47f7a12cbb",
+	  "crc32": "d33055ea",
+	  "sha1": "f4da070b86bd98c73c85531390785479789b3683",
+	  "format": "Metadata"
+	},
+	"\/lupo-inutile-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490657267",
+	  "size": "1026",
+	  "format": "Metadata",
+	  "md5": "36d3b3884c54e9ee16799c919fc5e71d",
+	  "crc32": "d0fee186",
+	  "sha1": "c167218739218045f629d5136aa75c8cf0c6e0a2"
+	},
+	"\/lupo-inutile.zip": {
+	  "source": "original",
+	  "mtime": "1420239191",
+	  "size": "839406",
+	  "md5": "7a017a51e1c6429954070733416f5157",
+	  "crc32": "5b624c9e",
+	  "sha1": "2a21feb7cfb0c41adc11f004986b9aabb967f21a",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902705.us.archive.org\/23\/items\/lupo-inutile-demo\/83_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 92,
+	"week": 4,
+	"month": 7
+  }
+}

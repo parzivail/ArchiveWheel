@@ -1,0 +1,123 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/25/items/BadMojo_1020",
+  "metadata": {
+	"identifier": [
+	  "BadMojo_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Pulse Entertainment"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Acclaim Entertainment"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Bad Mojo Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 19:44:21"
+	],
+	"addeddate": [
+	  "2012-09-04 19:44:21"
+	],
+	"description": [
+	  "\"Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, you are suddenly siezed by its magic, and your transformation begins. From within the damp walls of Eddie's bar, you emerge a cockroach\n\nEnter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out a person at all....\n\nMore than 800 navigable screens are rendered in stunning high-resolution detail. Live-action video and spine-tingling music will drag you into the dark disturbing atmosphere of Bad Mojo. Prepare yourself. It will take all of your skill to crawl out. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234250[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/BadMojo_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b51ecfa0f67d346d0c7781dfa3adbbfe"
+	},
+	"\/BadMojo_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463001887",
+	  "size": "1535",
+	  "md5": "be70058f472b327a24bcb9e54963bdae",
+	  "crc32": "2ac47214",
+	  "sha1": "7dd9ccb8e920b2767ae63ee21caee5f3b8ca24a9"
+	},
+	"\/mojodemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346787898",
+	  "size": "3714609",
+	  "md5": "51a6121a5223c05ed88b75bd2a71d4e3",
+	  "crc32": "1d980615",
+	  "sha1": "c58e6c3cdc3c4cf8773eccc9fd45946cc1165c21"
+	},
+	"\/mojodemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346787898",
+	  "size": "696",
+	  "md5": "eb764462900908efd426e76fdfd17ac1",
+	  "crc32": "3f25993e",
+	  "sha1": "3acf72ae97d27c202faba66b45ae6cf4c4b81665"
+	},
+	"\/resource_item_2407.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346787900",
+	  "size": "14191",
+	  "md5": "056332af11efa10d29bb4d6d0811ba14",
+	  "crc32": "d7454f4d",
+	  "sha1": "7ceb30355f2aaf9ebe643b5e9d97ebe6d1fa8798",
+	  "rotation": "0"
+	},
+	"\/resource_item_2407.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346787901",
+	  "size": "272",
+	  "md5": "041713364812bb6bdf7b50aceb4ab67a",
+	  "crc32": "39172245",
+	  "sha1": "44b357d1b84e37d7a31c1d3a5540005a94e98cba"
+	},
+	"\/resource_item_2407_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2407.jpg",
+	  "mtime": "1346819463",
+	  "size": "4891",
+	  "md5": "8a3a58f5f6b3a89ab2765b85af95eca4",
+	  "crc32": "d4eeb1b3",
+	  "sha1": "4ed6802b71df166e158b46b1cf888c1caa85cab3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/25\/items\/BadMojo_1020\/resource_item_2407_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 304,
+	"week": 5,
+	"month": 9
+  }
+}

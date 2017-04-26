@@ -1,0 +1,225 @@
+{
+  "server": "ia600700.us.archive.org",
+  "dir": "/25/items/XoxdosApplication",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "XOX (DOS Application)"
+	],
+	"description": [
+	  "\"XOX accepts panel files .PAN and a palette file .PAL as command arguments.\n\nDepending on which demo of xox you are running:\nThe panel files must be EXACTLY 4096\/16384\/65536 bytes in length.\nThe palette file must be EXACTLY 768 bytes in length.\""
+	],
+	"subject": [
+	  "DOS applications; Vintage computer applications"
+	],
+	"creator": [
+	  "HixoxiH Software"
+	],
+	"identifier": [
+	  "XoxdosApplication"
+	],
+	"addeddate": [
+	  "2012-08-04 12:23:54"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2012-08-04 12:24:21"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_13"
+	],
+	"emulator_start": [
+	  "XOX.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475621397",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475621437",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/XoxdosApplication.gif": {
+	  "source": "original",
+	  "mtime": "1475621412",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/XoxdosApplication_archive.torrent": {
+	  "source": "original",
+	  "btih": "9c2f3819097cfc404fde676d53178aaf294fe576",
+	  "mtime": "1475621442",
+	  "size": "3774",
+	  "md5": "de272c0aad79baa7d2ed7dcc994f18b4",
+	  "crc32": "32876fa9",
+	  "sha1": "1fe901e1c4f31ac5a1c06ede41f36d5a842eab3e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/XoxdosApplication_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "44116e848760b860e2bf0faeff3e8c54"
+	},
+	"\/XoxdosApplication_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475621420",
+	  "size": "9216",
+	  "md5": "4ad5b99a62b433ecc1a1d14085eb9e40",
+	  "crc32": "578a9c58",
+	  "sha1": "8b299a448d873bd78b1537dee0f4079f51dce8e0",
+	  "format": "Metadata"
+	},
+	"\/XoxdosApplication_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472059247",
+	  "size": "1079",
+	  "md5": "d9014a9e44a942695cd4e9471f0293aa",
+	  "crc32": "0267a8fd",
+	  "sha1": "cd0f72df2c244f93e4cb8a7f02d6c967a023b85a"
+	},
+	"\/resource_item_397.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344082975",
+	  "size": "7993",
+	  "md5": "c9e1ae7ec4eb222733fb187ec1fa8ab6",
+	  "crc32": "6a1c004e",
+	  "sha1": "3a5a57d204b53e22b3ace341fa9657810c50f16a",
+	  "rotation": "0"
+	},
+	"\/resource_item_397_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_397.jpg",
+	  "mtime": "1344083047",
+	  "size": "3259",
+	  "md5": "180f1ecc3b3e22a9f0c1440361d73d64",
+	  "crc32": "72eda4b1",
+	  "sha1": "54acb9644d3ac1e3bf1e6ee1eaeb51589aba8490"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475621399",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475621438",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475621402",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475621439",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475621406",
+	  "size": "82810",
+	  "md5": "d3adc1a3fd544b1cbfbadac1e6c26a17",
+	  "crc32": "1c6b0f92",
+	  "sha1": "e9edd2658a6097cc3d3b0b5d9abb3f09d4e12aa9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475621440",
+	  "size": "1898",
+	  "md5": "219c2a18da6a1f719e06d1078b9861c8",
+	  "crc32": "fff5cc70",
+	  "sha1": "37b70ba4cfde4bccf0603eae77591d73d736dc2f"
+	},
+	"\/xox.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344082971",
+	  "size": "38134",
+	  "md5": "e00a5db4a654197b47f734be93ff00f5",
+	  "crc32": "e20f3905",
+	  "sha1": "12cac0314c39263d1586c40f91f7ac58e0802f37"
+	},
+	"\/xox_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475621416",
+	  "size": "166843",
+	  "md5": "c5c80e409e6256c1a39f6c07a5877f67",
+	  "crc32": "8eba4dbd",
+	  "sha1": "511eec76862161e8f53dbe07ddfa7715a2e2e69a",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600700.us.archive.org\/25\/items\/XoxdosApplication\/XoxdosApplication.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 141,
+	"week": 2,
+	"month": 2
+  }
+}

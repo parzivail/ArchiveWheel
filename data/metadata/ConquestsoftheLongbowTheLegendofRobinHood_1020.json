@@ -1,0 +1,203 @@
+{
+  "server": "ia800308.us.archive.org",
+  "dir": "/20/items/ConquestsoftheLongbowTheLegendofRobinHood_1020",
+  "metadata": {
+	"identifier": [
+	  "ConquestsoftheLongbowTheLegendofRobinHood_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sierra"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Conquests of the Longbow: The Legend of Robin Hood Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:03:18"
+	],
+	"addeddate": [
+	  "2012-09-04 06:03:18"
+	],
+	"year": [
+	  "1991"
+	],
+	"description": [
+	  "\"The Gauntlet has been Dropped\nThe most intriguing and enduring outlaw of all time comes to life in Sierra's richest, most complex game yet. To survive, you must use compassion as well as wits and cunning.\n\nThink Fast. Choose Well.\nArmed with logic, creativity and moral judgement, you'll face some of the most intricate and challenging puzzles you've ever seen. Many puzzles have multiple solutions with varying implications - some more desirable than others. Even the game itself has at least five possible endings.\n\nMagic, Beauty, Motion and Music.\nThe art of Robin Hood is inspiring. Created with the brilliant palette of an illuminated medieval manuscript, it's a festival of light and color. Experience the splendor of 12th century England, from the grime of Nottingham to the vibrancy of Sherwood. The detailed video-captured animation is fluid and varied; most characters you meet have unique animated portraits.\n\nDesigner Christy Mars, creator of the critically acclaimed Conquests of Camelot, once again blends history, legend and pure magic to create a breathtaking adventure game.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "ROBIN.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475220855",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475220882",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/ConquestsOfTheLongbowTalkieDemo(ROBNDEM).zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738604",
+	  "size": "646",
+	  "md5": "6c783b13246f661f7689adbb6096aa6d",
+	  "crc32": "f0221884",
+	  "sha1": "03a135da236f6005b53409635473f0f4e3698dd5"
+	},
+	"\/ConquestsoftheLongbowTheLegendofRobinHood_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475220863",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/ConquestsoftheLongbowTheLegendofRobinHood_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "91fd83c56a4dc9fc7d2e991c036c2f13e96ee330",
+	  "mtime": "1475220886",
+	  "size": "3413",
+	  "md5": "100d6dd5e7a70e01a0becd04bdf71414",
+	  "crc32": "1e05824e",
+	  "sha1": "33df31a8a59bef036f7e0880e98eef9ef45e3de8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ConquestsoftheLongbowTheLegendofRobinHood_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "555aa92eff066d20c69e8e230fe2c51a"
+	},
+	"\/ConquestsoftheLongbowTheLegendofRobinHood_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475220872",
+	  "size": "8192",
+	  "md5": "d55541e4c72adc010c1ea449d984c3e4",
+	  "crc32": "479aa92d",
+	  "sha1": "03fe65be945532509406a83c281e54dd21a3a1fd",
+	  "format": "Metadata"
+	},
+	"\/ConquestsoftheLongbowTheLegendofRobinHood_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469644619",
+	  "size": "1984",
+	  "md5": "e4404e3983e0f9836a2f6254ad948858",
+	  "crc32": "186866b3",
+	  "sha1": "e3a8b90eb1db54ab989afc1a9652edaab1f06c1b"
+	},
+	"\/ROBNDEM.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346738604",
+	  "size": "616718",
+	  "md5": "96acc6589ceb25d15cc4026272e04ce0",
+	  "crc32": "a2ebf7a9",
+	  "sha1": "432da265739f084cdc88c69d3390e0481a1fe565"
+	},
+	"\/ROBNDEM_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475220867",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1828.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346744671",
+	  "size": "20778",
+	  "md5": "9e6907569a03f255cd53636d6b74cc1a",
+	  "crc32": "a186349e",
+	  "sha1": "43aa2f489b8e48a6ae6b7b62c2003e01aadcf9b8",
+	  "rotation": "0"
+	},
+	"\/resource_item_1828.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744671",
+	  "size": "272",
+	  "md5": "eded05510dda89f98ea86b8ba33896b1",
+	  "crc32": "86a12ce3",
+	  "sha1": "67372208036c580b1c3c132e6337ccb528c7e059"
+	},
+	"\/resource_item_1828_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1828.jpg",
+	  "mtime": "1346745387",
+	  "size": "6452",
+	  "md5": "21a0d6fd2625b22917e5598b1a31f2f8",
+	  "crc32": "9980cb17",
+	  "sha1": "5ee43d17938cf040799ddc8fd5c0ce585296c952"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475220860",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475220884",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800308.us.archive.org\/20\/items\/ConquestsoftheLongbowTheLegendofRobinHood_1020\/ConquestsoftheLongbowTheLegendofRobinHood_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 696,
+	"week": 9,
+	"month": 15
+  }
+}

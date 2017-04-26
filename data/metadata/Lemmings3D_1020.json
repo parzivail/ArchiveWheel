@@ -1,0 +1,266 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/30/items/Lemmings3D_1020",
+  "metadata": {
+	"identifier": [
+	  "Lemmings3D_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Clockwork Games"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Psygnosis"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Lemmings 3D Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:53:42"
+	],
+	"addeddate": [
+	  "2012-09-04 02:53:42"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"The world famous Lemmings are lost in a world of their own. They're puzzled, confused, and they're dying at an alarming rate. So what's new?\n\nTurning corners, that's what. These 3D Lemmings are fat, they're round, and they can turn through 90 degrees. But only with your help. You and you alone can guide the suicidal rodents through dazzling 3D worlds packed with new features and puzzles to solve. 100 levels, 9 Lemmings skills and over 30 sampled Lemmingese last requests make this a huge and hilarious game for humans everywhere.\n\nAlthough if you're a Lemming, steer clear. It could be distressing. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "lem3d\/play.bat"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475339124",
+	  "size": "188749",
+	  "md5": "757c2d8f2ddd215123e17e7c17598727",
+	  "crc32": "e1f35699",
+	  "sha1": "9196216f372ce411014e7858af70832d1153842b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475339183",
+	  "size": "2924",
+	  "md5": "2d4ce2d7b77fdedfb63cba0237806b2d",
+	  "crc32": "96fd09cc",
+	  "sha1": "d1b9d3043a937ba742d2bdb506e01b7d0adc9ea7"
+	},
+	"\/Lemmings3D_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475339159",
+	  "size": "12206",
+	  "md5": "37ec22cfb4258d0ed54febb971a6f3d1",
+	  "crc32": "80524336",
+	  "sha1": "38a72ca2d8c721a0e6e650503658727914c4b6ff",
+	  "format": "Animated GIF"
+	},
+	"\/Lemmings3D_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "7b7a2769d9e6846a7f2068188c00c4f06a614744",
+	  "mtime": "1476204565",
+	  "size": "4326",
+	  "md5": "df5ac81e40dacf654e651aa7e357af17",
+	  "crc32": "79b452b8",
+	  "sha1": "4aecb87af5309dbaf8669b0e41d40bbb6e7e006b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Lemmings3D_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "77dcc7b26b13ad9c4bdf283b80264189"
+	},
+	"\/Lemmings3D_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475339167",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "89d65ed3abb277a36f8161f964038f1f",
+	  "crc32": "704affb4",
+	  "sha1": "f71d92d64a910c9a7af566ce2e64d92862df6289"
+	},
+	"\/Lemmings3D_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204565",
+	  "size": "1472",
+	  "md5": "14fed86e2f9794be68c0aee390c9a4c3",
+	  "crc32": "d114fda4",
+	  "sha1": "16b08197c7d5c5ffc61f5b9cbae4643e0d3f236e"
+	},
+	"\/lem3d.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476204396",
+	  "size": "4194386",
+	  "md5": "69cf35bd18bd86e81c8972382cb53932",
+	  "crc32": "98a3252a",
+	  "sha1": "f2dd3b325ebe7ea402e1edd583971485745ed2a1"
+	},
+	"\/lem3d.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727263",
+	  "size": "650",
+	  "md5": "8a6773de3d09d315174606f826037718",
+	  "crc32": "21259372",
+	  "sha1": "83476da8e85bdf212a4de807ca7bff626b5f324e"
+	},
+	"\/lem3d_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475339164",
+	  "size": "58322",
+	  "md5": "f376ad79a5d999388dacf7746b58e758",
+	  "crc32": "5dbbed17",
+	  "sha1": "cc7ed7727df12f68a1d13288f26667fe23d52dd3",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1462.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346727265",
+	  "size": "20153",
+	  "md5": "339aab080d75159421f56e9af3f45222",
+	  "crc32": "deea8615",
+	  "sha1": "f4c69c967dd268ee8596f5d72bf8734673714452",
+	  "rotation": "0"
+	},
+	"\/resource_item_1462.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727265",
+	  "size": "272",
+	  "md5": "3426447a32c9fecf71adfb090278c207",
+	  "crc32": "26a0dde3",
+	  "sha1": "31b537a68a2bb77ffe7adcdf85c2ac72f743df53"
+	},
+	"\/resource_item_1462_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1462.jpg",
+	  "mtime": "1346728230",
+	  "size": "5668",
+	  "md5": "9cfb556743acfe1e4f05be41f4702b4d",
+	  "crc32": "7d54a9a7",
+	  "sha1": "47729a0857cabe7d578cace3fea13afbd0485e41"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475339137",
+	  "size": "186996",
+	  "md5": "ab3059dfa4ff008e87367ebe5a11e288",
+	  "crc32": "29314574",
+	  "sha1": "d6a54708dde8a5b7d58cccf9556329feef0a3653",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475339185",
+	  "size": "2892",
+	  "md5": "ba5cdaf0a944317f6f08ce667fdc422a",
+	  "crc32": "154b3167",
+	  "sha1": "89b2c625be2678b8ddcf987a0ca385fb5cdf7976"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475339143",
+	  "size": "186983",
+	  "md5": "b06c953ab795416fbdc9940be254a84f",
+	  "crc32": "d2895d50",
+	  "sha1": "6751c58fe360b172bf79106618af1242625fece1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475339186",
+	  "size": "2892",
+	  "md5": "ba5cdaf0a944317f6f08ce667fdc422a",
+	  "crc32": "154b3167",
+	  "sha1": "89b2c625be2678b8ddcf987a0ca385fb5cdf7976"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475339152",
+	  "size": "188651",
+	  "md5": "cb505b04a12ba24f3b9af05dbbc1a5eb",
+	  "crc32": "04f97878",
+	  "sha1": "9ed34c492759959dd0224bc1fe32721ce3ad6e4d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475339187",
+	  "size": "2924",
+	  "md5": "2d4ce2d7b77fdedfb63cba0237806b2d",
+	  "crc32": "96fd09cc",
+	  "sha1": "d1b9d3043a937ba742d2bdb506e01b7d0adc9ea7"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475339155",
+	  "size": "188749",
+	  "md5": "757c2d8f2ddd215123e17e7c17598727",
+	  "crc32": "e1f35699",
+	  "sha1": "9196216f372ce411014e7858af70832d1153842b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475339188",
+	  "size": "2924",
+	  "md5": "2d4ce2d7b77fdedfb63cba0237806b2d",
+	  "crc32": "96fd09cc",
+	  "sha1": "d1b9d3043a937ba742d2bdb506e01b7d0adc9ea7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/30\/items\/Lemmings3D_1020\/Lemmings3D_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 711,
+	"week": 6,
+	"month": 11
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "server": "ia902708.us.archive.org",
+  "dir": "/15/items/pfddemo",
+  "metadata": {
+	"identifier": [
+	  "pfddemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Light Shock Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>In a dimension without space or time, Death is bored. He decides to organize a tournament between himself and the damned souls that answer his call--souls that did not complete their tasks during life. Winners will have a chance to come back to life again, but losers are assigned a fate worse than death. Twelve different beautifully and horrifically rendered 3D backgrounds showcase these highlights: nine different modes of play, including Tag Team, Double Death, and Tournament modes, audio voices and full-motion video in character introduction sequences, characters from history, literature, and legend, fast game-play, an original audio track for each background, and arcade sections.<\/div>"
+	],
+	"publisher": [
+	  "Virgin Interactive Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Pray for Death Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-01-19 21:21:27"
+	],
+	"addeddate": [
+	  "2014-01-19 21:21:27"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234239[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_7"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "pray.exe"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475729825",
+	  "size": "90440",
+	  "md5": "092a88322de9d178823e00eb8f93f615",
+	  "crc32": "912cf5d1",
+	  "sha1": "363b6f42329323711c3ff7cd036a8a7eb2ce3280",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475729863",
+	  "size": "3379",
+	  "md5": "b055d4cc5083f096c1f8476f0703371e",
+	  "crc32": "7a35b66e",
+	  "sha1": "7c785cf30107da2b5df0d7ac504eab1c27bc4fae"
+	},
+	"\/pfddemo.gif": {
+	  "source": "original",
+	  "mtime": "1475729837",
+	  "size": "65951",
+	  "md5": "896a3311226fd5360c9e822760fef3d2",
+	  "crc32": "868d7d62",
+	  "sha1": "2348e73214cf6f0fdd22f1e0f2f76e0e2f2aa772",
+	  "format": "Animated GIF"
+	},
+	"\/pfddemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1390166486",
+	  "size": "25288",
+	  "md5": "1a330bfe666ddb9bed332cb07e207232",
+	  "crc32": "3c3de823",
+	  "sha1": "877594127f2793dc425cbb2fbcbef5835b9f691f"
+	},
+	"\/pfddemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475613926",
+	  "size": "10536104",
+	  "md5": "db41de8dbbce2e3c17f357a2b0b84e19",
+	  "crc32": "8e74fe60",
+	  "sha1": "7021948763a7d5006491992085c2f632c086760d"
+	},
+	"\/pfddemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "aad1637d7a36feb16dcd89359596ad17"
+	},
+	"\/pfddemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475729847",
+	  "size": "14336",
+	  "md5": "c918044783466ac74bd64bee93af074a",
+	  "crc32": "bea19b97",
+	  "sha1": "034ae5158b9f7fec3e1c8aed476839ee422156cf"
+	},
+	"\/pfddemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475613994",
+	  "size": "1684",
+	  "md5": "8c41b3582144146a4a4234d7fcc3b101",
+	  "crc32": "3c4f3e58",
+	  "sha1": "b26073f3f452c5b76a5c630114f163904145f78a"
+	},
+	"\/pfddemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475729841",
+	  "size": "164202",
+	  "md5": "1e08769c83134222983bcc76d23c3236",
+	  "crc32": "25f3fe20",
+	  "sha1": "1502dc2b854f21b60f1a7c5ca04aa9eee2a5fe52",
+	  "format": "Emulator Screenshot"
+	},
+	"\/pfddemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "pfddemo.png",
+	  "mtime": "1390166520",
+	  "size": "5794",
+	  "md5": "edb5b089d517dc3b553cc2c9df2bc350",
+	  "crc32": "239586f4",
+	  "sha1": "c53c72cd7e4c2bfa4527c5d35fafb1c10b259def"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475729827",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475729865",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475729831",
+	  "size": "90440",
+	  "md5": "092a88322de9d178823e00eb8f93f615",
+	  "crc32": "912cf5d1",
+	  "sha1": "363b6f42329323711c3ff7cd036a8a7eb2ce3280",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475729866",
+	  "size": "3379",
+	  "md5": "b055d4cc5083f096c1f8476f0703371e",
+	  "crc32": "7a35b66e",
+	  "sha1": "7c785cf30107da2b5df0d7ac504eab1c27bc4fae"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475729833",
+	  "size": "83864",
+	  "md5": "e436a393974ff5c6febfe3be79a25eeb",
+	  "crc32": "b066bed4",
+	  "sha1": "c82554edfd1ccf9ef032f9d3ddb376c5ace64340",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475729867",
+	  "size": "1921",
+	  "md5": "3455917d863b76ac6a038d6fde1f8df0",
+	  "crc32": "80da67d9",
+	  "sha1": "f82a6406e187f996b745132c5d25bf1915c1b08d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902708.us.archive.org\/15\/items\/pfddemo\/pfddemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 340,
+	"week": 7,
+	"month": 13
+  }
+}

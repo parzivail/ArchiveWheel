@@ -1,0 +1,125 @@
+{
+  "server": "ia800201.us.archive.org",
+  "dir": "/24/items/ASCEND_201402",
+  "metadata": {
+	"identifier": [
+	  "ASCEND_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "The Logic Factory"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>Ascendancy, the debut game from The Logic Factory, is a game of galactic exploration and encounter. In Ascendancy, you develop your home planet, research new technologies, build ships to traverse the stars, encounter aliens, and colonize new worlds as you expand your presence throughout the galaxy.<\/div><div><br \/><\/div><div>You begin the game by choosing to be one out of 21 possible species. Then, choose the size of the galaxy, the number of species in the game ranging from 3 to 7, and whether you want to play in a peaceful, neutral, or hostile atmosphere.<\/div><div><br \/><\/div><div>Play begins on your home world where you begin building structures for the purposes of increasing your research,industry and prosperity. As you build these structures you also begin doing research. Eventually your research allows you to build ships for the purpose of space travel. You can equip your ship with a variety of hi-tech gizmos including weapons, shields, engines, power generators, and special function devices. The more your research advances, the more various and powerful your selection of gizmos becomes.<\/div><div><br \/><\/div><div>As you travel to other solar systems you will encounter alien lifeforms,some friendly, some hostile. You can conduct diplomatic relations with them, exchange knowledge, make alliances or declare war.<\/div><div><br \/><\/div><div>You expand your empire by either colonizing unoccupied planets or invading planets belonging to your enemies. Finding a peaceful or violent solution to conflict is left up to you. There are several ways to achieve Ascendancy as you will discover on your own.<\/div>"
+	],
+	"publisher": [
+	  "The Logic Factory"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Ascendancy Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-02-15 18:40:02"
+	],
+	"addeddate": [
+	  "2014-02-15 18:40:02"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234619[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_13"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "ascend.exe"
+	]
+  },
+  "files": {
+	"\/ASCEND.rar": {
+	  "source": "original",
+	  "format": "RAR",
+	  "mtime": "1392489621",
+	  "size": "7685750",
+	  "md5": "3c00e3721120267496a84556f34f7b8e",
+	  "crc32": "9af73845",
+	  "sha1": "72a9091d64fc407852315950067b4d84d635afae"
+	},
+	"\/ASCEND_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "16b7fbf8ccd8bd85040ecaa80ffd9dc7"
+	},
+	"\/ASCEND_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392489624",
+	  "size": "18432",
+	  "md5": "5fcd48f568345f1af4dca8d59628b61e",
+	  "crc32": "c718cfa7",
+	  "sha1": "64eab6dd0624a6b2e5bb77a934f944db33dae755"
+	},
+	"\/ASCEND_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476466075",
+	  "size": "2726",
+	  "md5": "4b3457fd8bd11fda3d5427c74203ea3c",
+	  "crc32": "079e16f5",
+	  "sha1": "f0d13cfe64e285abc40a50d75d4573345679de8e"
+	},
+	"\/ascend.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1392489602",
+	  "size": "32675",
+	  "md5": "2ae8d2ccd85d5af752198b3d1543ac43",
+	  "crc32": "daa18bf2",
+	  "sha1": "542c22c9a57a22754a0912a133cd9041a6406f0f"
+	},
+	"\/ascend_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ascend.png",
+	  "mtime": "1392489631",
+	  "size": "3997",
+	  "md5": "de375d6e14d074ab06f0e26b2601ea77",
+	  "crc32": "e948574e",
+	  "sha1": "5d25fa10b8ac2f4c91aa09af574cf698f3177668"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800201.us.archive.org\/24\/items\/ASCEND_201402\/ascend_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 232,
+	"week": 3,
+	"month": 3
+  }
+}

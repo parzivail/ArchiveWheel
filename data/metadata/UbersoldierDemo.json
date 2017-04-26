@@ -1,0 +1,112 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/24/items/UbersoldierDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "UberSoldier Demo"
+	],
+	"description": [
+	  "As Karl Stolz, a German officer killed in a rebel ambush, your body has been used as raw material to create one of the initial UberSoldiers, you rebel against your Nazi masters and join the resistance."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Burut Creative Team"
+	],
+	"identifier": [
+	  "UbersoldierDemo"
+	],
+	"addeddate": [
+	  "2012-06-24 05:01:54"
+	],
+	"publicdate": [
+	  "2012-06-24 05:03:16"
+	],
+	"date": [
+	  "2006"
+	],
+	"year": [
+	  "2006"
+	],
+	"publisher": [
+	  "CDV Software Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903805_19"
+	]
+  },
+  "files": {
+	"\/UBERSOLDIER_DEMO_ENGLISH.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1340513996",
+	  "size": "436932585",
+	  "md5": "fc5f5473251a338f564bbec303db7226",
+	  "crc32": "5012bd70",
+	  "sha1": "730f55a78f09e3f75ce2fc5eb83682043918fa7a"
+	},
+	"\/UBERSOLDIER_DEMO_ENGLISH.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1340513999",
+	  "size": "873886",
+	  "md5": "5ae05eb9fd9aa4f193919955c876642e",
+	  "crc32": "d8951965",
+	  "sha1": "1316998ad8b564c3668bc2895617c968b374d284",
+	  "rotation": "0"
+	},
+	"\/UBERSOLDIER_DEMO_ENGLISH_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "UBERSOLDIER_DEMO_ENGLISH.jpg",
+	  "mtime": "1340514190",
+	  "size": "4563",
+	  "md5": "37c1e698f5eeb104dd3508843f149ed1",
+	  "crc32": "1b70a7f4",
+	  "sha1": "62f1a55e59e784067ef925bc2bed398ea063e492"
+	},
+	"\/UbersoldierDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "e05cf8749de51dff91c49f5d1b8beca949e2341a",
+	  "mtime": "1464372318",
+	  "size": "18584",
+	  "md5": "b2848d9d721753ad57f3433602c0318a",
+	  "crc32": "8f893825",
+	  "sha1": "f812ba63bb9719e302a48e383cc5a13a55c9fb4c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/UbersoldierDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2fa4f00bf4edf755487d604f2ff05513"
+	},
+	"\/UbersoldierDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464372314",
+	  "size": "979",
+	  "md5": "57b116c7963b81795fb56447893cd134",
+	  "crc32": "be76eba4",
+	  "sha1": "b36479ecba76b9ea9de6cfd945ae2d6e3005bac5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/24\/items\/UbersoldierDemo\/UBERSOLDIER_DEMO_ENGLISH_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 615,
+	"week": 13,
+	"month": 23
+  }
+}

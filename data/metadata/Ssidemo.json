@@ -1,0 +1,220 @@
+{
+  "server": "ia801002.us.archive.org",
+  "dir": "/32/items/Ssidemo",
+  "metadata": {
+	"identifier": [
+	  "Ssidemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "<div>Welcome to the SSI Spring 1994 Software demo! While we hope you enjoy<\/div><div>it, we'd like to mention one thing.<\/div><div><br \/><\/div><div>This demo was originally created for the 1994 Winter CES, and was only<\/div><div>tested on show machines. While there were originally no plans to release<\/div><div>the demo, we had many requests for it. As you can probably guess, these<\/div><div>requests were enough for us to release it.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS extras"
+	],
+	"title": [
+	  "SSI Spring 1994 Software Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2013-12-23 15:09:45"
+	],
+	"addeddate": [
+	  "2013-12-23 15:09:45"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234224[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "SSI.EXE"
+	],
+	"backup_location": [
+	  "ia905801_24"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475499524",
+	  "size": "127639",
+	  "md5": "f89f0a0437349aab0ddc5f1acf87d0f8",
+	  "crc32": "491a1819",
+	  "sha1": "419b511a797f89b819c02ddf3fabd0019bad3d7d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475499568",
+	  "size": "3350",
+	  "md5": "4b57b764515d39dcb51e2b4f8207c150",
+	  "crc32": "84ce8659",
+	  "sha1": "486e141d190044f0ececea7ecbb68e7a1f3dd757"
+	},
+	"\/SSIDEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473616211",
+	  "size": "5102695",
+	  "md5": "76b48f24c66dc378d7f13edf6cae2bdd",
+	  "crc32": "0843dac5",
+	  "sha1": "9eae70c60ef6367403a052169059a2773838cc87"
+	},
+	"\/SSIDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475499542",
+	  "size": "43759",
+	  "md5": "de687fb553d22bc07f43c1392a1b585d",
+	  "crc32": "06224daf",
+	  "sha1": "0e6729d8cd560b1ad0af75ecac3edd5fccc68f7f",
+	  "format": "Emulator Screenshot"
+	},
+	"\/Ssidemo.gif": {
+	  "source": "original",
+	  "mtime": "1475499539",
+	  "size": "18538",
+	  "md5": "057322548b7a86fdc31fb117c9c4733c",
+	  "crc32": "d79c6980",
+	  "sha1": "2e7c2666ca4c6f2f8dfd1acdf9fe1cef187410bf",
+	  "format": "Animated GIF"
+	},
+	"\/Ssidemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cbcaec759c78c7a0310e77b29ab05904"
+	},
+	"\/Ssidemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475499554",
+	  "size": "14336",
+	  "md5": "e62861260993d0f7ac4b65784b946e2d",
+	  "crc32": "ebdbaa5a",
+	  "sha1": "c81a10e87602405e4008c159966ff3953268d622"
+	},
+	"\/Ssidemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475013255",
+	  "size": "1400",
+	  "md5": "fc890006054cbdc33c00d6d6f4023071",
+	  "crc32": "e25e72d4",
+	  "sha1": "91afce71c8f0d1d604c93d4a44c295dd5c427e28"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475499527",
+	  "size": "127639",
+	  "md5": "f89f0a0437349aab0ddc5f1acf87d0f8",
+	  "crc32": "491a1819",
+	  "sha1": "419b511a797f89b819c02ddf3fabd0019bad3d7d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475499570",
+	  "size": "3350",
+	  "md5": "4b57b764515d39dcb51e2b4f8207c150",
+	  "crc32": "84ce8659",
+	  "sha1": "486e141d190044f0ececea7ecbb68e7a1f3dd757"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475499531",
+	  "size": "20696",
+	  "md5": "4c2f3a47c59e04e2c2221656c426f061",
+	  "crc32": "63be1ff8",
+	  "sha1": "209559f8394c10177d321ca4374392a6a9303e21",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475499571",
+	  "size": "1848",
+	  "md5": "4d7f3d4df8ec78eb0cf0268df282fbde",
+	  "crc32": "3d456825",
+	  "sha1": "fff23d7ee413eba20912c95f7f1f3b41882bf295"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475499536",
+	  "size": "20674",
+	  "md5": "e8ebb77a4903535af08735123b094696",
+	  "crc32": "d414d261",
+	  "sha1": "a346c5509aa2fbffccaff538691db113f438118e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475499572",
+	  "size": "1836",
+	  "md5": "cfc301d1d327665c0d3d861ed07f301a",
+	  "crc32": "d9a58316",
+	  "sha1": "52dafabb0e6c5ba6ab3b890e2c2642dbbf7d8f22"
+	},
+	"\/ssidemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1387811385",
+	  "size": "87890",
+	  "md5": "751e356bede652f207f946935b2407f3",
+	  "crc32": "30e221e9",
+	  "sha1": "579ae21e0ddd6370039596b0142340c178661e71"
+	},
+	"\/ssidemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ssidemo.png",
+	  "mtime": "1387811441",
+	  "size": "6253",
+	  "md5": "47ea7e36a092a391c05044920ab87171",
+	  "crc32": "5788ec16",
+	  "sha1": "684c0e84f48a047861b98546e2a2ff71c80ab407"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601002.us.archive.org\/32\/items\/Ssidemo\/Ssidemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 165,
+	"week": 2,
+	"month": 3
+  }
+}

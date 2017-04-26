@@ -1,0 +1,194 @@
+{
+  "server": "ia600705.us.archive.org",
+  "dir": "/23/items/BeverlyHillsCopDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Beverly Hills Cop Demo"
+	],
+	"description": [
+	  "Based on the popular movie.  Driving, and shoot out scenes are included."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Tynesoft Computer Software"
+	],
+	"identifier": [
+	  "BeverlyHillsCopDemo"
+	],
+	"addeddate": [
+	  "2012-08-31 08:30:12"
+	],
+	"publicdate": [
+	  "2012-08-31 08:30:36"
+	],
+	"date": [
+	  "1990"
+	],
+	"year": [
+	  "1990"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_31"
+	],
+	"emulator_start": [
+	  "cop.exe"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475186353",
+	  "size": "82744",
+	  "md5": "6fc3e9a2053f3fb6c605da23d1b3d415",
+	  "crc32": "6e256b2a",
+	  "sha1": "852510d7a34a873a17bb19c4a9ecff0204078127",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475186382",
+	  "size": "3125",
+	  "md5": "312007c3cba3a090dd53e0f73cde4459",
+	  "crc32": "7c858bbe",
+	  "sha1": "091e510d09b7b8be3c0336692be75f3aac694b10"
+	},
+	"\/BeverlyHillsCopDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475186360",
+	  "size": "14811",
+	  "md5": "362bde314a508f90a6c9d2e868cabe19",
+	  "crc32": "44e439bd",
+	  "sha1": "dc077d2105e29ee1363328fffe5933256010cc50",
+	  "format": "Animated GIF"
+	},
+	"\/BeverlyHillsCopDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2124ed4ef7602b469be341dbccd8d0ec9c071fca",
+	  "mtime": "1475186385",
+	  "size": "3320",
+	  "md5": "fae0a3800faa9bcdab5912500ea1db8e",
+	  "crc32": "e5808da4",
+	  "sha1": "2e820d5671887c3752b49cb859a42ea8e6a70ff4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BeverlyHillsCopDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "50c6d38f58fb784ecaf1cbfd73f80eb3"
+	},
+	"\/BeverlyHillsCopDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475186371",
+	  "size": "8192",
+	  "md5": "c0dc857a395df3314aa83392ed70bd85",
+	  "crc32": "ad0749ab",
+	  "sha1": "393a7f96013c69ca1cc7f141ab629a0b9b054b47",
+	  "format": "Metadata"
+	},
+	"\/BeverlyHillsCopDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468781321",
+	  "size": "923",
+	  "md5": "ab23d077ddd2865af7f409778866cb15",
+	  "crc32": "89b9c597",
+	  "sha1": "30c6a14ac1f4bffe9a90545118421e363e35e6f2"
+	},
+	"\/cop.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1468781289",
+	  "size": "486372",
+	  "md5": "6bb49aafa6c516f240b04ce7a3393fc2",
+	  "crc32": "89732ca8",
+	  "sha1": "fd27408a660484a19a39fcafe6cf166983709c41"
+	},
+	"\/copdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346401792",
+	  "size": "483970",
+	  "md5": "61c7dbc39f645a24be8c886a7199feb5",
+	  "crc32": "1237d1f9",
+	  "sha1": "867a16440c74eddd049144a0b73e38df7b1dd488"
+	},
+	"\/copdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475186367",
+	  "size": "37347",
+	  "md5": "b10a4f20a8a6edd32687f8805076ed36",
+	  "crc32": "1268df37",
+	  "sha1": "4017c16e56d2f9a8e80a44ab9691384042405bdb",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_643.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346401780",
+	  "size": "7565",
+	  "md5": "2f93baa51abe11137f9457f9e7c39ea4",
+	  "crc32": "99219039",
+	  "sha1": "8e4dd6feddef9fb67453b59492933c9bbf1baf02",
+	  "rotation": "0"
+	},
+	"\/resource_item_643_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_643.jpg",
+	  "mtime": "1346401830",
+	  "size": "3020",
+	  "md5": "dc77d811f57c4fbdd54c2802bb59dae2",
+	  "crc32": "b911c52e",
+	  "sha1": "0872aec0febcc97abcd67f04777634f41ce10829"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475186356",
+	  "size": "82744",
+	  "md5": "6fc3e9a2053f3fb6c605da23d1b3d415",
+	  "crc32": "6e256b2a",
+	  "sha1": "852510d7a34a873a17bb19c4a9ecff0204078127",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475186383",
+	  "size": "3125",
+	  "md5": "312007c3cba3a090dd53e0f73cde4459",
+	  "crc32": "7c858bbe",
+	  "sha1": "091e510d09b7b8be3c0336692be75f3aac694b10"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600705.us.archive.org\/23\/items\/BeverlyHillsCopDemo\/BeverlyHillsCopDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 112,
+	"week": 4,
+	"month": 4
+  }
+}

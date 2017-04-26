@@ -1,0 +1,144 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/1/items/SevenKingdoms_1020",
+  "metadata": {
+	"identifier": [
+	  "SevenKingdoms_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Enlight Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Interactive Magic"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Seven Kingdoms Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 06:13:13"
+	],
+	"addeddate": [
+	  "2012-09-05 06:13:13"
+	],
+	"description": [
+	  "\"Enter the world of Seven Kingdoms, a world of intrigue and diplomacy, of\ntrade, conquest, and espionage.\n<p>\nTake control of any of seven emerging civilizations: Chinese, Persians,\nJapanese, Greeks, Normans, Vikings, or Mayans. Begin with a single,\nmodest village under your command, and an entire world to be conquered\nby force of arms, by guile and persuasion, or by whatever other means\nyou choose.\"<\/p>"
+	],
+	"notes": [
+	  "\"Seven Kingdoms Ancient Adversaries (an updated re-release of the original title) was open sourced under a GPL license in 2009.  This includes the game source code, graphics, and audio (no music or movies).  You can download the source code and Windows or Linux builds at <a href=\"\" rel=\"nofollow\">http:\/\/7kfans.com\/<\/a>."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234245[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/7KDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1435202553",
+	  "size": "18041646",
+	  "md5": "81c8a7384b4694740ebe48ac87832b49",
+	  "crc32": "067dbcd7",
+	  "sha1": "7716267e50022eb42942235585d073ad7b7b42f5"
+	},
+	"\/7kdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346825745",
+	  "size": "15834757",
+	  "md5": "181572e901a4aa7a47c56e1ca83d6fc1",
+	  "crc32": "03b0515e",
+	  "sha1": "d31d1b9a48d9256c7a4099d1e1991a090d256c77"
+	},
+	"\/7kdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346825745",
+	  "size": "695",
+	  "md5": "2b3fc53846d0e75aa7d67d32ca10a5d4",
+	  "crc32": "2b05d7d6",
+	  "sha1": "e367b22f87871d705c2987d0b5da050e14d8f04b"
+	},
+	"\/7kdemo201097.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "title": "7kdemo(201097)",
+	  "mtime": "1435202523",
+	  "size": "16967168",
+	  "md5": "0d8cc30e1f18550eff819879ac48201c",
+	  "crc32": "5eefd097",
+	  "sha1": "f563777c65dcef1885a2d5ad49073a14856d74ec"
+	},
+	"\/SevenKingdoms_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ed8669c44f8960ca5c6defa32eb98aba"
+	},
+	"\/SevenKingdoms_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466131037",
+	  "size": "1570",
+	  "md5": "805b3fa1908a25031a9744dc6b63e827",
+	  "crc32": "9a2a5763",
+	  "sha1": "ef283e58b655dbc375fce4dc19fcbe071b9b31b7"
+	},
+	"\/resource_item_3290.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346825749",
+	  "size": "190914",
+	  "md5": "22b9d266dbee80255d3b3932058b0292",
+	  "crc32": "41c9b399",
+	  "sha1": "9a1c1bd92ceb15c180a81219b00eb4cc9a98b591"
+	},
+	"\/resource_item_3290.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346825749",
+	  "size": "273",
+	  "md5": "e62257d736c6c58dad16d5395914ad28",
+	  "crc32": "82ac6c79",
+	  "sha1": "938b7a82fa582c9dec5f81b8a39340ab4b7e87f5"
+	},
+	"\/resource_item_3290_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3290.png",
+	  "mtime": "1346836977",
+	  "size": "5505",
+	  "md5": "f26c2bf0c2de039055ef72295254c382",
+	  "crc32": "69da94be",
+	  "sha1": "df1d192aa694d104fc6c054989d55bf2a5ebb4df"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/1\/items\/SevenKingdoms_1020\/resource_item_3290_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 373,
+	"week": 2,
+	"month": 11
+  }
+}

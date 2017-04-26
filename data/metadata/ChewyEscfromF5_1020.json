@@ -1,0 +1,138 @@
+{
+  "server": "ia600502.us.archive.org",
+  "dir": "/17/items/ChewyEscfromF5_1020",
+  "metadata": {
+	"identifier": [
+	  "ChewyEscfromF5_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Play Byte"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "New Generation Software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Chewy: Esc from F5 Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-05 20:04:34"
+	],
+	"addeddate": [
+	  "2012-09-05 20:04:34"
+	],
+	"description": [
+	  "\"Welcome to the adventures and hilarious world of Chewy, the outrageous alien! This comical game puts you in amusing situations in an effort to help the prank-playing Chewy find the \"\"Red Glump\"\". Go ghost hunting, solve fascinating puzzles, shoot slime balls, fly space ships and get shrunk!\n<p>\nThe fully digitized speech is filled with zany one-liners, humorous cracks and plenty of attitude! The game also offers a unique \"\"cartoon\"\" inspired setting, enhanced by richly colored graphics. The visually stunning atmosphere and entertaining circumstances, offers gamers a wacky cyber experience!\"<\/p>"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	],
+	"emulator_start": [
+	  "PLAYFLC.EXE ch_intro.flc"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/ChewyEscfromF5_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "50d811fd2a1b7c7e80b3f02f2af15d31d16f5603",
+	  "mtime": "1476402653",
+	  "size": "1944",
+	  "md5": "a6564bb3e3d1fe737366b2df48c0cf8e",
+	  "crc32": "9a61f6bf",
+	  "sha1": "9ca5f2b160f6e583c69fb607d52e2e287b640662",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ChewyEscfromF5_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "884dd5cf6c2d46bd82062bb1173fd5f5"
+	},
+	"\/ChewyEscfromF5_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476402652",
+	  "size": "1513",
+	  "md5": "978726ee604447d9587e3272a951092c",
+	  "crc32": "83b9606b",
+	  "sha1": "5e8691b98e1c9c679b9575dec1366fdbb9f6ab32"
+	},
+	"\/ESCF5-NPD.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346875492",
+	  "size": "1869862",
+	  "md5": "ecba4961fd32131fb0581df4caa72e53",
+	  "crc32": "874bbcc6",
+	  "sha1": "e436946910ae603711c8cc6602f39c40d371a8bc"
+	},
+	"\/ESCF5-NPD.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875492",
+	  "size": "694",
+	  "md5": "fd9cfba481b44ba5a4442b0d221319c4",
+	  "crc32": "a88a93fe",
+	  "sha1": "3897d0ec349bf4b17a9562a59dd442fce81694db"
+	},
+	"\/resource_item_3695.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346875495",
+	  "size": "40824",
+	  "md5": "408f600485b325e87b69518e63ce9182",
+	  "crc32": "38d9fab3",
+	  "sha1": "b059ab655c052a8210417dd4e66e48588401b4ab"
+	},
+	"\/resource_item_3695.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875495",
+	  "size": "272",
+	  "md5": "d2b792fd50793751a7d3a9a2c1a31ef4",
+	  "crc32": "47a76f7b",
+	  "sha1": "4be1c2427f547f069c21aae396bb3cd8a55265c0"
+	},
+	"\/resource_item_3695_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3695.png",
+	  "mtime": "1346878620",
+	  "size": "4321",
+	  "md5": "7a1023978e6685d412ff210aed285cd1",
+	  "crc32": "9af10e33",
+	  "sha1": "75f6b8c23e20ecb02b18cc81975425539ae20c0a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600502.us.archive.org\/17\/items\/ChewyEscfromF5_1020\/resource_item_3695_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 609,
+	"week": 7,
+	"month": 11
+  }
+}

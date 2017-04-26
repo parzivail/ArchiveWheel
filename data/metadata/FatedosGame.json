@@ -1,0 +1,411 @@
+{
+  "server": "ia800807.us.archive.org",
+  "dir": "/10/items/FatedosGame",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Fate"
+	],
+	"description": [
+	  "\"The beginning of the game takes place on Pymandros. You have been captured by the Lesyrgian Troops who have come to your planet to regain the All-Father. They are keeping you in a guarded area of the temple for interrogation. You will need to find a way to escape your cell and get home.\n\nIntracorp Entertainment was developing this game in 1996, but went bankrupt before it could be finished. The game was advertised as \u00e2a ground-breaking first person action game using the BUILD engine from 3D REALMS, with exclusive enhancements.\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "DogBone Software"
+	],
+	"identifier": [
+	  "FatedosGame"
+	],
+	"addeddate": [
+	  "2012-07-24 02:20:57"
+	],
+	"publicdate": [
+	  "2012-07-24 02:21:24"
+	],
+	"date": [
+	  "1996"
+	],
+	"year": [
+	  "1996"
+	],
+	"notes": [
+	  "Fate was never finished. The only known version at this time is the playable demo."
+	],
+	"publisher": [
+	  "Intracorp Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903904_3"
+	],
+	"emulator_start": [
+	  "FATE.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475712200",
+	  "size": "383622",
+	  "md5": "2ebe908e2cfc5555a9bc7bee36a6fd5d",
+	  "crc32": "b7e8a459",
+	  "sha1": "f13ebb51a77d3ca477753b23b89440352c64973d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475712272",
+	  "size": "6259",
+	  "md5": "b4fa8523b8cb58451575be9fa722ef79",
+	  "crc32": "d10afb3b",
+	  "sha1": "11d7d83b1231fb58673577925868fa129a1faad5"
+	},
+	"\/FatedosGame.gif": {
+	  "source": "original",
+	  "mtime": "1475712245",
+	  "size": "103755",
+	  "md5": "efcb7cf46f38ed044afef43f08100f69",
+	  "crc32": "ee2c765e",
+	  "sha1": "5e81cd84ac52ba1a5ee36081e571043c65419244",
+	  "format": "Animated GIF"
+	},
+	"\/FatedosGame_archive.torrent": {
+	  "source": "original",
+	  "btih": "30b22e2cc904d252a857cdb345eafb94d998c4d4",
+	  "mtime": "1475712291",
+	  "size": "7349",
+	  "md5": "4a4267b75fa77f75c75934ec091c0802",
+	  "crc32": "9007eef8",
+	  "sha1": "20e48ebe844d369aeb6ff1fecd2daa5838c9c14a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FatedosGame_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1b81832e2d2c1d71291ab287fddeb504"
+	},
+	"\/FatedosGame_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475712257",
+	  "size": "14336",
+	  "md5": "0e6446243a1ce65ad9404f82539eef20",
+	  "crc32": "7e4b83f0",
+	  "sha1": "770517bc1cf414439e9bf4247e58daa0260071aa",
+	  "format": "Metadata"
+	},
+	"\/FatedosGame_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475168217",
+	  "size": "1495",
+	  "md5": "fa5913218a7dcf68b6ddde002c88eb05",
+	  "crc32": "901db92f",
+	  "sha1": "795276c7840eae1f81e9287cd5deeb558e4801fc"
+	},
+	"\/fate.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475168179",
+	  "size": "7507589",
+	  "md5": "9a6ada231fff9732f77ce87e14850893",
+	  "crc32": "d3a54d7e",
+	  "sha1": "2ca26f94a07d8a4b9bcf9f027e96a14824a6823a"
+	},
+	"\/fate_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475712254",
+	  "size": "1200757",
+	  "md5": "ce36edf51a0a1bcb72f5c2a59943b2e4",
+	  "crc32": "4cad4be6",
+	  "sha1": "bca23a4d117b4d08e0c4965fc7efeb65209d79e8",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_334.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343096389",
+	  "size": "11357",
+	  "md5": "4b5eccd319109c4d3f32b58250d9ea4e",
+	  "crc32": "0edb20bf",
+	  "sha1": "c33f3ba359bcf1aee1bc13a274cd7e5244e80162",
+	  "rotation": "0"
+	},
+	"\/resource_item_334_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_334.jpg",
+	  "mtime": "1343096478",
+	  "size": "3711",
+	  "md5": "0226dd58d3cbe381127468a605d7ef7d",
+	  "crc32": "e76749ec",
+	  "sha1": "adbd9af5ab7fbc1ea62a78fd89de64d14eed4ebf"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475712203",
+	  "size": "263101",
+	  "md5": "97cfe85ee90317646bf3e37c7cb87cab",
+	  "crc32": "cd3bf3a3",
+	  "sha1": "ec0daac7aa7091d91d0cd40047e92843f635381c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475712274",
+	  "size": "6849",
+	  "md5": "06435e93bb250b91718b436f1edc832b",
+	  "crc32": "06a5b1a7",
+	  "sha1": "bcee8919028fa307912018b2b49498511d4ce388"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475712205",
+	  "size": "326961",
+	  "md5": "6ef981865090e36eb4ccfbaa1b82056e",
+	  "crc32": "f7268573",
+	  "sha1": "38233464cc8a6701bbfc5df9640d33873c7fa07f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475712275",
+	  "size": "4807",
+	  "md5": "700c664e3acab126e52f3e424e0d594c",
+	  "crc32": "7992fd25",
+	  "sha1": "ed97376dc95fd0f8ab4b6af8373f25695065b834"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475712212",
+	  "size": "282876",
+	  "md5": "5635fce47109df897716f6a796370190",
+	  "crc32": "89c3aca2",
+	  "sha1": "1a648e05fb3e8a5f03cd2f350bdf0ab94efd21bb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475712276",
+	  "size": "5579",
+	  "md5": "30bd4e919f6eaf4f21642051551e96a8",
+	  "crc32": "26ed9f8c",
+	  "sha1": "39fa9231f11498d36ecfd3dc8e3e05bd28890eb5"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475712214",
+	  "size": "277648",
+	  "md5": "865d2d78185d04a269293b9c5d9704eb",
+	  "crc32": "3b441b0d",
+	  "sha1": "3544358077c8ad9d412644cc2fc12127cf202a08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475712278",
+	  "size": "4234",
+	  "md5": "bc02d1cdb796cb23fcebe3063e30eb00",
+	  "crc32": "6b04ca7e",
+	  "sha1": "26a85a11931f2e7fb6f5297f70388d43911df37a"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475712217",
+	  "size": "352218",
+	  "md5": "d6f5f0e66a29e8e1bdda6e55faf94744",
+	  "crc32": "fd9a5395",
+	  "sha1": "ee6d4a25d2070d64b863420f7efeea598511513d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475712279",
+	  "size": "5755",
+	  "md5": "045d0cb68a6d4323b86931203b1857df",
+	  "crc32": "cf6809e3",
+	  "sha1": "3b98f7c29519d911a080712e1c7ca2d53cc9fb69"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475712219",
+	  "size": "383622",
+	  "md5": "2ebe908e2cfc5555a9bc7bee36a6fd5d",
+	  "crc32": "b7e8a459",
+	  "sha1": "f13ebb51a77d3ca477753b23b89440352c64973d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475712281",
+	  "size": "6259",
+	  "md5": "b4fa8523b8cb58451575be9fa722ef79",
+	  "crc32": "d10afb3b",
+	  "sha1": "11d7d83b1231fb58673577925868fa129a1faad5"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475712221",
+	  "size": "312810",
+	  "md5": "6fcf4734192c1df08666734850594926",
+	  "crc32": "f6d1896f",
+	  "sha1": "971c03a8f00a24646c47b61544709d8f2a1e9833",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475712282",
+	  "size": "5547",
+	  "md5": "aaae975e7f8604275fc0910de11f37f2",
+	  "crc32": "a9d12d2c",
+	  "sha1": "5e5e3885fa2d3f248b454ebdee67558a69e39198"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475712224",
+	  "size": "335438",
+	  "md5": "9e68be0fe558d3b07cb35e5ee2e767be",
+	  "crc32": "b8b34e35",
+	  "sha1": "a964317a98cb5cd84e7fadae385ea1801345be85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475712283",
+	  "size": "5301",
+	  "md5": "5601002bded25180d1605046efd306c3",
+	  "crc32": "7c9a8a90",
+	  "sha1": "4c7d49c34e0b13653bb073229a184a222e1fa434"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475712233",
+	  "size": "291582",
+	  "md5": "9678b2fee791a0d929048b63bea2065d",
+	  "crc32": "7994c5d7",
+	  "sha1": "ac5c49e01d0a6866885ce04d76459fe6f3698abf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475712285",
+	  "size": "4558",
+	  "md5": "4f50d60d94b2998424d1524a1afb2a78",
+	  "crc32": "f322afdc",
+	  "sha1": "66837c0143a2d21f4560eecea1577dae24b2f079"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475712235",
+	  "size": "249918",
+	  "md5": "7a4d49c75de47713b489896aaf6c9e48",
+	  "crc32": "eaf6c0ea",
+	  "sha1": "b28fdfbc2cf433c1fee66b6eff7fb6679b1c079d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475712286",
+	  "size": "5004",
+	  "md5": "c08e2aa85cfe53fe856dcb6cda58aea2",
+	  "crc32": "95a6f73f",
+	  "sha1": "1eb9682279ce582fcca8b67fc2a04dc4fe97805a"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475712238",
+	  "size": "266544",
+	  "md5": "188f76eba1b6907fe7dba8210511ff36",
+	  "crc32": "6e18f149",
+	  "sha1": "f17906e27a0ada5326b611d7261630cd2b0246f9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475712287",
+	  "size": "3674",
+	  "md5": "438aac768ad31193fbcea4b445b674d0",
+	  "crc32": "53ed5323",
+	  "sha1": "dd68c24b3a04faf583359604ef1935727c111844"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475712242",
+	  "size": "253541",
+	  "md5": "e6917a6e8b4e7e29f7ea74687137ddd6",
+	  "crc32": "d65c31f1",
+	  "sha1": "49b8715ed4dde227d8fe6375abd5d44fad436ff4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475712289",
+	  "size": "4792",
+	  "md5": "3a482101c5115fe1efa231e01f61ce36",
+	  "crc32": "192e6692",
+	  "sha1": "f20899d221918d676fa6c8ea718936a542cd5a63"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia800807.us.archive.org\/10\/items\/FatedosGame\/FatedosGame.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 742,
+	"week": 4,
+	"month": 10
+  }
+}

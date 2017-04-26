@@ -1,0 +1,116 @@
+{
+  "server": "ia800206.us.archive.org",
+  "dir": "/25/items/V2000",
+  "metadata": {
+	"identifier": [
+	  "V2000"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Frontier Developments"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "3D action shooter"
+	],
+	"publisher": [
+	  "Grolier Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "V2000 Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 22:36:47"
+	],
+	"addeddate": [
+	  "2014-02-07 22:36:47"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232434[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_34"
+	]
+  },
+  "files": {
+	"\/V2000.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1391812606",
+	  "size": "7343731",
+	  "md5": "a8682ba948e608bdde3d11171e60919b",
+	  "crc32": "dab37ba7",
+	  "sha1": "847c517d0e332a0e1855e9a9aefc4b69e14a7da6"
+	},
+	"\/V2000_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5fdcb795cfa4225153f199d33bbd7be0"
+	},
+	"\/V2000_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391812624",
+	  "size": "10240",
+	  "md5": "b24a88f598580dccdce6a20e17aeee54",
+	  "crc32": "753a0963",
+	  "sha1": "1df23c740697fd303cf63bcc9bb5789360620723"
+	},
+	"\/V2000_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474494711",
+	  "size": "860",
+	  "md5": "c59ae1caa3942bd134c2dde3403b848f",
+	  "crc32": "4942a923",
+	  "sha1": "5dce885416e51308ffce2f6ecaa3287305fbca6c"
+	},
+	"\/v2000.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391812619",
+	  "size": "98497",
+	  "md5": "47354749978cef774f889f554d155e87",
+	  "crc32": "d220f076",
+	  "sha1": "27d2e66cc2a13ca8b15ef55361bb7c3a7ccf05ea"
+	},
+	"\/v2000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "v2000.PNG",
+	  "mtime": "1391812634",
+	  "size": "3737",
+	  "md5": "1d4e69a8b3e839c952f4c336a40261c6",
+	  "crc32": "13f8ccd9",
+	  "sha1": "8dde05fa097de3e931b9ab74c891b76344b33c87"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800206.us.archive.org\/25\/items\/V2000\/v2000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 861,
+	"week": 7,
+	"month": 29
+  }
+}

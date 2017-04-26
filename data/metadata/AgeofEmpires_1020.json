@@ -1,0 +1,123 @@
+{
+  "server": "ia800808.us.archive.org",
+  "dir": "/5/items/AgeofEmpires_1020",
+  "metadata": {
+	"identifier": [
+	  "AgeofEmpires_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ensemble Studios"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Age of Empires Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-04 19:46:14"
+	],
+	"addeddate": [
+	  "2012-09-04 19:46:14"
+	],
+	"description": [
+	  "\"Age of Empires is an epic real-time strategy game spanning 10,000 years, in which players are the guiding spirit in the evolution of small stone age tribes. Starting with minimal resources, players are challenged to build their tribes into great civilizations.\n\nGamers can choose from one of several ways to win the game, including: world domination by conquering enemy civilizations, exploration of the known world and economic victory through the accumulation of wealth. Age of Empires was developed by Ensemble Studios and features the expertise of Bruce Shelley, co-designer of the hit strategy game Civilization.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233756[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/AgeofEmpires_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8b64e2dc75aafe4009cf0125b166ad4c"
+	},
+	"\/AgeofEmpires_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462318344",
+	  "size": "1410",
+	  "md5": "b884d1e7cadcfe37604897c5226ca43d",
+	  "crc32": "284ab2db",
+	  "sha1": "f21af6dcefd73bab5fd63ff81448b9d5887f500b"
+	},
+	"\/MSAoE.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346788215",
+	  "size": "24680546",
+	  "md5": "0c41fb8878f7c1d74366472c752c30ea",
+	  "crc32": "40844faa",
+	  "sha1": "3ce56ff25e437e422d0619f3d91e474cfde7c9eb"
+	},
+	"\/MSAoE.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346788215",
+	  "size": "687",
+	  "md5": "4c8d4a7459270f52f232580de1d2ce64",
+	  "crc32": "55ffb7fe",
+	  "sha1": "283ae9c4d8e1dff37224a1ed0c2bbafb37e81fe8"
+	},
+	"\/resource_item_2455.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346788217",
+	  "size": "15043",
+	  "md5": "44d5855c24dd83fcfb1aed6a3789cb93",
+	  "crc32": "354fb36b",
+	  "sha1": "7a0ab1985cf520127d55a5a1378b9b983ae4e634",
+	  "rotation": "0"
+	},
+	"\/resource_item_2455.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346788217",
+	  "size": "272",
+	  "md5": "672e18f2f0a418dea4320c47f2816876",
+	  "crc32": "81408afe",
+	  "sha1": "a4997dbc88ba216a69e0735306145636181eafb7"
+	},
+	"\/resource_item_2455_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2455.jpg",
+	  "mtime": "1346819497",
+	  "size": "4732",
+	  "md5": "422f20ab1d6c2a099c11b59c545e634e",
+	  "crc32": "7ec00f94",
+	  "sha1": "a16b8e199f639e404b8eb44e2133c60a99722c9f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800808.us.archive.org\/5\/items\/AgeofEmpires_1020\/resource_item_2455_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4833,
+	"week": 113,
+	"month": 484
+  }
+}

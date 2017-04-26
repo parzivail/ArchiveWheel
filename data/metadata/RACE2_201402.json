@@ -1,0 +1,116 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/15/items/RACE2_201402",
+  "metadata": {
+	"identifier": [
+	  "RACE2_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ubi Soft Entertainment Software"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "Monaco Grand Prix Racing Simulation 2"
+	],
+	"publisher": [
+	  "Ubi Soft Entertainment Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Monaco Grand Prix Racing Simulation 2 Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-02-07 04:18:03"
+	],
+	"addeddate": [
+	  "2014-02-07 04:18:03"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234318[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_33"
+	]
+  },
+  "files": {
+	"\/RACE2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1391746717",
+	  "size": "19417986",
+	  "md5": "06b1ed237bd0a8b3736d225201dcd8c9",
+	  "crc32": "4caf6c24",
+	  "sha1": "3f2565e8aa488ad179d404d33b0768355b784cc4"
+	},
+	"\/RACE2_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "85a64cfa8be82fa3d9a2b4c4d0b73b17"
+	},
+	"\/RACE2_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391746722",
+	  "size": "10240",
+	  "md5": "7ccf6c0f3dbed016b4cb3eb3cd884dc5",
+	  "crc32": "594e2697",
+	  "sha1": "2b3299a17d3d72bfeee8ae82295c8046957d2a25"
+	},
+	"\/RACE2_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471623818",
+	  "size": "945",
+	  "md5": "43bb1406358fac7101a3c3adc054ac92",
+	  "crc32": "524a87d2",
+	  "sha1": "f2207f7385ddc2adfc2afd681590e0fffcf1efbc"
+	},
+	"\/race2.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391746683",
+	  "size": "82822",
+	  "md5": "808c00a07731bbb66724fe8748483d75",
+	  "crc32": "0c4647e3",
+	  "sha1": "0681d5e3f465e5b2cd08781538188df3eabf5270"
+	},
+	"\/race2_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "race2.PNG",
+	  "mtime": "1391746730",
+	  "size": "6030",
+	  "md5": "2911d8bbf042bd3f53cd04a2b99830c2",
+	  "crc32": "1964ce49",
+	  "sha1": "d64eb8ffe748a3df8b5fbba63ad042e8826ef99b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/15\/items\/RACE2_201402\/race2_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 928,
+	"week": 9,
+	"month": 27
+  }
+}

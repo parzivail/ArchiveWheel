@@ -1,0 +1,129 @@
+{
+  "server": "ia902601.us.archive.org",
+  "dir": "/20/items/hood-demo",
+  "metadata": {
+	"identifier": [
+	  "hood-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Scarlet Pancake Games"
+	],
+	"date": [
+	  "2002-12-18"
+	],
+	"description": [
+	  "Point and click adventure game, created with Adventure Game Studio."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Hood [Demo]"
+	],
+	"publicdate": [
+	  "2015-01-05 18:47:53"
+	],
+	"addeddate": [
+	  "2015-01-05 18:47:53"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150105185826[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_10"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "19"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/165.jpg": {
+	  "source": "original",
+	  "mtime": "1420483688",
+	  "size": "21376",
+	  "md5": "a4102d1bc7a5206878b7cc99ac504b93",
+	  "crc32": "7558b88d",
+	  "sha1": "a3ac73860d4ac4109508b52f900cbe5e73159ec9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/165_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "165.jpg",
+	  "mtime": "1420484311",
+	  "size": "3623",
+	  "md5": "196b1e3686d4c8eefcd3c9785ee2e230",
+	  "crc32": "4ed2a819",
+	  "sha1": "8b38a1f654cce0fe2a2b64a2746ecf6628023964"
+	},
+	"\/hood-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "64bbe14cb47fc068f1f3fabaa8696e35fbcfdb19",
+	  "mtime": "1490659928",
+	  "size": "1958",
+	  "md5": "eeab874423c004ac1d57baf3da0a3ccc",
+	  "crc32": "813ce3f6",
+	  "sha1": "e4f2ff912cd2e4732ea78c7b28682199840824de",
+	  "format": "Archive BitTorrent"
+	},
+	"\/hood-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c3e09c102afac21fe5a2ffe6a0fd2432"
+	},
+	"\/hood-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420483693",
+	  "size": "10240",
+	  "md5": "e16a0a1882c43695c614aa6994e2d87b",
+	  "crc32": "f3a79fa2",
+	  "sha1": "b7dc95061b571e1faba0600462eab4e4aaef78ac",
+	  "format": "Metadata"
+	},
+	"\/hood-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490659927",
+	  "size": "991",
+	  "format": "Metadata",
+	  "md5": "b384d20d199e447d5c4f5acae6085e74",
+	  "crc32": "e6540efa",
+	  "sha1": "1916adff8226e4092d4fea2cb244a506972c46aa"
+	},
+	"\/hood.zip": {
+	  "source": "original",
+	  "mtime": "1420483673",
+	  "size": "784780",
+	  "md5": "b6a4a44cfddc5e447deb9c9cb9c846c5",
+	  "crc32": "6955cd80",
+	  "sha1": "14913778b10dc6e112ed4894c44d991974457b2f",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902601.us.archive.org\/20\/items\/hood-demo\/165_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 60,
+	"week": 4,
+	"month": 8
+  }
+}

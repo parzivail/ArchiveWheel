@@ -1,0 +1,117 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/3/items/Oasis_201402",
+  "metadata": {
+	"identifier": [
+	  "Oasis_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Mind Control Software"
+	],
+	"date": [
+	  "2005"
+	],
+	"description": [
+	  "Discover Ancient Egypt from the comfort of your chair - take five minutes and travel back in time 5,000 years! With every click of the mouse, your empire grows stronger. Spend your turns wisely, and when the barbarians come you will conquer them and reunite your kingdom. Will your empire stand the test of time? Claim your destiny and uncover the mystery that lies at the heart of OASIS."
+	],
+	"publisher": [
+	  "PlayFirst"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Oasis Demo"
+	],
+	"year": [
+	  "2005"
+	],
+	"publicdate": [
+	  "2014-02-15 22:49:08"
+	],
+	"addeddate": [
+	  "2014-02-15 22:49:08"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234107[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_13"
+	]
+  },
+  "files": {
+	"\/Oasis.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392504569",
+	  "size": "9246352",
+	  "md5": "a08506a4ca181987a676b6422ecce2b5",
+	  "crc32": "8f1eccab",
+	  "sha1": "692427058a1bef9d0dd4a8081fa4ea914ca87fbe"
+	},
+	"\/Oasis_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f92122e116d21b5eacd44752146aca60"
+	},
+	"\/Oasis_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392504572",
+	  "size": "14336",
+	  "md5": "32a8425fdfa5b336dd591ceb25d5885b",
+	  "crc32": "7e235252",
+	  "sha1": "de14758990c3a16eb12739d65f422f1d2889a505"
+	},
+	"\/Oasis_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473945239",
+	  "size": "1230",
+	  "md5": "316af3c5e2596e824038bc5124c14afb",
+	  "crc32": "fd990ba5",
+	  "sha1": "f97be162fc2182f8b8b7d381d21d64a3442e868d"
+	},
+	"\/oasis.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392504548",
+	  "size": "159934",
+	  "md5": "e9254dae3bfa30c864b8a7c3663006ed",
+	  "crc32": "f52e6e35",
+	  "sha1": "907b2d37cb433981e8bc98a2263f89cfa708e01a",
+	  "rotation": "0"
+	},
+	"\/oasis_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "oasis.jpg",
+	  "mtime": "1392504580",
+	  "size": "6811",
+	  "md5": "ab1a99e52e9b0fad556e4f902a00374b",
+	  "crc32": "c1cef77f",
+	  "sha1": "36ff175bf811c531d06a9f2181990ff0fb811cbf"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/3\/items\/Oasis_201402\/oasis_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 516,
+	"week": 8,
+	"month": 39
+  }
+}

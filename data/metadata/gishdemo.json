@@ -1,0 +1,118 @@
+{
+  "server": "ia902606.us.archive.org",
+  "dir": "/29/items/gishdemo",
+  "metadata": {
+	"identifier": [
+	  "gishdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Chronic Logic"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "Gish isn't your average hero. In fact, he's not your average anything. See, Gish is a ball of tar. A Sunday stroll with his lady friend Brea goes awry when a shadowy figure emerges from an open manhole and pulls Brea into the ground below. Following Brea's calls for help Gish suddenly finds himself in the subterranean sewers of Dross, a long forgotten city filled with twisting corridors, evil traps, and some of the most demented creatures imaginable. With his gelatinous structure as his only means of defense, Gish must follow the echoing cries of his damsel in distress deep into the earth bellow. What freakish creatures dwell in this subterranean land? Who is Brea's captor? And just how far down does the rabbit hole go? Life isn't easy when you're a 12-pound ball of tar..."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Gish Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2015-04-16 00:27:18"
+	],
+	"addeddate": [
+	  "2015-04-16 00:27:18"
+	],
+	"backup_location": [
+	  "ia905304_9"
+	]
+  },
+  "files": {
+	"\/gish.jpg": {
+	  "source": "original",
+	  "mtime": "1429144050",
+	  "size": "57658",
+	  "md5": "0798f5b3f682403e52265d7d18baaf5e",
+	  "crc32": "706f773b",
+	  "sha1": "e80cf20be6924214419bb196a89f0be7dba03b5d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/gish_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "gish.jpg",
+	  "mtime": "1429144065",
+	  "size": "5121",
+	  "md5": "5d595ac1d878e6166280b2f45a2bbb6d",
+	  "crc32": "034df3b0",
+	  "sha1": "09cbef79a49dd307f801fbf9a4c3edadc8da7222"
+	},
+	"\/gishdemo.exe": {
+	  "source": "original",
+	  "mtime": "1429144037",
+	  "size": "11634910",
+	  "md5": "d2dacbf87e8527bc2b5c834d0ce28c52",
+	  "crc32": "ffd890d4",
+	  "sha1": "fd7f0df620cb907b8dc4c46ec3c15ceb1eb6a8cb",
+	  "format": "Windows Executable"
+	},
+	"\/gishdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5f0a8c4e4f7ad7f15cb2ae0c4bbc971665811648",
+	  "mtime": "1484424208",
+	  "size": "2380",
+	  "md5": "979c2a20f2e3406030e4b3172cd9c9f3",
+	  "crc32": "06923e2d",
+	  "sha1": "3484dd22c8db094917550598630202e0bcb6ea32",
+	  "format": "Archive BitTorrent"
+	},
+	"\/gishdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "615b175374a792b1874532b408bcad42"
+	},
+	"\/gishdemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1429144055",
+	  "size": "14336",
+	  "md5": "c263454a84a28d959fa3e8274a90cf88",
+	  "crc32": "139cc20f",
+	  "sha1": "0e39f3bb0ca892a0251744df6dc6a23bb432edef",
+	  "format": "Metadata"
+	},
+	"\/gishdemo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484424204",
+	  "size": "1401",
+	  "format": "Metadata",
+	  "md5": "4b3e4bf9a1417c53c25829ed4ed7959a",
+	  "crc32": "937c9bf4",
+	  "sha1": "7b406ad4e2ebc87a753ae78928ee45effdfff535"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902606.us.archive.org\/29\/items\/gishdemo\/gish_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 87,
+	"week": 4,
+	"month": 8
+  }
+}

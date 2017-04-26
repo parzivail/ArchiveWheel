@@ -1,0 +1,121 @@
+{
+  "server": "ia902504.us.archive.org",
+  "dir": "/21/items/PGADEMO",
+  "metadata": {
+	"identifier": [
+	  "PGADEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Pro realism and presentation. Golf simulation"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "PGA Tour Pro Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-06-25 21:10:52"
+	],
+	"addeddate": [
+	  "2014-06-25 21:10:52"
+	],
+	"backup_location": [
+	  "ia905809_22"
+	]
+  },
+  "files": {
+	"\/PGADEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1403730651",
+	  "size": "13199603",
+	  "md5": "a0b780c9bd146f6398e8d88bdd00644d",
+	  "crc32": "3f8dbf3b",
+	  "sha1": "641d519b7d6bcc8edf07bf8faf8243e8ff21f7ff"
+	},
+	"\/PGADEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "ee7241f9778a3b6ed03cf1ca7fa2d43a1e351777",
+	  "mtime": "1474650939",
+	  "size": "2438",
+	  "md5": "4b491d63c380282a038b935560b5a920",
+	  "crc32": "0cb04460",
+	  "sha1": "3a56645fee13228cac4680855fc45fcfbb821709",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PGADEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7f6a0229600ff266be36a29342fec2d2"
+	},
+	"\/PGADEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1403730671",
+	  "size": "9216",
+	  "md5": "c20dec06885b1f02573ee460eadbdd88",
+	  "crc32": "bbf561bb",
+	  "sha1": "6ead02a061426dbdb4333c4b0c23fa8656e5b3ab"
+	},
+	"\/PGADEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474650938",
+	  "size": "714",
+	  "md5": "470fc5d1d89dac3dc2b0a56c63534be9",
+	  "crc32": "96716f54",
+	  "sha1": "fd1b22f4fdd9c5c61858719e0b31f35c5d31cd36"
+	},
+	"\/PGATOURP.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "mtime": "1466443918",
+	  "size": "156234",
+	  "md5": "49a5929184ffaddc1a846510c84d63ec",
+	  "crc32": "885f54fd",
+	  "sha1": "1ae6acd321128b52c10651b5dc8b2c59375979da"
+	},
+	"\/PGATOURP_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "PGATOURP.jpg",
+	  "mtime": "1466444880",
+	  "size": "4464",
+	  "md5": "8f150db477e7a30aa77f2a845b374fa9",
+	  "crc32": "ffbd6129",
+	  "sha1": "70e40eab4274dd7ca9627765bdffff1c54d360db"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902504.us.archive.org\/21\/items\/PGADEMO\/PGATOURP_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 187,
+	"week": 6,
+	"month": 15
+  }
+}

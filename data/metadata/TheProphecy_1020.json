@@ -1,0 +1,286 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/34/items/TheProphecy_1020",
+  "metadata": {
+	"identifier": [
+	  "TheProphecy_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Coktel Vision"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Prophecy Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:23:02"
+	],
+	"addeddate": [
+	  "2012-09-04 03:23:02"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"description": [
+	  "This point and click adventure takes a fantasy setting, in which you play a Wizard deemed to be \u2018good\u2019 taking on a less good one. To fulfill the prophecy you have been given in a limited time of 3 days, he must go on 3 quests, solving various puzzles along the way to be rewarded 3 grains of sand, that he must place in a hourglass to kill an evil wizard. Objects around the levels are always detected by the cursor, making each screen and the challenges within quick to comprehend. Generally you have to solve each puzzle in sequence.\n\nLike the company's Gobliins Series, the interface is simplified, and the game has a heavier focus on self-sufficient puzzles than other traditional adventures. The game experiments with the toning of the graphics, using a faux-sepia style outside and some bright colours inside, which changes the atmosphere somewhat. (<a href=\"http:\/\/www.mobygames.com\/game\/dos\/prophecy\" rel=\"nofollow\">MobyGames<\/a>)"
+	],
+	"emulator_start": [
+	  "WEEN\/GO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475555162",
+	  "size": "256838",
+	  "md5": "10a28fcbed49db054b70dc9ba9bd8c72",
+	  "crc32": "de51b85b",
+	  "sha1": "dc84af862420220fd56816844b793d3fb0c278ed",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475555205",
+	  "size": "4384",
+	  "md5": "cb8490d47b9c9f8318888a01ac889963",
+	  "crc32": "ccff7ee1",
+	  "sha1": "46280ef2fe8550aa426e62e8b428f22ac81efbd5"
+	},
+	"\/TheProphecy_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475555182",
+	  "size": "134576",
+	  "md5": "f93f462f6248b143e2626a7f585933fa",
+	  "crc32": "5f86163e",
+	  "sha1": "07bf84d18b84d33f57cd4c8e2e048813dbcc9404",
+	  "format": "Animated GIF"
+	},
+	"\/TheProphecy_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "4e5993a1cfba8544ea666b60eb6bc9783fac52e2",
+	  "mtime": "1475555212",
+	  "size": "4600",
+	  "md5": "6bd79e031ac12dfd2b3520f7f9df9155",
+	  "crc32": "d19f849a",
+	  "sha1": "1959bf2537041bae576cb20dbd84642820bbda4b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheProphecy_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "80dc45ac4eded244f0a0655be48c24b8"
+	},
+	"\/TheProphecy_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475555191",
+	  "size": "10240",
+	  "md5": "c9d840b08809c713e178c78cc9eca8df",
+	  "crc32": "2b66c417",
+	  "sha1": "8bc06d023ceb7adbe9896d79735c8aa4051dc5ab",
+	  "format": "Metadata"
+	},
+	"\/TheProphecy_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471889469",
+	  "size": "1826",
+	  "md5": "d3c00b42bbb55ad9e2bf1a114dd2349b",
+	  "crc32": "a00bf395",
+	  "sha1": "27e69144a6d556367235f61d5f1f23b0a6e22f33"
+	},
+	"\/resource_item_1558.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346729007",
+	  "size": "15138",
+	  "md5": "6788af9b3f5634192b2112be5c37de30",
+	  "crc32": "238d540c",
+	  "sha1": "ce1a9337f38413c447a1b7bd5777c86e3fefad88",
+	  "rotation": "0"
+	},
+	"\/resource_item_1558.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729007",
+	  "size": "272",
+	  "md5": "6a8972f79b745b1b82cdc041e0db347a",
+	  "crc32": "d5a3ccbd",
+	  "sha1": "dad8c2c1bb4e069bc8b8b77892fa990135f28796"
+	},
+	"\/resource_item_1558_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1558.jpg",
+	  "mtime": "1346729934",
+	  "size": "4705",
+	  "md5": "ecb855f551656ccc7cb769dcb890f294",
+	  "crc32": "63d93d94",
+	  "sha1": "75ac2da8267532b693ad3b7d8189416d6c899ac4"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475555164",
+	  "size": "229750",
+	  "md5": "59f94da2f674b4059e29926a8836f465",
+	  "crc32": "2d2b7672",
+	  "sha1": "077cb0708e8e6e474997c06c57dc4cba7a8bfe60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475555203",
+	  "size": "5059",
+	  "md5": "4a548029b828463eb66e73156fcc1004",
+	  "crc32": "ca2c8240",
+	  "sha1": "4b96c0e6f3caf566936729f0ad05848ffad086ef"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475555167",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475555206",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475555169",
+	  "size": "256838",
+	  "md5": "10a28fcbed49db054b70dc9ba9bd8c72",
+	  "crc32": "de51b85b",
+	  "sha1": "dc84af862420220fd56816844b793d3fb0c278ed",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475555207",
+	  "size": "4384",
+	  "md5": "cb8490d47b9c9f8318888a01ac889963",
+	  "crc32": "ccff7ee1",
+	  "sha1": "46280ef2fe8550aa426e62e8b428f22ac81efbd5"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475555171",
+	  "size": "28465",
+	  "md5": "c96dbb626fd7686416f47a48fafbaa7a",
+	  "crc32": "192bca11",
+	  "sha1": "9cd258b822a386c9876075df69b6b2164e1fda42",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475555211",
+	  "size": "2695",
+	  "md5": "358732e43ae2e263bb9b9ea6f47bdb97",
+	  "crc32": "d75d291c",
+	  "sha1": "f3e752ea232bdf60278b3c4ec2e9db4f739aa4f6"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475555173",
+	  "size": "64318",
+	  "md5": "d045d0a1eade788f528d170ddb592799",
+	  "crc32": "71a0e4b2",
+	  "sha1": "fdbd097e80fcb4777b1bf34eb708ad3a30480477",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475555209",
+	  "size": "3032",
+	  "md5": "ee5b0acf15dfa5b8ee1fc95ed85d8292",
+	  "crc32": "8dd2ba21",
+	  "sha1": "17a90cbad34550a9ec378d993e60bfaa2805c77b"
+	},
+	"\/ween.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346729005",
+	  "size": "2221343",
+	  "md5": "4514d6a59e7ee4e39d4cfec7c25cdc25",
+	  "crc32": "35f772e3",
+	  "sha1": "af29e5dfa3fd435dc94cadbfa90a1f13acf0b1f3"
+	},
+	"\/ween.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729005",
+	  "size": "657",
+	  "md5": "957394abdaeeca3b745ca7e31e403f38",
+	  "crc32": "66f3e72a",
+	  "sha1": "72a4c7efb1f91e7d57abc800a8b5a609a8850ecf"
+	},
+	"\/ween_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475555186",
+	  "size": "253931",
+	  "md5": "638d7d005afae6a4e2ec9e5459da67ca",
+	  "crc32": "c17731d3",
+	  "sha1": "895b9ce7af2ac0d4ce3c3a22436d71013f5d9c92",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/34\/items\/TheProphecy_1020\/TheProphecy_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 242,
+	"week": 3,
+	"month": 3
+  }
+}

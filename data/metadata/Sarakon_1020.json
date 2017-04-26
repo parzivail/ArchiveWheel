@@ -1,0 +1,267 @@
+{
+  "server": "ia600701.us.archive.org",
+  "dir": "/10/items/Sarakon_1020",
+  "metadata": {
+	"identifier": [
+	  "Sarakon_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Starbyte Software"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Leisure Genius",
+	  "Virgin Mastertronic"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "Sarakon Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:46:37"
+	],
+	"addeddate": [
+	  "2012-09-04 03:46:37"
+	],
+	"year": [
+	  "1991"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"description": [
+	  "A simple variation of the classic game of Mahjongg (also known as Shanghai). Each of the levels consist of piles of tiles, patterned with symbols such as butterflies and masks. Pair them up within the time limit to move on to the next level."
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "SARAKON\/SARAKON.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475463123",
+	  "size": "271264",
+	  "md5": "d370eddbaa71f8517bf7a21ceecf35ad",
+	  "crc32": "711a66a4",
+	  "sha1": "4b32f64c1805420d66586f022041d6d00ca45b8a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475463156",
+	  "size": "4930",
+	  "md5": "ece14b6b0ce46ba24093c0ce012447e8",
+	  "crc32": "10907bc4",
+	  "sha1": "ab0db071df8fbbe1a1944783e53fb5f211e35a6a"
+	},
+	"\/Sarakon_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475463135",
+	  "size": "54453",
+	  "md5": "8c9717d0e6b4c70416790c2c043b7e52",
+	  "crc32": "95d1e7e0",
+	  "sha1": "43a99678cc547df6ba1d8b38cd88dc3d2640109d",
+	  "format": "Animated GIF"
+	},
+	"\/Sarakon_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "9342429a4a2023f4d9d50517eed5ce61a838925c",
+	  "mtime": "1475463162",
+	  "size": "4159",
+	  "md5": "26a5d40934265883e9825c195ed61c26",
+	  "crc32": "ee3e5065",
+	  "sha1": "2c3a984b83bc9c8b237409af7d75ab715fe0598f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Sarakon_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ec1e958b1276a9b52e068450d72d107e"
+	},
+	"\/Sarakon_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475463145",
+	  "size": "10240",
+	  "md5": "918614d0c226b2fb204fb6b7a6442099",
+	  "crc32": "9aaa5834",
+	  "sha1": "586a41fb0a3853e1a8b3520d99bbab960c1a19d1",
+	  "format": "Metadata"
+	},
+	"\/Sarakon_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469818342",
+	  "size": "1157",
+	  "md5": "5e20083f8e010c8a4b2adfc69d327a93",
+	  "crc32": "87815c2c",
+	  "sha1": "4fda8dc0eea16963f5d41c4d9a247bf425bf0ee6"
+	},
+	"\/resource_item_1546.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731615",
+	  "size": "21946",
+	  "md5": "2415b3497a418a8ed3588076b92fb024",
+	  "crc32": "45ab840a",
+	  "sha1": "7d5f6623b8c3173096615b89028e7e143240469c",
+	  "rotation": "0"
+	},
+	"\/resource_item_1546.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731615",
+	  "size": "272",
+	  "md5": "2489a4b7be671fcca540035d948ae2d2",
+	  "crc32": "723b6fe6",
+	  "sha1": "fd2e1835d08eb5d8da8b7fd8af0bc34dcd2c0803"
+	},
+	"\/resource_item_1546_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1546.jpg",
+	  "mtime": "1346733052",
+	  "size": "6187",
+	  "md5": "677b48dc907ccd65537a71b2c51a57bc",
+	  "crc32": "2d5cd391",
+	  "sha1": "d863f747a1d66086c968383d9cce0b4287cdd511"
+	},
+	"\/sarakon.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730403",
+	  "size": "218478",
+	  "md5": "818026e6c22298435589f7765277ff95",
+	  "crc32": "744ff816",
+	  "sha1": "1a2e4fe514765f625f70642635a17727fa56e8e9"
+	},
+	"\/sarakon.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730403",
+	  "size": "651",
+	  "md5": "f2247c9dccc340b350f2cdd203535cdc",
+	  "crc32": "ccdd2aae",
+	  "sha1": "0d129706eb5ce3dba9ebab15b40b3b6e7b3e1028"
+	},
+	"\/sarakon_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475463139",
+	  "size": "309753",
+	  "md5": "b897f2cefab27eee9aaadc475e3cc571",
+	  "crc32": "03b03da3",
+	  "sha1": "e264c2a96f614966e165c29e466b36c2ebfd0745",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475463126",
+	  "size": "108756",
+	  "md5": "ea554e609a4494159c713a8cd493f751",
+	  "crc32": "c6cc37bf",
+	  "sha1": "1b3fceaf9123b7ff38acddb2639bd55ba3733d0a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475463157",
+	  "size": "4581",
+	  "md5": "c0aa1c130e3481efc3ccb7d29fecfaa7",
+	  "crc32": "29e74ef9",
+	  "sha1": "f0d2710a49f6007456f9a239f296ffa3554f965e"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475463128",
+	  "size": "62385",
+	  "md5": "52a21a20d7996a4150bd1adc1b7b4a72",
+	  "crc32": "e850bd01",
+	  "sha1": "9ace05b409f54159f488bfdf7ab4a9942ce3aa54",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475463158",
+	  "size": "1907",
+	  "md5": "6536e1776164808cb287a4800f893a57",
+	  "crc32": "9f40a9b0",
+	  "sha1": "bb1e2ecc59528a27f4748abb04ec3c52392736c9"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475463130",
+	  "size": "252527",
+	  "md5": "1b876182c973aec505c456071faca1b1",
+	  "crc32": "e8ccb279",
+	  "sha1": "66324ca159fef8fa6a558b38b1a49cded06cf2d1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475463159",
+	  "size": "4244",
+	  "md5": "608398ee43ae55c4cddd74b7812dc3cf",
+	  "crc32": "8b7ae59a",
+	  "sha1": "e26a88eed86bacae8fdcb3b724b4b42dfd132f87"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475463133",
+	  "size": "271264",
+	  "md5": "d370eddbaa71f8517bf7a21ceecf35ad",
+	  "crc32": "711a66a4",
+	  "sha1": "4b32f64c1805420d66586f022041d6d00ca45b8a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475463161",
+	  "size": "4930",
+	  "md5": "ece14b6b0ce46ba24093c0ce012447e8",
+	  "crc32": "10907bc4",
+	  "sha1": "ab0db071df8fbbe1a1944783e53fb5f211e35a6a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600701.us.archive.org\/10\/items\/Sarakon_1020\/Sarakon_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 632,
+	"week": 11,
+	"month": 45
+  }
+}

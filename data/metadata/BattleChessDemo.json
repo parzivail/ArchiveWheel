@@ -1,0 +1,188 @@
+{
+  "server": "ia800300.us.archive.org",
+  "dir": "/32/items/BattleChessDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Battle Chess Demo"
+	],
+	"description": [
+	  "The most challenging game on earth comes to life in Battle Chess. An entire medieval world at war is reflected on the checkered field.\n\nEveryone who's ever had a knight take a pawn has seen that capture as more than one piece replacing another on the board. In players' minds, the bold knight, resplendent in his armor of silver or ebon, sallies forth and slays the foul footsoldier. Combat, mortal combat, is the heart and soul of chess, but this aspect of it can only live in the mind's eye until now!\n\nLots of computer chess games capture the basics of chess. Only Battle Chess brings chess to life by combining a magnificent chess logic system with colorful, humorous, and dramatic three-dimensional animations."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "BattleChessDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 02:40:23"
+	],
+	"date": [
+	  "1988"
+	],
+	"year": [
+	  "1988"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"publicdate": [
+	  "2012-07-05 02:40:56"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "chess.exe"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444845820",
+	  "size": "357091",
+	  "md5": "d3c77b1f571bb09c17b946b6b5b2086d",
+	  "crc32": "82353c35",
+	  "sha1": "0d0fd2fde60797c950c6fa6c658b6417e26a3832",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444845844",
+	  "size": "6938",
+	  "md5": "cb33dafe25812476a3932c43f7fee4f7",
+	  "crc32": "f04e0222",
+	  "sha1": "3c4d7d4505932638b5ca0a93a9a6250aa620cc20"
+	},
+	"\/BattleChessDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444845826",
+	  "size": "68316",
+	  "md5": "e18ba55bc8ada647b6ddf7cedfffe570",
+	  "crc32": "3b4087d0",
+	  "sha1": "b40b9e9fb0f6e0189c4234ba211891224353a2cc",
+	  "format": "Animated GIF"
+	},
+	"\/BattleChessDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "31065453a29e0e1ee4ac7e5c7e33d69c379b7ec5",
+	  "mtime": "1466230786",
+	  "size": "3141",
+	  "md5": "5fb4cd3cf801fd9e867f5fdb8dfcd7c4",
+	  "crc32": "b63a5059",
+	  "sha1": "f79984bbb07c2c23f4b44155d99996d26060eb80",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BattleChessDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "510dd4d569f5cb454f0f411540e561a9"
+	},
+	"\/BattleChessDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444845834",
+	  "size": "9216",
+	  "md5": "73a1bd6669c9a31b2400e31cbd699b20",
+	  "crc32": "aa7e7476",
+	  "sha1": "908f0e93c1da5bc863f8d5029a22529f72d34392",
+	  "format": "Metadata"
+	},
+	"\/BattleChessDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466230785",
+	  "size": "1572",
+	  "md5": "0322f90cb0cd3f67be16ee9d1995e606",
+	  "crc32": "815e46d4",
+	  "sha1": "83073ff624fe4540f90d451686a52c9858e2bd1c"
+	},
+	"\/bcdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341455962",
+	  "size": "754283",
+	  "md5": "5468a2087e5a307513bcb628d91f0eed",
+	  "crc32": "784f0544",
+	  "sha1": "fa10a16e7d94b5d7e14ad1a3552d97b07279602c"
+	},
+	"\/bcdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444845829",
+	  "size": "176121",
+	  "md5": "96ba374e359f47a4410d137ca0b7fa82",
+	  "crc32": "79f65377",
+	  "sha1": "3ff84691c8c0cb820f768305e50c5f1aef69a00d",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_169.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341455971",
+	  "size": "22624",
+	  "md5": "d0c5e9ab8c10e46479f100ba6f064f74",
+	  "crc32": "3111bf49",
+	  "sha1": "aff4a8fd02e198c73d07a0cfbc526a0259d07cc9",
+	  "rotation": "0"
+	},
+	"\/resource_item_169_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_169.jpg",
+	  "mtime": "1341456043",
+	  "size": "6964",
+	  "md5": "dcb61b35b557ab5f2d498f6df0a011b2",
+	  "crc32": "2aea863a",
+	  "sha1": "a3d011085cb438a45bf2c55887f70a66b15e3371"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444845823",
+	  "size": "357091",
+	  "md5": "d3c77b1f571bb09c17b946b6b5b2086d",
+	  "crc32": "82353c35",
+	  "sha1": "0d0fd2fde60797c950c6fa6c658b6417e26a3832",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444845845",
+	  "size": "6938",
+	  "md5": "cb33dafe25812476a3932c43f7fee4f7",
+	  "crc32": "f04e0222",
+	  "sha1": "3c4d7d4505932638b5ca0a93a9a6250aa620cc20"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800300.us.archive.org\/32\/items\/BattleChessDemo\/BattleChessDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2883,
+	"week": 18,
+	"month": 45
+  }
+}

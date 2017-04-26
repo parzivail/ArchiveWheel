@@ -1,0 +1,228 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/30/items/BattleBugsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Battle Bugs Demo"
+	],
+	"description": [
+	  "\"The Alluring odor of last week's pizza lies heavy in the air. Antennae strain and agony etches lines of pain into the faces of the cockroaches. With monumental effort, these warriors raise the flag above the carnage in the pepperoni.\n\nThis is Battle Bugs. A game of military strategy where insect troops rage across tabletops and storm junk food targets. Standing in their way are legions of enemy bugs, armed to the teeth. You - and your battle smarts - guide your troops to glory. Will your armada of spiders cross the cola lake in time to save the flag? Will the suicide run of a kamikaze mosquito take out the praying mantis? At what cost? AT WHAT PRICE VICTORY?\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Epyx"
+	],
+	"identifier": [
+	  "BattleBugsDemo"
+	],
+	"addeddate": [
+	  "2012-08-27 00:20:12"
+	],
+	"publicdate": [
+	  "2012-08-27 00:20:30"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_23"
+	],
+	"emulator_start": [
+	  "BUGS.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475797513",
+	  "size": "817968",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "f8f3d404a25008fa49e8fc79e4fc92a6",
+	  "crc32": "dcf2f9b6",
+	  "sha1": "2f2c382d49f0e985cd0cde591ea78c85070ac31b"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475797543",
+	  "size": "6181",
+	  "md5": "7982e555628d1461b617282153af34d9",
+	  "crc32": "f3c801cb",
+	  "sha1": "409472106019696df8f22ebe27c6bc348691f754"
+	},
+	"\/BattleBugsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475797523",
+	  "size": "84493",
+	  "format": "Animated GIF",
+	  "md5": "cb058c213ed5485136950cc48ce77e6f",
+	  "crc32": "ee24cf24",
+	  "sha1": "8f8d539463c80879f2c3112e07c9ed9dd218bfa5"
+	},
+	"\/BattleBugsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "084f0b69f2073ed3a195c89ea143e9d4c545264c",
+	  "mtime": "1475797549",
+	  "size": "3910",
+	  "md5": "f699288a3d2d67381d3d5fac9b0d9108",
+	  "crc32": "868b5401",
+	  "sha1": "2ebad3eafe211a275f5518edaef00b1e1bd494f2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BattleBugsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "07284442301776d76ab04a3d7711faa1"
+	},
+	"\/BattleBugsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475797532",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "b48bf9029cebf8ccc8f70a243001cdff",
+	  "crc32": "431f7d3a",
+	  "sha1": "277735037438139696056102ca508a58d7459590"
+	},
+	"\/BattleBugsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473460963",
+	  "size": "1528",
+	  "md5": "07ff5bcb0bc97e074762e2b0a6855672",
+	  "crc32": "c7399ce5",
+	  "sha1": "bac2c9751bac6a72b8b4dce151f539f528d4075b"
+	},
+	"\/batbugs.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346026787",
+	  "size": "1191064",
+	  "md5": "d381a79401c938dd033236219a70f61c",
+	  "crc32": "691c1b40",
+	  "sha1": "d719b3ed01a224ed7244c24d2d1d5879652e95c4"
+	},
+	"\/batbugs_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475797527",
+	  "size": "354693",
+	  "format": "Emulator Screenshot",
+	  "md5": "f07206c67b538a8b9dcc1b7118e0a7b5",
+	  "crc32": "3349bbe7",
+	  "sha1": "e62460ad5a2ba2ae857b8057fa9afeb330cfa2f5"
+	},
+	"\/resource_item_557.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346026792",
+	  "size": "19110",
+	  "md5": "3138189e3b5b093edfce369769886ab6",
+	  "crc32": "64bcfb6c",
+	  "sha1": "3ac3edf84077f029f32d8bffff1a20f0d90b7059",
+	  "rotation": "0"
+	},
+	"\/resource_item_557_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_557.jpg",
+	  "mtime": "1346026823",
+	  "size": "5838",
+	  "md5": "c4d8c59cdfde0dd403da8c2372435394",
+	  "crc32": "9b177846",
+	  "sha1": "da5cb6e6cef27a4035d4ece28e9948fc62cd778f"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475797515",
+	  "size": "817968",
+	  "md5": "f8f3d404a25008fa49e8fc79e4fc92a6",
+	  "crc32": "dcf2f9b6",
+	  "sha1": "2f2c382d49f0e985cd0cde591ea78c85070ac31b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475797545",
+	  "size": "6181",
+	  "md5": "7982e555628d1461b617282153af34d9",
+	  "crc32": "f3c801cb",
+	  "sha1": "409472106019696df8f22ebe27c6bc348691f754"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475797517",
+	  "size": "4547",
+	  "md5": "9c3ae96959571030458d1e911b4653e9",
+	  "crc32": "6dd7d085",
+	  "sha1": "1db8991c9b6b5553a432d900b187c86bb882e1c4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475797546",
+	  "size": "1011",
+	  "md5": "7a16c55d6c6107a76830d908ce9d5b49",
+	  "crc32": "2d12d64f",
+	  "sha1": "5f197c98caba4e35deead9385a45a07857baaadc"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475797520",
+	  "size": "642979",
+	  "md5": "f1cb67815ff89205bd86f221d4265d2c",
+	  "crc32": "dc6f0a1a",
+	  "sha1": "75bb9c3bd77ec05de2f885593d97213b9eee9205",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475797547",
+	  "size": "4857",
+	  "md5": "3c436a4b0fc17403fa1d25b672a6ac46",
+	  "crc32": "a97f4232",
+	  "sha1": "175f10f615cf7a70fe617bba1ee70121d4b31dac"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/30\/items\/BattleBugsDemo\/BattleBugsDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 192,
+	"week": 4,
+	"month": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "server": "ia601801.us.archive.org",
+  "dir": "/29/items/Wogdemo",
+  "metadata": {
+	"identifier": [
+	  "Wogdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "ORIGIN Systems"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Its not only angels that have wings. When you're duelling at dawn and the enemy's close enough to smell, it takes an unshakeable nerve to bring your canvas crate back home. With no radar to guide you radio communication or missiles, one slip and you'll be trading your flying helmet for a halo. But then, no guts, no Wings of Glory.\u00a0"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Wings of Glory Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-06-02 11:55:25"
+	],
+	"addeddate": [
+	  "2013-06-02 11:55:25"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233249[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905701_23"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "WG.EXE"
+	]
+  },
+  "files": {
+	"\/Wogdemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "61f1e3c5cee5c6ac0c2787e1481f9bcc9c1e5aef",
+	  "mtime": "1476204283",
+	  "size": "2508",
+	  "md5": "3b40047f44b5e59bd1d222bd1c570347",
+	  "crc32": "e3f5de30",
+	  "sha1": "04b31548154bf83ea6c4ace097edb562ad33f98c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Wogdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a2ec284e5582e2b8b43a6ece2f90a0e6"
+	},
+	"\/Wogdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204086",
+	  "size": "1238",
+	  "md5": "eaa2ed6ac3ca2531e5458f875e56b90b",
+	  "crc32": "50ccba5c",
+	  "sha1": "cc8e2a443af2eff63380caabe68cc7783b84c3ea"
+	},
+	"\/wings.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1435263878",
+	  "size": "10437411",
+	  "md5": "d84b0f837fc80d0ca06afdfc29f77de4",
+	  "crc32": "f6d42b4c",
+	  "sha1": "2cbdec52055c61daeea8593d88671e84bf0bf261"
+	},
+	"\/wogdemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1370174124",
+	  "size": "35493",
+	  "md5": "6e478dc73e72625c631481b8f0f68a3e",
+	  "crc32": "b2866feb",
+	  "sha1": "d7cf18a88602366d3989da2de67ee7d255263237"
+	},
+	"\/wogdemo.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370174124",
+	  "size": "1655",
+	  "md5": "5af9e8bb80c94a86bd7a5cf9a287d63e",
+	  "crc32": "6fadfb05",
+	  "sha1": "1aa9a100fc74769a864b58121dfd1a3ea489155c"
+	},
+	"\/wogdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476204277",
+	  "size": "4979976",
+	  "md5": "d025192f25e491aaa0fb0c7cd6785593",
+	  "crc32": "1a5734ba",
+	  "sha1": "cfd255c84d10dffb2c7360f5f28c2730b9996b76"
+	},
+	"\/wogdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370174143",
+	  "size": "1633",
+	  "md5": "2240a65dbfe09cf8d4f56c2331cd3d8e",
+	  "crc32": "e6c4d20e",
+	  "sha1": "f4e8a88591f0b334422502466f259bc1a0fec5d2"
+	},
+	"\/wogdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "wogdemo.png",
+	  "mtime": "1370174149",
+	  "size": "4084",
+	  "md5": "7d0d05be10833f21e50035d8cb59ce6a",
+	  "crc32": "0cdbe0df",
+	  "sha1": "a68ed3066851a87fe78e7cec1026cd10f51cb4fa"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601801.us.archive.org\/29\/items\/Wogdemo\/wogdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 787,
+	"week": 6,
+	"month": 19
+  }
+}

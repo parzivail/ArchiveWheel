@@ -1,0 +1,130 @@
+{
+  "server": "ia600701.us.archive.org",
+  "dir": "/32/items/HexenII_1020",
+  "metadata": {
+	"identifier": [
+	  "HexenII_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "id Software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Hexen II Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-04 23:14:29"
+	],
+	"addeddate": [
+	  "2012-09-04 23:14:29"
+	],
+	"description": [
+	  "\"With the destruction of D'Sparil and Korax, the forces of Light believed that they would gain respite from the vicious attacks of the Serpent Riders. They were wrong.\n\nWith the remains of the first two Serpent Rider's armies added to his already powerful forces, the third Serpent Rider, Eidolon, stalked forth into the realm of mankind. No mercy was shown by this ravenous onslaught, and soon, the tribes of humanity fell to the Dark Generals of the Serpent Rider. For years, you have lived in hiding, biding your time, bitterly planning the vengeance that you lust for. Death, Pestilence, War, Famine... you will face them all on your quest to destroy Eidolon and all that he covets. Fortunately, you need not face this final battle alone, you have made an uneasy truce with those that were once your enemies.\n\nThe Necromancer, master of blackest magic, his reasons for destroying Eidolon are clear- he wished the power for himself. The Assassin, Taker of Lives, though she fights by your side, it is always best to watch your back. The Crusader, a man of magic and skill at arms, a healer who will protect you with his life. And finally, the Paladin, with the power of his ancient gods, he hopes to rid the world of the evil that has befallen it.\n\nAs you clinch your bootstraps and ready your weapons, you can only hope and wonder what lies in the depths of the recently besieged castle that stands before you. All of humanity rests on the edge of your blade. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/HexenII_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "e3c0508fb4b44efd811461ce42094e83d7fede8c",
+	  "mtime": "1466375290",
+	  "size": "2647",
+	  "md5": "fb0c7b7400d547162603a2a656c130fa",
+	  "crc32": "8c2c9f6a",
+	  "sha1": "276aafca5cd09af5abdf730bf5fbb8be8e5cb3a4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/HexenII_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f3ccf1bfcc07a441099b816260114aab"
+	},
+	"\/HexenII_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466375289",
+	  "size": "2216",
+	  "md5": "cec7e7247a2cc8e7573c7a5ea68de56d",
+	  "crc32": "23abd040",
+	  "sha1": "73e75fe9354e36d4e4854a377a78d1624e62c1b6"
+	},
+	"\/h2demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346800681",
+	  "size": "21848903",
+	  "md5": "2a67d3b21b4dbdb2694720b8e75eed99",
+	  "crc32": "a3c1479c",
+	  "sha1": "f324b626e69a6e087364be5f69e5dd13dde814d2"
+	},
+	"\/h2demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346800681",
+	  "size": "679",
+	  "md5": "a318f40370f2ddc26bfe2771cc18a037",
+	  "crc32": "38ee5d86",
+	  "sha1": "9f462c0a3346aa46f93f528f7c2099d7487472ca"
+	},
+	"\/resource_item_2650.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346800683",
+	  "size": "10559",
+	  "md5": "94678eb75b4ddd5c252a8116f26bce20",
+	  "crc32": "7daa4fb2",
+	  "sha1": "571b926176e64fe6219a455988a74c756a1d729b",
+	  "rotation": "0"
+	},
+	"\/resource_item_2650.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346800683",
+	  "size": "272",
+	  "md5": "bbb5302fd347203f692e66bd643ddf4b",
+	  "crc32": "11f2789a",
+	  "sha1": "ace5733ab57b6fb8b27fba554595b8bd34d036cc"
+	},
+	"\/resource_item_2650_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2650.jpg",
+	  "mtime": "1346819949",
+	  "size": "3439",
+	  "md5": "e5042fd9cc2deae4a1353f864b83bdb1",
+	  "crc32": "69f493b2",
+	  "sha1": "95c831cd03e921a90b8e63c2bae31704faaa0ccb"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600701.us.archive.org\/32\/items\/HexenII_1020\/resource_item_2650_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2417,
+	"week": 14,
+	"month": 45
+  }
+}

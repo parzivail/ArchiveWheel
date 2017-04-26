@@ -1,0 +1,120 @@
+{
+  "server": "ia600201.us.archive.org",
+  "dir": "/8/items/PMUS12r",
+  "metadata": {
+	"identifier": [
+	  "PMUS12r"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Clickteam"
+	],
+	"date": [
+	  "2002"
+	],
+	"description": [
+	  "<div>-----------------------------------------------------------<\/div><div>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Clickteam Patch Maker v1.2g<\/div><div>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Copyright (c) Clickteam 1999-2002<\/div><div>-----------------------------------------------------------<\/div><div><br \/><\/div><div>Welcome to Patch Maker.<\/div><div><br \/><\/div><div><br \/><\/div><div>REGISTRATION<\/div><div>------------<\/div><div>This version is the unregistered version of Patch Maker. You can use\u00a0<\/div><div>it as long as you do not remove the advertisement screen at the end of\u00a0<\/div><div>the update patch programs. The registered version of Patch Maker does\u00a0<\/div><div>not have this end screen. You can register simply by connecting to\u00a0<\/div><div>http:\/\/www.clickteam.com.<\/div><div><br \/><\/div><div><br \/><\/div><div>DOCUMENTATION<\/div><div>-------------<\/div><div>If your version of Patch Maker comes with no documentation, you can\u00a0<\/div><div>consult it online at the following address:<\/div><div><br \/><\/div><div><span class=\"Apple-tab-span\"><\/span>http:\/\/www.clickteam.com\/PatchMaker\/US<\/div><div><br \/><\/div><div>A click on the HELP button will open your Internet browser directly at our\u00a0<\/div><div>online-documentation pages.<\/div><div><br \/><\/div><div><br \/><\/div><div>WHAT'S NEW IN THIS VERSION<\/div><div>--------------------------<\/div><div><br \/><\/div><div>* NEW: option Smallest \/ Fastest in the Build page. The previous versions<\/div><div>of Patch Maker use the Fastest option. The Smallest option allows to<\/div><div>decrease the size of your patch program in certain cases, especially with<\/div><div>big files.<\/div><div><br \/><\/div><div>* NEW: when files are in use by other applications, the patch program<\/div><div>prompts the user to reboot Windows.<\/div><div><br \/><\/div><div>* FIX: wrong directory created when installing .DLL files to the system\u00a0<\/div><div>directory.<\/div><div><br \/><\/div><div><br \/><\/div><div>WHAT'S NEW IN PREVIOUS VERSIONS<\/div><div>-------------------------------<\/div><div><br \/><\/div><div>* FIX: crash with NT 4.0 on a few video cards in full window mode.<\/div><div><br \/><\/div><div>* FIX: \"CRC error\" when using \"excluded zones\" with high offsets.<\/div><div><br \/><\/div><div>* FIX: \"unknown version\" error message incorrectly displayed when there<\/div><div>are 2 identical files in several old versions.<\/div><div><br \/><\/div><div>* FIX: no more \"Out of memory\" message when making a patch for a very big file.<\/div><div><br \/><\/div><div>* NEW: new option \"If unknown version \/ Install it\" in the File Options tab.<\/div><div><br \/><\/div><div><br \/><\/div><div>KNOWN PROBLEMS<\/div><div>--------------<\/div><div><br \/><\/div><div>* Patch Maker is not very efficient with some big files that are very different.\u00a0<\/div><div>This version of Patch Maker is much more efficient than the previous versions with<\/div><div>this kind of files, but is still not perfect and in some cases can give a result\u00a0<\/div><div>only equal to a normal zip compression.<\/div><div><br \/><\/div><div><br \/><\/div><div>Thank you for using Clickteam products!<\/div><div><br \/><\/div><div><br \/><\/div><div>The Clickteam.<\/div><div>--<\/div><div>Written on March 15, 2002.<\/div><div><br \/><\/div>"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows applications; Vintage computer applications"
+	],
+	"title": [
+	  "Patch Maker v1.2g Demo"
+	],
+	"year": [
+	  "2002"
+	],
+	"publicdate": [
+	  "2016-01-02 17:13:33"
+	],
+	"addeddate": [
+	  "2016-01-02 17:13:33"
+	],
+	"backup_location": [
+	  "ia905507_26"
+	]
+  },
+  "files": {
+	"\/Clipboard-20160102.png": {
+	  "source": "original",
+	  "mtime": "1451754823",
+	  "size": "31208",
+	  "md5": "2f9737c2d15704aa413bcbe5d839af97",
+	  "crc32": "b1c63424",
+	  "sha1": "384432091e14d3a4c5866e35491d3d527612cc34",
+	  "format": "PNG"
+	},
+	"\/Clipboard-20160102_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Clipboard-20160102.png",
+	  "mtime": "1451754836",
+	  "size": "4510",
+	  "md5": "7dcecf06d737922cfa4fe7db32fb66ef",
+	  "crc32": "3d627a25",
+	  "sha1": "e9a2a518ede92fbbb82c61a5537f7183b60b53b3"
+	},
+	"\/PMUS12r.exe": {
+	  "source": "original",
+	  "mtime": "1451754813",
+	  "size": "487023",
+	  "md5": "d4ddee2be2c3bf0f0058c7234ec180d4",
+	  "crc32": "5acffe0e",
+	  "sha1": "a9debc2d8b05f9d1586185739618f3aec4c4db66",
+	  "format": "Windows Executable"
+	},
+	"\/PMUS12r_archive.torrent": {
+	  "source": "original",
+	  "btih": "ec4c1365dc5af49f079454c287a9552a737dafe7",
+	  "mtime": "1485647839",
+	  "size": "1974",
+	  "md5": "e4084b9e8b9588e596d9728dc78dd824",
+	  "crc32": "052b5315",
+	  "sha1": "a018ef34aee51030621eec9744d7ef223d2bdff8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PMUS12r_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "54f33b2fea37f3c4fe0d81e2fb4aac08"
+	},
+	"\/PMUS12r_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1451754828",
+	  "size": "30720",
+	  "md5": "3d5546230a06870b6bed3bde0defa04b",
+	  "crc32": "44c7736d",
+	  "sha1": "6790acd057df2eb8894eeb7a8706f7ab9d643ab2",
+	  "format": "Metadata"
+	},
+	"\/PMUS12r_meta.xml": {
+	  "source": "original",
+	  "mtime": "1485647838",
+	  "size": "4908",
+	  "format": "Metadata",
+	  "md5": "fd8294d9cc750eb7ded590b53200eaad",
+	  "crc32": "18e6a449",
+	  "sha1": "03997a016ba4acfafbd6b7272d20643568592976"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600201.us.archive.org\/8\/items\/PMUS12r\/Clipboard-20160102_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 117,
+	"week": 3,
+	"month": 9
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/1/items/TheNeedForSpeedDemo",
+  "metadata": {
+	"identifier": [
+	  "TheNeedForSpeedDemo"
+	],
+	"title": [
+	  "The Need for Speed Demo"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Drive the world's most exotic cars of all time, at breakneck speeds, on some of the fastest roads and tracks. Beautiful high-resolution graphics, accurate physics models of car performance (making even the crashes super realistic) will leave you panting for more."
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Racing games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:25:47"
+	],
+	"addeddate": [
+	  "2012-02-23 02:25:29"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"updatedate": [
+	  "2012-02-23 02:26:02"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "runsb16.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/TheNeedForSpeedDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6ce859786491675df9678c5887642fde1807c93f",
+	  "mtime": "1476199717",
+	  "size": "2030",
+	  "md5": "6362e7e57181aa4f5ae12d9388082719",
+	  "crc32": "c83f5048",
+	  "sha1": "b020eb10eb62173aee0ad9eb331c17194d7e6ab9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheNeedForSpeedDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "329d729c8a0719ff8a412bf17f6a83a7"
+	},
+	"\/TheNeedForSpeedDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476199717",
+	  "size": "1222",
+	  "md5": "413e25b7b688d5b62695f4efdd015c87",
+	  "crc32": "364e2996",
+	  "sha1": "3186a986444c12dd89ba3603272f04daf3ab858b"
+	},
+	"\/TheNeedForSpeedScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "The Need for Speed Screenshot",
+	  "mtime": "1329963908",
+	  "size": "19224",
+	  "md5": "73f8247227d54aac0324ef418d87d94b",
+	  "crc32": "f6d639b4",
+	  "sha1": "06d1ba27f0687cd068472d6b6bc0ea9b9c139648",
+	  "rotation": "0"
+	},
+	"\/TheNeedForSpeedScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TheNeedForSpeedScreenshot.jpg",
+	  "mtime": "1329963940",
+	  "size": "5959",
+	  "md5": "830ca06783d589dc810b1ed2082552eb",
+	  "crc32": "2e7bdbc3",
+	  "sha1": "eca2df6681c33eef8c6639245eefe3fcc40978eb"
+	},
+	"\/nfs.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329963907",
+	  "size": "3709616",
+	  "md5": "3aac109cd509e7821f1a55cac323dc75",
+	  "crc32": "54da6723",
+	  "sha1": "731bc14d5d3738d28afd381d2be955becd21fb60",
+	  "title": "The Need for Speed Demo"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/1\/items\/TheNeedForSpeedDemo\/TheNeedForSpeedScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1396,
+	"week": 18,
+	"month": 37
+  }
+}

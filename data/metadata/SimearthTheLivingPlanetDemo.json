@@ -1,0 +1,215 @@
+{
+  "server": "ia600802.us.archive.org",
+  "dir": "/13/items/SimearthTheLivingPlanetDemo",
+  "metadata": {
+	"identifier": [
+	  "SimearthTheLivingPlanetDemo"
+	],
+	"title": [
+	  "SimEarth: The Living Planet Demo"
+	],
+	"creator": [
+	  "Maxis Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "TAKE OVER THE WORLD. The only way to follow an act like SimCity - 1990's runaway Number One game - is to think globally. The result is SimEarth. Instead of a city to run, SimEarth gives you the reins to the entire planet. Evolution, continental drift, climate, atmosphere, hurricanes, nuclear fallout, acid rain, civilization, and a bunch of other disasters. All the cool stuff you need to rule the world. Play SimEarth to the end of time. About 10 billion years or so, give or take a millenium. Getting raves everywhere, SimEarth is indeed destined to take over the world."
+	],
+	"date": [
+	  "1990"
+	],
+	"year": [
+	  "1990"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:18:12"
+	],
+	"addeddate": [
+	  "2012-02-23 02:17:58"
+	],
+	"publisher": [
+	  "Maxis Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:18:36"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "SIMEARTH.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475473313",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475473347",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/SimearthScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "SimEarth Screenshot",
+	  "mtime": "1329963446",
+	  "size": "26877",
+	  "md5": "d6140e7ee77239615c0fa276dc7d9d33",
+	  "crc32": "d16c99fc",
+	  "sha1": "d96acc965170baaee8cbbec61e9f59eddf8c8552",
+	  "rotation": "0"
+	},
+	"\/SimearthScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "SimearthScreenshot.jpg",
+	  "mtime": "1329963486",
+	  "size": "6861",
+	  "md5": "ffc82f63e6bd781a6c22af44cc16e4fe",
+	  "crc32": "f70aaf01",
+	  "sha1": "ead710c66b6a06d48f4a6acbca5a104ba4bdf050"
+	},
+	"\/SimearthTheLivingPlanetDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475473322",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/SimearthTheLivingPlanetDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "a8b04dc5ef873e53cbbfca04456c3686760bed86",
+	  "mtime": "1475473354",
+	  "size": "3572",
+	  "md5": "d58a58f4bcd5dac4a2a782864c051982",
+	  "crc32": "d74660d2",
+	  "sha1": "ab077e7a36098ca7ffd210833a707830f12d665f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SimearthTheLivingPlanetDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b4d9c392441d2175d16ab9f88b0d1ef2"
+	},
+	"\/SimearthTheLivingPlanetDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475473336",
+	  "size": "9216",
+	  "md5": "776c7d14b8b653b1074f1458117a42c6",
+	  "crc32": "c9b0589e",
+	  "sha1": "5a869cf347c15ced96461b33fd0624b066621ef6",
+	  "format": "Metadata"
+	},
+	"\/SimearthTheLivingPlanetDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468711304",
+	  "size": "1552",
+	  "md5": "063fcc679b323e282513fa2c6ef51191",
+	  "crc32": "6753a379",
+	  "sha1": "68702de41ab482df445b2c345f9abe59c1ab8097"
+	},
+	"\/earthdem.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1468711049",
+	  "size": "471826",
+	  "md5": "2e16bb9a1f2b19490e3ba1258e6839f1",
+	  "crc32": "ad4e81a7",
+	  "sha1": "808d6c1467453a4b44ebf71ee4f1901f77ab5728"
+	},
+	"\/earthdem_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475473325",
+	  "size": "119222",
+	  "md5": "a03ec2fdf31565acd1018e050799f505",
+	  "crc32": "ceea32f8",
+	  "sha1": "fe4b6a120645c8c40b7b65d12e7638674ba19e55",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475473316",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475473348",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475473319",
+	  "size": "87355",
+	  "md5": "39eb318890c0758cec2efd4763299a7a",
+	  "crc32": "c43ac881",
+	  "sha1": "68339552890cdae520fe3e9660921bd5a41e2396",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475473349",
+	  "size": "1929",
+	  "md5": "2a8cd10406811ed3effb5e5d764bf13f",
+	  "crc32": "1793fb61",
+	  "sha1": "8a1822f07812928b000e9ad261a2e4e2a50065d4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600802.us.archive.org\/13\/items\/SimearthTheLivingPlanetDemo\/SimearthTheLivingPlanetDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 740,
+	"week": 8,
+	"month": 16
+  }
+}

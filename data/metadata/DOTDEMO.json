@@ -1,0 +1,240 @@
+{
+  "server": "ia601004.us.archive.org",
+  "dir": "/0/items/DOTDEMO",
+  "metadata": {
+	"identifier": [
+	  "DOTDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"date": [
+	  "1991"
+	],
+	"description": [
+	  "<div>The typing tutor that talks as it teaches.<\/div><div>In this fast-paced age of computers, the inability to type can be a handicap in your business and academic life.<\/div><div>Dvorak on Typing is the first major typing program to feature a human voice that sounds out the letters as you type, helping you to become confident with touch typing. Developed in conjunction with world-renowned computer columnist John C. Dvorak, these user-friendly skill-building lessons take you step by step through the basics -- hand placement, key location, shifting, etc. As you progress, the program's brilliant graphics take you easily through the formation of sentences, paragraphs, and full correspondence. The program's voice works with you through menu selections, and later lessons even dictate to you verbally.<\/div><div>The program constantly monitors you progress in easy-to-read graphs, allowing you to track your speed, accuracy, problem keys and level of improvement. Most importantly, it makes learning an enjoyable experience, with encouraging lessons and games that make practice fun.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "Dvorak on Typing Demo"
+	],
+	"year": [
+	  "1991"
+	],
+	"publicdate": [
+	  "2013-12-23 14:30:33"
+	],
+	"addeddate": [
+	  "2013-12-23 14:30:33"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234218[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "DOTDEMO.EXE"
+	],
+	"backup_location": [
+	  "ia905801_24"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475230067",
+	  "size": "244945",
+	  "md5": "a6eb0d7526a6079f543ff753600cd661",
+	  "crc32": "1fd3f7f0",
+	  "sha1": "99b89a6515a6d8b5bd76ceb07ea7fced606799fb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475230103",
+	  "size": "5840",
+	  "md5": "503ded9f2d85dd32e472dae6464927f2",
+	  "crc32": "6c3db6e8",
+	  "sha1": "be12fe51698e59b53e3b5e16741db83fd72e0078"
+	},
+	"\/DOTDEMO.gif": {
+	  "source": "original",
+	  "mtime": "1475230085",
+	  "size": "85821",
+	  "md5": "6e259700783872a66c565addee6fa4e0",
+	  "crc32": "ab972f66",
+	  "sha1": "5e74fa8a5653086c6537e5db39461fdab573654d",
+	  "format": "Animated GIF"
+	},
+	"\/DOTDEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1469732507",
+	  "size": "897719",
+	  "md5": "142a7c46f20126a561f268c6c39fd640",
+	  "crc32": "b12a2b85",
+	  "sha1": "b24aec92f09daf1bc34fabe6d211776dec6b9438"
+	},
+	"\/DOTDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4639142f5eddc581ae03c14d43db0f7d"
+	},
+	"\/DOTDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475230093",
+	  "size": "18432",
+	  "md5": "37dd208383110aadb53771638202280c",
+	  "crc32": "94c2a59a",
+	  "sha1": "ad01a7c7f62427bf14a3a99fc9a354e7cb65476f"
+	},
+	"\/DOTDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474875772",
+	  "size": "2055",
+	  "md5": "430f28be146f53e1bcf3f1ce5e9f1f62",
+	  "crc32": "b14ae7c5",
+	  "sha1": "cc69a675fef8abcbe0a6592a6231c1930859edc5"
+	},
+	"\/DOTDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475230089",
+	  "size": "401084",
+	  "md5": "54598b6d1512db26bf37bd58b2036b5e",
+	  "crc32": "07604f1b",
+	  "sha1": "29683671f652baefe9cd37be269f27987650f2ef",
+	  "format": "Emulator Screenshot"
+	},
+	"\/dotdemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1387809044",
+	  "size": "5403",
+	  "md5": "02c72fd932a6c069e86c7a6d97f77094",
+	  "crc32": "fb2df808",
+	  "sha1": "39154fb7879f5204fb1b88643b48930171b018e8"
+	},
+	"\/dotdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "dotdemo.png",
+	  "mtime": "1387809062",
+	  "size": "5677",
+	  "md5": "5330cec76e4c885389477e58424870df",
+	  "crc32": "ce26629d",
+	  "sha1": "451fa237bd8cceb23931140b5e3cb0f812735780"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475230069",
+	  "size": "232745",
+	  "md5": "ffbd436a13b21d8b1f830abc309af43e",
+	  "crc32": "fbe906c9",
+	  "sha1": "b66dc36eef9887a8ce924be602d7b668b7ef9f7e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475230104",
+	  "size": "5334",
+	  "md5": "aa65a2560508f492d7f6785fe599a0f3",
+	  "crc32": "45b6321f",
+	  "sha1": "41a707c7623010162567a14e2e79ab26baa0eb76"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475230073",
+	  "size": "244911",
+	  "md5": "a56de53ecb41f15d0ccbb21b058da580",
+	  "crc32": "95fcd831",
+	  "sha1": "53388257a2da25a0c136e34590b1d768183471d8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475230105",
+	  "size": "5820",
+	  "md5": "9909d0371ac16eee246f1fbc250ba949",
+	  "crc32": "b4a561e7",
+	  "sha1": "40bdc5f6e1d56e5a14e32811392c8d0752f39f98"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475230075",
+	  "size": "244945",
+	  "md5": "a6eb0d7526a6079f543ff753600cd661",
+	  "crc32": "1fd3f7f0",
+	  "sha1": "99b89a6515a6d8b5bd76ceb07ea7fced606799fb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475230107",
+	  "size": "5840",
+	  "md5": "503ded9f2d85dd32e472dae6464927f2",
+	  "crc32": "6c3db6e8",
+	  "sha1": "be12fe51698e59b53e3b5e16741db83fd72e0078"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475230080",
+	  "size": "208007",
+	  "md5": "51caf3beaebf636e9774842ad3446250",
+	  "crc32": "5d0f1636",
+	  "sha1": "5ddf7192dc56406ec73abe56964dc9114fe98859",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475230108",
+	  "size": "5659",
+	  "md5": "8cefe0def318f0fd569135447f1e1247",
+	  "crc32": "0905448c",
+	  "sha1": "a7b73a341455d43ca9ca0cdcd095447f3c590c8e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601004.us.archive.org\/0\/items\/DOTDEMO\/DOTDEMO.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 501,
+	"week": 8,
+	"month": 18
+  }
+}

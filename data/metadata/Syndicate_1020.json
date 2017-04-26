@@ -1,0 +1,236 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/0/items/Syndicate_1020",
+  "metadata": {
+	"identifier": [
+	  "Syndicate_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bullfrog Productions"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Syndicate Demo"
+	],
+	"publicdate": [
+	  "2012-09-03 23:57:10"
+	],
+	"addeddate": [
+	  "2012-09-03 23:57:10"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "SYNDICATE -- THE STORY\nAs the world's multinational corporations grew, their profits began \nto rival those of small countries. Soon they owned small countries and \ncorporate influence was felt at the highest level of world government.\nThen, a European corporation perfected the CHIP. Inserted in the neck, \nthe CHIP stimulated the brain stem to alter your every perception of \nthe outside world. Better than any drug, the CHIP gave hope to millions \nby numbing their senses to the misery and squalor around them. The CHIP \nwas a technological revolution and sold countless units with the slogan \n\"Why change your world when you can change your mind\".  It also left the \nuser open to auto-suggestion, and gave the corporations the perfect tool \nfor manipulating the populace. Soon the corporations were at war among \nthemselves, desperate to monopolize CHIP manufacture. It wasn't long \nbefore the Syndicates became the controlling force all over the globe.\n\nAs a young executive in a small European Syndicate, you're looking to \nmake your mark. You observe from a control platform in an airship high \nabove the teeming city streets as your agents, controlled by CHIP \ntechnology, spread the shadow of your terror. Each mission takes place \namong the canyons of concrete and steel, the mazes of streets and sewers, \nthat our cities have become. The population goes about its business, \nmoving among the traffic, commuting on trains, rushing to and from work, \nunaware of the violence about to explode around them. \n\nThere are over 50 named missions for you to choose between, but before \nyou choose one, you need to develop an overall strategy for world domination. \nTactical considerations vital to the ascendancy of your Syndicate include \nthe of an adequate mission Budget, the skills and experience built up in \nthe Cryo Chamber of potential agents, and developing your own maneuvering \nskills.\n\nA Syndicate executive must be a master of strategy, assessing a mission \nenvironment and planning agent moves. An executive must also have the \nreflexes of a steroid-addicted sprinter and a remorseless lust for power \nto commit acts of gross violence -- but sleep soundly at night."
+	],
+	"notes": [
+	  "Must be installed into C:\/bullfrog.cd\/synd2 to work."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235112[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "MAIN.EXE"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "5.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "For a working version of the PC game:\n\nhttps:\/\/archive.org\/details\/msdos_Syndicate_Plus_1994\n",
+		"reviewtitle": "Full version",
+		"reviewer": "Demimondance",
+		"reviewdate": "2016-10-27 17:33:54",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475528979",
+	  "size": "119557",
+	  "md5": "2ffdb327806c6d233e7be4f13d445342",
+	  "crc32": "638d47bb",
+	  "sha1": "9fab2ebec92df439b10998b4d6e11e76aa072dab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475529011",
+	  "size": "4190",
+	  "md5": "7729930840c6b5898fc1ffc8b85492d6",
+	  "crc32": "76a9b98d",
+	  "sha1": "cf98372e6f5389fedf233510e4de8379fd6a026b"
+	},
+	"\/Syndicate_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475528985",
+	  "size": "20229",
+	  "md5": "f5f3eb4ac7cd6c474c1ca6691091ac0c",
+	  "crc32": "c357372c",
+	  "sha1": "751290be7850f3f40433859b813c06de8219fda1",
+	  "format": "Animated GIF"
+	},
+	"\/Syndicate_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7d2bf1e7a7481d554bbe710e86a73d42"
+	},
+	"\/Syndicate_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475528996",
+	  "size": "11264",
+	  "md5": "f26f417c6c21d771ddbc5ac34993f317",
+	  "crc32": "6e253a5c",
+	  "sha1": "566bb2228f0500e864d82445c0c00bc2c0fc3f4e",
+	  "format": "Metadata"
+	},
+	"\/Syndicate_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471794877",
+	  "size": "3146",
+	  "md5": "1eebe317754e9e1c181fd941a48f296d",
+	  "crc32": "1aef7fdf",
+	  "sha1": "1c131773c9332092d0a615b74cd87f562b3c8f9d"
+	},
+	"\/Syndicate_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1477589635",
+	  "size": "525",
+	  "md5": "24e3db2ba8211017caafc3588b9a25e9",
+	  "crc32": "935988e0",
+	  "sha1": "dbb59e313cf28ee9981fdfdf6bf4397bd7449c20",
+	  "format": "Metadata"
+	},
+	"\/Syndicatedemo1993electronicArtsInc.actionStrategy.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Syndicate (Demo) (1993)(Electronic Arts, Inc.) [Action, Strategy]",
+	  "mtime": "1365745295",
+	  "size": "725843",
+	  "md5": "df57ba6272d62cb3a82be89345d31571",
+	  "crc32": "f328ab15",
+	  "sha1": "bb6f9ca6f2d55edff25e0c1574410d0475e560c1"
+	},
+	"\/Syndicatedemo1993electronicArtsInc.actionStrategy_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475528989",
+	  "size": "48161",
+	  "md5": "22e55bff6de201114531b0f4368c4a6c",
+	  "crc32": "9b2ec26a",
+	  "sha1": "2dcda9471decd9e1c29299bffa3d5a7b7d62e3f4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_921.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346716652",
+	  "size": "13324",
+	  "md5": "ac458cb601542e95dd0e4ce07f78a0b9",
+	  "crc32": "81b64724",
+	  "sha1": "e4b20b81e08f768e1342e49ebe9c5e51134ef21d",
+	  "rotation": "0"
+	},
+	"\/resource_item_921.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716652",
+	  "size": "272",
+	  "md5": "06a2a6967acee472a4bae0226f194532",
+	  "crc32": "9d82240f",
+	  "sha1": "d3aeb75e25e6ec5a1f9c269cc10f4611176bb46e"
+	},
+	"\/resource_item_921_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_921.jpg",
+	  "mtime": "1346717467",
+	  "size": "3823",
+	  "md5": "46460d6789ce40b5230058650ae28897",
+	  "crc32": "0fb7dc58",
+	  "sha1": "9c190f86dbbff2fd1955b891ea4bfe1cd083dc9a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475528982",
+	  "size": "119557",
+	  "md5": "2ffdb327806c6d233e7be4f13d445342",
+	  "crc32": "638d47bb",
+	  "sha1": "9fab2ebec92df439b10998b4d6e11e76aa072dab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475529012",
+	  "size": "4190",
+	  "md5": "7729930840c6b5898fc1ffc8b85492d6",
+	  "crc32": "76a9b98d",
+	  "sha1": "cf98372e6f5389fedf233510e4de8379fd6a026b"
+	},
+	"\/syndemo.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346716649",
+	  "size": "1992007",
+	  "md5": "94f48af2a5e1a7e38d163b9795a075e3",
+	  "crc32": "ba4cfcf6",
+	  "sha1": "d7fd803ecb2066bcd2b5bef418652509af48c4da"
+	},
+	"\/syndemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716649",
+	  "size": "659",
+	  "md5": "346389a3df460a4b0c2a921d75f138f7",
+	  "crc32": "82356e33",
+	  "sha1": "fe75b54f1a897e88b9011a19da18dc10f358b499"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600301.us.archive.org\/0\/items\/Syndicate_1020\/Syndicate_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 818,
+	"week": 3,
+	"month": 11
+  }
+}

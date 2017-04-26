@@ -1,0 +1,192 @@
+{
+  "server": "ia601007.us.archive.org",
+  "dir": "/10/items/Albidemo",
+  "metadata": {
+	"identifier": [
+	  "Albidemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Blue Byte Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "It's the year 2227, and Tom Driscoll is orbiting a lifeless planet rich in minerals known as Albion \u00ae. While studying the planet, he looses control of his shuttle craft and crash lands. Upon regaining consciousness he discovers is inhabited by intelligent did Albion beings and is rich in flora and fauna Both. How could the data on Albion be so wrong? Take on the role of Tom Driscoll and explore the vast world of Albion in this fascinating role-playing game. Experience its vast beauty and strange cultures, but beware of its many hidden dangers! The engaging 150,000 word story line will require you to converse with many members Albion's diverse population through to interactive dialog System. You and your companions will need to employ tactical cunning and magical spells as you encounter many unusual and deadly creatures. Buy your copy today and you'll soon learn did things Are not always as They SEEM on Albion. Survival requires did you trust no one and question everything!\u00a0"
+	],
+	"publisher": [
+	  "Blue Byte Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Albion Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2013-12-07 18:49:52"
+	],
+	"addeddate": [
+	  "2013-12-07 18:49:52"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140408011743[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "ALBION\\ALBION.EXE"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905800_32"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475162399",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475162428",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/Albidemo.gif": {
+	  "source": "original",
+	  "mtime": "1475162408",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/Albidemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "adbb54ad5d11ba56f49883ffefb15830"
+	},
+	"\/Albidemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475162417",
+	  "size": "16384",
+	  "md5": "bd0923d1c2683c7452d129a1cbb31cff",
+	  "crc32": "34b7033d",
+	  "sha1": "c750e5276847a491572047abb99bf7f5e0702144"
+	},
+	"\/Albidemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472223261",
+	  "size": "1954",
+	  "md5": "e2637e61e162109d5ad7ca7092305827",
+	  "crc32": "46a189cc",
+	  "sha1": "48e1b41259a140dc756abd31adc0523f4ac2088d"
+	},
+	"\/_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475162412",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/albi.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452445014",
+	  "size": "12615001",
+	  "md5": "e1c3a4d9b8e05320ac6850493c53749e",
+	  "crc32": "32457eed",
+	  "sha1": "b9296afd5621a50cdde074bffa19228dbc566001"
+	},
+	"\/albidemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1386442216",
+	  "size": "11643009",
+	  "md5": "46b233fd3a06e22bc7edb6295df1192c",
+	  "crc32": "fa8c360a",
+	  "sha1": "50437e3dbee40f26546e396d79f9d084b1a4eeea"
+	},
+	"\/albidemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1386442192",
+	  "size": "116454",
+	  "md5": "700c9e232d72d502b6d1d21e951acf38",
+	  "crc32": "c84f15f9",
+	  "sha1": "7c0398d354e341e4c6fd941f0859f38935a98667"
+	},
+	"\/albidemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "albidemo.png",
+	  "mtime": "1386442226",
+	  "size": "5242",
+	  "md5": "1689bd0532b526163687ef71da7b96de",
+	  "crc32": "88ef9502",
+	  "sha1": "6d8d70674f65eb24d39f4a6acf6cf148c7210579"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475162405",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475162430",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601007.us.archive.org\/10\/items\/Albidemo\/Albidemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 7021,
+	"week": 16,
+	"month": 71
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia601008.us.archive.org",
+  "dir": "/24/items/WoTDemo",
+  "metadata": {
+	"identifier": [
+	  "WoTDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Legend Entertainment"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>This action\/strategy game is based on Robert Jordan's best-selling series of fantasy novels. Created with an enhanced version of the stunning Unreal engine, The Wheel of Time mixes first-person, 3D action with strategy and even a bit of role playing. Next to gameplay, graphics are the most important element of The Wheel of Time. You can't create a compelling fantasy world, especially one based on Jordan's complex universe, without dedicating top talent to the task. The Wheel of Time has teams of artists who specialize in areas in which they excel.<\/div>"
+	],
+	"publisher": [
+	  "GT Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "The Wheel of Time Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2013-11-30 01:47:59"
+	],
+	"addeddate": [
+	  "2013-11-30 01:47:59"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233550[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_20"
+	]
+  },
+  "files": {
+	"\/WoTDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385776198",
+	  "size": "77053440",
+	  "md5": "e4d7d8034ad20f24ab5525a7e1ebc417",
+	  "crc32": "39a7eca1",
+	  "sha1": "fc96382016246409b236f52b1e8a2ca44ab6bb00"
+	},
+	"\/WoTDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385776079",
+	  "size": "44729",
+	  "md5": "9c09eff3d49a7cd8f4077ba56e662ae8",
+	  "crc32": "b4e23d5c",
+	  "sha1": "a9c886d1e3ade5e76253f9022b6297ae186690e5",
+	  "rotation": "0"
+	},
+	"\/WoTDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "141324450c2da8003f25bc9c852a2dd8"
+	},
+	"\/WoTDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385776201",
+	  "size": "14336",
+	  "md5": "ab141596de9d3290054021612666826d",
+	  "crc32": "f655f36c",
+	  "sha1": "202873d5a1c037a2b610f2b4fe3b8d49bb83de45"
+	},
+	"\/WoTDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475380112",
+	  "size": "1427",
+	  "md5": "9a69320bb1cebb06a728fe5411f40e1a",
+	  "crc32": "7e0d5dc5",
+	  "sha1": "59a118e88c661da891b6b626c09cdee98ee4e65b"
+	},
+	"\/WoTDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "WoTDemo.jpg",
+	  "mtime": "1385776210",
+	  "size": "3208",
+	  "md5": "0da1922ed77c35b4cb11dd98c0718f76",
+	  "crc32": "19dfded4",
+	  "sha1": "cae25bfa4c0a43bd0bcea33d37a204db82f74ec8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601008.us.archive.org\/24\/items\/WoTDemo\/WoTDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2646,
+	"week": 45,
+	"month": 124
+  }
+}

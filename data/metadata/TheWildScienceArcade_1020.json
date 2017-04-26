@@ -1,0 +1,326 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/8/items/TheWildScienceArcade_1020",
+  "metadata": {
+	"identifier": [
+	  "TheWildScienceArcade_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Binary Zoo"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Corel"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Educational games"
+	],
+	"title": [
+	  "The Wild Science Arcade Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:26:20"
+	],
+	"addeddate": [
+	  "2012-09-04 03:26:20"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"description": [
+	  "In Wild Science Arcade, kids learn about physics by maneuvering a ball using four variable settings: gravity, friction, ball material and initial force. Although it resembles visually the classic Marble Madness, the gameplay is easier, aimed at the younger gamer.\n\nThe game is divided in 5 levels, each with several rooms. You progress by guiding the ball to the exit hole in each of this rooms. After you complete each level, you receive a warp code for the next one, thus requiring some degree of literacy from the child. (MobyGames)"
+	],
+	"emulator_start": [
+	  "WILDSCI\/SCIENCE.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475558823",
+	  "size": "302136",
+	  "md5": "6fa798cdf564a53077aed95d8ca1bf29",
+	  "crc32": "7b263d6b",
+	  "sha1": "ab006aaad2d74979ce224044fe77ba23510747f5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475558881",
+	  "size": "6436",
+	  "md5": "27597928f1fb6b6a11f9807e6a3530e0",
+	  "crc32": "72049133",
+	  "sha1": "6965ac9d49d9a1ca2907ad3170a9fcdbc7f9ee6b"
+	},
+	"\/TheWildScienceArcade_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475558849",
+	  "size": "44372",
+	  "md5": "23eaa0520038578def07f16ca9b1205f",
+	  "crc32": "720b3b3b",
+	  "sha1": "e686ec59d792d7574d09752ecf1cee6552469565",
+	  "format": "Animated GIF"
+	},
+	"\/TheWildScienceArcade_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "a03513179dbcf613214216269edac4a7af999a9f",
+	  "mtime": "1475558892",
+	  "size": "5349",
+	  "md5": "e9af77ded1189e9832aac7dacd2ebffd",
+	  "crc32": "69843722",
+	  "sha1": "d81ff40d5e5e195e69198dd64690c848ed090a99",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheWildScienceArcade_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "63dc6babc4303fce190da901c6be54f2"
+	},
+	"\/TheWildScienceArcade_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475558858",
+	  "size": "11264",
+	  "md5": "58ad901e24ea3a98f7c85c9d7f1549ca",
+	  "crc32": "7fcb0ba8",
+	  "sha1": "876b1b360a0624c031363d354c6f0d83f2719745",
+	  "format": "Metadata"
+	},
+	"\/TheWildScienceArcade_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472489550",
+	  "size": "1425",
+	  "md5": "466a684ee94f262ec73a55de3c2e0289",
+	  "crc32": "82fae29b",
+	  "sha1": "8d0c7a76898fbe075b515aae73e3bc1d6deb16f1"
+	},
+	"\/resource_item_1559.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731568",
+	  "size": "15325",
+	  "md5": "f8feff79ffd0930185129af013a33a46",
+	  "crc32": "7949402b",
+	  "sha1": "9b0baeda103d3cf1e0b44bbb60eac22c23af45c2",
+	  "rotation": "0"
+	},
+	"\/resource_item_1559.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731568",
+	  "size": "272",
+	  "md5": "6557491d380d6282686a3027a6f325d4",
+	  "crc32": "3abcb424",
+	  "sha1": "e3327ae6dd8b05151ab9321527579e511d4aaf9a"
+	},
+	"\/resource_item_1559_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1559.jpg",
+	  "mtime": "1346733024",
+	  "size": "5294",
+	  "md5": "ec232a78745f58c650f961542f2480d0",
+	  "crc32": "5a172c35",
+	  "sha1": "1873ed388fee62092fb5bb6c5bf0c4fa992c0a2d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475558825",
+	  "size": "229004",
+	  "md5": "7f09c8dfd24a0382b5162c0e957394eb",
+	  "crc32": "2cce4510",
+	  "sha1": "87ee6381bfa803937e206ff0144774c494979834",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475558878",
+	  "size": "6025",
+	  "md5": "1101ced0db5ee06d4a6dec8d1f4df674",
+	  "crc32": "69096dc3",
+	  "sha1": "8c33ad23f24485eeeff79521e098260a44cd0e12"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475558828",
+	  "size": "169542",
+	  "md5": "7d0ff4a8cceb5fd0f28b6c6f6d6aec5f",
+	  "crc32": "b69e571c",
+	  "sha1": "187610e355c9d334b875e2ae659bb2222350aa88",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475558880",
+	  "size": "3586",
+	  "md5": "da3b00e5ae4a360a802048215216837b",
+	  "crc32": "3a665f68",
+	  "sha1": "f4e3ba95ac04322f6be34bb0eeeb49c70ceee565"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475558830",
+	  "size": "302136",
+	  "md5": "6fa798cdf564a53077aed95d8ca1bf29",
+	  "crc32": "7b263d6b",
+	  "sha1": "ab006aaad2d74979ce224044fe77ba23510747f5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475558883",
+	  "size": "6436",
+	  "md5": "27597928f1fb6b6a11f9807e6a3530e0",
+	  "crc32": "72049133",
+	  "sha1": "6965ac9d49d9a1ca2907ad3170a9fcdbc7f9ee6b"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475558832",
+	  "size": "300467",
+	  "md5": "cc604bba190cee93dca7819700783cbc",
+	  "crc32": "23929b5a",
+	  "sha1": "48c758a853bee44f720ccdf38f4bfe693259337c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475558884",
+	  "size": "6403",
+	  "md5": "62da4ac732db2ccc1d68b631f43e9044",
+	  "crc32": "ba1f06bf",
+	  "sha1": "f2e4e9fa1226761007665fd010823eef72af9ad2"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475558835",
+	  "size": "4181",
+	  "md5": "3613e6aefdaf47e2153777858abd4603",
+	  "crc32": "91080505",
+	  "sha1": "ccdfe52fac8173b4f5bc74d01be969836962f51e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475558889",
+	  "size": "1043",
+	  "md5": "bb80de7c6909bfaddcacdbc2a9541fde",
+	  "crc32": "aecf962d",
+	  "sha1": "be4c3ae03866875daca36527e51b9b8d3e3b2aca"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475558837",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475558886",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475558846",
+	  "size": "104172",
+	  "md5": "7c26eaf658e5590014204fed7146251c",
+	  "crc32": "59556fed",
+	  "sha1": "6da1ad9fe2b3b3f2c56d0ccd4a94708630020be6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475558888",
+	  "size": "2661",
+	  "md5": "b4053b8d97f1dcee76e0f6cffcd48c07",
+	  "crc32": "017a51cd",
+	  "sha1": "e4fe1f5a6d14c5792e22a5f25a64190a54486207"
+	},
+	"\/wildsci.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346729186",
+	  "size": "370361",
+	  "md5": "02de0ef732ef77f489ed1cd42e242bd1",
+	  "crc32": "c0c6faf0",
+	  "sha1": "ebbfce9d355178a206a276a75c467bbdf06b539c"
+	},
+	"\/wildsci.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729186",
+	  "size": "657",
+	  "md5": "b1e58c44a81019fa41051818fca55b18",
+	  "crc32": "04106680",
+	  "sha1": "5962e1633cbf7a8e27d322ba61416361e7020f14"
+	},
+	"\/wildsci_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475558853",
+	  "size": "211133",
+	  "md5": "cc18165e17881f05e536163a1a7119a1",
+	  "crc32": "0db1112a",
+	  "sha1": "af0392ae7c100e80da18521dfed3ee40a12e65ee",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/8\/items\/TheWildScienceArcade_1020\/TheWildScienceArcade_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 99,
+	"week": 7,
+	"month": 8
+  }
+}

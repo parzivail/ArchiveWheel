@@ -1,0 +1,268 @@
+{
+  "server": "ia800503.us.archive.org",
+  "dir": "/5/items/ThemeParkDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Theme Park Demo"
+	],
+	"description": [
+	  "\"Where Big Business Meets Big Fun!\n\nThink you can design and build the greatest amusement park in the world? You select the site, you layout the rides. In fact, you control every aspect of running a profitable amusement park; from hiring employees, to developing new rides, to maintaining an adequate supply of soft drinks. Any mistakes, and the bustling hordes of funseekers will let you know. Oh, and that Merry-Go-Round in flames is a clue too. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"creator": [
+	  "Bullfrog Productions"
+	],
+	"identifier": [
+	  "ThemeParkDemo"
+	],
+	"addeddate": [
+	  "2012-07-25 06:14:47"
+	],
+	"publicdate": [
+	  "2012-07-25 06:15:03"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903904_5"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475800524",
+	  "size": "161752",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "ae7e9926000c963b88d10de0e1bb1e43",
+	  "crc32": "f2338ae8",
+	  "sha1": "682e3935492a24e837533269c7b607c6dd7109e8"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475800665",
+	  "size": "3145",
+	  "md5": "021e42d69c162db670770014a6174f58",
+	  "crc32": "cc40c911",
+	  "sha1": "27b5996d58a3f54e0e38167d11ce09627b4a475d"
+	},
+	"\/ThemeParkDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475800544",
+	  "size": "79794",
+	  "format": "Animated GIF",
+	  "md5": "21100f3f9b028a6a63ae43f073990684",
+	  "crc32": "690f09ea",
+	  "sha1": "463c56c80db8d75d40c671122f9c6cd4cc3a2f9a"
+	},
+	"\/ThemeParkDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "e14a6d338542739b04d6b4044d25234d094e9d1f",
+	  "mtime": "1475800673",
+	  "size": "4539",
+	  "md5": "8411a2013a9cf2a949390e56314b8445",
+	  "crc32": "212f2eaa",
+	  "sha1": "48805d623fb31434ef3a4aedf506db4d863f49ff",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ThemeParkDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e932d062617e5c5a70a8d57bdac88dc2"
+	},
+	"\/ThemeParkDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475800651",
+	  "size": "13312",
+	  "format": "Metadata",
+	  "md5": "c9345737c44f8679c8c5835d3e0a2af1",
+	  "crc32": "fae07504",
+	  "sha1": "25fa7ba0b6eeb3d8280cee60463f2b69cf713cc1"
+	},
+	"\/ThemeParkDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473366514",
+	  "size": "1322",
+	  "md5": "e841f0a9a3eeea288d11ad0f1002d098",
+	  "crc32": "d8348d51",
+	  "sha1": "41b7cf51aa5895e2a7b68dd3f57910e68313e968"
+	},
+	"\/resource_item_381.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1343196864",
+	  "size": "23895",
+	  "md5": "cbe7bc5e3b8eb7f7dec010f35576aa34",
+	  "crc32": "f3bb79c9",
+	  "sha1": "207edd7d83ca3fee857e177dc8cc102d773396c7",
+	  "rotation": "0"
+	},
+	"\/resource_item_381_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_381.jpg",
+	  "mtime": "1343196898",
+	  "size": "6558",
+	  "md5": "66931b577e0e3aa383cfcbeae1e86857",
+	  "crc32": "5df3edf0",
+	  "sha1": "1353ca74e4e0b5f6fa7c94b3c86298045637249c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475800526",
+	  "size": "159118",
+	  "md5": "c3658877677a4f62d3c4d41b2d8559a9",
+	  "crc32": "1a7ddd2d",
+	  "sha1": "ea26de5dbe4e3b80b1669fb99a7ecda804b58bb4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475800667",
+	  "size": "3138",
+	  "md5": "f6aaa05ed3d29f583720977cfc81b381",
+	  "crc32": "24331d0b",
+	  "sha1": "4af3b7f984256276ef8e9412519731ba38417019"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475800530",
+	  "size": "128679",
+	  "md5": "f36e73a4b6cfb92ba82e80a35a09d0db",
+	  "crc32": "bc9210eb",
+	  "sha1": "90507fd2cbb87142caba2b14b53029a3877949d6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475800668",
+	  "size": "2940",
+	  "md5": "d38d241e87612706c8c2f2092d7325c6",
+	  "crc32": "30ad0c6e",
+	  "sha1": "689cdd65eebfe57b87f94164ac72e1780c75cc31"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475800535",
+	  "size": "161752",
+	  "md5": "ae7e9926000c963b88d10de0e1bb1e43",
+	  "crc32": "f2338ae8",
+	  "sha1": "682e3935492a24e837533269c7b607c6dd7109e8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475800669",
+	  "size": "3145",
+	  "md5": "021e42d69c162db670770014a6174f58",
+	  "crc32": "cc40c911",
+	  "sha1": "27b5996d58a3f54e0e38167d11ce09627b4a475d"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475800538",
+	  "size": "130159",
+	  "md5": "9dba7a1e6309ce85cf5dd382896c2ac4",
+	  "crc32": "f810725a",
+	  "sha1": "0b4e74c190b39c1f0974f9ac67734d098093987a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475800671",
+	  "size": "3004",
+	  "md5": "37193b9f6d900ee7d503921db52540d4",
+	  "crc32": "c3036705",
+	  "sha1": "7aa9b11a0687a5d2d7259d1296322a348583cf15"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475800541",
+	  "size": "58064",
+	  "md5": "53c5641deba2181ce44c69dc3f12b2f8",
+	  "crc32": "deb465c6",
+	  "sha1": "5d6626d5bd4f09bac7eb0ffc100fb570e37e94b9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475800672",
+	  "size": "1802",
+	  "md5": "be0b7bfa0846efd69fa190d48a6705dd",
+	  "crc32": "7dcde9d9",
+	  "sha1": "610cf8affd77acc908d36faf64bae04b515496f5"
+	},
+	"\/themepark.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1343196860",
+	  "size": "1211245",
+	  "md5": "ccb1286478ca7429205172baa20b08f6",
+	  "crc32": "9b1fad61",
+	  "sha1": "10c3aabd5d815c249f9d8fc2d88082a797f3246c"
+	},
+	"\/themepark_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475800548",
+	  "size": "174964",
+	  "format": "Emulator Screenshot",
+	  "md5": "e7d6c7797fd3d3f9616c388f3295612c",
+	  "crc32": "8ce3e8f9",
+	  "sha1": "dcc9fd13dcca5fe1a69353fec320a9ddf75df9d1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600503.us.archive.org\/5\/items\/ThemeParkDemo\/ThemeParkDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 658,
+	"week": 8,
+	"month": 16
+  }
+}

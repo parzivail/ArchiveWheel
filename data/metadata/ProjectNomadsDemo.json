@@ -1,0 +1,113 @@
+{
+  "server": "ia601403.us.archive.org",
+  "dir": "/33/items/ProjectNomadsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Project Nomads Demo"
+	],
+	"description": [
+	  "CDV's 3D action adventure Project Nomads takes place in a fantastic world set high up in the clouds. This wonderful visual and free-flowing adventure, in which the gamer flies around the remains of the world once known as the Earth and now only consists of huge floating islands in the clouds."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Radon Labs"
+	],
+	"identifier": [
+	  "ProjectNomadsDemo"
+	],
+	"addeddate": [
+	  "2012-05-14 12:10:36"
+	],
+	"publicdate": [
+	  "2012-05-14 12:11:08"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"publisher": [
+	  "CDV Software Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_14"
+	]
+  },
+  "files": {
+	"\/Nomads_demo_eng.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336997410",
+	  "size": "124615258",
+	  "md5": "96b3439830cee9659a30ecba45227ab7",
+	  "crc32": "f03184e4",
+	  "sha1": "38027556ac2e4a67da9f66c5cb575ec366d77a24",
+	  "title": "Project Nomads Demo"
+	},
+	"\/Nomads_demo_eng.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336997412",
+	  "size": "91802",
+	  "md5": "f948a4e8ff82a5fa536310ecbf37370b",
+	  "crc32": "28231775",
+	  "sha1": "c574544f0ba42d89d60cbf0ad909bae33611c606",
+	  "rotation": "0"
+	},
+	"\/Nomads_demo_eng_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Nomads_demo_eng.jpg",
+	  "mtime": "1336997463",
+	  "size": "4865",
+	  "md5": "159ebb05c72e96c7b0994abc0e34c7c0",
+	  "crc32": "59243279",
+	  "sha1": "ae633242100ba187886ab20292d26d78df7f98b6"
+	},
+	"\/ProjectNomadsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "600b8949e53ecfc7a5e73e9f69288b84375c89cd",
+	  "mtime": "1464975156",
+	  "size": "6612",
+	  "md5": "a6aedc12f5c860490c8045818564ac16",
+	  "crc32": "6ccf91c4",
+	  "sha1": "8327ea6350b90d17459b4851a9580e943b1457ca",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ProjectNomadsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "473fae7ef81740a961f74544373685ff"
+	},
+	"\/ProjectNomadsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464975154",
+	  "size": "1068",
+	  "md5": "c8dc7299311bf0ad49e0940723db2929",
+	  "crc32": "974408e2",
+	  "sha1": "511a64e9eccd9467397184bd8e241ac5a028dc22"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601403.us.archive.org\/33\/items\/ProjectNomadsDemo\/Nomads_demo_eng_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 376,
+	"week": 6,
+	"month": 10
+  }
+}

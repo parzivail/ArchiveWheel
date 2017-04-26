@@ -1,0 +1,228 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/8/items/StarTrekJudgmentRitesDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Star Trek: Judgment Rites Demo"
+	],
+	"description": [
+	  "\"The 5 Year Mission Continues\n\nCaptain's Log, star date 6238.4. There is no doubt that you're being watched. By whom and by what type of life form is not determined. Even Spock has not been able to accurately assess this data. The occurrences are just too strange.\n\nIs that truly an ancient WWI triplane heading straight for you at Warp 9? Could it be Trelane? How can your sensors suddenly report life forms on a dead planet? Where did that primitive race get such advanced technology? No, it couldn't be Dr. Bredell and the Vardaine he was thought dead from your last encounter.\n\nThe tension increases as you beam down to mysterious worlds and encounter strange adversaries in situations that simply defy logic. You're a long way from Starfleet Command and only you can discover what - or who - is challenging you beyond your wildest nightmares. Or can you? \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Interplay"
+	],
+	"identifier": [
+	  "StarTrekJudgmentRitesDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 06:59:49"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"publicdate": [
+	  "2012-07-05 07:00:31"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "rites.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475503059",
+	  "size": "218558",
+	  "md5": "04d2017e35f990c7e808d3930f84466f",
+	  "crc32": "1f4bae70",
+	  "sha1": "be7e08778289fc1dc684e6762d33f7c53e6021f8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475503097",
+	  "size": "4563",
+	  "md5": "16b4737c992b521b6531bbcfd30fa6e7",
+	  "crc32": "baba868b",
+	  "sha1": "de9ed98661db514503998970de0341990851d89f"
+	},
+	"\/StarTrekJudgmentRitesDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475503069",
+	  "size": "13479",
+	  "md5": "9d7b6571c6bdeefc3cb60b18bacd38b1",
+	  "crc32": "0ca04c9c",
+	  "sha1": "a1e62c407905483783a5e5b1fb4c2d35a6c2ea5e",
+	  "format": "Animated GIF"
+	},
+	"\/StarTrekJudgmentRitesDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5768aa0a24bb5fef11a68deec96ffe279a576ef7",
+	  "mtime": "1475503103",
+	  "size": "4022",
+	  "md5": "de5486496c34d9f81c9e22995408b315",
+	  "crc32": "5f698b2b",
+	  "sha1": "f7d3526cbc9953866c9eddf0c6b457db410ad1a8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StarTrekJudgmentRitesDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "01ec12dd355a7da9843fed5a74223aed"
+	},
+	"\/StarTrekJudgmentRitesDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475503081",
+	  "size": "9216",
+	  "md5": "2348a08320dcfa479128f31855565623",
+	  "crc32": "174dc1f2",
+	  "sha1": "1948dfd738d12328f66bbf77ec75048bcb9c4212",
+	  "format": "Metadata"
+	},
+	"\/StarTrekJudgmentRitesDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471823776",
+	  "size": "1745",
+	  "md5": "789467cbb558a26aa741e40916992054",
+	  "crc32": "28ceb934",
+	  "sha1": "105aec0c66f494ef371605519843930109eba935"
+	},
+	"\/resource_item_181.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341471542",
+	  "size": "14133",
+	  "md5": "aa7ac8d809e8b3c0ec01cd7c569cbe67",
+	  "crc32": "f2f67723",
+	  "sha1": "af091ed694377f75ba8967a0983a39eae90ec36a",
+	  "rotation": "0"
+	},
+	"\/resource_item_181_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_181.jpg",
+	  "mtime": "1341471609",
+	  "size": "4589",
+	  "md5": "bf32c67e146aa9b6e09ff74b47815203",
+	  "crc32": "1463b1d1",
+	  "sha1": "5d48657138e0f33599e99146644674d85fe812a8"
+	},
+	"\/ritesdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471823710",
+	  "size": "2809713",
+	  "md5": "7895f5851914922fc10d95238400987b",
+	  "crc32": "f712591f",
+	  "sha1": "a7b5eba3d9e8b06945bcfc8fdc5e9a8b1917b956"
+	},
+	"\/ritesdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475503076",
+	  "size": "53574",
+	  "md5": "5eb234e0aff6c4760e47a553201841b4",
+	  "crc32": "6ea04e5a",
+	  "sha1": "248f2ac3658cb3875bb32939a397005e82d27625",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475503061",
+	  "size": "218558",
+	  "md5": "04d2017e35f990c7e808d3930f84466f",
+	  "crc32": "1f4bae70",
+	  "sha1": "be7e08778289fc1dc684e6762d33f7c53e6021f8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475503098",
+	  "size": "4563",
+	  "md5": "16b4737c992b521b6531bbcfd30fa6e7",
+	  "crc32": "baba868b",
+	  "sha1": "de9ed98661db514503998970de0341990851d89f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475503064",
+	  "size": "173803",
+	  "md5": "e51226637881f6511658bcbc17d80071",
+	  "crc32": "75c6b2f2",
+	  "sha1": "1747323d934439f2ff9932b641670ae07cb7373a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475503100",
+	  "size": "3413",
+	  "md5": "72d202105c53a65cf12e50161f71c421",
+	  "crc32": "8ff830f3",
+	  "sha1": "4fd5a99787a78417a8e231ce65c248cc9d1d3eb6"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475503066",
+	  "size": "186309",
+	  "md5": "3c9f0eb0329c25365354931f0d695909",
+	  "crc32": "815ebcd6",
+	  "sha1": "29f67dc291481d8afd908433370885809a0f2441",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475503101",
+	  "size": "4319",
+	  "md5": "861e94a17e82a72d21fac7441f17a459",
+	  "crc32": "ea046d43",
+	  "sha1": "da49ad8edfcc1b2bcaf5fbfb49145bf35db3a1eb"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/8\/items\/StarTrekJudgmentRitesDemo\/StarTrekJudgmentRitesDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 311,
+	"week": 3,
+	"month": 6
+  }
+}

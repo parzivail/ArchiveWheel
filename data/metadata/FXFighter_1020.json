@@ -1,0 +1,123 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/26/items/FXFighter_1020",
+  "metadata": {
+	"identifier": [
+	  "FXFighter_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Argonaut Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GTE Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "FX Fighter Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:42:00"
+	],
+	"addeddate": [
+	  "2012-09-04 04:42:00"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Destroy the eight greatest fighters in the universe...before they destroy you. Only one champion can emerge from this inter-galactic brawl to the death.\n\nFX Fighter features:\n* 3D texture-mapped combat arenas, with flying camera perspectives\n* CD-quality audio tracks\n* Two player game option with handicapping\n* Adjustable detail levels for optimizing gameplay\n* Over 30 different attacks per fighter \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234724[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/FXFighter_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e4a384e210dfcdeecc05e2c2ff5b228d"
+	},
+	"\/FXFighter_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476553393",
+	  "size": "1191",
+	  "md5": "688ab69957c3c0b558e7b53b2837c6f0",
+	  "crc32": "ae34f706",
+	  "sha1": "7fe2185f9a771756ad5b1b653e6a48903f9c9f7c"
+	},
+	"\/fxdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346733753",
+	  "size": "3474062",
+	  "md5": "df0a8cbbf63f020543a7a447f22a81a3",
+	  "crc32": "20f6ba01",
+	  "sha1": "6ba6580b20ddd59c646a3ccb611e20e211de8499"
+	},
+	"\/fxdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346733753",
+	  "size": "659",
+	  "md5": "c24a13ab2dcfc4ed4db9156bf953ae9e",
+	  "crc32": "bb12228c",
+	  "sha1": "ab803bb457080dcc3fb6c397be31176b4aa5351b"
+	},
+	"\/resource_item_1604.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346733755",
+	  "size": "10229",
+	  "md5": "2d617b5c45084620002289755a5d0e3f",
+	  "crc32": "2552e097",
+	  "sha1": "d2bd960e9d618ce0058a2e123cf9a4793372d523",
+	  "rotation": "0"
+	},
+	"\/resource_item_1604.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346733755",
+	  "size": "272",
+	  "md5": "45f4717fbd3baead6b8fd3751c68dc46",
+	  "crc32": "0c06009e",
+	  "sha1": "cccf9eecbadc63b53952700d23be5910e5f51bda"
+	},
+	"\/resource_item_1604_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1604.jpg",
+	  "mtime": "1346734325",
+	  "size": "3406",
+	  "md5": "585a9f8ced630aed96c88c10228d2058",
+	  "crc32": "ca0d0a6f",
+	  "sha1": "412fd34ce7d13cf800549756be6d47b1ee95eab6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/26\/items\/FXFighter_1020\/resource_item_1604_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 150,
+	"week": 4,
+	"month": 5
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "server": "ia601005.us.archive.org",
+  "dir": "/4/items/zeos1214",
+  "metadata": {
+	"identifier": [
+	  "zeos1214"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Astound Software"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>The year is 2040. The U.S. government in alliance with Russia II has developed a Top-secret microchip and jet propulsion combination known as the Zeos engine. During the final testing stages, the engine and all technical plans were stolen with force by the evil scientist Dr. Terror.<\/div><div><br \/><\/div><div>By order of the New U.N., your mission is to recover all stolen technology before Dr. Terror takes over the world!<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Zeos Fighters Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2014-01-10 02:05:44"
+	],
+	"addeddate": [
+	  "2014-01-10 02:05:44"
+	],
+	"named-persons": [
+	  "Christopher Haag, Edward McPhillips, Walter Sharrow, Brad Bellamo"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234230[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905802_26"
+	]
+  },
+  "files": {
+	"\/zeos1214.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1389319544",
+	  "size": "9638903",
+	  "md5": "c1d72a1edde61ba7c3e4309c873f7785",
+	  "crc32": "7295643d",
+	  "sha1": "dadd1abb8fd32ed6797b16b4f565d0e23a1b4def"
+	},
+	"\/zeos1214.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1389319556",
+	  "size": "40612",
+	  "md5": "3d7122645238008dd802e3496f3ceef9",
+	  "crc32": "f4870f46",
+	  "sha1": "8faf7f0825dc0434bb4be8fe8ad85e265148a607",
+	  "rotation": "0"
+	},
+	"\/zeos1214_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9600c68b8f4bdb4639b866a8089106dd"
+	},
+	"\/zeos1214_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1389319578",
+	  "size": "16384",
+	  "md5": "f92ed9a6e5496e5a35ecfdb1018e43e5",
+	  "crc32": "0b9465d6",
+	  "sha1": "1fc90e49fda46a334f9413cd9f23a24dd89e1cff"
+	},
+	"\/zeos1214_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474947480",
+	  "size": "1381",
+	  "md5": "e126599adf3ab757367b7bfea953d450",
+	  "crc32": "2e7af3ca",
+	  "sha1": "055e22d4f626cd0eb30ccbd42ed347c213d68fe5"
+	},
+	"\/zeos1214_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "zeos1214.jpg",
+	  "mtime": "1389319589",
+	  "size": "4563",
+	  "md5": "83bf9c84965ec1fe241dd8e5a37a5fa1",
+	  "crc32": "cfe76546",
+	  "sha1": "c58c14341cb23de069fa69d6803373dbb70a5d5b"
+	},
+	"\/zeos829.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1389319566",
+	  "size": "5776125",
+	  "md5": "97c2f47068d52cc20688faac9b17dd3e",
+	  "crc32": "a4f58984",
+	  "sha1": "2618624ce242d72830e929553a8f6f1c59b0d239"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601005.us.archive.org\/4\/items\/zeos1214\/zeos1214_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 291,
+	"week": 9,
+	"month": 19
+  }
+}

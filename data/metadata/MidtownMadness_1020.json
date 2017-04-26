@@ -1,0 +1,123 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/0/items/MidtownMadness_1020",
+  "metadata": {
+	"identifier": [
+	  "MidtownMadness_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Angel Studios"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "Ever want to get behind the wheel and race like a madman through the streets of a teeming metropolis?. Here's your chance to careen your way through Chicago traffic that's thicker than a deep dish pizza. Forget everything you learned in Driver's Ed. Run every stop sign, drive the wrong way, or gun-it to jump a drawbridge. No-rules racing means doing whatever it takes to win."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Midtown Madness Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2012-09-04 18:15:26"
+	],
+	"addeddate": [
+	  "2012-09-04 18:15:26"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234325[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/MMDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346782785",
+	  "size": "26984960",
+	  "md5": "ac17580ed09a88fada445eb8862f61be",
+	  "crc32": "3db72761",
+	  "sha1": "cea4d3346ab3635728ab32bd4029892bc12c8a09"
+	},
+	"\/MMDemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346782786",
+	  "size": "1089",
+	  "md5": "5fbd8df37fab73127c039ecfbc9fb4ee",
+	  "crc32": "13422562",
+	  "sha1": "5cc2021504ce2829bed48e5eaba2cc7376122cd9"
+	},
+	"\/MidtownMadness_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "814c014f1d49007dc986a63d68f6072c"
+	},
+	"\/MidtownMadness_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464448738",
+	  "size": "1166",
+	  "md5": "6e0f3245d0ddffd78a97a4cf9c94d7f0",
+	  "crc32": "f8c7245f",
+	  "sha1": "cccfbf0e7e8af8290fda3391ddc95137e6d37e3a"
+	},
+	"\/resource_item_2451.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346782787",
+	  "size": "12016",
+	  "md5": "c14b6685e79e9b66c6f54850ded6b862",
+	  "crc32": "6dffb588",
+	  "sha1": "3535140198b408d53ea6c452a3a476633a11eab4",
+	  "rotation": "0"
+	},
+	"\/resource_item_2451.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346782787",
+	  "size": "272",
+	  "md5": "22c938df40a7ddd9a22fd8029348a1a9",
+	  "crc32": "ef85c278",
+	  "sha1": "e18ebf36fa1fd59093d4e27da578c2a2593f0bf7"
+	},
+	"\/resource_item_2451_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2451.jpg",
+	  "mtime": "1346817972",
+	  "size": "4208",
+	  "md5": "e247d68e110178ace43c3a5446bec215",
+	  "crc32": "e9b5601d",
+	  "sha1": "737fb30a9d214b8fae49b11645eb5d88828175ae"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/0\/items\/MidtownMadness_1020\/resource_item_2451_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2584,
+	"week": 25,
+	"month": 115
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "server": "ia800207.us.archive.org",
+  "dir": "/27/items/mm2trial",
+  "metadata": {
+	"identifier": [
+	  "mm2trial"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Angel Studios"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>Mad-cap racing excitement with all the wild and hair-raising racing challenges you've come to expect! Midtown Madness 2 features two all new locations (London &amp; San Francisco) and 9 hip new urban roadsters!<\/div>"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Midtown Madness 2 Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2014-01-28 22:15:31"
+	],
+	"addeddate": [
+	  "2014-01-28 22:15:31"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233743[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/mm2trial.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390947388",
+	  "size": "32323088",
+	  "md5": "4a6368d17ea350b65a01174387d04ba4",
+	  "crc32": "6554e9e4",
+	  "sha1": "38526b202c67ebe1d059eaa86da53d234ee2fc77"
+	},
+	"\/mm2trial.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390947330",
+	  "size": "69861",
+	  "md5": "d5bb2917d4457e22f117b30b415395b8",
+	  "crc32": "1eaee97d",
+	  "sha1": "9337f10aa80ea4d7169cb4d342b5fe9149d4c18d",
+	  "rotation": "0"
+	},
+	"\/mm2trial_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "79ea740afe78963935138881573252d0"
+	},
+	"\/mm2trial_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390947398",
+	  "size": "12288",
+	  "md5": "d8331b0c52e566f4dfc6cfd68d8b2a6c",
+	  "crc32": "cb670f89",
+	  "sha1": "406f4e65ab8d6f644da9eeced18c0e1b47970e0e"
+	},
+	"\/mm2trial_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474635702",
+	  "size": "1077",
+	  "md5": "cccf63b04bf449504c596e88753aede5",
+	  "crc32": "c22abfd2",
+	  "sha1": "ec609d4dd3e84254d92fb6c38bcb65d4a47a9f41"
+	},
+	"\/mm2trial_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "mm2trial.jpg",
+	  "mtime": "1390947419",
+	  "size": "5857",
+	  "md5": "a6d434498ef990bb16dc39cd7607db79",
+	  "crc32": "f46f9bb6",
+	  "sha1": "9010694a33ad7e142cde32dd66b6d506616974c4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800207.us.archive.org\/27\/items\/mm2trial\/mm2trial_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 15497,
+	"week": 133,
+	"month": 583
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "server": "ia601407.us.archive.org",
+  "dir": "/12/items/QuestForGlorySoYouWantToBeAHeroDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Quest For Glory: So You Want To Be A Hero Demo"
+	],
+	"description": [
+	  "\"Lori and Corey Cole want *you* to be a Hero!\n\nWe love fantasy role-playing games. In Quest For Glory, we've combined the best features of fantasy adventures and role-playing games to create the same kind of experience that we look for in a game. We want to share the drama, the excitement, and the fun of being a real Hero.\n\nLori and Corey Cole once again draw upon their expertise in computers, art, theater, and role-playing to bring you a new benchmark in interactive adventure. Their award-winning fantasies have earned them a legion of fans around the world.\n\nQuest For Glory combines the puzzle-solving and story-telling style of Sierra's classic adventures with the character development, combat, and magic of computer role playing games. And it's three games in one! Play it as a mighty magician, a fierce fighter, or a wily thief. Select the skills and attributes you think you'll need. The game plays differently according to your character's unique abilities.\n\nGet set for an amazing fantasy game that can be played again and again. But before you get committed, ask yourself: Do you really want to be a hero? \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"identifier": [
+	  "QuestForGlorySoYouWantToBeAHeroDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 09:26:22"
+	],
+	"publicdate": [
+	  "2012-07-05 09:26:46"
+	],
+	"date": [
+	  "1989"
+	],
+	"year": [
+	  "1989"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "sierra\\democd\\DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475436291",
+	  "size": "348687",
+	  "md5": "4eebe36d1a8a434aa7757f25c4a1e593",
+	  "crc32": "b5cadb9b",
+	  "sha1": "89639c91fd6b9d89d610879a86f944d41c46518e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475436460",
+	  "size": "5048",
+	  "md5": "12e4caa92a15debc99808baa318ce187",
+	  "crc32": "ee33f7a1",
+	  "sha1": "cd93adce0ebf06116f9a9055e93a23b5a9ad4761"
+	},
+	"\/QuestForGlorySoYouWantToBeAHeroDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475436434",
+	  "size": "162170",
+	  "md5": "e41cb0ea2b06ab6905ac73dfc32390a6",
+	  "crc32": "80eb80fe",
+	  "sha1": "abf76a86e91a58ca377799b9139b2d4f93233a2f",
+	  "format": "Animated GIF"
+	},
+	"\/QuestForGlorySoYouWantToBeAHeroDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "0d2333cec09662dd5be180b78059a20331e918cb",
+	  "mtime": "1475436510",
+	  "size": "14143",
+	  "md5": "ee71ab426c672a96821f595993d4931e",
+	  "crc32": "a330184d",
+	  "sha1": "b4851b71c56e29b58930433b8706ee3baf4e6af9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/QuestForGlorySoYouWantToBeAHeroDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a670899d454e78816f913da89421c016"
+	},
+	"\/QuestForGlorySoYouWantToBeAHeroDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475436453",
+	  "size": "25600",
+	  "format": "Metadata",
+	  "md5": "e8b415b8345b4fd2e60412fbac27868a",
+	  "crc32": "444138d6",
+	  "sha1": "2036fb28caebac91b57560bf84f20b7eac37c7e1"
+	},
+	"\/QuestForGlorySoYouWantToBeAHeroDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462656299",
+	  "size": "2057",
+	  "md5": "73e498cd6709528b72f8f52f1469d4f7",
+	  "crc32": "d5ce9663",
+	  "sha1": "ec59dc33e1c52376559330f25fdb856292323ebf"
+	},
+	"\/qfg1demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1457839617",
+	  "size": "924891",
+	  "md5": "b2d6d6434fda1c6fbee7b171b93755d0",
+	  "crc32": "47a78038",
+	  "sha1": "729ab780bf797f9b19c1cb47ae5285f193039496"
+	},
+	"\/qfg1demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475436449",
+	  "size": "2712450",
+	  "md5": "ab7ad48a64b10c5e80c6b99833401723",
+	  "crc32": "8990a263",
+	  "sha1": "76c803d6d2d7ba2cb93de2a96e16f95b6961f6ff",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_192.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341480351",
+	  "size": "14791",
+	  "md5": "203f9f5f4073647a4637a069a08a9ee6",
+	  "crc32": "8706a52b",
+	  "sha1": "79e02d64bdfcbd9de6385cc2454e2ae53abd5b41",
+	  "rotation": "0"
+	},
+	"\/resource_item_192_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_192.jpg",
+	  "mtime": "1341480401",
+	  "size": "4899",
+	  "md5": "04c9ae1cc947e616e36782dd7130e9f5",
+	  "crc32": "b8ca1a82",
+	  "sha1": "ea3add7e53a91d38284a0bbd50605fcfa3b4aeee"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475436294",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475436483",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475436297",
+	  "size": "102473",
+	  "md5": "5e0c930d28d7589a872cde7f05172185",
+	  "crc32": "fa446a62",
+	  "sha1": "92b5460ff31b860f23d317b69a8942d7cb8005e8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475436463",
+	  "size": "4198",
+	  "md5": "dbadd52e5a499fc463de8eb5dcac485d",
+	  "crc32": "ba1ef51d",
+	  "sha1": "6a1685ba5b3d3216d03cafd4cad17002b0102330"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475436301",
+	  "size": "102032",
+	  "md5": "9f1448683e2c7cc5017a9de783c1c269",
+	  "crc32": "ca253063",
+	  "sha1": "dc971fcbce0c3c1a91728fe077db33c15e16c924",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475436465",
+	  "size": "3864",
+	  "md5": "a5a34bdb0c1e94a98a3ab68292c9fc7a",
+	  "crc32": "5801af12",
+	  "sha1": "3a827a9fbfd4db986a302aa735448e076652d11a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475436306",
+	  "size": "97989",
+	  "md5": "cdff1fd7f95cec01cf75cc4f2f1958b9",
+	  "crc32": "97bd3d86",
+	  "sha1": "7843df241df8b6b12061b40430c574e78154b26e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475436466",
+	  "size": "3975",
+	  "md5": "a677ace6b28ffac32eb69ee25bebecc4",
+	  "crc32": "775108fb",
+	  "sha1": "4124cd547c31aa40ba2a506b56cb9d9f412bf416"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475436308",
+	  "size": "103724",
+	  "md5": "23c1d04b17ce169c482f2698e506fef2",
+	  "crc32": "d3b6e117",
+	  "sha1": "b94d182007ef8af6414a4324d8258935f608267b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475436467",
+	  "size": "4183",
+	  "md5": "4f329bac443a40eb58ce4bc0027ffe3b",
+	  "crc32": "09e46361",
+	  "sha1": "7f67fe4d1f3b07644d690188d5e2b5c913fed331"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475436311",
+	  "size": "101247",
+	  "md5": "3c8dc97fb7411a8895fe63d26cad5134",
+	  "crc32": "0a4f7a06",
+	  "sha1": "4214dc7eb91e2ff65fda76e4630fd98557389790",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475436469",
+	  "size": "3835",
+	  "md5": "b0bf6274f0541309d8951e1e2ec92a66",
+	  "crc32": "68b09cc8",
+	  "sha1": "df78d7fbfd35cfb62da897ed0f6b85e6c64d1a15"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475436319",
+	  "size": "97889",
+	  "md5": "7a73d54742ccff4383a45fd362e72743",
+	  "crc32": "3fb41151",
+	  "sha1": "6dc65f33f8c571b1ce31ca19d731d0023239813e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475436470",
+	  "size": "4009",
+	  "md5": "9008455f1e0592e07014b382e32a833b",
+	  "crc32": "8d72b25c",
+	  "sha1": "efe1ce434df27ee9f6316dba3e4f2628c846beb2"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475436322",
+	  "size": "103849",
+	  "md5": "e4531d771ea5f11a9a4fe1627da3a123",
+	  "crc32": "caecfffb",
+	  "sha1": "a149a063f5d892ca350aec331dc1e37bf9727074",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475436472",
+	  "size": "4162",
+	  "md5": "fa0c70c2de668fd236485ce5e3e486f4",
+	  "crc32": "67ef8835",
+	  "sha1": "3ea7dc23b8c5a72be2a825ae881505c896954407"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475436324",
+	  "size": "101313",
+	  "md5": "29e39f260090c0ef7ce0b43c5efb671b",
+	  "crc32": "e7c90c2d",
+	  "sha1": "70868d6e1a16bffe6f0adce6ec16c5cddb9536e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475436474",
+	  "size": "3835",
+	  "md5": "14be0d481455937d3c82eb3ae713bd86",
+	  "crc32": "71ffc021",
+	  "sha1": "89399c435bdb1014d598282a3c84f123a24dd690"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475436327",
+	  "size": "97878",
+	  "md5": "388d3930cb4b4ef74fcf707a607b830d",
+	  "crc32": "21a7cd02",
+	  "sha1": "24c87384c3cb6f2b0f90ad43719e0b8ccd9ad051",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475436475",
+	  "size": "4035",
+	  "md5": "a79d3a96f3b41d874fe73723712923ba",
+	  "crc32": "d5ad62ce",
+	  "sha1": "5532d9b6d6af78c3c185202054baedd86339fcc5"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475436330",
+	  "size": "104596",
+	  "md5": "16ad52d2986feafc2e59159e9ba93f51",
+	  "crc32": "6e47de55",
+	  "sha1": "f54fbc53c7117aa9be7df8184a5fd004b22deca7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475436477",
+	  "size": "4157",
+	  "md5": "c9b363aea61d1a3411efa622e5dcd8b9",
+	  "crc32": "7f97d0b5",
+	  "sha1": "e2e1ec7a81a5128704ff9eab8709fe853f9badf7"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475436333",
+	  "size": "100741",
+	  "md5": "3f6afda78e63f50f5383a73f576a16e9",
+	  "crc32": "c146fa6c",
+	  "sha1": "e7dfdcb78c7e3d45a0a077903228d2363281fb21",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475436478",
+	  "size": "3823",
+	  "md5": "7c48c7d811d4a4c5f336695d8bd9232a",
+	  "crc32": "88b4a701",
+	  "sha1": "a30981f2766811391bad047e95d279bcad71ebdc"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475436335",
+	  "size": "105067",
+	  "md5": "23d43aee155a6e12556c21ce2129c012",
+	  "crc32": "305c8072",
+	  "sha1": "ed1d0602e774024db7c6dbb675d63a4b95a0433d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475436480",
+	  "size": "4144",
+	  "md5": "935aa7dce7496a6cdc34129351663977",
+	  "crc32": "69e9b402",
+	  "sha1": "048631a5d1d15e36412d53121c7f9c898e92b102"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475436339",
+	  "size": "100232",
+	  "md5": "a66c4b075ec76147a8649267215e4471",
+	  "crc32": "290b3c6a",
+	  "sha1": "893de43ae15b40154abd8baf5c049cab770ef826",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475436481",
+	  "size": "3804",
+	  "md5": "356b522968dc02e1297c30b68ee2fd70",
+	  "crc32": "97406dc2",
+	  "sha1": "b214b1eb9e197cf47b9de9086a1a9389892e6e60"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475436342",
+	  "size": "99327",
+	  "md5": "640861f5afad970f5f0e6e937a11b953",
+	  "crc32": "5cf49e4a",
+	  "sha1": "ba9d211414d46b5379523b1c338bd048dad8e338",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475436462",
+	  "size": "3805",
+	  "md5": "db1f3b0946b001c7ae2d0f62a66cf093",
+	  "crc32": "febd6a9a",
+	  "sha1": "1bcfdb2da1e8d4e95f5f39a6e710ee91897388a0"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475436344",
+	  "size": "299003",
+	  "md5": "e3e8d1460e84570825669d6e3c57fe5d",
+	  "crc32": "22519174",
+	  "sha1": "52c7e83f7719fd98550240490805d8c9b0c1d3ca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475436486",
+	  "size": "4694",
+	  "md5": "08201ece287754b76523c38d495b6246",
+	  "crc32": "92e1419d",
+	  "sha1": "d517606f50111ae6a488fd5567043d3f18e97827"
+	},
+	"\/screenshot_16.jpg": {
+	  "source": "original",
+	  "mtime": "1475436347",
+	  "size": "300669",
+	  "md5": "c3cdfd08dbfe9d5c8433ea6ade488f26",
+	  "crc32": "9546864e",
+	  "sha1": "33285367fbc9a68cd0844f99f5febd5ef0961ba0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_16_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_16.jpg",
+	  "mtime": "1475436484",
+	  "size": "4757",
+	  "md5": "6db797a1ecf64c75f5f07cded747b81f",
+	  "crc32": "8b88b83f",
+	  "sha1": "1d9968e18a89f42cdeb77d5cf7a0b967bf69de0d"
+	},
+	"\/screenshot_17.jpg": {
+	  "source": "original",
+	  "mtime": "1475436350",
+	  "size": "302697",
+	  "md5": "24b60f0e261f200e63a8fd7e0309822b",
+	  "crc32": "a579946f",
+	  "sha1": "f2f1cff873f01a33845bdff11f42e04556743ff1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_17_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_17.jpg",
+	  "mtime": "1475436487",
+	  "size": "4779",
+	  "md5": "af5c51777d67670188c274d773b90366",
+	  "crc32": "351ae734",
+	  "sha1": "e0b3d3152a8a6cfb8299e36f8b168c6ecec41ca3"
+	},
+	"\/screenshot_18.jpg": {
+	  "source": "original",
+	  "mtime": "1475436361",
+	  "size": "346156",
+	  "md5": "ed5c2ce6e441f1217f0b8cf700e37f75",
+	  "crc32": "19862ef6",
+	  "sha1": "d749dda0ef7185f00f5d5631388c81b4a1aa42e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_18_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_18.jpg",
+	  "mtime": "1475436489",
+	  "size": "5230",
+	  "md5": "5827dd0fd858fc03da78f7e13ba0b501",
+	  "crc32": "031f161b",
+	  "sha1": "ad121070e5326890b755c7be18e761f323108f05"
+	},
+	"\/screenshot_19.jpg": {
+	  "source": "original",
+	  "mtime": "1475436368",
+	  "size": "322372",
+	  "md5": "b894962a078b19ad57ba2786d5132c07",
+	  "crc32": "8bc73271",
+	  "sha1": "df8e3da7b22c6bdfc6b47eb4fc2b3e0888899fbd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_19_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_19.jpg",
+	  "mtime": "1475436491",
+	  "size": "5181",
+	  "md5": "713a1b7f14965e3da89bf7626c3945c5",
+	  "crc32": "f7fb44d1",
+	  "sha1": "449ff80e3d56f4a31651f1ed5d0d8b3cb7075e02"
+	},
+	"\/screenshot_20.jpg": {
+	  "source": "original",
+	  "mtime": "1475436378",
+	  "size": "318914",
+	  "md5": "a29d2d52d8e5e1d0a221ea7027bf16af",
+	  "crc32": "ac360bdf",
+	  "sha1": "d8d53eb09e08d43a54fab2603d68bc86ef2828ce",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_20_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_20.jpg",
+	  "mtime": "1475436493",
+	  "size": "5146",
+	  "md5": "3da162eb2187b14ff4785dfecb018b2f",
+	  "crc32": "6abae460",
+	  "sha1": "6050f713c84955c3f81b0abf57da4640c38c58e3"
+	},
+	"\/screenshot_21.jpg": {
+	  "source": "original",
+	  "mtime": "1475436380",
+	  "size": "332290",
+	  "md5": "a09ecebaae8043923ad6416e1c163692",
+	  "crc32": "ebd1fac8",
+	  "sha1": "6b27e3ce2488b8699261da378e3a9b55ea2b3663",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_21_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_21.jpg",
+	  "mtime": "1475436495",
+	  "size": "5280",
+	  "md5": "415719d3620090bc96dd35ece350aadc",
+	  "crc32": "45f95235",
+	  "sha1": "31955f9bae9036bddeace6fa8eabe886f5154ff6"
+	},
+	"\/screenshot_22.jpg": {
+	  "source": "original",
+	  "mtime": "1475436383",
+	  "size": "328643",
+	  "md5": "c249ed89a8d25039bdd7cbf96e49db9b",
+	  "crc32": "799606a7",
+	  "sha1": "f12f8f4185155e5329917c1ead4fad56173bb0c9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_22_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_22.jpg",
+	  "mtime": "1475436496",
+	  "size": "5281",
+	  "md5": "2aa8cecc32c1627f06e1540da3613e00",
+	  "crc32": "56d3d84a",
+	  "sha1": "e0959d9a49864eb2fbb40d77b35a8c6f3e6d5d96"
+	},
+	"\/screenshot_23.jpg": {
+	  "source": "original",
+	  "mtime": "1475436387",
+	  "size": "348687",
+	  "md5": "4eebe36d1a8a434aa7757f25c4a1e593",
+	  "crc32": "b5cadb9b",
+	  "sha1": "89639c91fd6b9d89d610879a86f944d41c46518e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_23_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_23.jpg",
+	  "mtime": "1475436497",
+	  "size": "5048",
+	  "md5": "12e4caa92a15debc99808baa318ce187",
+	  "crc32": "ee33f7a1",
+	  "sha1": "cd93adce0ebf06116f9a9055e93a23b5a9ad4761"
+	},
+	"\/screenshot_24.jpg": {
+	  "source": "original",
+	  "mtime": "1475436390",
+	  "size": "341672",
+	  "md5": "86610523ea98933c5fd3e48ab239c6d6",
+	  "crc32": "5ca6a2c2",
+	  "sha1": "4131de023e0f6070389fa34ac5f144ecccace560",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_24_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_24.jpg",
+	  "mtime": "1475436499",
+	  "size": "5129",
+	  "md5": "fe2d3de473935101bea30db98ecf3626",
+	  "crc32": "e1b66d14",
+	  "sha1": "1ed03bf496710f165e4b75ecf9257369e9802342"
+	},
+	"\/screenshot_25.jpg": {
+	  "source": "original",
+	  "mtime": "1475436393",
+	  "size": "347720",
+	  "md5": "fa3b85de0b277fe90c93365533f60c5d",
+	  "crc32": "246b50e3",
+	  "sha1": "0ae95de7d4da3e53d3897edb85d721375ebea690",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_25_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_25.jpg",
+	  "mtime": "1475436500",
+	  "size": "5109",
+	  "md5": "993583e5e932887b48698060efae8a78",
+	  "crc32": "786e9d79",
+	  "sha1": "ad455ca2f13eba0056bce3b7b59bd92dd6d66296"
+	},
+	"\/screenshot_26.jpg": {
+	  "source": "original",
+	  "mtime": "1475436397",
+	  "size": "346877",
+	  "md5": "b894d16e53e8efdf610ddbabea4c83db",
+	  "crc32": "3e3e57ea",
+	  "sha1": "f635dc20c20d41f853c57b6b4cfea3ed6c388a41",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_26_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_26.jpg",
+	  "mtime": "1475436502",
+	  "size": "5088",
+	  "md5": "353e2f61d0037b239057db89ec03c090",
+	  "crc32": "699d7f1c",
+	  "sha1": "31b3d04e8a97c587e221aace30adaa6709a68a0a"
+	},
+	"\/screenshot_27.jpg": {
+	  "source": "original",
+	  "mtime": "1475436403",
+	  "size": "346689",
+	  "md5": "70635a7af073f8abbe67abaad2929605",
+	  "crc32": "89878c67",
+	  "sha1": "5f4de5851c53c6f4d7637b3599c026c9ecc7f187",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_27_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_27.jpg",
+	  "mtime": "1475436503",
+	  "size": "5101",
+	  "md5": "0b25209b4711c2683a4568c8dd1b43c4",
+	  "crc32": "fc116f5c",
+	  "sha1": "7a4cf1dfdd4724df55f1ea928880ea544830df1b"
+	},
+	"\/screenshot_28.jpg": {
+	  "source": "original",
+	  "mtime": "1475436415",
+	  "size": "347999",
+	  "md5": "c353457a3b9630106f583fb035acd2c5",
+	  "crc32": "031449c0",
+	  "sha1": "a1076fe4ef9783266650d28ae7960f5a9b1f4d38",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_28_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_28.jpg",
+	  "mtime": "1475436505",
+	  "size": "5145",
+	  "md5": "d3e6563ae3e3212d7712ede8812b3521",
+	  "crc32": "4f6fc844",
+	  "sha1": "e91b28955aa70ca4c015d2a7fcf339805cc50cfd"
+	},
+	"\/screenshot_29.jpg": {
+	  "source": "original",
+	  "mtime": "1475436428",
+	  "size": "345549",
+	  "md5": "58ea2caee75809232cfe0941f6424392",
+	  "crc32": "a176bd8c",
+	  "sha1": "933574d4bab7f2d6d4a8deff8f5be2dd7fc0fd88",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_29_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_29.jpg",
+	  "mtime": "1475436506",
+	  "size": "5070",
+	  "md5": "ae1d7c95c7d5006ea2e4b43ef77eb0bf",
+	  "crc32": "23cb6354",
+	  "sha1": "8065d4c089ae92c55b693ff7ef54d43d6571f038"
+	},
+	"\/screenshot_30.jpg": {
+	  "source": "original",
+	  "mtime": "1475436430",
+	  "size": "277488",
+	  "md5": "72bd338c35916a8158847ac13733ae78",
+	  "crc32": "bd603dfd",
+	  "sha1": "53d4013b240e5d02c32e765f9347757d822c29b1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_30_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_30.jpg",
+	  "mtime": "1475436508",
+	  "size": "4792",
+	  "md5": "83ac825f965ae62505ec67c4d392b934",
+	  "crc32": "c3155279",
+	  "sha1": "a6c9afaebbf76a6499e8c6f53c5e7cb8a62c75f9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601407.us.archive.org\/12\/items\/QuestForGlorySoYouWantToBeAHeroDemo\/QuestForGlorySoYouWantToBeAHeroDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 981,
+	"week": 9,
+	"month": 20
+  }
+}

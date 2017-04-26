@@ -1,0 +1,315 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/5/items/WarDiary_1020",
+  "metadata": {
+	"identifier": [
+	  "WarDiary_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Trigger Soft"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "War Diary is a real time strategy game based on actual events in the 16th century [which takes place in Korea].  Build and manage complex bases from which to launch your attacks. Fell the trees, smelt the Iron, harvest your crops. Trade your resources. Your army [consists of] archers, footmen, knights, artillery etc. You must defend your homeland against an invading army."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "CDV Software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "War Diary Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-04 19:13:41"
+	],
+	"addeddate": [
+	  "2012-09-04 19:13:41"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "wardiary\\wardiary.bat"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475599545",
+	  "size": "318444",
+	  "md5": "2b7d1d65e945df6266f00f541f587f0f",
+	  "crc32": "8ac9bda2",
+	  "sha1": "29201ec2ee710977750db3568dbe17b30a30cbe5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475599600",
+	  "size": "4859",
+	  "md5": "b7ab395e8f63ecee96f83be9c888bdf4",
+	  "crc32": "c651c7b8",
+	  "sha1": "578f7ae2a33d490f1f7f0c2ba432cde5d5612803"
+	},
+	"\/WARDIARY.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1474909906",
+	  "size": "4568854",
+	  "md5": "209d3e63d5829a979012c03c6312ca19",
+	  "crc32": "3728eda6",
+	  "sha1": "bf279c95febdacc41aabb2a701d392b6970f9c89"
+	},
+	"\/WARDIARY_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475599569",
+	  "size": "366044",
+	  "md5": "b910f5414c695c1a498312ec4024a9c6",
+	  "crc32": "4f0dfaea",
+	  "sha1": "e50e09646fe782a0ed14f25d847f3b0e17b0eef4",
+	  "format": "Emulator Screenshot"
+	},
+	"\/WarDiary_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475599565",
+	  "size": "149784",
+	  "md5": "840feb2eb0ab30c2a7f11a47b2b0af11",
+	  "crc32": "94751009",
+	  "sha1": "b312f42e44f0ae8b731896dd79f5c1b60a039294",
+	  "format": "Animated GIF"
+	},
+	"\/WarDiary_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f540ace8ce5004809472781f8c4984ce9caa6209",
+	  "mtime": "1475599611",
+	  "size": "5341",
+	  "md5": "14ec59b4d432e4cb84c94f12d04585ca",
+	  "crc32": "8381b9d6",
+	  "sha1": "e425d75b9551340c4867a7a9e2bef733a74f0347",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WarDiary_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f8f5054a553729d96cdc91e5a6201138"
+	},
+	"\/WarDiary_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475599578",
+	  "size": "11264",
+	  "md5": "4e2f69311989d47cf244f36e06f09b2a",
+	  "crc32": "cd2c4409",
+	  "sha1": "df46924816277aa2a4c35d888987869732caf01d",
+	  "format": "Metadata"
+	},
+	"\/WarDiary_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474910010",
+	  "size": "1246",
+	  "md5": "13b4b02a89f48abeffb49cec4c899f4d",
+	  "crc32": "a8b633b8",
+	  "sha1": "97cd1997fcf2f16c3274d2fa175d72076eecdbf5"
+	},
+	"\/resource_item_2441.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346786059",
+	  "size": "14428",
+	  "md5": "e05d90a68986715b0d9f5fefc0f503c8",
+	  "crc32": "0a5fc383",
+	  "sha1": "c7b8a3f38294fb3dd1a2e9b6e1a0d0271007f1c0",
+	  "rotation": "0"
+	},
+	"\/resource_item_2441.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786059",
+	  "size": "272",
+	  "md5": "94a36769115fe270d10f4c0591ad7b2a",
+	  "crc32": "8b65a966",
+	  "sha1": "357952a8c6ca9467f98590cc623de9e8e7c5796e"
+	},
+	"\/resource_item_2441_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2441.jpg",
+	  "mtime": "1346819355",
+	  "size": "4090",
+	  "md5": "207498630759f4e6692310623d7d8370",
+	  "crc32": "0e59115b",
+	  "sha1": "4983009d3f11c79bbf1e276933e654c8d47cce23"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475599548",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475599602",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475599551",
+	  "size": "25144",
+	  "md5": "c5e4b96754be4a2835b6c7e65b3e5804",
+	  "crc32": "ddcba5c9",
+	  "sha1": "d271010d59495399b14f7f385e626f69761f3d07",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475599599",
+	  "size": "2667",
+	  "md5": "e3c1df0fb0aac569ff9e291a4283b8cb",
+	  "crc32": "ae838f89",
+	  "sha1": "8bf215bf34da142a79e810cd86965578303b259e"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475599555",
+	  "size": "33689",
+	  "md5": "bfd47863760b1094b4e4f9a88313b9be",
+	  "crc32": "e44eada2",
+	  "sha1": "8430bd374d61313d9e05a334b3b8068b0ad1fca6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475599604",
+	  "size": "2841",
+	  "md5": "048faad8e52b756b0a8309d2daa6ba51",
+	  "crc32": "589c71a3",
+	  "sha1": "a6138b071929585b618ca63a8414225daf377d8e"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475599558",
+	  "size": "36468",
+	  "md5": "d8aea0b9f5a93147dbf65736769e77ca",
+	  "crc32": "a8566eae",
+	  "sha1": "b97e46b3763a4a484b2043e9ef8b1d09eab4b275",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475599607",
+	  "size": "2956",
+	  "md5": "1ab13f4556e9c6736e9e91c24e9819a4",
+	  "crc32": "ebd75dca",
+	  "sha1": "33ce5aa02bfa5062a67768b8670bb0a5922274fa"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475599560",
+	  "size": "34589",
+	  "md5": "9f37baee51f65e1dfa61eb8008e32b6c",
+	  "crc32": "76d95ce6",
+	  "sha1": "3dc1e8260a114d0a2efcf15e719f99c7cec47a21",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475599609",
+	  "size": "2755",
+	  "md5": "31483f946354e0ec753ca2e7bef55508",
+	  "crc32": "d6d9f98f",
+	  "sha1": "b2348b8f2f085e5db0a2734796a480651d147ac4"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475599562",
+	  "size": "318444",
+	  "md5": "2b7d1d65e945df6266f00f541f587f0f",
+	  "crc32": "8ac9bda2",
+	  "sha1": "29201ec2ee710977750db3568dbe17b30a30cbe5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475599606",
+	  "size": "4859",
+	  "md5": "b7ab395e8f63ecee96f83be9c888bdf4",
+	  "crc32": "c651c7b8",
+	  "sha1": "578f7ae2a33d490f1f7f0c2ba432cde5d5612803"
+	},
+	"\/wardiary-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346786057",
+	  "size": "3670248",
+	  "md5": "8d45c70f1b1db3cd0915816cde50b6ac",
+	  "crc32": "d5066a87",
+	  "sha1": "234ff85fff7972a5a15674a3b56ac82255392629"
+	},
+	"\/wardiary.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786057",
+	  "size": "1079",
+	  "md5": "7838319dd9ec96f1981b9f51d1052f4f",
+	  "crc32": "96f4273b",
+	  "sha1": "a549786e0b57f25c7d983304a0205af50ef6ba91"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/5\/items\/WarDiary_1020\/WarDiary_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 167,
+	"week": 4,
+	"month": 5
+  }
+}

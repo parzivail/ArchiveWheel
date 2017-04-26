@@ -1,0 +1,142 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/3/items/EarthwormJim2_1020",
+  "metadata": {
+	"identifier": [
+	  "EarthwormJim2_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Shiny Entertainment"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Earthworm Jim 2 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:35:02"
+	],
+	"addeddate": [
+	  "2012-09-04 06:35:02"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"TWO TIMES THE FUN!<br \/>\nTWO TIMES THE EXCITEMENT!\n\nTwo Times two is four! Too much to list, but keep reading:\n\nFrom Evil the Cat's 'Circus of the Scars' to the planet of Meat, join Jim on a madcap chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapons? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one, play it yourself...or EAT DIRT!\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"notes": [
+	  "1\/10\/16 - Tested for online play. Needs CD-ROM drive mounted"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "ewj\\ewj2.exe -f"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/EWJ2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1478122450",
+	  "size": "2337267",
+	  "md5": "4557dcfba20c7aa3a4c6f3460a763c5d",
+	  "crc32": "e07e24f0",
+	  "sha1": "9ee39391bd1ec0d9006c54bd7c9cf30fab43cf43"
+	},
+	"\/EWJ2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346740527",
+	  "size": "659",
+	  "md5": "5bba87400f0df19970550142c16138bc",
+	  "crc32": "f2fa02e1",
+	  "sha1": "a15b961cbd8a8d17b5fef728e08bf48c0da511a0"
+	},
+	"\/EarthwormJim2_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "df94d8642a4edace604fad0eda3dea387575fa43",
+	  "mtime": "1478126807",
+	  "size": "1949",
+	  "md5": "72be3b5958f7e3e12bbb520dfeab0d4d",
+	  "crc32": "cff76e0e",
+	  "sha1": "16a878275276effbfb5a1e049e78f61f37d31116",
+	  "format": "Archive BitTorrent"
+	},
+	"\/EarthwormJim2_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "289b390d33aecda0be4d467588adfc2b"
+	},
+	"\/EarthwormJim2_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1478126806",
+	  "size": "1479",
+	  "md5": "844581e3eba1d3a5a5eb96d84032c3f7",
+	  "crc32": "89b3dfcc",
+	  "sha1": "21cd718fb13bedbd269990fdecc15d55e9ff97fe"
+	},
+	"\/resource_item_1887.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346740529",
+	  "size": "13309",
+	  "md5": "c333d1244065523a77b92e3fcf898099",
+	  "crc32": "02b274d0",
+	  "sha1": "41d9443c568a16668f3938c19022ab5ba408fff8",
+	  "rotation": "0"
+	},
+	"\/resource_item_1887.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346740529",
+	  "size": "272",
+	  "md5": "c4508437de58bdd48610509e113b961e",
+	  "crc32": "69243f23",
+	  "sha1": "081037fab8249b8fef4398dcf4b0da7ce3518e2e"
+	},
+	"\/resource_item_1887_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1887.jpg",
+	  "mtime": "1346741291",
+	  "size": "4799",
+	  "md5": "9667302fb0d8fca08f1b5ac362bd4c53",
+	  "crc32": "2046ec7c",
+	  "sha1": "e5f04c68cfe72182f8266ea3f19e4e7f9903f03d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/3\/items\/EarthwormJim2_1020\/resource_item_1887_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3094,
+	"week": 8,
+	"month": 22
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/28/items/LegendsofValour_1020",
+  "metadata": {
+	"identifier": [
+	  "LegendsofValour_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Synthetic Dimensions"
+	],
+	"date": [
+	  "1992"
+	],
+	"description": [
+	  "Explore a 28-mile overworld town and an underground series of terrifying dungeons and labyrinths. Use the streamlined point-and-click interface to easily interact with hundreds of characters and monsters, with unique personalities. One-touch, icon-based combat is fast and furious Auto-mapping tracks every step you take. Choose from an unparalleled array of professions by joining any of nine guilds. Embark on over 45 exciting quests with multiple endings. Ultimately, restore a king to power, slay an evil demon -- and become the stuff of which legends are written!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Strategic Simulations"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "Legends of Valour Demo"
+	],
+	"year": [
+	  "1992"
+	],
+	"publicdate": [
+	  "2012-09-05 04:18:45"
+	],
+	"addeddate": [
+	  "2012-09-05 04:18:45"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475338715",
+	  "size": "368031",
+	  "md5": "213b04ce3a4c1aa750dd88788a811ba6",
+	  "crc32": "632e7bff",
+	  "sha1": "5bd0faadca3eeeb11b468f481e5185195db12ee8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475338758",
+	  "size": "4826",
+	  "md5": "28f84fb2e8c38f86f397aa7648050232",
+	  "crc32": "4b4f46a9",
+	  "sha1": "9c5473887ae926f8f694128ded6e62398fb5a2dd"
+	},
+	"\/LegendsofValour_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475338731",
+	  "size": "103225",
+	  "md5": "7ce944c2f02d2419d5e62aad9553bf73",
+	  "crc32": "06462134",
+	  "sha1": "f8a50e66fce68d778b9beeee816e8cc2fbf8158a",
+	  "format": "Animated GIF"
+	},
+	"\/LegendsofValour_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "0b8115fdcab0a05f0fae4d7be330704962a3a68d",
+	  "mtime": "1475338766",
+	  "size": "3539",
+	  "md5": "53ba44d1298576896dee7300c076c9e4",
+	  "crc32": "0f051aa0",
+	  "sha1": "748775011aac7efb62c684f5bce330c85e65c7f9",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LegendsofValour_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a7ce3d5c556c102cb60387ab85915aad"
+	},
+	"\/LegendsofValour_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475338739",
+	  "size": "9216",
+	  "md5": "865eb3082fc2ee19678f2f8901a5be4c",
+	  "crc32": "bcd7d50f",
+	  "sha1": "14764d8052fc809a757fe5282eaefa7ab1e48e97",
+	  "format": "Metadata"
+	},
+	"\/LegendsofValour_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471108228",
+	  "size": "1463",
+	  "md5": "a65c93db07cd1a23d09e16a70d5c5c07",
+	  "crc32": "d3e26a9d",
+	  "sha1": "4590a380c843606e56ea6220c71423b720513db0"
+	},
+	"\/VALOR.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346818731",
+	  "size": "588453",
+	  "md5": "156564c5234f346beac99a240bba454e",
+	  "crc32": "1cf3b075",
+	  "sha1": "4356ea545318e4a47dc3bd46bff1155151e5a158"
+	},
+	"\/VALOR.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346818732",
+	  "size": "1301",
+	  "md5": "b9668fbfdc56ec0abf2a160e8b8e1932",
+	  "crc32": "dee01375",
+	  "sha1": "17bb0dd780f9e735faaa821ba5e0e35821b309f0"
+	},
+	"\/VALOR_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475338736",
+	  "size": "293732",
+	  "md5": "331a22b99978c674000bb44557c24092",
+	  "crc32": "6b625125",
+	  "sha1": "88ec329a03e6bc1ab17b7639a7e0a4c4cf9b2d0d",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3096.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346823487",
+	  "size": "18950",
+	  "md5": "7abe5682095b952215145d75cd43ccb0",
+	  "crc32": "fd26d664",
+	  "sha1": "15e3a39d2b4a0a2cd3ed8e87089216c643acdbe2",
+	  "rotation": "0"
+	},
+	"\/resource_item_3096.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346823487",
+	  "size": "272",
+	  "md5": "6501de44e75ed1f005cbe1b522d2446f",
+	  "crc32": "7a9521ee",
+	  "sha1": "d155a21fea2b7ddddcbd2663960f37c436f06f76"
+	},
+	"\/resource_item_3096_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3096.jpg",
+	  "mtime": "1346836651",
+	  "size": "5701",
+	  "md5": "fa30d789a5c6942d542947e704ac7bc2",
+	  "crc32": "c4c6016c",
+	  "sha1": "edfcc71232f47ac7068fddaf34863afb6fed14e3"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475338720",
+	  "size": "368031",
+	  "md5": "213b04ce3a4c1aa750dd88788a811ba6",
+	  "crc32": "632e7bff",
+	  "sha1": "5bd0faadca3eeeb11b468f481e5185195db12ee8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475338762",
+	  "size": "4826",
+	  "md5": "28f84fb2e8c38f86f397aa7648050232",
+	  "crc32": "4b4f46a9",
+	  "sha1": "9c5473887ae926f8f694128ded6e62398fb5a2dd"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475338727",
+	  "size": "100474",
+	  "md5": "a3312ba05b0eb0b9550e93e5b4624d68",
+	  "crc32": "6eb45753",
+	  "sha1": "5af2d8890f29d0a644edf3ce02c06ff5bfb7a170",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475338764",
+	  "size": "3892",
+	  "md5": "91fb8069eae2a0b2d52ceb9515cf9c26",
+	  "crc32": "8d1d5bb8",
+	  "sha1": "6dd5cc4f6e6c362da9177bc637f08c758dfac380"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/28\/items\/LegendsofValour_1020\/LegendsofValour_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 296,
+	"week": 3,
+	"month": 6
+  }
+}

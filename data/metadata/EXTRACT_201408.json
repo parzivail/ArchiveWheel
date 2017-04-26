@@ -1,0 +1,129 @@
+{
+  "server": "ia902305.us.archive.org",
+  "dir": "/33/items/EXTRACT_201408",
+  "metadata": {
+	"identifier": [
+	  "EXTRACT_201408"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Millennium Interactive"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "The sequel to Diggers with Lemmings-like gameplay. It includes more levels, more tools, and more challenges. \u00a0There are 3 types of extractors, each with their own abilities: the digger, the strongest, and the teleporter."
+	],
+	"publisher": [
+	  "Nova Spring"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Diggers 2: Extractors Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-08-13 22:30:24"
+	],
+	"addeddate": [
+	  "2014-08-13 22:30:24"
+	],
+	"backup_location": [
+	  "ia905902_7"
+	],
+	"emulator_start": [
+	  "runextra.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/EXTRACT.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476466423",
+	  "size": "2838637",
+	  "md5": "16f3fa9b3cc8a6b18517416636c2b6ee",
+	  "crc32": "a167be87",
+	  "sha1": "8e281ac003a39b92e76d5350d0b8413cf92ce38f"
+	},
+	"\/EXTRACT_201408_archive.torrent": {
+	  "source": "original",
+	  "btih": "d21bf607164c6bd2d100cb6edafb2269ef2f8245",
+	  "mtime": "1476466528",
+	  "size": "2101",
+	  "md5": "53559baaef10f5bda4eea1aaf41089d0",
+	  "crc32": "2e2e69db",
+	  "sha1": "6185fc91bce2726d17a20f8d575d5ee43cd99365",
+	  "format": "Archive BitTorrent"
+	},
+	"\/EXTRACT_201408_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "587d9ea8821552464f1ca986cb39a10a"
+	},
+	"\/EXTRACT_201408_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1407969057",
+	  "size": "12288",
+	  "md5": "6bc5fd7dce76a3b4ee4455e1f0630a5b",
+	  "crc32": "e63daa77",
+	  "sha1": "bbc8ed12f181c8aaeb7a32a0be748fb70cb6d062"
+	},
+	"\/EXTRACT_201408_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476466527",
+	  "size": "1017",
+	  "md5": "e03e0ddf85885b8c378f2c06e6472db3",
+	  "crc32": "7ecd9a29",
+	  "sha1": "688d8028c7395b7fa63d09bf6b77ca54d39b853a"
+	},
+	"\/extract.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1407969039",
+	  "size": "12813",
+	  "md5": "3094182ae022e9df5335ece614efcdb6",
+	  "crc32": "3c957fa8",
+	  "sha1": "00888609ae799185322b2379c3f11d996adc34eb"
+	},
+	"\/extract_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "extract.png",
+	  "mtime": "1407969068",
+	  "size": "6310",
+	  "md5": "39a55c74b718a1e8806aa1abb9be6c49",
+	  "crc32": "cc2b1f72",
+	  "sha1": "37b017e918c25c9fa10c0696f9851243a75491c0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902305.us.archive.org\/33\/items\/EXTRACT_201408\/extract_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 214,
+	"week": 3,
+	"month": 6
+  }
+}

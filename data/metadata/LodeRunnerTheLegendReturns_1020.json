@@ -1,0 +1,209 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/26/items/LodeRunnerTheLegendReturns_1020",
+  "metadata": {
+	"identifier": [
+	  "LodeRunnerTheLegendReturns_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Presage Software"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "The ultra-addictive arcade action game form the 80s is back and better than ever. Imagine, you're Jake Peril, the ultimate bounty hunter and all-around hero type, racing underground through the Evil Empire to regain the stolen treasures of the world. If you do the job right, you'll be rich and famous - if not, you'll be ripped to bits by the deadly Mad Monks. Zap traps for these masters of murder and mayhem with your trusty laser pistol, or foil them with transporters, gas, ooze, even bombs! Dodge, scramble and psych yourself to victory through 150 all-new levels. Design your own devious new levels with the fast and versatile Game Generator. Pop open the palette of powerful tools, then put everything - background, enemies, treasure, ladders - in place. Presto. Your own sequel!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Lode Runner: The Legend Returns Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 04:58:48"
+	],
+	"addeddate": [
+	  "2012-09-05 04:58:48"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	],
+	"emulator_start": [
+	  "d:\\runapp LODERUNN.EXE"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475344821",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475344855",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/LodeRunnerTheLegendReturns_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475344831",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/LodeRunnerTheLegendReturns_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d2854384e072ada969d93d85b7748fe5099d31f3",
+	  "mtime": "1475344859",
+	  "size": "3331",
+	  "md5": "c3375538169f3d37c154e3f0060becbf",
+	  "crc32": "f196c041",
+	  "sha1": "2a310bc2911018581fc6916175e53035bb3a3c9e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LodeRunnerTheLegendReturns_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "eeb439f84eb85b0f897269fda9bfe917"
+	},
+	"\/LodeRunnerTheLegendReturns_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475344841",
+	  "size": "8192",
+	  "format": "Metadata",
+	  "md5": "d4dd8b199a285fcd1c98d81c0cb6a739",
+	  "crc32": "9329a85b",
+	  "sha1": "69e1533f95a92ae2fe4c0b72703df37e91d8925d"
+	},
+	"\/LodeRunnerTheLegendReturns_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463523473",
+	  "size": "1769",
+	  "md5": "9d5835c16f23894f5c192814684c1021",
+	  "crc32": "90d2bc66",
+	  "sha1": "cb6faf6b36c57e24798e82ed91c2a24d23d12372"
+	},
+	"\/loderunner.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346821148",
+	  "size": "2027719",
+	  "md5": "e7cde4970fb8649e9a2de8bc52f8ff6c",
+	  "crc32": "e98633a0",
+	  "sha1": "7037950619480e64b2d8d0b00d8cf8677c7a2197"
+	},
+	"\/loderunner.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821148",
+	  "size": "1522",
+	  "md5": "9ffd3eb4574d15dec79bc6e8200a6f68",
+	  "crc32": "0a2518c3",
+	  "sha1": "44afae6da2e6ee650cd997083c360e7ce28caa02"
+	},
+	"\/loderunner_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475344837",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3134.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346821150",
+	  "size": "17671",
+	  "md5": "ca41ad480d4e48e03cff2a2352b50a5d",
+	  "crc32": "f5ba5d60",
+	  "sha1": "98642affa1ffe98d98a4cc66896b91a20fcd01af",
+	  "rotation": "0"
+	},
+	"\/resource_item_3134.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346821150",
+	  "size": "272",
+	  "md5": "1f3734c59fd06326a270311ff0e155d2",
+	  "crc32": "70a29a45",
+	  "sha1": "77bc77266071192dd883a81f18b8cbf23a9b1cdf"
+	},
+	"\/resource_item_3134_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3134.jpg",
+	  "mtime": "1346833207",
+	  "size": "5544",
+	  "md5": "df8d50b060f49275992ccd1f6270e6d2",
+	  "crc32": "54870545",
+	  "sha1": "29b31df7a66d4db4ac8e923c0cebbd55869dc421"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475344824",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475344856",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/26\/items\/LodeRunnerTheLegendReturns_1020\/LodeRunnerTheLegendReturns_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4834,
+	"week": 5,
+	"month": 15
+  }
+}

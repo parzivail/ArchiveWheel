@@ -1,0 +1,123 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/29/items/MDK_1020",
+  "metadata": {
+	"identifier": [
+	  "MDK_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Shiny Entertainment"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Playmates Interactive Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "MDK Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 05:53:46"
+	],
+	"addeddate": [
+	  "2012-09-04 05:53:46"
+	],
+	"year": [
+	  "1997"
+	],
+	"description": [
+	  "\"ON A GOOD DAY,<br \/>\nONLY 2.5 BILLION PEOPLE<br \/>\nWILL DIE...\n\nYour planet is being bulldozed by the ton. Six massive mobile cities, controlled by a force that nobody can stop, are strip mining the Earth's surface, overrunning and crushing anything that suffers the misfortune of being in their path. Unless you can stop them... \n\n* The included setup program will install both DOS and Windows 95 versions of MDK.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233743[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/MDK.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346738178",
+	  "size": "15551824",
+	  "md5": "bbbf2046ea541e14439d611319761b77",
+	  "crc32": "00900f45",
+	  "sha1": "8e6ed89ab73343dde1dcd82a07060fa461791781"
+	},
+	"\/MDK.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738179",
+	  "size": "673",
+	  "md5": "cc3ccd5834576dc7dacf1f0bfec0e2c1",
+	  "crc32": "abe135b7",
+	  "sha1": "dd7fe55c4067daffd93d894e9b3cacbc7a7dbcb5"
+	},
+	"\/MDK_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "667f240f7927c37aa2d537c1a201e1ce"
+	},
+	"\/MDK_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465362238",
+	  "size": "1222",
+	  "md5": "03873a8b535c3173600d36a3ba97f9bb",
+	  "crc32": "d3d7d65a",
+	  "sha1": "11f4b990e2c581e524fdc2224f71127dc2f67b9c"
+	},
+	"\/resource_item_1876.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346738181",
+	  "size": "12622",
+	  "md5": "44ea00640a326e8482af90c5b5cd2368",
+	  "crc32": "25b1f520",
+	  "sha1": "2a82154f10cb7c558344d1396d4a4860ce08f32c",
+	  "rotation": "0"
+	},
+	"\/resource_item_1876.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346738181",
+	  "size": "272",
+	  "md5": "44264ac1aaa5f32b141f062a6637394f",
+	  "crc32": "1f62d997",
+	  "sha1": "84b0dfbaa9de762dc4d49c3a9a50ef2cfd197d69"
+	},
+	"\/resource_item_1876_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1876.jpg",
+	  "mtime": "1346738892",
+	  "size": "4457",
+	  "md5": "3d6cc67011f223aec40a084347cc933e",
+	  "crc32": "2eac0929",
+	  "sha1": "812021c35ee057f7736735afa4a736187a319a49"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/29\/items\/MDK_1020\/resource_item_1876_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1591,
+	"week": 8,
+	"month": 33
+  }
+}

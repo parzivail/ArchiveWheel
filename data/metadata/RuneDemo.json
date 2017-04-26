@@ -1,0 +1,113 @@
+{
+  "server": "ia902704.us.archive.org",
+  "dir": "/16/items/RuneDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Rune Demo"
+	],
+	"description": [
+	  "In RUNE, players assume the role of Ragnar the Viking, mightiest warrior of a bygone age. In an age when might makes right, it is Ragnar who doles out justice on the blade of his massive battle-axe. RUNE is a third-person perspective game of intense action and adventure steeped in a blend of Norse mythology and high fantasy."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Human Head Studios"
+	],
+	"identifier": [
+	  "RuneDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 22:23:51"
+	],
+	"publicdate": [
+	  "2012-05-13 22:24:23"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Gathering of Developers"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/RuneDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336947721",
+	  "size": "90741739",
+	  "md5": "1eba06dfa8998e2a5d670fdfe19264ba",
+	  "crc32": "4a7a0dcf",
+	  "sha1": "9c33c32fc10549748a45ba1465dd6aa4bb44ba94",
+	  "title": "Rune Demo"
+	},
+	"\/RuneDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336947722",
+	  "size": "65573",
+	  "md5": "604b40f85a454e6f6e51223195ab9a55",
+	  "crc32": "4676f91c",
+	  "sha1": "69ed3559922bc3ccc4a2d9cffa3fb69bec436cc8",
+	  "rotation": "0"
+	},
+	"\/RuneDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "15f57ea4c6800d0e24b7ab7b78480d1657811cf0",
+	  "mtime": "1464169501",
+	  "size": "5236",
+	  "md5": "45821689cb1d56603203a809461a8d77",
+	  "crc32": "1e1b5bf3",
+	  "sha1": "8a15de9bf21c8fe364725daed5490777dd67b129",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RuneDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "84eb0f1d62a4d13a4e1b734b59b5c4d4"
+	},
+	"\/RuneDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464169500",
+	  "size": "1087",
+	  "md5": "46b007ad05781a69bcf73df78f764fc0",
+	  "crc32": "4ee1a395",
+	  "sha1": "fa9156341b000e20cd95e13da39ada90c2c2a3ca"
+	},
+	"\/RuneDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "RuneDemo.jpg",
+	  "mtime": "1336947858",
+	  "size": "4524",
+	  "md5": "8e4bf88ed3e640c7256e70a04352fc8a",
+	  "crc32": "7930f028",
+	  "sha1": "a77822c9e43be050dae7fd2474137ad8e881b6e2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902704.us.archive.org\/16\/items\/RuneDemo\/RuneDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3040,
+	"week": 16,
+	"month": 45
+  }
+}

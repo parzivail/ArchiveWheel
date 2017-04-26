@@ -1,0 +1,135 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/19/items/Scorcher_1020",
+  "metadata": {
+	"identifier": [
+	  "Scorcher_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Scavenger"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GT Interactive"
+	],
+	"subject": [
+	  "DOS games; Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Scorcher Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 17:23:50"
+	],
+	"addeddate": [
+	  "2012-09-04 17:23:50"
+	],
+	"description": [
+	  "\"THE FASTEST,\nENTER THE UNDERWORLD OF NYC, where fierce clans of warriors\n\nMOST TECHNICALLY\nundergo deadly surgical procedures, turning themselves into half machines called Vexoids.\n\nADVANCED\nScreaming through a white-knuckled world of shadows and danger.\n\nRACING\nyou must pit your racing skills against a pack of high speed\n\nACTION\nrivals in a race to the death!\n\nEVER!\""
+	],
+	"notes": [
+	  "This installer includes a DOS and Windows executable for the game.  However, the installer is strictly Windows."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234607[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/SCORCHER.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346779486",
+	  "size": "5699211",
+	  "md5": "44097e829b53dd8744c7d06b9d874b5a",
+	  "crc32": "028dd9b6",
+	  "sha1": "2ef6c18f62eec76aaaa2e344853ceea83c05ff8b"
+	},
+	"\/SCORCHER.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346779486",
+	  "size": "676",
+	  "md5": "be0d65a63d923ebc2f31212df1f14525",
+	  "crc32": "31f9e9bb",
+	  "sha1": "55aec36dd117d5e1e8fa10f0cdf5c509c07e0b35"
+	},
+	"\/Scorcher_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "41afbf634205f11e670b703a40f22261"
+	},
+	"\/Scorcher_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466045606",
+	  "size": "1288",
+	  "md5": "14784ecbd019faac9bab34be044fcdf4",
+	  "crc32": "d670dcb6",
+	  "sha1": "cbf24fd8bbd5c251930ef0527b1bf4073fce6216"
+	},
+	"\/dos_scor.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385714651",
+	  "size": "4193383",
+	  "md5": "49cc4b27b7477bf2619d3da81f55f3c7",
+	  "crc32": "08b247a8",
+	  "sha1": "d34f6806b274845acf5a7e972109a05119ab10b7"
+	},
+	"\/resource_item_2316.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346779488",
+	  "size": "14329",
+	  "md5": "04a3f246db3a1def9c7c0c03f203d0f7",
+	  "crc32": "7c0f5878",
+	  "sha1": "8f4d61b832282ef9148c571cfab61b7ee8ea2fd2",
+	  "rotation": "0"
+	},
+	"\/resource_item_2316.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346779488",
+	  "size": "272",
+	  "md5": "362e916737ef97ccc8263646cd3111ce",
+	  "crc32": "24a856e7",
+	  "sha1": "e40d46d29d146e38147155f401491f7ff57bf14d"
+	},
+	"\/resource_item_2316_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2316.jpg",
+	  "mtime": "1346817823",
+	  "size": "4754",
+	  "md5": "8d821cf50feab55ac7b7e3e6f6acb8f4",
+	  "crc32": "6acf6d3a",
+	  "sha1": "63d9f13d33ec986d34d4255462b76c0fbaa5bea4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/19\/items\/Scorcher_1020\/resource_item_2316_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 393,
+	"week": 7,
+	"month": 18
+  }
+}

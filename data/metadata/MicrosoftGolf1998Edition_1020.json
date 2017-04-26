@@ -1,0 +1,160 @@
+{
+  "server": "ia800808.us.archive.org",
+  "dir": "/32/items/MicrosoftGolf1998Edition_1020",
+  "metadata": {
+	"identifier": [
+	  "MicrosoftGolf1998Edition_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Friendly Software"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Microsoft Golf 1998 Edition, the newest version of the best-selling golf game for Windows, offers the most enjoyable and true-to-life golf experience available for the PC. Fluid and realistic game graphics, beautifully rendered courses, and accurate ball physics recreate the feel of a real round of golf. Microsoft Golf 1998 Edition features three of North America's best-known and most-challenging courses, including Teeth of the Dog and the Links at Casa de Campo Resort in the Dominican Republic and Bay Harbor on the shores of Lake Michigan. Game-play options include Match Play, Best Ball, Skins, Bingo-Bango-Bongo, Scramble and more. Each course offers 3-D fly-throughs with expert commentary. Microsoft Golf 1998 Edition will be fully multiplayer-capable via the Microsoft Internet Gaming Zone so Internet players can partner or compete against others of similar skill levels at no additional charge."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Microsoft Golf 1998 Edition Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2012-09-04 18:40:13"
+	],
+	"addeddate": [
+	  "2012-09-04 18:40:13"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 2,
+	  "avg_rating": "5.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "This game doesn't work with newer operating systems like Windows 8, 8.1. This game need MSVBVM50.DLL, but after run GAME.EXE I get an error message: \"Run-time error '53 - File not found\".",
+		"reviewtitle": "Doesn't work with newer operating systems",
+		"reviewer": "ash0815",
+		"reviewdate": "2015-07-30 12:51:33"
+	  },
+	  {
+		"reviewbody": "Good game. Do you have The Cruncher 2.0? If so can you upload it? It seems to be a rare game. ",
+		"reviewtitle": "Review",
+		"reviewer": "Timtube",
+		"reviewdate": "2016-07-12 17:58:17",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/MSGOLF98.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346784181",
+	  "size": "17442643",
+	  "md5": "565ef414776a20921bfc44edb9aecdea",
+	  "crc32": "21f976d5",
+	  "sha1": "482e87c8caa4a8f35a77422273cb5bfe87a21434"
+	},
+	"\/MSGOLF98.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346784181",
+	  "size": "1638",
+	  "md5": "94302dd729778f6b1d09407d436a4806",
+	  "crc32": "7bced810",
+	  "sha1": "3f36790add33e28757ca1067764d0080adcbcc06"
+	},
+	"\/MicrosoftGolf1998Edition_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b3bceae4e394f94d3de64b155560c509041fc7f3",
+	  "mtime": "1477271204",
+	  "size": "2625",
+	  "md5": "27c2f1d5b5690b02a4a1d9231f20afde",
+	  "crc32": "55b24372",
+	  "sha1": "c91af69e7ccc0aaa4005c65e7204e2f18a830b10",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MicrosoftGolf1998Edition_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6ae3d91f699ec5155ad18de46ced61fd"
+	},
+	"\/MicrosoftGolf1998Edition_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1477271203",
+	  "size": "1696",
+	  "md5": "7cbc14ab5738b927778e518a68d135e2",
+	  "crc32": "fc9f371a",
+	  "sha1": "768e6c3ae44ccd8dd6cc3b71e28fa464d1ebd5ca"
+	},
+	"\/MicrosoftGolf1998Edition_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1468346299",
+	  "size": "995",
+	  "format": "Metadata",
+	  "md5": "a6382c82dfe1627181e44502d61c5a25",
+	  "crc32": "e78ae0d4",
+	  "sha1": "6302f3a7a6633bdef92f39b6b6e0145073b9e756"
+	},
+	"\/resource_item_2454.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346784183",
+	  "size": "14957",
+	  "md5": "8dcc667ab94df9e1efdba02bbbb04a1c",
+	  "crc32": "dc173443",
+	  "sha1": "6c22b83693149ecee3a0f16bef32d67d0e10d729",
+	  "rotation": "0"
+	},
+	"\/resource_item_2454.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346784183",
+	  "size": "272",
+	  "md5": "6b169f53aec9aaf514deb51fe872c649",
+	  "crc32": "b10235f5",
+	  "sha1": "f8a630fdde39603682b170da015411e2c84b0501"
+	},
+	"\/resource_item_2454_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2454.jpg",
+	  "mtime": "1346818003",
+	  "size": "4666",
+	  "md5": "0fe42d9daa393fff1aec6c8fa3a264b0",
+	  "crc32": "2506d58a",
+	  "sha1": "59d11da1b5beafedf9ed175ed0ea568bd6a013d1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800808.us.archive.org\/32\/items\/MicrosoftGolf1998Edition_1020\/resource_item_2454_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 35114,
+	"week": 228,
+	"month": 802
+  }
+}

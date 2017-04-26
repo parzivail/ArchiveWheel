@@ -1,0 +1,199 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/31/items/Lemmings_1020",
+  "metadata": {
+	"identifier": [
+	  "Lemmings_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "DMA Design"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Psygnosis"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Lemmings Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:04:57"
+	],
+	"addeddate": [
+	  "2012-09-04 04:04:57"
+	],
+	"year": [
+	  "1991"
+	],
+	"description": [
+	  "\"A UNIQUE MIND-BOGGLING GAME OF MULTIPLE SKILL LEVELS\n\n\nTake command of the wackiest collection of misdirected rodents ever seen on your screen\n\nHelp guide these clueless green-haired critters on their romp through 120 levels of intellectually challenging gameplay. Building, bashing, digging, floating, mining, climbing, and exploding their way across the screen.\n\nYou take the Lemmings through their perilous journey to the exit and onto the next level. Winner of over 120 international awards, Lemmings brings hours of fun for people of all ages and features full sound board support.\n\nHIGHLIGHTS:\n\nNon-violent, puzzle oriented, intellectual game play that's fun for players of all ages.\n\nMarketing activities that capitalize on the world wide recognition of the Lemmings game characters.\n\nLemmings is a winner of over 20 national and international awards \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233718[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "LEMMINGS\/lemmings vga"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444848042",
+	  "size": "143043",
+	  "md5": "39b88a8f85948d66940916c784de2a65",
+	  "crc32": "17067e8e",
+	  "sha1": "a9c77641ff8dd316b7c202cd427ab13ae487a1a5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444848069",
+	  "size": "5398",
+	  "md5": "24d0c0547ef540e11f446d3069d8b9c0",
+	  "crc32": "ed4fc7c6",
+	  "sha1": "a6c540c65ddcd5f596bf792756ae939ce35cc096"
+	},
+	"\/Lemmings_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444848048",
+	  "size": "17465",
+	  "md5": "067db708092ed832a1a4dabb9edd50b2",
+	  "crc32": "2a1d57d7",
+	  "sha1": "d849d20b3825ec0f9acd9b5fd934432b3ebdf20d",
+	  "format": "Animated GIF"
+	},
+	"\/Lemmings_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b582ab3095838fde00280c40ffb2602d"
+	},
+	"\/Lemmings_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444848057",
+	  "size": "9216",
+	  "md5": "f01117a8a8e00236799a064de22845b2",
+	  "crc32": "705ba251",
+	  "sha1": "27dee29f0ac2e5dc9d16ad9bb8a767ce966cf8a2",
+	  "format": "Metadata"
+	},
+	"\/Lemmings_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462832876",
+	  "size": "1751",
+	  "md5": "b7293b652d8c0176cd8db763dacee00f",
+	  "crc32": "8c9c6279",
+	  "sha1": "70eef164100014252ba5f17e579570f59d5f315a"
+	},
+	"\/lemmings.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731503",
+	  "size": "312799",
+	  "md5": "12a0f23dc7f9bffe060207686cf1a33d",
+	  "crc32": "95b1c791",
+	  "sha1": "d75b92809058f8ec82d4fb342cd6ce401c908dc8"
+	},
+	"\/lemmings.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731503",
+	  "size": "641",
+	  "md5": "03588b0352106738441f287d4aa1e13d",
+	  "crc32": "4975938e",
+	  "sha1": "431cc47c17d12aac5313f9d5c17b6de561699da8"
+	},
+	"\/lemmings_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444848051",
+	  "size": "36769",
+	  "md5": "83377b90980fd2b07fdeb875f45b17ba",
+	  "crc32": "9bb6b0fc",
+	  "sha1": "bf382d476d9ee32c642d1c6129c6413391608c1b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1532.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731669",
+	  "size": "21584",
+	  "md5": "56b0a5cf496e86f78e0b2306bbdccb4b",
+	  "crc32": "08afeff3",
+	  "sha1": "7624ef3674222b319d1ffc124b883ce28d5d8a51",
+	  "rotation": "0"
+	},
+	"\/resource_item_1532.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731669",
+	  "size": "272",
+	  "md5": "a7d40d99dc19237b451029261704aede",
+	  "crc32": "ebc2130e",
+	  "sha1": "b2b80ee762efcd9214c92bc901024f7cb5011baa"
+	},
+	"\/resource_item_1532_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1532.jpg",
+	  "mtime": "1346733071",
+	  "size": "5768",
+	  "md5": "d3c122b70cda40ae04d63e165da44d87",
+	  "crc32": "54cfdde4",
+	  "sha1": "1c6151a6dd583cb41e16cc5e96de9d76d291aee9"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444848045",
+	  "size": "143043",
+	  "md5": "39b88a8f85948d66940916c784de2a65",
+	  "crc32": "17067e8e",
+	  "sha1": "a9c77641ff8dd316b7c202cd427ab13ae487a1a5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444848070",
+	  "size": "5398",
+	  "md5": "24d0c0547ef540e11f446d3069d8b9c0",
+	  "crc32": "ed4fc7c6",
+	  "sha1": "a6c540c65ddcd5f596bf792756ae939ce35cc096"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/31\/items\/Lemmings_1020\/Lemmings_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3898,
+	"week": 10,
+	"month": 22
+  }
+}

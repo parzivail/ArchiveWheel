@@ -1,0 +1,208 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/7/items/GobliiinsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Gobliiins Demo"
+	],
+	"description": [
+	  "\"Can you help the good king regain his sanity before you lose yours forever? Your mission is to track down the dark force that's gleefully abusing the good king's voodoo doll. Find 'em, stop 'em, and usher in an era of peace and prosperity. Simple, huh?\n\nWRONG!\n\nGobliiins is a warped and wonderful quest, filled with level after level of truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with special skills.\n<p>\nHooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together, well, they're still no match for the dark force. That's where you come in.\n\nBe prepared! Gobliiins is brain gobbling game goodness for true warriors of the warped! This is an adventure for imps not wimps! \"<\/p>"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Coktel Vision"
+	],
+	"identifier": [
+	  "GobliiinsDemo"
+	],
+	"addeddate": [
+	  "2012-07-08 19:29:10"
+	],
+	"publicdate": [
+	  "2012-07-08 19:29:25"
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_21"
+	],
+	"emulator_start": [
+	  "go.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475279382",
+	  "size": "103400",
+	  "md5": "b7bde3d5c6c5a2fe8e1f2a4f760ba91c",
+	  "crc32": "49b05c74",
+	  "sha1": "e9c4b36c29aa9782297007f54d0b87f62c7277fd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475279415",
+	  "size": "4537",
+	  "md5": "0a93f9c0431dc13c327f6320b2cc79a8",
+	  "crc32": "cef104a0",
+	  "sha1": "df7201a1072f059b18167ddac2d53df6243b87d0"
+	},
+	"\/GobliiinsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475279400",
+	  "size": "12854",
+	  "md5": "a0061b1d8a72b64d7baa7549f9071a93",
+	  "crc32": "5e76efbf",
+	  "sha1": "e6332736bfdd6ced83881ec6b5a98c8806a5f452",
+	  "format": "Animated GIF"
+	},
+	"\/GobliiinsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "bd7b28b2c527237d53376b460e93efbe45472e28",
+	  "mtime": "1475279423",
+	  "size": "3446",
+	  "md5": "4a036aa116160f44d56e54a1897df3a9",
+	  "crc32": "501aecf3",
+	  "sha1": "7cac6a6e9184a5779cd7a78d536a1b4c044c20a3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GobliiinsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "bec13b22671eb156f0f459faf3dd6d16"
+	},
+	"\/GobliiinsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475279410",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "1004e1a90e029cb7a0519bdeb454fd2a",
+	  "crc32": "f6422b9e",
+	  "sha1": "b47de6c758b356dc8a3f1aad6af12645d963d30c"
+	},
+	"\/GobliiinsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471105002",
+	  "size": "1710",
+	  "md5": "a54213da560aacf1f45127735735e1bd",
+	  "crc32": "12ab2679",
+	  "sha1": "f8b34ef61cb49ad866676c23d6b5ebee14fca180"
+	},
+	"\/goblin.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471104955",
+	  "size": "788707",
+	  "md5": "e558fe23d598365894d871cd3c406ee0",
+	  "crc32": "e103a13b",
+	  "sha1": "1d799d6a778d10625d9d450ed7aaabc81aed23e3"
+	},
+	"\/goblin_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475279408",
+	  "size": "40141",
+	  "md5": "8359918c647500c9f9add0fb5b0bac6f",
+	  "crc32": "a739c453",
+	  "sha1": "56f2a5ef2f525f1c8d26fd8867e8ddb02bf6a0d2",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_219.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341775668",
+	  "size": "21812",
+	  "md5": "d605789d2f20e418037c3ac70718584b",
+	  "crc32": "dd950679",
+	  "sha1": "df8a1ee332c5de89939d468cfbff01038e46dc3e",
+	  "rotation": "0"
+	},
+	"\/resource_item_219_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_219.jpg",
+	  "mtime": "1341775759",
+	  "size": "6392",
+	  "md5": "350942832d76743a97010a740b75b731",
+	  "crc32": "5aa4cd58",
+	  "sha1": "8dd9881838f4a7cc415daaf00c03f44b9497a999"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475279386",
+	  "size": "103400",
+	  "md5": "b7bde3d5c6c5a2fe8e1f2a4f760ba91c",
+	  "crc32": "49b05c74",
+	  "sha1": "e9c4b36c29aa9782297007f54d0b87f62c7277fd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475279417",
+	  "size": "4537",
+	  "md5": "0a93f9c0431dc13c327f6320b2cc79a8",
+	  "crc32": "cef104a0",
+	  "sha1": "df7201a1072f059b18167ddac2d53df6243b87d0"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475279390",
+	  "size": "103375",
+	  "md5": "621665996f94ee2c141fd0361d441c5b",
+	  "crc32": "5d4e411a",
+	  "sha1": "8c03653bfc4a1abd12e24340e640ffe2fc1e5eb8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475279418",
+	  "size": "4532",
+	  "md5": "bc29d86b61a0fffbf8523bd128737352",
+	  "crc32": "12dcec7b",
+	  "sha1": "ebe128bb5f6aa824e533cab29f4a05654b9110ac"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/7\/items\/GobliiinsDemo\/GobliiinsDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 411,
+	"week": 4,
+	"month": 5
+  }
+}

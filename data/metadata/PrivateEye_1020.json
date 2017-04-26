@@ -1,0 +1,130 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/16/items/PrivateEye_1020",
+  "metadata": {
+	"identifier": [
+	  "PrivateEye_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Brooklyn Multimedia"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Simon & Schuster Interactive"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Private Eye Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2012-09-04 16:17:35"
+	],
+	"addeddate": [
+	  "2012-09-04 16:17:35"
+	],
+	"description": [
+	  "\"Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye!\n\nAll other private eye games are imitations. This is the real thing. The first interactive murder mystery based on Raymond Chandler's legendary detective.\n\nThis game is fully-interactive, richly designed CD-ROM in the film noir tradition.\n\nMeet starlets, confront a manic mobster, search Hollywood for clues you can take. Hundreds of interactive decisions are yours!\n\nIt all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder!\n\nFind out who is guilty before the bad guys or the cops get you. If you don't solve the crime, no one will!\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/PVT_DEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346775586",
+	  "size": "13623727",
+	  "md5": "d667f5252d14d8c59e7f0f8ae52261f5",
+	  "crc32": "013b8263",
+	  "sha1": "8630491494fcf8fc95070772bea9ab42192aa674"
+	},
+	"\/PVT_DEMO.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775586",
+	  "size": "707",
+	  "md5": "7a392a3653509172f4aeb9e2e2d0fd73",
+	  "crc32": "2d337597",
+	  "sha1": "cae51b2657d7af5ed876e593dbf1bfbc1fbf1e44"
+	},
+	"\/PrivateEye_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "248c375d918b9e073e2ab5d49c59930b4497c450",
+	  "mtime": "1465952183",
+	  "size": "2373",
+	  "md5": "c30c20d42c60b2a7601af80daf35e9d6",
+	  "crc32": "a7cb810b",
+	  "sha1": "aa6263d941324a8796f2bc1dad37508a6ac9099d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PrivateEye_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6484380ea740f82543ea2b8963b8bc85"
+	},
+	"\/PrivateEye_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465952182",
+	  "size": "1557",
+	  "md5": "cf4d46bf4f466d0d798eefc129e047ec",
+	  "crc32": "b08b90ed",
+	  "sha1": "b6077cc6f8a2eccc047f67f1d41426ce3227b019"
+	},
+	"\/resource_item_2306.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346775588",
+	  "size": "14631",
+	  "md5": "0916df76bdcdb34e4dd43ec6f8c6f27f",
+	  "crc32": "d2fc652d",
+	  "sha1": "f229678f1f3fcd0a2063ab05a4592ab3f9cb2d48",
+	  "rotation": "0"
+	},
+	"\/resource_item_2306.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346775588",
+	  "size": "272",
+	  "md5": "664e587ffdbac00fd0d74941da7534f6",
+	  "crc32": "eaaa00e5",
+	  "sha1": "05428f9a959c96dec507544b81a5296e78909d1c"
+	},
+	"\/resource_item_2306_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2306.jpg",
+	  "mtime": "1346777242",
+	  "size": "5584",
+	  "md5": "81cb699f1e13a80495a80d0b90cf8e1b",
+	  "crc32": "af6645fc",
+	  "sha1": "bdd479f0f7aa6fb118cafa8703e109b8d39428df"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/16\/items\/PrivateEye_1020\/resource_item_2306_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 232,
+	"week": 3,
+	"month": 4
+  }
+}

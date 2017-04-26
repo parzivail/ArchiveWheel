@@ -1,0 +1,113 @@
+{
+  "server": "ia800304.us.archive.org",
+  "dir": "/2/items/SegaRally2Championship",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Sega Rally 2 Championship Demo"
+	],
+	"description": [
+	  "Sega Rally 2 is set to roar onto the PC before the end of this year. Although the original 'Sega Rally failed to set the PC racing world on fire, it was a phenomenal success on Sega's Saturn games console. Following the Saturn's demise, Sega has returned to the console marketplace with the impressive new 128-bit Dreamcast system. Rally 2 on the Dreamcast is, quite simply, a stunning title, but nobody really expected the PC version of the game to touch it. It came as some surprise to receive a virtually complete PC version of Rally 2 which was just as good, if not better, than the current Dreamcast game.'"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Racing games"
+	],
+	"creator": [
+	  "Sega"
+	],
+	"identifier": [
+	  "SegaRally2Championship"
+	],
+	"addeddate": [
+	  "2012-05-13 20:55:41"
+	],
+	"publicdate": [
+	  "2012-05-13 20:56:00"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"publisher": [
+	  "Empire Interactive Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/RALLY2DEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336942493",
+	  "size": "49459712",
+	  "md5": "4e7d3a00a51239bb60b0f2563e40561c",
+	  "crc32": "a0ee9052",
+	  "sha1": "b8a6fcee0469d4c1e59b6be764487110b477fa77",
+	  "title": "Sega Rally 2 Championship Demo"
+	},
+	"\/RALLY2DEMO.JPG": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336942494",
+	  "size": "61455",
+	  "md5": "afa23ffac23363218bd7841d71de452a",
+	  "crc32": "04d70b86",
+	  "sha1": "282c7bb940aeb33ae0407a7c423855d33175dc84",
+	  "rotation": "0"
+	},
+	"\/RALLY2DEMO_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "RALLY2DEMO.JPG",
+	  "mtime": "1336942555",
+	  "size": "5357",
+	  "md5": "c1864870d0186e47aa753d9269224076",
+	  "crc32": "202d5721",
+	  "sha1": "043fab973f0b27695b3272a4cf5fcbe71e1fab7f"
+	},
+	"\/SegaRally2Championship_archive.torrent": {
+	  "source": "original",
+	  "btih": "04f34ce4689b03386df7226bd477bdc5387691a6",
+	  "mtime": "1464242064",
+	  "size": "3774",
+	  "md5": "92a5964a9b283ee6039830cb9410aa24",
+	  "crc32": "4323974d",
+	  "sha1": "083ec531707a394ce44a664428f93d0c92137379",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SegaRally2Championship_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2a7ebeb3fd79fbaeb68b65aeca1672c3"
+	},
+	"\/SegaRally2Championship_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464242062",
+	  "size": "1401",
+	  "md5": "34a4feab4584fb99a348ed0ac7eafe74",
+	  "crc32": "73b68ef1",
+	  "sha1": "af6bf4edb9a7c29a3badd894f6dc39d56102a7d5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800304.us.archive.org\/2\/items\/SegaRally2Championship\/RALLY2DEMO_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 23936,
+	"week": 184,
+	"month": 588
+  }
+}

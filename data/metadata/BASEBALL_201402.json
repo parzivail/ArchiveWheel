@@ -1,0 +1,116 @@
+{
+  "server": "ia800309.us.archive.org",
+  "dir": "/3/items/BASEBALL_201402",
+  "metadata": {
+	"identifier": [
+	  "BASEBALL_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Wizbang! Software Productions"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>This trial version of Microsoft 3D Baseball 98 is a two-inning day game played on Coors Field, between the National League All Stars and the American League All Stars. You'll have access to the box score during and after the game, both basic and advanced batting modes, and the option to use all performance and game setting options.<\/div>"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Microsoft Baseball 3D Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-07 01:30:44"
+	],
+	"addeddate": [
+	  "2014-02-07 01:30:44"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234308[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_32"
+	]
+  },
+  "files": {
+	"\/BASEBALL.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391736675",
+	  "size": "16505936",
+	  "md5": "c353b068835dd98ce1d89b7f7f92a948",
+	  "crc32": "ae8fbb92",
+	  "sha1": "adf4f9f2f6aacc0539320b6f11ba5c194b8e8cf3"
+	},
+	"\/BASEBALL_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7d8aec6e538967207a24f41e873faf2b"
+	},
+	"\/BASEBALL_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391736682",
+	  "size": "14336",
+	  "md5": "02fca252d8b2d0d825321941d31da59f",
+	  "crc32": "41825f2d",
+	  "sha1": "e7ca63f71777a5b386a2d519c69c9837f11dec30"
+	},
+	"\/BASEBALL_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475684382",
+	  "size": "1223",
+	  "md5": "b94c7c80b6e9d9b7345176a1198b0a7f",
+	  "crc32": "6eff9e23",
+	  "sha1": "d77a0a55346d0fed2239cc3e9bf32ac85f16e768"
+	},
+	"\/baseball.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391736644",
+	  "size": "79807",
+	  "md5": "02f78bd019949d91599922fc56eef606",
+	  "crc32": "a5943285",
+	  "sha1": "fc8583b8a5740293e9e34311fe493cc030cf222c"
+	},
+	"\/baseball_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "baseball.PNG",
+	  "mtime": "1391736688",
+	  "size": "5882",
+	  "md5": "df7efe079cc1a226ca8634d889f1454a",
+	  "crc32": "e1f80544",
+	  "sha1": "7b2540f3891d81f4663b14e04c788859f208b106"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800309.us.archive.org\/3\/items\/BASEBALL_201402\/baseball_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 332,
+	"week": 7,
+	"month": 15
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "server": "ia902704.us.archive.org",
+  "dir": "/21/items/nicholas-wolfe-part-1-demo",
+  "metadata": {
+	"identifier": [
+	  "nicholas-wolfe-part-1-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Anton \"Vargtass\" Ulvfot"
+	],
+	"date": [
+	  "2001-09-05"
+	],
+	"description": [
+	  "Point and click adventure game created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Nicholas Wolfe Part I: Framed [Demo]"
+	],
+	"publicdate": [
+	  "2015-01-02 23:29:23"
+	],
+	"addeddate": [
+	  "2015-01-02 23:29:23"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102233450[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2001"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/105.jpg": {
+	  "source": "original",
+	  "mtime": "1420241373",
+	  "size": "10784",
+	  "md5": "1e36322d7f19af34f41573b4cf4de599",
+	  "crc32": "f0e8efbe",
+	  "sha1": "12237bd37bb1f50664a4dbec98ba2624f7fb83b4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/105_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "105.jpg",
+	  "mtime": "1420241696",
+	  "size": "3913",
+	  "md5": "f95c789d7eeb92ea124722fced3bb5ca",
+	  "crc32": "131dd957",
+	  "sha1": "9c0c034eece625ae81c755a1a67c22ebcaca20f9"
+	},
+	"\/nicholas-wolfe-part-1-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "628812ead537c314fb210a266fa0e39e448771ac",
+	  "mtime": "1490060597",
+	  "size": "2119",
+	  "md5": "88eaa8c8773a8c9968cbd284bd368ed1",
+	  "crc32": "34161cf8",
+	  "sha1": "88605d924d5f8a40feaff420cc6e24023514e738",
+	  "format": "Archive BitTorrent"
+	},
+	"\/nicholas-wolfe-part-1-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f9572421647ba948505672b2016ea124"
+	},
+	"\/nicholas-wolfe-part-1-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420241378",
+	  "size": "10240",
+	  "md5": "0d38ddf89d17a94d4adef0e9a32f1060",
+	  "crc32": "f374ba61",
+	  "sha1": "1bd89cf734941dc3dcd4942dfa94361ef8491a6a",
+	  "format": "Metadata"
+	},
+	"\/nicholas-wolfe-part-1-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490060594",
+	  "size": "1060",
+	  "format": "Metadata",
+	  "md5": "76c3bf52519ee5e399ce3d5eb9d950ed",
+	  "crc32": "91e74b2f",
+	  "sha1": "c879bc1cd976f419efe2728a4e5bcfa1f91d223e"
+	},
+	"\/nicholas-wolfe-part-i-framed.zip": {
+	  "source": "original",
+	  "mtime": "1420241362",
+	  "size": "410687",
+	  "md5": "635fbaff6e85ffe9201fa1f5455fb1df",
+	  "crc32": "155df563",
+	  "sha1": "57e26bcc97b0d04eca96f8df19a1a366f68276e5",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902704.us.archive.org\/21\/items\/nicholas-wolfe-part-1-demo\/105_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 41,
+	"week": 3,
+	"month": 4
+  }
+}

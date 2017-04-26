@@ -1,0 +1,346 @@
+{
+  "server": "ia800308.us.archive.org",
+  "dir": "/14/items/RedBaron_1020",
+  "metadata": {
+	"identifier": [
+	  "RedBaron_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"date": [
+	  "1990"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Red Baron Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:51:55"
+	],
+	"addeddate": [
+	  "2012-09-04 00:51:55"
+	],
+	"year": [
+	  "1990"
+	],
+	"description": [
+	  "\"The year is 1914 - it is the dawn of World War I. Patriotic fervor runs high as young men across Europe prepare for a new age. For the first time ever, men will take to the air with the sole objective of blasting another airplane from the sky. Aviation is yet in its infancy. There are no books, no teachers - here and now, these young pilots must invent the skills and strategies that will keep them alive. Only the very best will survive, and they will perfect an art form all their own. These are the Aces, and this is the birth of aerial combat.\n\nRed Baron takes you back to this bygone era, where you will experience the look, feel, and experience of aerial warfare in W.W.I. Engage in close-range dogfights, go balloon-busting to take out the aerial eyes of the enemy, take on Zeppelins, escort bombers deep into enemy territory, go undercover in nighttime missions and go head-to-head with such famous Aces as the Red Baron himself! \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "demo.bat"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444845204",
+	  "size": "326535",
+	  "md5": "6dff13da88567845578a1fb5d427f2f8",
+	  "crc32": "ee05a583",
+	  "sha1": "edbe2571b9bd99483b17e4ae1ad43c2337de8943",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444845251",
+	  "size": "4915",
+	  "md5": "478ef4522c39ff5d6805243c26c635de",
+	  "crc32": "6dd58ddf",
+	  "sha1": "9753f72caad52fc9ec694374e57f051e99009591"
+	},
+	"\/RedBaron_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444845226",
+	  "size": "125499",
+	  "md5": "2899c67c5ae256ab8dfdad21cf988bb2",
+	  "crc32": "3f24fc22",
+	  "sha1": "d6bfeabc29b5f9722298079448be67ffcebaa0a0",
+	  "format": "Animated GIF"
+	},
+	"\/RedBaron_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "a559a3b466e135bf0a7eb7442fb3a3ce23d832f9",
+	  "mtime": "1464129150",
+	  "size": "5599",
+	  "md5": "09abcc4982f2ad91b483783173ddd1bb",
+	  "crc32": "64513139",
+	  "sha1": "dabce896908228e8a1b53da561108088e41abb5c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RedBaron_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cdf40d3c5585fa520281514ebb9c2c2d"
+	},
+	"\/RedBaron_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444845239",
+	  "size": "13312",
+	  "md5": "45222be98d5a67f221ef99dd09a19571",
+	  "crc32": "c38f0a1a",
+	  "sha1": "70407e5078c4ccea6d428b5995eb044a9a441316",
+	  "format": "Metadata"
+	},
+	"\/RedBaron_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464129149",
+	  "size": "1800",
+	  "md5": "3f7896d5849f13ee77d594f4a2dc21ef",
+	  "crc32": "1e1f3db0",
+	  "sha1": "cdd86815508e05033d0d355806176513075f731d"
+	},
+	"\/redbaron.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346719921",
+	  "size": "274075",
+	  "md5": "d3c4f8d0a18c578040a3f8578a02162a",
+	  "crc32": "8b635193",
+	  "sha1": "71c6610a05458e85637c7ce579ffc27059510545"
+	},
+	"\/redbaron.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719921",
+	  "size": "648",
+	  "md5": "cebc192b83fdec5d511f32ff4c2da890",
+	  "crc32": "234efde1",
+	  "sha1": "47f337ed31c63fe16b5cdf55ba027bdb2e48060b"
+	},
+	"\/redbaron_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444845231",
+	  "size": "583020",
+	  "md5": "89aa30bbda037f00954c1c2dda392372",
+	  "crc32": "9e25f57a",
+	  "sha1": "c0ae7dcb2d194d1796b0d38305bd80eb9f82ffd8",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1081.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346720482",
+	  "size": "17533",
+	  "md5": "c8409370b07b7217b580e290b82569fd",
+	  "crc32": "692430f0",
+	  "sha1": "85b77cacb48e4bafd1ffd70850052d324f180c49",
+	  "rotation": "0"
+	},
+	"\/resource_item_1081.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346720482",
+	  "size": "272",
+	  "md5": "7393fcd5beea2d14e556e915e69ef1e7",
+	  "crc32": "a5d5d8e0",
+	  "sha1": "85d494cbe95f60bde9423f4ca1748bfdcc2aceae"
+	},
+	"\/resource_item_1081_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1081.jpg",
+	  "mtime": "1346721518",
+	  "size": "5376",
+	  "md5": "b15e778c47291b1b50e3e3b6c2b2866d",
+	  "crc32": "6d24b948",
+	  "sha1": "d83a3ac21c79f13c592c96acfd17e00c71520f1c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444845206",
+	  "size": "193467",
+	  "md5": "8b32bd892c859d1cdc8ae28e0190a748",
+	  "crc32": "73baf031",
+	  "sha1": "caef1e269726817f546b203b908d49b064347823",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444845252",
+	  "size": "3335",
+	  "md5": "1ade6e3197e8bf437b1ca06f60241e02",
+	  "crc32": "67fd11cc",
+	  "sha1": "6954cac2bfce0b0f728415c43616e4eb4e36a4fc"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444845209",
+	  "size": "1161",
+	  "md5": "ada43256d506ea3a7887cba561e43bc4",
+	  "crc32": "edab5a46",
+	  "sha1": "78608c243171b4ecba61159b3b8f2f4e0c978d31",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444845249",
+	  "size": "601",
+	  "md5": "8add6beb946b5a88add47110277af925",
+	  "crc32": "f3fd76ae",
+	  "sha1": "bbc2803aa4799f8775668374db0115f1012b7594"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444845211",
+	  "size": "222293",
+	  "md5": "e98bce537d09d9bb92c8d246ae967c6e",
+	  "crc32": "5211e268",
+	  "sha1": "cc4c9664a2f5b9598cb24e2a429f7a6fb3465b1e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444845250",
+	  "size": "3607",
+	  "md5": "16032e3af15d95f50ed90e729704bb9e",
+	  "crc32": "51660c6c",
+	  "sha1": "9c65df58125dedb5159097feb025c2d993f8e473"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444845214",
+	  "size": "44000",
+	  "md5": "39ff57afedba4473f3f342e74e06513f",
+	  "crc32": "6dd5c27f",
+	  "sha1": "7d526ade0106f194fa8382490fccc43121ccee07",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444845253",
+	  "size": "1369",
+	  "md5": "136855abc844a5e45112172bfed82158",
+	  "crc32": "02fa48e7",
+	  "sha1": "25926a8bcf847c98febc1118ed1f79a429bd44d2"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444845217",
+	  "size": "326535",
+	  "md5": "6dff13da88567845578a1fb5d427f2f8",
+	  "crc32": "ee05a583",
+	  "sha1": "edbe2571b9bd99483b17e4ae1ad43c2337de8943",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444845255",
+	  "size": "4915",
+	  "md5": "478ef4522c39ff5d6805243c26c635de",
+	  "crc32": "6dd58ddf",
+	  "sha1": "9753f72caad52fc9ec694374e57f051e99009591"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444845219",
+	  "size": "1161",
+	  "md5": "9f207205471b4d2ce3579c9909f69f9d",
+	  "crc32": "66e52dd4",
+	  "sha1": "6a64f266f114156ebf17d4adb037c4ffb1037a1a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444845256",
+	  "size": "602",
+	  "md5": "aa078176c6e19857468da5fb2ae33c5f",
+	  "crc32": "ca016ef2",
+	  "sha1": "38908775e712a70ddf78bf9696cce34655a0717b"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444845222",
+	  "size": "262146",
+	  "md5": "488ea3e05391fd208561fd1d8e0c6ede",
+	  "crc32": "e50b699b",
+	  "sha1": "cdf71d79dec48021f53b02b3d175ddb868c9e5c0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444845254",
+	  "size": "4741",
+	  "md5": "a6a56871caac6d6c886e35853d605daf",
+	  "crc32": "c60ecad2",
+	  "sha1": "b14df796619754dcfba1cbd6c6ff7543302cc113"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444845224",
+	  "size": "228537",
+	  "md5": "e6a3c2fc2452b5531fdfa954d47c4d2f",
+	  "crc32": "f7d7e368",
+	  "sha1": "eb85d9313b9df06581dd1d34560edaf54fa49503",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444845255",
+	  "size": "4473",
+	  "md5": "193860cba9624c539a6e00f2be2bb86f",
+	  "crc32": "4a8b1c0a",
+	  "sha1": "e69119d6e830d63446382f2b4d1eba11955f5818"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800308.us.archive.org\/14\/items\/RedBaron_1020\/RedBaron_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1850,
+	"week": 13,
+	"month": 49
+  }
+}

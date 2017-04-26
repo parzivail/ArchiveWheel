@@ -1,0 +1,114 @@
+{
+  "server": "ia800304.us.archive.org",
+  "dir": "/19/items/SidMeiersAntietamDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Sid Meier's Antietam! Demo"
+	],
+	"description": [
+	  "Sid Meier's Antietam! is the follow-up to Sid Meier's Gettysburg!, one of the most successful Civil War computer games ever. Based on Gettysburg's award-winning real-time tactical battle system, Sid Meier's Antietam puts you on a historically detailed, 3-D battlefield commanding animated Union or Confederate troops, as you relive the excitement, drama, and action of America's bloodiest day."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Firaxis Games"
+	],
+	"identifier": [
+	  "SidMeiersAntietamDemo"
+	],
+	"addeddate": [
+	  "2012-04-03 00:34:51"
+	],
+	"publicdate": [
+	  "2012-04-03 00:35:11"
+	],
+	"date": [
+	  "1998"
+	],
+	"year": [
+	  "1998"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903801_6"
+	]
+  },
+  "files": {
+	"\/Antietam_Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1333413262",
+	  "size": "24623845",
+	  "md5": "47c48ca5b245a3817e69f83b356a60e3",
+	  "crc32": "7ee729b0",
+	  "sha1": "55a205c59107dd8611fee51efff42beda6e38d9d",
+	  "title": "Sid Meier's Antietam! Demo"
+	},
+	"\/SidMeiersAntietamDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "447f36870e7ed6f4c82fd409eaa5f9c8f0a7128b",
+	  "mtime": "1463927881",
+	  "size": "2836",
+	  "md5": "fa42d86458daf952ae3803aa797eb518",
+	  "crc32": "ac0d0c1a",
+	  "sha1": "a1e943e970e37231994a41822fbc021267d80839",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SidMeiersAntietamDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4c94cfe254ba7082e9c0faa3a2b52a21"
+	},
+	"\/SidMeiersAntietamDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463927880",
+	  "size": "1172",
+	  "md5": "934239bbfc0e6eb4d635c0d77b27c330",
+	  "crc32": "315af9d6",
+	  "sha1": "c1d43fd331f8186b5a0be120bab65d9884c3dda0"
+	},
+	"\/antietam_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1333413263",
+	  "size": "205186",
+	  "md5": "7ee7fe2e87ab69b6ec791788fc1d1901",
+	  "crc32": "9b39366e",
+	  "sha1": "251be0cd767913581327a41acac20cc3c7348194",
+	  "title": "Sid Meier's Antietam! Screenshot",
+	  "rotation": "0"
+	},
+	"\/antietam_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "antietam_demo.jpg",
+	  "mtime": "1333413304",
+	  "size": "5554",
+	  "md5": "759d52cfc18d4771ad6900a84875c990",
+	  "crc32": "1080765",
+	  "sha1": "d7295a9bbda13cea8144f728212c081d641cfdf4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/19\/items\/SidMeiersAntietamDemo\/antietam_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1250,
+	"week": 13,
+	"month": 39
+  }
+}

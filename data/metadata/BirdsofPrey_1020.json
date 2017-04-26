@@ -1,0 +1,206 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/16/items/BirdsofPrey_1020",
+  "metadata": {
+	"identifier": [
+	  "BirdsofPrey_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Argonaut Software"
+	],
+	"date": [
+	  "1992"
+	],
+	"description": [
+	  "In Birds of Prey you can fly over 40 planes in a NATO vs Soviet Union campaign."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Birds of Prey Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 04:41:21"
+	],
+	"addeddate": [
+	  "2012-09-04 04:41:21"
+	],
+	"year": [
+	  "1992"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "BOPINTRO.EXE"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475188386",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475188408",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/BOPDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346733689",
+	  "size": "625144",
+	  "md5": "915cced28975a50af790f4ff02f08bf4",
+	  "crc32": "b6d27604",
+	  "sha1": "3de32f2edef3b84db0e64ef629c3f4201a6c7abc"
+	},
+	"\/BOPDEMO.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346733689",
+	  "size": "771",
+	  "md5": "fa13120a2746ca978636808678d220be",
+	  "crc32": "efdd3364",
+	  "sha1": "fa40b352de7bdbdbebf7d5b50431a55240c8d085"
+	},
+	"\/BOPDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475188396",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/BirdsofPrey_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475188392",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/BirdsofPrey_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "7886442528a722eaa2856fbedece735c6247964f",
+	  "mtime": "1475188411",
+	  "size": "3111",
+	  "md5": "83840a443fc157b6278a4a426cb3c527",
+	  "crc32": "dcb51fb7",
+	  "sha1": "fd86a8e77d5dda0fc4f3aa64624acb7ff5df3e48",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BirdsofPrey_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9190bfbd4d6d9d10e40c8730a0b6ba30"
+	},
+	"\/BirdsofPrey_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475188399",
+	  "size": "8192",
+	  "md5": "7c3ff4f1d42988affc09717f09003c41",
+	  "crc32": "53f24239",
+	  "sha1": "9b7dd7c59dd3f7c45e0b5110b6d5f14a3974a320",
+	  "format": "Metadata"
+	},
+	"\/BirdsofPrey_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471105921",
+	  "size": "959",
+	  "md5": "4bb24d3c7f00868d2d40db7970a80991",
+	  "crc32": "07cdb20c",
+	  "sha1": "e55f53bb01e49e11442a0750e49bea7487103b4c"
+	},
+	"\/resource_item_1687.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346734092",
+	  "size": "5219",
+	  "md5": "902887384ae17dbc9bae8c2e87bb0375",
+	  "crc32": "43805c5e",
+	  "sha1": "84f2b7fbcbe07359d9975c6534f071ee09110ce4",
+	  "rotation": "0"
+	},
+	"\/resource_item_1687.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346734092",
+	  "size": "271",
+	  "md5": "67023b357b31295a18b71c8eac68c1c3",
+	  "crc32": "7df0936b",
+	  "sha1": "9bccc49ef03d0b1c127080bf5dd306424e40e7db"
+	},
+	"\/resource_item_1687_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1687.jpg",
+	  "mtime": "1346734781",
+	  "size": "2110",
+	  "md5": "e17a01f2512f3566b0305a7807768a5f",
+	  "crc32": "227a7e28",
+	  "sha1": "138a576827f81c501d79d4ecc9351a6548303ff0"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475188389",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475188409",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/16\/items\/BirdsofPrey_1020\/BirdsofPrey_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 376,
+	"week": 5,
+	"month": 5
+  }
+}

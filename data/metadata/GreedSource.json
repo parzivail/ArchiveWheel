@@ -1,0 +1,162 @@
+{
+  "server": "ia902701.us.archive.org",
+  "dir": "/27/items/GreedSource",
+  "metadata": {
+	"identifier": [
+	  "GreedSource"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Mind Shear Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>In Pursuit of Greed was completed in '96 and my second published commercial product. By this time, Channel 7 had morphed into a corporation called Mind Shear Software. At peak, we had 5 full time developers and a number of contractors. Greed was written in C and Assembly and based on the Raven Engine (also used in Shadowcaster, and similar to Rise of the Triad's engine) by Id. This engine was roughly between Wolfenstein and Doom tech-wise. I added many additional features such as transparency, sky box, fixed bugs with sloping floors and ceilings, etc. I also wrote tools for level editing. The graphics were pre-rendered from 3D Studio Max.<\/div><div><br \/><\/div><div>The player's goal is to collect various artifacts to reach a required level of value. There are secondary artifacts as well but the primary is required to complete a level.<\/div><div><br \/><\/div><div>Raven Engine Notes (from id):<\/div><div><br \/><\/div><div>\u00a0 \"Right now, the engine supports a bi-quadrilateral projection scheme (ala\u00a0<\/div><div>\u00a0 Wolfenstein) but with some notable exceptions:<\/div><div><br \/><\/div><div>\u00a0 First, the engine supports lighting in the form of distance shading<\/div><div>\u00a0 (i.e. it get darker the farther away one goes in the z direction) for\u00a0<\/div><div>\u00a0 an added effect of depth. \u00a0In the future, we will add localize lighting<\/div><div>\u00a0 so that certain rooms can be darker than others and a torch can light up<\/div><div>\u00a0 the surrounding areas (ala Doom).<\/div><div><br \/><\/div><div>\u00a0 Second, we have the ability to move along the y-axis and can create the<\/div><div>\u00a0 effect of bobbing up and down as we walk, jumping, falling down, etc.<\/div><div><br \/><\/div><div>\u00a0 Third, our floors and ceilings are texture-mapped adding even more to the<\/div><div>\u00a0 visual detail. \u00a0We will probably put in some detail options including\u00a0<\/div><div>\u00a0 shutting off floor and ceiling texturing to support slower machines. \u00a0We<\/div><div>\u00a0 can even shut off the ceiling and provide and scrolling skyline.<\/div><div><br \/><\/div><div>\u00a0 Fourth, the engine supports 8 rotation views for any object or sprite<\/div><div>\u00a0 (ala Doom).<\/div><div><br \/><\/div><div>\u00a0 Lastly, (not shown in demo) our ceiling and floor tile support morphing for<\/div><div>\u00a0 realistic contours. \u00a0In simpler terms, we can make some ceilings higher\u00a0<\/div><div>\u00a0 than others and the adjacent tiles will stretch and morph to make a smooth<\/div><div>\u00a0 transitional surface. \u00a0We can thus create cavernous rooms with huge\u00a0<\/div><div>\u00a0 monsters.\"<\/div><div><br \/><\/div><div><br \/><\/div><div>Music for In Pursuit of Greed was also written by Andrew Sega. We own all rights to the game and the music. Some critics say the music was better than the game. Unfortunately, I tend to agree. =P<\/div>"
+	],
+	"publisher": [
+	  "Softdisk Publishing"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games; Commercial Source Code"
+	],
+	"title": [
+	  "In Pursuit of Greed (Game + Source)"
+	],
+	"website": [
+	  "http:\/\/www.redshadowsoftware.com\/projects\/greed"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2015-01-05 00:40:17"
+	],
+	"addeddate": [
+	  "2015-01-05 00:40:17"
+	],
+	"notes": [
+	  "In 2014 Robert Morgan released the source code for this game as freeware with the conditions: \"These sources are provided for educational and historical purposes.  No assets or code may be used in any way commercially.  Personal and educational use only.\""
+	],
+	"backup_location": [
+	  "ia905909_8"
+	]
+  },
+  "files": {
+	"\/Greed CD-ROM.zip": {
+	  "source": "original",
+	  "mtime": "1420418510",
+	  "size": "39948139",
+	  "md5": "0c420d31735125133b6de01833a87357",
+	  "crc32": "228da1ef",
+	  "sha1": "2e7356475194215eef52cb399e648581f7f7beae",
+	  "format": "ZIP"
+	},
+	"\/GreedSource.zip": {
+	  "source": "original",
+	  "mtime": "1420418416",
+	  "size": "156876223",
+	  "md5": "c7d95cbcf5c3accabfffc42a71816409",
+	  "crc32": "b5a1c8b9",
+	  "sha1": "0f3d4a275e2207d672d07555427aa23a2ce168ca",
+	  "format": "ZIP"
+	},
+	"\/GreedSource_archive.torrent": {
+	  "source": "original",
+	  "btih": "c5714728733920c3aed14b2282031ade621e0740",
+	  "mtime": "1475675435",
+	  "size": "10815",
+	  "md5": "2268002c392f67e64963ca82f53cbf88",
+	  "crc32": "da1cd67e",
+	  "sha1": "66ca24ba84360a298fd6a34ec5ccc043c2891e23",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GreedSource_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a7f5af8cb30c70a9e55f20d31fe26c86"
+	},
+	"\/GreedSource_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420418516",
+	  "size": "53248",
+	  "format": "Metadata",
+	  "md5": "45d9fc6c266596f112ac22e702b8c6b5",
+	  "crc32": "f4c88b89",
+	  "sha1": "8e7f305cf333190fd530d43a9a30ba6c0b4c40e3"
+	},
+	"\/GreedSource_meta.xml": {
+	  "source": "original",
+	  "mtime": "1475675434",
+	  "size": "4305",
+	  "format": "Metadata",
+	  "md5": "c96e68330b8d9f28c092cba3c4810b2b",
+	  "crc32": "5f371178",
+	  "sha1": "5bc5388b160d8162ec78544bdd880baa545a71d7"
+	},
+	"\/GreedWin32.zip": {
+	  "source": "original",
+	  "mtime": "1420418436",
+	  "size": "5893013",
+	  "md5": "ade462e8618d88ac7b2775a6ea1e9732",
+	  "crc32": "f61b73fa",
+	  "sha1": "cdcda42c5fa7163407391b4d41a0e20fc1bd4949",
+	  "format": "ZIP"
+	},
+	"\/Original Greed.zip": {
+	  "source": "original",
+	  "mtime": "1420418450",
+	  "size": "9390382",
+	  "md5": "14808c2d6db17123f891d4e10263a3da",
+	  "crc32": "ff2a149c",
+	  "sha1": "c34295c8da39bc7f46057fb4fe424c16633438a6",
+	  "format": "ZIP"
+	},
+	"\/RavenEngine.zip": {
+	  "source": "original",
+	  "mtime": "1420418453",
+	  "size": "1347197",
+	  "md5": "3a3a53352cd4b579da682f09a8c88ca7",
+	  "crc32": "6b4f3075",
+	  "sha1": "6a463a7decfebcdea79ccbf2f3654ad95ea28452",
+	  "format": "ZIP"
+	},
+	"\/screenshot.png": {
+	  "source": "original",
+	  "mtime": "1420418456",
+	  "size": "27049",
+	  "md5": "75109614b863f09b715ddd8651c68d11",
+	  "crc32": "7d4c8657",
+	  "sha1": "163556b7ae9ef970a17a0bf48c37429f3c8cad91",
+	  "format": "PNG"
+	},
+	"\/screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot.png",
+	  "mtime": "1420418530",
+	  "size": "5388",
+	  "md5": "b8e0c2223e19fb81fb2b510941363780",
+	  "crc32": "47caa8c2",
+	  "sha1": "ccc8a2b00f4b023a669788f8df6a2a9a40d75d48"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902701.us.archive.org\/27\/items\/GreedSource\/screenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1257,
+	"week": 9,
+	"month": 47
+  }
+}

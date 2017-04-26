@@ -1,0 +1,126 @@
+{
+  "server": "ia601003.us.archive.org",
+  "dir": "/35/items/Td4demo",
+  "metadata": {
+	"identifier": [
+	  "Td4demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "The Pitbull Syndicate"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Test Drive 4 features ten cars, five of which are modern day exotic sports cars such as the Jaguar XJ220 and Dodge Viper GTS, and five of which are ultra-powerful cars from the past, including the Shelby Cobra 427 and '70 Chevrolet Chevelle SS 454. Race on six tracks designed from real-world locations like Bern, Switzerland and Washington, D.C."
+	],
+	"publisher": [
+	  "Accolade"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Test Drive 4 Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2013-11-30 00:11:30"
+	],
+	"addeddate": [
+	  "2013-11-30 00:11:30"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233548[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_20"
+	]
+  },
+  "files": {
+	"\/Td4demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "56abab1e69e2c88f6811480faf0a84e5"
+	},
+	"\/Td4demo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385770349",
+	  "size": "16384",
+	  "md5": "9f00d76a3662d4637a8746106b110023",
+	  "crc32": "8d37052c",
+	  "sha1": "af4cc176af86ce425ae22a5c38f4142dcf2f4141"
+	},
+	"\/Td4demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475136318",
+	  "size": "1187",
+	  "md5": "be831f0025328d224f50d691135c5480",
+	  "crc32": "f46e2046",
+	  "sha1": "d184bde3f63eda0ed18e6fcc234a15e22e019da2"
+	},
+	"\/td4demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385770345",
+	  "size": "13190176",
+	  "md5": "5f449f11a67c2162e4135e0eeda435b6",
+	  "crc32": "2e397c7b",
+	  "sha1": "3af884e43dbc0842da05d153938db7b3e6bf3c40"
+	},
+	"\/td4demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385770289",
+	  "size": "80109",
+	  "md5": "b7032a8b3ca42a6d6acc6584637c2aff",
+	  "crc32": "a61ef35e",
+	  "sha1": "b2bf81619ad3e7135e6096a951cbb938391816a0",
+	  "rotation": "0"
+	},
+	"\/td4demo_3dfx.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385770323",
+	  "size": "18307202",
+	  "md5": "42354fec9de4e8f3f82f00e689790c5b",
+	  "crc32": "32b07edf",
+	  "sha1": "734f22791b458f41209d30286fc248e2c8ebced7"
+	},
+	"\/td4demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "td4demo.jpg",
+	  "mtime": "1385770356",
+	  "size": "4182",
+	  "md5": "f079ca03720c9f53f7e89fbc97fed9da",
+	  "crc32": "72ac4ef4",
+	  "sha1": "4e11db9393232b4e8fc37f749c724d22a3225f22"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601003.us.archive.org\/35\/items\/Td4demo\/td4demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4690,
+	"week": 55,
+	"month": 287
+  }
+}

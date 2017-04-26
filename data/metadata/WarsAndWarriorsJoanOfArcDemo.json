@@ -1,0 +1,111 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/17/items/WarsAndWarriorsJoanOfArcDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Wars and Warriors: Joan of Arc Demo"
+	],
+	"description": [
+	  "The year is 1429 - The armies of the English kings are laying claim to the throne of France. The Hundred Years' War has begun. Can you develop your troops into an effective and powerful fighting force, one that will vanquish your enemy and pave the way to victory? In Joan of Arc the destiny of Europe lays in your hands."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Enlight Software"
+	],
+	"identifier": [
+	  "WarsAndWarriorsJoanOfArcDemo"
+	],
+	"addeddate": [
+	  "2012-05-29 23:08:29"
+	],
+	"publicdate": [
+	  "2012-05-29 23:09:23"
+	],
+	"date": [
+	  "2004"
+	],
+	"year": [
+	  "2004"
+	],
+	"publisher": [
+	  "Enlight Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_9"
+	]
+  },
+  "files": {
+	"\/Joan_of_Arc_Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338332822",
+	  "size": "206972563",
+	  "md5": "07a271329fae237fb54659bde9d05767",
+	  "crc32": "4b65610a",
+	  "sha1": "df0838f2932fa0b3e017f89726b6b945b7931947"
+	},
+	"\/Joan_of_Arc_Demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1338332831",
+	  "size": "1573355",
+	  "md5": "9f3f144a8ca7bba568a4466222b47660",
+	  "crc32": "4e76b4b0",
+	  "sha1": "e8f0b5291514717bee2fa5400fbadefe5d9769aa"
+	},
+	"\/Joan_of_Arc_Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Joan_of_Arc_Demo.png",
+	  "mtime": "1338332958",
+	  "size": "5536",
+	  "md5": "0495124e1ed7e17aed4d011cda0618a5",
+	  "crc32": "1f8c0835",
+	  "sha1": "59aa21d0493a52b47f3f043cf63559ab956079b3"
+	},
+	"\/WarsAndWarriorsJoanOfArcDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "37915dd84b9515a8e7e418fbe1940d1a64663d70",
+	  "mtime": "1462264243",
+	  "size": "9905",
+	  "md5": "3d37127257cce446515799b8244832af",
+	  "crc32": "72343971",
+	  "sha1": "085fa50b30f383baff577b96c85b2daec10e4410",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WarsAndWarriorsJoanOfArcDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "89242097b1c26e9debb2ababe5f54efe"
+	},
+	"\/WarsAndWarriorsJoanOfArcDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462264240",
+	  "size": "1120",
+	  "md5": "60e408d60bea34d103d472d636214516",
+	  "crc32": "e11526cb",
+	  "sha1": "7499d4428f493dc9281221e6e00a9b85a58e9140"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/17\/items\/WarsAndWarriorsJoanOfArcDemo\/Joan_of_Arc_Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 752,
+	"week": 5,
+	"month": 19
+  }
+}

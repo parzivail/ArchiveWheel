@@ -1,0 +1,121 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/27/items/TommysRussianBank",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tommy's Russian Bank"
+	],
+	"description": [
+	  "This program implements the game of Russian Bank, aka crapette or robuse. This is a 2 player dueling solitaire card game. You can play another player or play the computer. The computer can also play both hands while you watch for a demo."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Board games"
+	],
+	"creator": [
+	  "Tommy's Toys"
+	],
+	"identifier": [
+	  "TommysRussianBank"
+	],
+	"addeddate": [
+	  "2012-07-05 02:33:47"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"license": [
+	  "shareware"
+	],
+	"publicdate": [
+	  "2012-07-05 02:34:19"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "RBANK.EXE"
+	]
+  },
+  "files": {
+	"\/TommysRussianBank_archive.torrent": {
+	  "source": "original",
+	  "btih": "4e4b747c33adc2d90e95ac17f59333d1036f1cb8",
+	  "mtime": "1476633292",
+	  "size": "1864",
+	  "md5": "9a868bbac8c8bf7b55572a0748e1c7cf",
+	  "crc32": "306e3e5e",
+	  "sha1": "5d8c869856a0d73ef0f3b48fea064a41f2df2437",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TommysRussianBank_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "21869de40973471778183f6ff56aead6"
+	},
+	"\/TommysRussianBank_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476633290",
+	  "size": "1100",
+	  "md5": "bf62859b770921efb05b4035c46fbd4b",
+	  "crc32": "18d109eb",
+	  "sha1": "292510217cf50ab6d8a487b946a91aebfae3e0ed"
+	},
+	"\/resource_item_166.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341455592",
+	  "size": "11735",
+	  "md5": "5bb565e0006fb525d75eb7f53497d54a",
+	  "crc32": "cc177991",
+	  "sha1": "65280fd8328f3ca0b90a6673efd24468e622a42d",
+	  "rotation": "0"
+	},
+	"\/resource_item_166_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_166.jpg",
+	  "mtime": "1341455636",
+	  "size": "5180",
+	  "md5": "3fdb6016084395aa5dff51e49f25b37c",
+	  "crc32": "8f82a81e",
+	  "sha1": "ae828bdf72b9477fb9b2077c8f40d15507f37147"
+	},
+	"\/tomrbank.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341455602",
+	  "size": "155089",
+	  "md5": "0a3a75cf0f6433ac2bb552c766ff4cd6",
+	  "crc32": "4b3f9cb0",
+	  "sha1": "b922a6eaa628d6b10e2ad64b4da1d074ac8c8645"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/27\/items\/TommysRussianBank\/resource_item_166_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 73,
+	"week": 3,
+	"month": 4
+  }
+}

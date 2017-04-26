@@ -1,0 +1,227 @@
+{
+  "server": "ia601900.us.archive.org",
+  "dir": "/0/items/TankWarsGoldEditionDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Tank Wars Gold Edition Demo"
+	],
+	"description": [
+	  "Remake of the original Tank Wars.\n\nTank Wars is a game in the genre of turn-based strategy using projectiles. E.g. Worms, Bomb and Scorched Earth. The game was created in Qbasic and was made by Andrew Frost."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Antz Entertainment"
+	],
+	"identifier": [
+	  "TankWarsGoldEditionDemo"
+	],
+	"addeddate": [
+	  "2013-01-19 02:08:17"
+	],
+	"publicdate": [
+	  "2013-01-19 02:08:23"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233922[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905605_3"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "TWGOLD.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475535640",
+	  "size": "459192",
+	  "md5": "0108d2dd241294168c986483ca845512",
+	  "crc32": "1ad5c204",
+	  "sha1": "edf2aaa7d1ffe339a1d4f29e3480b675c5efdef4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475535672",
+	  "size": "5773",
+	  "md5": "78d457db40a126b9396d224df23a60a9",
+	  "crc32": "d4658573",
+	  "sha1": "394c33966f7c88b3f7aafd09c2235054e0c7a1ce"
+	},
+	"\/TankWarsGoldDemo.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1358561188",
+	  "size": "93982",
+	  "md5": "7c8d7525d157b42756cb17b729cf72f8",
+	  "crc32": "a415029d",
+	  "sha1": "6a21cfb8f3fad4a7f210c34e5db81e2a7d08d3ab"
+	},
+	"\/TankWarsGoldDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1358561190",
+	  "size": "288510",
+	  "md5": "f87f05e095371dc131d631719491a8ee",
+	  "crc32": "4e18269b",
+	  "sha1": "5aed35e250009d837095c7e2cc72c12799888024"
+	},
+	"\/TankWarsGoldDemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475535657",
+	  "size": "253704",
+	  "md5": "133f715eb35626c0f5ff7455e0c239b1",
+	  "crc32": "2d7b18ad",
+	  "sha1": "ef991511e9cf40d99aab6040972d94f63eaeab3e",
+	  "format": "Emulator Screenshot"
+	},
+	"\/TankWarsGoldEditionDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475535653",
+	  "size": "93165",
+	  "md5": "9174be7ba7793a41a26ab789f1155792",
+	  "crc32": "ee1f744d",
+	  "sha1": "dc6767603c63c910631813cebb7553fb761eda33",
+	  "format": "Animated GIF"
+	},
+	"\/TankWarsGoldEditionDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "10d6fd7658f7c8d7f060eac8fc9a427b"
+	},
+	"\/TankWarsGoldEditionDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475535661",
+	  "size": "10240",
+	  "md5": "a7d220fca41f176ec82017f78d694b7d",
+	  "crc32": "bfbf173d",
+	  "sha1": "e9cc634d6b9a1392e165e6622842dad5421dfee0",
+	  "format": "Metadata"
+	},
+	"\/TankWarsGoldEditionDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474137518",
+	  "size": "1085",
+	  "md5": "8b811ff36445fb4f96269694219b1315",
+	  "crc32": "5298ac70",
+	  "sha1": "a0aafedddd284d73b0e05ff089b394c102926582"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475535642",
+	  "size": "7209",
+	  "md5": "8035ada15b7b720cc6857f6cfd8f4ce9",
+	  "crc32": "ce5ef17b",
+	  "sha1": "f089dabcdb212a93bedabc5bd58edaf3348fceae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475535673",
+	  "size": "1358",
+	  "md5": "14f1c97c1864660e6834a03802b9a836",
+	  "crc32": "2e2874ae",
+	  "sha1": "709171d95ee994b555e042a6d5148ae393f66f16"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475535645",
+	  "size": "14279",
+	  "md5": "44a3430dc1f837ed6dde0344fce77ad7",
+	  "crc32": "20d1f66d",
+	  "sha1": "46af2344a1224454302f89ebc91caa8ebaa1fc73",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475535675",
+	  "size": "1679",
+	  "md5": "30485673f058e77a8f30dda23192b6d8",
+	  "crc32": "7abe9d2f",
+	  "sha1": "4fcdac69a5d0ed1333a95894633123a143fbe759"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475535648",
+	  "size": "459192",
+	  "md5": "0108d2dd241294168c986483ca845512",
+	  "crc32": "1ad5c204",
+	  "sha1": "edf2aaa7d1ffe339a1d4f29e3480b675c5efdef4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475535676",
+	  "size": "5773",
+	  "md5": "78d457db40a126b9396d224df23a60a9",
+	  "crc32": "d4658573",
+	  "sha1": "394c33966f7c88b3f7aafd09c2235054e0c7a1ce"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475535650",
+	  "size": "6684",
+	  "md5": "b4cd9406e7ea460965e4a08353ea3d2b",
+	  "crc32": "f5ffeda2",
+	  "sha1": "6f35ae2109028bcd42799b69c717d557b2b9403e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475535677",
+	  "size": "1198",
+	  "md5": "664caf76d2caeb97f6eebc8889841856",
+	  "crc32": "c0d819bb",
+	  "sha1": "a31179607801fb8a0997f5ecb4e7f32f9ada070f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601900.us.archive.org\/0\/items\/TankWarsGoldEditionDemo\/TankWarsGoldEditionDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 183,
+	"week": 4,
+	"month": 4
+  }
+}

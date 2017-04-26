@@ -1,0 +1,129 @@
+{
+  "server": "ia902706.us.archive.org",
+  "dir": "/21/items/lassi-quest-2-demo",
+  "metadata": {
+	"identifier": [
+	  "lassi-quest-2-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Visa-Valtteri \"visy\" Pimi\u00e4"
+	],
+	"date": [
+	  "2000-03-22"
+	],
+	"description": [
+	  "Point and click adventure game, created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Lassi's Quest \u2161 [demo]"
+	],
+	"publicdate": [
+	  "2015-01-02 22:39:00"
+	],
+	"addeddate": [
+	  "2015-01-02 22:39:00"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102224429[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2000"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "7"
+	]
+  },
+  "files": {
+	"\/71.jpg": {
+	  "source": "original",
+	  "mtime": "1420238350",
+	  "size": "14919",
+	  "md5": "7f2814a49c352904821331807f998816",
+	  "crc32": "fbc9b4b1",
+	  "sha1": "3a4b8f8b046582399f85956cde34a42fea825938",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/71_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "71.jpg",
+	  "mtime": "1420238672",
+	  "size": "4454",
+	  "md5": "56f651cbf1cdadb42aa94c3e70da83b6",
+	  "crc32": "136e7218",
+	  "sha1": "e1a2af4f712a114764fc5f56558d9121e10faa84"
+	},
+	"\/lassi-quest-2-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6b047c89764c466e4875e8262045771b4fd6c033",
+	  "mtime": "1488663688",
+	  "size": "2029",
+	  "md5": "5b03390d148277ed49ea10529153d33d",
+	  "crc32": "c60aa3ba",
+	  "sha1": "11bf709dbf61cf062035eee179e5a452164170c8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/lassi-quest-2-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4713c0a745a5d63c0c312b1caa0f6468"
+	},
+	"\/lassi-quest-2-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420238355",
+	  "size": "10240",
+	  "md5": "69d257eaeaffe133454a65af3c299075",
+	  "crc32": "edfa0ff4",
+	  "sha1": "38122fd0117f4f1b813dc0f14922d8db33e3fc37",
+	  "format": "Metadata"
+	},
+	"\/lassi-quest-2-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1488663686",
+	  "size": "996",
+	  "format": "Metadata",
+	  "md5": "3ac73a8cdd77178b91ccb217601cfea7",
+	  "crc32": "e6be0e24",
+	  "sha1": "2941bfbcb6f8a55fcc0aa0b0e237d086cc43cff6"
+	},
+	"\/lassi-quest-2.zip": {
+	  "source": "original",
+	  "mtime": "1420238339",
+	  "size": "427375",
+	  "md5": "ea3811e4ff7a778ee28c4a1371475045",
+	  "crc32": "c566d85c",
+	  "sha1": "5fb6aca688a56fb883d1d12a2d15cb2f317176db",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902706.us.archive.org\/21\/items\/lassi-quest-2-demo\/71_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 75,
+	"week": 5,
+	"month": 13
+  }
+}

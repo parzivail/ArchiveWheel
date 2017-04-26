@@ -1,0 +1,385 @@
+{
+  "server": "ia800807.us.archive.org",
+  "dir": "/18/items/A-trainDemo",
+  "metadata": {
+	"identifier": [
+	  "A-trainDemo"
+	],
+	"title": [
+	  "A-Train Demo"
+	],
+	"creator": [
+	  "Artdink"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "The (rail) road to riches Cities all over the world are masses of idling, polluting, honking cars. We need mass transit - but local, state and national governments haven't been able to make it work. If you can create and operate a successful privately held mass transit operation, you'll do the world a service and reap huge financial rewards - but that's only the beginning! First, manage your railroad - transport passengers and freight, extend your lines, and develop the most efficient and profitable routes and schedules. Then, borrow from the bank, buy and develop land, expand your holdings into hotels, factories, resorts and department stores, play the stock market, and build a financial empire."
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"publicdate": [
+	  "2012-02-23 01:43:48"
+	],
+	"addeddate": [
+	  "2012-02-23 01:43:28"
+	],
+	"publisher": [
+	  "Maxis Software"
+	],
+	"updatedate": [
+	  "2012-02-23 01:44:42"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444833617",
+	  "size": "549427",
+	  "md5": "e37ed8a3d39ff504d6239ec38c24dadc",
+	  "crc32": "af92c591",
+	  "sha1": "e6e3b2d0cdace0fd8e70896f2baa44b39efcd4e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444833682",
+	  "size": "6283",
+	  "md5": "1b63266a2d9894154e1ecddd572da3ee",
+	  "crc32": "57373312",
+	  "sha1": "545d864fc295d0a8c8c0b5afdb3ffcb20cc1c91a"
+	},
+	"\/A-trainDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444833654",
+	  "size": "110272",
+	  "md5": "0bea7e0a39227cdc4e9d35d0a44046a3",
+	  "crc32": "a0af18ff",
+	  "sha1": "4e7feed791778942e446dd6f580fc7616f81bbfd",
+	  "format": "Animated GIF"
+	},
+	"\/A-trainDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "A-Train Screenshot",
+	  "mtime": "1329961382",
+	  "size": "27632",
+	  "md5": "7184806c58fdf38327a8ade5338737f1",
+	  "crc32": "cb2f9353",
+	  "sha1": "e8737be21663ae45d65b29b71d962c70ca9c000f",
+	  "rotation": "0"
+	},
+	"\/A-trainDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "05c816151766332b4936c96564881c888798f463",
+	  "mtime": "1466261538",
+	  "size": "6650",
+	  "md5": "c3b2ed3e3f70a3d52bd15320c4bb7bc1",
+	  "crc32": "a08856d6",
+	  "sha1": "38ff6bf16e60eec97725f671c63e29e32ed44ae5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/A-trainDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a7613380597a6f0c586a0f19c523510a"
+	},
+	"\/A-trainDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444833675",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "1fc3f07418f39ab597252515b1887de6",
+	  "crc32": "2ca2c58e",
+	  "sha1": "814210f3052b14b10da6a747b76e153b44a32b07"
+	},
+	"\/A-trainDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466261536",
+	  "size": "1636",
+	  "md5": "e69df07a83efe4a62c51c8586384de44",
+	  "crc32": "0c276298",
+	  "sha1": "8f29ab7e095640a0d107d3b6fdc4c9d75700c337"
+	},
+	"\/A-trainDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "A-trainDemo.jpg",
+	  "mtime": "1329961419",
+	  "size": "7261",
+	  "md5": "9070c0872d52ef339fd0fff4e46b4af2",
+	  "crc32": "883683f9",
+	  "sha1": "3107ed402776d6a861f79b72be01cc5d892ea0bd"
+	},
+	"\/MAXIS.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432848705",
+	  "size": "926980",
+	  "md5": "fded19f27dd8d7468a1ef9174b8d0e79",
+	  "crc32": "21b7bc6c",
+	  "sha1": "c2540245f1cdd9a05e05992f8b92d078da96e3a4"
+	},
+	"\/atdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329961382",
+	  "size": "1104470",
+	  "md5": "fcbd63dd89c4f503cfc5c4526b220995",
+	  "crc32": "1c90dd2d",
+	  "sha1": "3db7910115234fa4a0f7af0308737ffe997e835b",
+	  "title": "A-Train Demo"
+	},
+	"\/atdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444833665",
+	  "size": "1290779",
+	  "md5": "e2f5684039bb4d86e30525402a4b8ca1",
+	  "crc32": "f0a2eae4",
+	  "sha1": "ddb43e3814ea4dd1f4061c41b24296574d14cccb",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444833620",
+	  "size": "461778",
+	  "md5": "fdd85931850cac7b9d91fa8dc6205c5b",
+	  "crc32": "98af732b",
+	  "sha1": "ba18ba36a823ee6f8be247441e5080a6668c16c7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444833683",
+	  "size": "6864",
+	  "md5": "79a2d0ac5ea72f15a397512caa80a848",
+	  "crc32": "95ec4617",
+	  "sha1": "adca8e5c143a49ac85450cc5d29356158ff563b1"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444833624",
+	  "size": "487094",
+	  "md5": "5e2bb53da7288f7bf9bd3b28503645b5",
+	  "crc32": "8ef22ca2",
+	  "sha1": "bfa370d1e805d96cf3fd80180abe4f6732d54468",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444833679",
+	  "size": "5714",
+	  "md5": "a5731f80ad3e5c5b6e3476480afd89e3",
+	  "crc32": "1be17493",
+	  "sha1": "3e81a125fc38d691aedd368b3fb13041f99ac7b6"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444833627",
+	  "size": "549427",
+	  "md5": "e37ed8a3d39ff504d6239ec38c24dadc",
+	  "crc32": "af92c591",
+	  "sha1": "e6e3b2d0cdace0fd8e70896f2baa44b39efcd4e7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444833680",
+	  "size": "6283",
+	  "md5": "1b63266a2d9894154e1ecddd572da3ee",
+	  "crc32": "57373312",
+	  "sha1": "545d864fc295d0a8c8c0b5afdb3ffcb20cc1c91a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444833631",
+	  "size": "513981",
+	  "md5": "0c03d479601e6d61bcbb9471edd358a7",
+	  "crc32": "e439abe2",
+	  "sha1": "cdfda4b6e8065474da01ababaae2543583a0d420",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444833681",
+	  "size": "6259",
+	  "md5": "00d763014b4f9cbd56628735149aafee",
+	  "crc32": "5acac7eb",
+	  "sha1": "660aca1515d6db60cd53fc5fd09a4f9d238afa4f"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444833635",
+	  "size": "26600",
+	  "md5": "02696ac4856643bd7190d1b95f25be6f",
+	  "crc32": "3a8379ba",
+	  "sha1": "15f0d0f40c46e50a06390e57dfbb37839d962666",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444833684",
+	  "size": "1259",
+	  "md5": "fafa0af4ac7ea710613d7c16dffe4358",
+	  "crc32": "d96e43fc",
+	  "sha1": "50169db92844295e4a6cafebb428021db2de52ef"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444833638",
+	  "size": "379760",
+	  "md5": "f049901bb1b0223d2240402d65d81bf9",
+	  "crc32": "d5aae369",
+	  "sha1": "7388c45b4ae60262734ec6714755d5f9c8c4b9d7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444833687",
+	  "size": "5521",
+	  "md5": "28c5aad3b51d3a164d7a481207acf02a",
+	  "crc32": "b435bf5b",
+	  "sha1": "7d1e0ef0134f58b6afdf220585e22d51fae5ff66"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1444833641",
+	  "size": "388237",
+	  "md5": "7305c290bb57b91ba94fb0de71ecdeed",
+	  "crc32": "efd493d9",
+	  "sha1": "961b0054121c0a4e2e12b4342afab2589e7331fd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1444833688",
+	  "size": "5821",
+	  "md5": "1e14ec57fc12739f062ec55dfb3d9e60",
+	  "crc32": "b4b1b776",
+	  "sha1": "167e6fd10dcae6679c64127be8e675fd439403e8"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1444833646",
+	  "size": "480362",
+	  "md5": "dfb08e57b0b8e3c5eb72378a02c18528",
+	  "crc32": "6c822168",
+	  "sha1": "625a49e5feb8e980a200c7d0883e3717e778986e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1444833685",
+	  "size": "5996",
+	  "md5": "9fa947d9a22310a3397cc6cfd82a1d35",
+	  "crc32": "fbd03674",
+	  "sha1": "ce0ff2d6dc51452ed899452930d79586f349719f"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1444833649",
+	  "size": "521128",
+	  "md5": "4e6d529aaab46e3e2a65ae99b8559c99",
+	  "crc32": "a927f712",
+	  "sha1": "7c006b853ead59dd952e3fa5bfffaf82056b5e43",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1444833685",
+	  "size": "6249",
+	  "md5": "d87bf48c583bfca2d4ff9a333b03a7f1",
+	  "crc32": "c94d35ea",
+	  "sha1": "2b1e03cdd5a1b00b1f78966185e088d02ebd4d2c"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1444833651",
+	  "size": "505723",
+	  "md5": "e90673bf04ab60689aad50ad91e2c76e",
+	  "crc32": "703549c5",
+	  "sha1": "87bb7ae81a9df01b3252f739eb25bcf61f502a3f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1444833686",
+	  "size": "6291",
+	  "md5": "aeffdd2dea3365d4e1d8b840ad9a3970",
+	  "crc32": "2eb442a3",
+	  "sha1": "855ba3a5cf64c7e2a43dc722f5f0c534c0518aea"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800807.us.archive.org\/18\/items\/A-trainDemo\/A-trainDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1150,
+	"week": 4,
+	"month": 6
+  }
+}

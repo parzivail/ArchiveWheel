@@ -1,0 +1,142 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/20/items/FormulaOneGrandPrix_1020",
+  "metadata": {
+	"identifier": [
+	  "FormulaOneGrandPrix_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1991"
+	],
+	"description": [
+	  "This slideshow displays tracks found in Formula One Grand Prix (aka World Circuit)."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Formula One Grand Prix Demo"
+	],
+	"year": [
+	  "1991"
+	],
+	"publicdate": [
+	  "2012-09-05 00:43:00"
+	],
+	"addeddate": [
+	  "2012-09-05 00:43:00"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"notes": [
+	  "1\/10\/16 - Online play tested.  Program does not load"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "wctrks.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/FormulaOneGrandPrix_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "b15e6df081a3ba26b1c505c006ceb83b009573a7",
+	  "mtime": "1476676390",
+	  "size": "1920",
+	  "md5": "b58344f99835aa87b03e5df55d553113",
+	  "crc32": "67b87465",
+	  "sha1": "a54683532c3f4fc47f975a37d8ee8c55369ee323",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FormulaOneGrandPrix_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "266abfdbed8ea5b84c4f16ea7fb1a979"
+	},
+	"\/FormulaOneGrandPrix_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476676389",
+	  "size": "1036",
+	  "md5": "aab2bbebe927eb7af5b1fb6b32e13344",
+	  "crc32": "e857f763",
+	  "sha1": "51380ab6b86fc483667898b4ceef1fa64cc12714"
+	},
+	"\/WCTRKS.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476676360",
+	  "size": "445525",
+	  "md5": "2d7916be4dbca8ee78788097861440e9",
+	  "crc32": "f36b411e",
+	  "sha1": "f7df3b113a25151e5938d41cc1777a6f2c325a4f"
+	},
+	"\/resource_item_2787.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808716",
+	  "size": "22100",
+	  "md5": "de78cc2ed7e29e888bcc045a166bc2e5",
+	  "crc32": "01e26561",
+	  "sha1": "e7ac05baaba49728cea09f50a1dcb2ca5656f121",
+	  "rotation": "0"
+	},
+	"\/resource_item_2787.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808716",
+	  "size": "272",
+	  "md5": "05590b7cbc86b86f80148ba2507b5321",
+	  "crc32": "2a00bc73",
+	  "sha1": "86e05a6eb6908e4e28c13d138c6c6c239c28d9a8"
+	},
+	"\/resource_item_2787_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2787.jpg",
+	  "mtime": "1346820170",
+	  "size": "6204",
+	  "md5": "69a935c89cf48630eb2293fef2bbb41a",
+	  "crc32": "f90c1fe4",
+	  "sha1": "ab4e0919ebf5c6b73aeb3e14e5cad7b8df774b57"
+	},
+	"\/wctrks.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346805787",
+	  "size": "798",
+	  "md5": "9bfabdf0eef37f54b3e3eb448d1f5325",
+	  "crc32": "cbb25ed7",
+	  "sha1": "d9b7593e01c29e3e123006cfd510bf706ece7ee3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/20\/items\/FormulaOneGrandPrix_1020\/resource_item_2787_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1497,
+	"week": 6,
+	"month": 17
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "server": "ia600903.us.archive.org",
+  "dir": "/34/items/ToucheDemo",
+  "metadata": {
+	"identifier": [
+	  "ToucheDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Clipper Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "The game takes place in 1562 France. The protagonist is Geoffroi Le Brun who is recruited to a company of musketeers (the historical Musketeers of the Guard were not created until 1622) in Rouen. As he arrives, he witnesses the murder of the Compte d'Itee and promises to find his stolen will and deliver it to Paris. Early in his adventure he hires Henri, a crook who poses as a beggar, as his manservant. The pair travel through France including St. Quentin, Le Mans, Amiens and Le Havre."
+	],
+	"publisher": [
+	  "U.S. Gold"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Touch\u00e9: The Adventures of the Fifth Musketeer Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-07-20 13:15:32"
+	],
+	"addeddate": [
+	  "2013-07-20 13:15:32"
+	],
+	"notes": [
+	  "This demo must be installed to C:\\touche and mounted as a CD-ROM in DOSBox (-t cdrom)"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232906[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_31"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "TOUCHE.EXE"
+	]
+  },
+  "files": {
+	"\/ToucheDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6280556a758ab6d23565b0faaf804b2a"
+	},
+	"\/ToucheDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1374326199",
+	  "size": "14336",
+	  "md5": "75b42367ae7a55aac92d6ed78a468736",
+	  "crc32": "bc524773",
+	  "sha1": "d7d91a0371862f15bbecb464380b299182e5f69c"
+	},
+	"\/ToucheDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476465507",
+	  "size": "1575",
+	  "md5": "9068e60827a409c49fac99e7a0165215",
+	  "crc32": "49bd0e96",
+	  "sha1": "f6622f7dfd38c19008f87bbcaf47b4890b32edda"
+	},
+	"\/touche_demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1374326132",
+	  "size": "203864",
+	  "md5": "a83063bcdc925b6e8698932999a17b8f",
+	  "crc32": "806bc862",
+	  "sha1": "d037e7bb38a93f8468ddccfb0b70cef0d4e90a5b"
+	},
+	"\/touche_demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1374326196",
+	  "size": "38301416",
+	  "md5": "b5ed7b22114d4ed217fd2440e7f5dca9",
+	  "crc32": "8e853a1a",
+	  "sha1": "6f68e3654e0ebfb185215e0939f43bb340c49e34"
+	},
+	"\/touche_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "touche_demo.png",
+	  "mtime": "1374326212",
+	  "size": "6164",
+	  "md5": "2963e8b84229011c6ec82bbf95f6e66b",
+	  "crc32": "5e2a087e",
+	  "sha1": "8277650384d60c65c7e2e88fdc785ba7ff39274e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600903.us.archive.org\/34\/items\/ToucheDemo\/touche_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 224,
+	"week": 3,
+	"month": 5
+  }
+}

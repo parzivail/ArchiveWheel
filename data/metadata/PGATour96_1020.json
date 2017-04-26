@@ -1,0 +1,130 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/8/items/PGATour96_1020",
+  "metadata": {
+	"identifier": [
+	  "PGATour96_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Hitmen Productions"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Released in 1995 it was the first game of the genre to use 3D courses."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "PGA Tour 96 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 07:34:30"
+	],
+	"addeddate": [
+	  "2012-09-04 07:34:30"
+	],
+	"year": [
+	  "1995"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/PGA96.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346744634",
+	  "size": "54006074",
+	  "md5": "f06da8e5648181e56378ef1e4bc0dc14",
+	  "crc32": "18fd29a2",
+	  "sha1": "390306c0dfa5763099163b450de4ac3d7f874199"
+	},
+	"\/PGA96.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744634",
+	  "size": "759",
+	  "md5": "5738bb1cbee2e6717bce59f77478dea5",
+	  "crc32": "ead16cfb",
+	  "sha1": "2aed4a951d391da72e5ea5b18c7a757e38661162"
+	},
+	"\/PGATour96_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "38b89fcc85bd11abd3c47db5114c32e1368e1072",
+	  "mtime": "1476202509",
+	  "size": "3899",
+	  "md5": "c5d13eb1a3ec7b8219b427a64d441092",
+	  "crc32": "ab8688d9",
+	  "sha1": "672aa23bc15516b9cfde424751fb42f57a23f528",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PGATour96_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "add756dfb2355d5cb3411a117f0ddcc0"
+	},
+	"\/PGATour96_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476202507",
+	  "size": "830",
+	  "md5": "3fda056a8c7c15bd380979dec122aec5",
+	  "crc32": "d218f234",
+	  "sha1": "fb7e253c774584b6aa2bf13f86dfb0d89fb461a3"
+	},
+	"\/resource_item_1886.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346744636",
+	  "size": "15674",
+	  "md5": "0e9ce587e1fb4c8b382563a9acde6238",
+	  "crc32": "cab17aea",
+	  "sha1": "8ce1590b41e625ede380fafd9ad4c36647e14989",
+	  "rotation": "0"
+	},
+	"\/resource_item_1886.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744636",
+	  "size": "272",
+	  "md5": "2daeb6ae4f641cd0d5426c216ff42bf6",
+	  "crc32": "4ab92343",
+	  "sha1": "0505cbffe1b3c88607ffa68a9612fbe51b3f1a95"
+	},
+	"\/resource_item_1886_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1886.jpg",
+	  "mtime": "1346745132",
+	  "size": "4913",
+	  "md5": "638bdd2ff36cd6a780ad170eb94c1679",
+	  "crc32": "4c2efd2b",
+	  "sha1": "fa6ed288ceefacc544e3a5327a3854090e3fc0c4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/8\/items\/PGATour96_1020\/resource_item_1886_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 830,
+	"week": 9,
+	"month": 13
+  }
+}

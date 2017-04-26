@@ -1,0 +1,127 @@
+{
+  "server": "ia600502.us.archive.org",
+  "dir": "/16/items/Daemonica",
+  "metadata": {
+	"identifier": [
+	  "Daemonica"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "CINEMAX"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "<div>In Daemonica, you take the role of Nicholas Fayrepoint, a sort of demon hunter-cum-private eye in a small town in a fantasy world that's subject to a curse. Your job, naturally, is to figure out what's going wrong, and set things right.<\/div><div><br \/><\/div><div>The game is in essence built as 3D RPG, with a simple point-and-click combat system, inventory, character advancement, and the like; but the gameplay is much more like a classic graphic adventure, with puzzles to be solved and characters from whom you must extract information.<\/div>"
+	],
+	"developer": [
+	  "RA Images"
+	],
+	"publisher": [
+	  "Meridian4"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Daemonica Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-04-02 19:44:44"
+	],
+	"addeddate": [
+	  "2014-04-02 19:44:44"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231618[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905806_8"
+	]
+  },
+  "files": {
+	"\/Daemonica.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1396467883",
+	  "size": "438547444",
+	  "md5": "27d5080b885cc93634f203c190fca18b",
+	  "crc32": "379fc6f9",
+	  "sha1": "98180321f49669ae43356555a9ff9972f17b197b"
+	},
+	"\/Daemonica.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1396467896",
+	  "size": "453557",
+	  "md5": "3753fdbae1ef9918d45ffca68714f629",
+	  "crc32": "6d41fbf7",
+	  "sha1": "a92c24dd6286e6561f6ed9a5d305f37efe7560f4",
+	  "rotation": "0"
+	},
+	"\/Daemonica_archive.torrent": {
+	  "source": "original",
+	  "btih": "0fc5eccea09efde5c5866681c21de52539f45e89",
+	  "mtime": "1474592848",
+	  "size": "18705",
+	  "md5": "ab64f928f5b708b48cc2b6abfdecb1bd",
+	  "crc32": "089232f2",
+	  "sha1": "1c9768583fc476a48cffc8aea21b4ec23553d06c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Daemonica_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f34f5f63ad4c4df4301734de0c4d9640"
+	},
+	"\/Daemonica_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1396467916",
+	  "size": "14336",
+	  "md5": "0cfee23eca2a325861cc14fccf93cb1f",
+	  "crc32": "df43e17b",
+	  "sha1": "caa240c9b4d37804ae459798c60a917a6ca836c2"
+	},
+	"\/Daemonica_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474592843",
+	  "size": "1414",
+	  "md5": "dad12f220d61a7109cf1cdd96288ddef",
+	  "crc32": "203c8c8c",
+	  "sha1": "acaedd929ee65e160cf035c45fc5662673e28611"
+	},
+	"\/Daemonica_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Daemonica.jpg",
+	  "mtime": "1396468482",
+	  "size": "4879",
+	  "md5": "826f1a22e85147365417cacc1ad5638c",
+	  "crc32": "a366224e",
+	  "sha1": "07e4261ae25fc1c54952a63331feab905bff1003"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600502.us.archive.org\/16\/items\/Daemonica\/Daemonica_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1681,
+	"week": 14,
+	"month": 51
+  }
+}

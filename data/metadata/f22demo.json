@@ -1,0 +1,236 @@
+{
+  "server": "ia902703.us.archive.org",
+  "dir": "/24/items/f22demo",
+  "metadata": {
+	"identifier": [
+	  "f22demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "NovaLogic"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Take to the skies in America's high-tech fighter of the future-the F-22 Lighting II. This multi-role aircraft combines stealth characteristics with an awesome inventory of air-to-air and air-to-ground weaponry. The F-22's low-observable technology makes it virtually invisible to the enemy, that is, until you're ready to attack with precision guided munitions like the 1000 lb. JDAM (Joint Direct Attack Munitions).<\/div><div><br \/><\/div><div>Use your stealth characteristics to slip through enemy airspace undetected. Take out strategic targets like nuclear weapon facilities and chemical warfare plants or tactical targets like armored vehicles, Scud missile launchers and SAM sites. It's not always this easy though. Get spotted on radar and you'll find yourself having to square off against the best aircraft the enemy can muster. You'll be dogfighting fighters like the sleek Su-27 Flanker, venerable MiG-29 Fulcrum, even the nimble EF-2000 Eurofighter.<\/div><div><br \/><\/div><div>This award-winning simulation comes complete with four campaigns and over 35 separate missions specifically designed to be both fun AND challenging. Play these missions alone or in a multi-player cooperative mode that lets you connect with up to seven other players and re-fight the single-player missions as a member of a F-22 squadron. For the ultimate in multi-player gaming, you can even fly head-to-head against your friends in Death Match mode.<\/div><div><br \/><\/div><div>Based on manufacturer's specs, this simulation has been flight tested for accuracy by military pilots. It's as close as most of us will ever get to flying an actual F-22 without a commission.<\/div>"
+	],
+	"publisher": [
+	  "NovaLogic"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "F-22 Lightning II Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-12-08 15:27:56"
+	],
+	"addeddate": [
+	  "2014-12-08 15:27:56"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "f22.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905907_29"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475722412",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475722451",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/F22.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475254297",
+	  "size": "7113844",
+	  "md5": "3cf90226861455819c7d555d729714a2",
+	  "crc32": "b09ddb03",
+	  "sha1": "56be7c9beff58ce71442a84db4d557827be99cea"
+	},
+	"\/F22_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475722428",
+	  "size": "165935",
+	  "md5": "30ff86f263c8f93996b139cbf6f96c5d",
+	  "crc32": "444e84d8",
+	  "sha1": "f283e9fecaa88e97ea22c7ca443f0df37e38e157",
+	  "format": "Emulator Screenshot"
+	},
+	"\/f22_000.png": {
+	  "source": "original",
+	  "mtime": "1418052475",
+	  "size": "35205",
+	  "md5": "9ba66cebe54dc900287275224c39c918",
+	  "crc32": "baca24a7",
+	  "sha1": "e42cddff6b8c34293d673cf754da19488e3a3afc",
+	  "format": "PNG"
+	},
+	"\/f22_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "f22_000.png",
+	  "mtime": "1418063617",
+	  "size": "3792",
+	  "md5": "3e2bf5889c813085172dc8ec2c2dfddd",
+	  "crc32": "af5f428c",
+	  "sha1": "7b847d58c6a58ef7c5f4777a4b0ec46f38d94666"
+	},
+	"\/f22demo.exe": {
+	  "source": "original",
+	  "mtime": "1418052495",
+	  "size": "7676073",
+	  "md5": "f4ce6b585cec0226db4af688c9d2259c",
+	  "crc32": "5d421c0d",
+	  "sha1": "37720745d61a9627e1478cde6f7b3604a51ad5d0",
+	  "format": "Windows Executable"
+	},
+	"\/f22demo.gif": {
+	  "source": "original",
+	  "mtime": "1475722425",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/f22demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "66853c0228b791e1b203aa40c187fa83887007f6",
+	  "mtime": "1475722459",
+	  "size": "4414",
+	  "md5": "5e832df213f013896574cc8e08f8a395",
+	  "crc32": "8c3f030e",
+	  "sha1": "dd1ca41125abeb9b24a5ed17bdc345c5cb286848",
+	  "format": "Archive BitTorrent"
+	},
+	"\/f22demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e81b06bc9a54f6ec383b3eb8eae96125"
+	},
+	"\/f22demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475722434",
+	  "size": "18432",
+	  "format": "Metadata",
+	  "md5": "7649e7e460bf7a2773c75962719476d0",
+	  "crc32": "d6f872e0",
+	  "sha1": "a12d19873ee85915c2ebca1ea0cb94d5e829b40c"
+	},
+	"\/f22demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1475568733",
+	  "size": "2539",
+	  "format": "Metadata",
+	  "md5": "c32e69d1c2ee5b71b9b285a2e6f5a96c",
+	  "crc32": "644811ff",
+	  "sha1": "9a9bd8f77f4b6dc3dd5aba266222396bde4df951"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475722415",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475722453",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475722418",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475722454",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475722420",
+	  "size": "49318",
+	  "md5": "13d5ba2cccd3a66f15549714d5fc96d9",
+	  "crc32": "0ed57c34",
+	  "sha1": "52ff85893a0f732a3540c4132f9f106c41b28385",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475722456",
+	  "size": "2712",
+	  "md5": "71ddb5aaea8e3946a5a1e58e6d2fa7d6",
+	  "crc32": "16088084",
+	  "sha1": "a8cf50c984072f5ab7417526bdac8717820161c9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902703.us.archive.org\/24\/items\/f22demo\/f22demo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 783,
+	"week": 6,
+	"month": 25
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/15/items/BetrayalAtKrondorDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Betrayal at Krondor Demo"
+	],
+	"description": [
+	  "\"Midkemia -- a realm of enchantment and ancient magic where elves, dwarves and man once battled an unimaginable evil across rifts in time and space. The legends tell of a boy named Pug who would become Master Magician. His friend, Tomas, who would wield the unearthly armor of the Valheru and command the armies of Elvandar. The land called Kelewan, the Dark Order of the Serpent Priests and the final titanic battle at Sethanon. It was an epic tale of villains and heroes, magic and men.\n\nNow, Dynamix has joined with Raymond E. Feist, creator of the best-selling Riftwar Saga, to create a revolutionary fantasy role-playing experience and an all-new tale in the Riftwar legacy--Betrayal at Krondor. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Dynamix"
+	],
+	"identifier": [
+	  "BetrayalAtKrondorDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 09:30:00"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"publicdate": [
+	  "2012-08-05 09:30:31"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "krondor.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475186243",
+	  "size": "419055",
+	  "md5": "19c6ce6e40c5b9492236e8f509a0302b",
+	  "crc32": "005b2eb6",
+	  "sha1": "183a04898c0b9b390466bcfb2a8e6f70da8f469c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475186300",
+	  "size": "5101",
+	  "md5": "e6d7e741b24c380f5943c178e81d3c04",
+	  "crc32": "02b72188",
+	  "sha1": "d4af617c9609bcb566737a5d83f22734fac4948b"
+	},
+	"\/BetrayalAtKrondorDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475186271",
+	  "size": "127760",
+	  "md5": "b4ee843a0f39cf5cc6a09ca001b4d170",
+	  "crc32": "dc3ee472",
+	  "sha1": "e0a2b06cc159e0586e4355e566b3eb9f7024ef20",
+	  "format": "Animated GIF"
+	},
+	"\/BetrayalAtKrondorDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2c2fa047cd015b1b7f830ffa407c7f165d764a98",
+	  "mtime": "1475186310",
+	  "size": "6129",
+	  "md5": "e3a035540e878fa02d6c812eb30e15bd",
+	  "crc32": "6df399e7",
+	  "sha1": "a9a1c54762ed2f6ad31ecea9b2f56da09003da4c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BetrayalAtKrondorDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "bf36204a7269783c1834f19e741073aa"
+	},
+	"\/BetrayalAtKrondorDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475186282",
+	  "size": "12288",
+	  "md5": "4188e0009ac8c2e640993a1fa8416b77",
+	  "crc32": "d230bafd",
+	  "sha1": "ba8dd37d4001bd5fc1d4f8550e7b71db31e904f0",
+	  "format": "Metadata"
+	},
+	"\/BetrayalAtKrondorDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471818701",
+	  "size": "1584",
+	  "md5": "51e5a399af0f0c47dee51d118e95d0df",
+	  "crc32": "18073f37",
+	  "sha1": "405fe0543dd64560053ea4b5f2757ce104d06002"
+	},
+	"\/bakdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471818656",
+	  "size": "1335473",
+	  "md5": "8f8d7167b73af2d3177d6ad7611dc75e",
+	  "crc32": "188e25b1",
+	  "sha1": "ec255f5821af0485b4c3c8e9a3e214621a58026a"
+	},
+	"\/bakdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475186278",
+	  "size": "938326",
+	  "md5": "b32d91833c55774adb3f7f7fe5fde097",
+	  "crc32": "85a37ee0",
+	  "sha1": "a77e855c9ef3919c01285a11353063e29ee2effe",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_439.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344158978",
+	  "size": "14993",
+	  "md5": "b0f95ac7e10c1d96901f95bc0b543007",
+	  "crc32": "d562d9b6",
+	  "sha1": "17ad3ab8c36dab8ab4a0b43c01f34b73dfff0332",
+	  "rotation": "0"
+	},
+	"\/resource_item_439_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_439.jpg",
+	  "mtime": "1344159015",
+	  "size": "4310",
+	  "md5": "e788d8d67e9033e861c3eb5b88026101",
+	  "crc32": "b02d562e",
+	  "sha1": "cdc2e3e2a297e3aee70b184f0c7272e7a81f1f4a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475186245",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475186295",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475186248",
+	  "size": "369656",
+	  "md5": "53db641909cfd8af22f2e67c10618e81",
+	  "crc32": "3a115afc",
+	  "sha1": "c4b45810f54a038e06859146793bd3312a4ec53a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475186297",
+	  "size": "4139",
+	  "md5": "5d30286708f5635cb3229beb9efe47fd",
+	  "crc32": "4d5e3f4b",
+	  "sha1": "152cb09497ad9712b5ab5ba052f75fa5cf906575"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475186250",
+	  "size": "418999",
+	  "md5": "12199d65ef3bc68b812c1ef7a8ebe49c",
+	  "crc32": "457263a9",
+	  "sha1": "43814ae4e69ead78bd3a22d59439815c4a609ea0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475186299",
+	  "size": "5101",
+	  "md5": "c4e56aa57165d715309cb7ab696f9e3e",
+	  "crc32": "8b59904b",
+	  "sha1": "132572011141f44a92b8a84d53bd571d84bb0078"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475186252",
+	  "size": "419055",
+	  "md5": "19c6ce6e40c5b9492236e8f509a0302b",
+	  "crc32": "005b2eb6",
+	  "sha1": "183a04898c0b9b390466bcfb2a8e6f70da8f469c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475186301",
+	  "size": "5101",
+	  "md5": "e6d7e741b24c380f5943c178e81d3c04",
+	  "crc32": "02b72188",
+	  "sha1": "d4af617c9609bcb566737a5d83f22734fac4948b"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475186255",
+	  "size": "412282",
+	  "md5": "bd931582fdc50689022db65a705cd3f1",
+	  "crc32": "6ef0ed0e",
+	  "sha1": "3ab10d1207978bde529fa697d57f4c253408a7dc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475186302",
+	  "size": "5184",
+	  "md5": "00d7c0464aa68c40a4cb159bf6f58e8f",
+	  "crc32": "fb09b5b1",
+	  "sha1": "89fa406ef80824582dc2e1f4187f5b4844920f79"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475186257",
+	  "size": "371176",
+	  "md5": "61fd6f912f305c96f60846a722d7afaa",
+	  "crc32": "853e3890",
+	  "sha1": "a2abce76cf1f457336559b921bc4d6480674339d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475186308",
+	  "size": "4832",
+	  "md5": "7f89d7f859c632fe200a03170de37b1a",
+	  "crc32": "e6ea06fc",
+	  "sha1": "d3ff542453ecbd610aaed3765646b43a642e7ba0"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475186260",
+	  "size": "259063",
+	  "md5": "bd0c2dac5bf60d703d79f7ac8f078e85",
+	  "crc32": "b9a182c3",
+	  "sha1": "9cd2a1549adac6ab081c7170418179d02b020f8a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475186303",
+	  "size": "3792",
+	  "md5": "8b6bd9db525e5363ac92ec5a6ff8da56",
+	  "crc32": "0620c5d0",
+	  "sha1": "0c9476b4d9d20f9f64867bd81502bb3be1eb442e"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475186266",
+	  "size": "259434",
+	  "md5": "15a147c95a8af660f9ce021bffa1eac5",
+	  "crc32": "ee185677",
+	  "sha1": "01f4db4e71fb30728525162fd4de630ba23fce08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475186304",
+	  "size": "3793",
+	  "md5": "eefce8f6c9f3e2f8f408388ecfa72e56",
+	  "crc32": "7c6f326b",
+	  "sha1": "03eb9dd690a357aa681d459ac1b45e1f9df4a64c"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475186268",
+	  "size": "346238",
+	  "md5": "462dd5975639f0338f87f797033f9321",
+	  "crc32": "88c03e6b",
+	  "sha1": "5488fdd37e40ef25c863594db57f1855e7edee1f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475186306",
+	  "size": "5532",
+	  "md5": "d9b321b07f2d81946e7b1aac0b786d91",
+	  "crc32": "1f6f3c22",
+	  "sha1": "0ff612fcec8bbf800826bb6a4d91d3750f077031"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/15\/items\/BetrayalAtKrondorDemo\/BetrayalAtKrondorDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 523,
+	"week": 5,
+	"month": 14
+  }
+}

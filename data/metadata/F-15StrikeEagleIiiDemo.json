@@ -1,0 +1,214 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/5/items/F-15StrikeEagleIiiDemo",
+  "metadata": {
+	"identifier": [
+	  "F-15StrikeEagleIiiDemo"
+	],
+	"title": [
+	  "F-15 Strike Eagle III Demo"
+	],
+	"creator": [
+	  "MicroProse Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Squeeze into cockpit of the F-15 Strike Eagle III and prepare yourself for the most thrilling flight simulator you'll ever pilot! Because MPS Labs has filled this F-15 with more spectacular features than ever before! You'll experience a revolutionary new visual system! Incredible new photorealistic starting and ending screens! Amazing two-player capabilities! And modern high-tech opponents as ruthless as those faced by real F-15 pilots! It's nothing short of striking!"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:35:29"
+	],
+	"addeddate": [
+	  "2012-02-23 02:35:11"
+	],
+	"publisher": [
+	  "MicroProse Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:36:00"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "F15.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475257524",
+	  "size": "15564",
+	  "md5": "593e3c775e3b43c4321beea407f4dfbc",
+	  "crc32": "668da223",
+	  "sha1": "69945835069bab9c877f5ba0170dd1cb2b08202a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475257555",
+	  "size": "1225",
+	  "md5": "860e23aa09c919b23c722b48ec12536f",
+	  "crc32": "5db956cc",
+	  "sha1": "07239e601e6e8fdeee003f45da712bf52c63b1d5"
+	},
+	"\/F-15StrikeEagleIiiDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475257533",
+	  "size": "1884",
+	  "md5": "5113d43931749e64988fe7e9283f3670",
+	  "crc32": "6f29fd58",
+	  "sha1": "f4e99daa3c301f5afe887d611218aae08c7e2898",
+	  "format": "Animated GIF"
+	},
+	"\/F-15StrikeEagleIiiDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "98a2666082de69f18d60f6eb9a6d64caaa8e4bf0",
+	  "mtime": "1475257566",
+	  "size": "3559",
+	  "md5": "b98a348aee6716372927df6263959d87",
+	  "crc32": "63f732bc",
+	  "sha1": "a2c3f1f5dca44232bbb04429d4a207295791070b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/F-15StrikeEagleIiiDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "981a7a6681de9bce884920cc973e03fe"
+	},
+	"\/F-15StrikeEagleIiiDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475257549",
+	  "size": "8192",
+	  "format": "Metadata",
+	  "md5": "b2927e318ce4b75bec5c8ca7a6c5adba",
+	  "crc32": "136850cf",
+	  "sha1": "72be9dc8ec4c2d3f72dd07f03264765cc234f552"
+	},
+	"\/F-15StrikeEagleIiiDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471792616",
+	  "size": "1445",
+	  "md5": "a36c857985b7feb93af27073e0cf6c0b",
+	  "crc32": "91dd55bc",
+	  "sha1": "93cf2b255b4d24497baeb06bb6374851b11805e5"
+	},
+	"\/F-15StrikeEagleIiiScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "F-15 Strike Eagle III Screenshot",
+	  "mtime": "1329964484",
+	  "size": "7590",
+	  "md5": "8363565dd100015428fb107fb50480ca",
+	  "crc32": "8e367e4a",
+	  "sha1": "4301ca8ed47861b36fc0d510afcac50d1572c486",
+	  "rotation": "0"
+	},
+	"\/F-15StrikeEagleIiiScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "F-15StrikeEagleIiiScreenshot.jpg",
+	  "mtime": "1329964522",
+	  "size": "2378",
+	  "md5": "9a9fd354528fa77c35333eb25ff221a4",
+	  "crc32": "3f8118",
+	  "sha1": "ec25b029cc4243c89bb7e6157cbb6c1aa0ad5a8c"
+	},
+	"\/f15.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452477762",
+	  "size": "797599",
+	  "md5": "a38b5b50278f53d4b9d4909e596fa529",
+	  "crc32": "feb71387",
+	  "sha1": "4d94f5c48def07924a995d97423eed78f04db403"
+	},
+	"\/f15iii-playable.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471792672",
+	  "size": "767978",
+	  "md5": "5b23b0d1e21ef6a04dd8dc01d207df2f",
+	  "crc32": "24af2814",
+	  "sha1": "077089cf0ca154c28e0ad260b14dc5784205c95a"
+	},
+	"\/f15iii.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329964485",
+	  "size": "202147",
+	  "md5": "1911d3db465b6c20b5dd217808d85384",
+	  "crc32": "eae010e9",
+	  "sha1": "1371db79c3bcb42795ac7bdf66597f7d6d908836",
+	  "title": "F-15 Strike Eagle III Demo (Non-Playable)"
+	},
+	"\/f15iii_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475257542",
+	  "size": "3873",
+	  "md5": "f35a9a04c0e41d5777c37521be3f0e51",
+	  "crc32": "cded85fc",
+	  "sha1": "c69eb2ccde7ef6567e3cce767773417876774308",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475257527",
+	  "size": "15564",
+	  "md5": "593e3c775e3b43c4321beea407f4dfbc",
+	  "crc32": "668da223",
+	  "sha1": "69945835069bab9c877f5ba0170dd1cb2b08202a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475257562",
+	  "size": "1225",
+	  "md5": "860e23aa09c919b23c722b48ec12536f",
+	  "crc32": "5db956cc",
+	  "sha1": "07239e601e6e8fdeee003f45da712bf52c63b1d5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/5\/items\/F-15StrikeEagleIiiDemo\/F-15StrikeEagleIiiDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1095,
+	"week": 5,
+	"month": 13
+  }
+}

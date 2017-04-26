@@ -1,0 +1,130 @@
+{
+  "server": "ia600703.us.archive.org",
+  "dir": "/32/items/TimeGateKnightsChase_1020",
+  "metadata": {
+	"identifier": [
+	  "TimeGateKnightsChase_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Infogrames"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Time Gate: Knight's Chase Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 09:52:24"
+	],
+	"addeddate": [
+	  "2012-09-04 09:52:24"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Explore the eerie museum of the Middle Ages. Dodge the deadly blows of the grim Black Knights. Rescue your fiancee JULIETTE from the claws of the Inquisition.\nBack through time, clash with WOLFRAM, the lord of the dark forces. But take care! To return to 1995, only one path exists: the TIME GATE.\n\nAre you ready to step through the Gates of Time?\nWill you be able to unravel the secrets of the cursed Order?\nCan you solve the mystery of the Knights Templar's Treasure?\nAnd you, William TIBBS, are you ready to take up this challenge?\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/TIMEGATE.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346752611",
+	  "size": "25674465",
+	  "md5": "5fb30fe0c40a432c16eb4f3526b89d22",
+	  "crc32": "341f655b",
+	  "sha1": "83f466402d8d02d901aaa04c353f23445cd490cf"
+	},
+	"\/TIMEGATE.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752611",
+	  "size": "661",
+	  "md5": "140b2c7e3b361b654929c418f85b1bd6",
+	  "crc32": "c036d547",
+	  "sha1": "2cf1ecca516dab61b47d0e982347e05d0e340a48"
+	},
+	"\/TimeGateKnightsChase_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d5fa1c287e11a8ddf2e4e05144809621e85192eb",
+	  "mtime": "1476204123",
+	  "size": "2914",
+	  "md5": "29cb6c77dadb4edb31ca8533e493ca10",
+	  "crc32": "52c22b5a",
+	  "sha1": "5646538b698b0d74f95f3b5bb60e509f136f8631",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TimeGateKnightsChase_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "76ffb62baa096e3ab6503a904733a45a"
+	},
+	"\/TimeGateKnightsChase_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204122",
+	  "size": "1308",
+	  "md5": "1aa6e64827d465d7818ac5ffbc4b9455",
+	  "crc32": "57db20b6",
+	  "sha1": "a5f1ab67e90a6e64b4f2c896a00bbc99ef39ba03"
+	},
+	"\/resource_item_2020.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346752613",
+	  "size": "16206",
+	  "md5": "bce9e1a8152acc8a6e90f345839deef7",
+	  "crc32": "6ca21323",
+	  "sha1": "eac0b306ebb984a92a60bcef31e9a3d8eede5c1a",
+	  "rotation": "0"
+	},
+	"\/resource_item_2020.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752613",
+	  "size": "272",
+	  "md5": "a038a847a79689ea2d8b6c3f15d8c21b",
+	  "crc32": "cb047a00",
+	  "sha1": "205417285002b1324a1d882a56381a3d7203b704"
+	},
+	"\/resource_item_2020_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2020.jpg",
+	  "mtime": "1346753593",
+	  "size": "4919",
+	  "md5": "7f5b85d4028dd5c8d18aaa626b53ffb9",
+	  "crc32": "c2462745",
+	  "sha1": "7f6f123d10db4aa6e1a36553a61bbfd89990a42b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600703.us.archive.org\/32\/items\/TimeGateKnightsChase_1020\/resource_item_2020_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 760,
+	"week": 4,
+	"month": 11
+  }
+}

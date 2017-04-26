@@ -1,0 +1,215 @@
+{
+  "server": "ia800302.us.archive.org",
+  "dir": "/20/items/TheElderScrollsDaggerfall_1020",
+  "metadata": {
+	"identifier": [
+	  "TheElderScrollsDaggerfall_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bethesda Softworks"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "The Elder Scrolls: Daggerfall Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:46:46"
+	],
+	"addeddate": [
+	  "2012-09-04 00:46:46"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "\"The Elder Scrolls: Daggerfall is the second chapter in the highly acclaimed Elder Scrolls role-playing series. Its predecessor, TES: Arena, won over twenty Best Role Playing Game of the Year awards and set a new level for computer role playing. TES: Daggerfall is the most ambitious CRPG ever created and surpasses the high standard set in Arena.\n\nDaggerfall offers you an opportunity to adventure in total freedom within a world where your destiny is of your own making and consequence evolves from your decisions. A world of love and darkness, magic and sorcery. Whether you choose to follow a quest or to venture out alone, you will interact with thousands of people as you travel across an expansive land in a time of fantasy and imagination. \""
+	],
+	"notes": [
+	  "Bethesda has released this game as freeware (7\/2009), and the full version can be downloaded from here: http:\/\/www.elderscrolls.com\/daggerfall\/ (148 MB)\n\nFor the online play you must make the game full screen to capture the mouse correctly.  If you click in the small window with the mouse it will register you exiting the game when it captures the mouse."
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233847[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "dagger"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475547036",
+	  "size": "329167",
+	  "md5": "1eab4551506c216c639327a7c94c15d8",
+	  "crc32": "d5fc4cb9",
+	  "sha1": "e77cb7b986dee4d8eaa48f8b4563c90bcd65619f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475547069",
+	  "size": "5275",
+	  "md5": "4ac5eff8af5feeb46545a9450f320d46",
+	  "crc32": "6bc9632e",
+	  "sha1": "7d90a713aab4ac69b0d212f61a4721bfb297c783"
+	},
+	"\/TheElderScrollsDaggerfall_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475547041",
+	  "size": "121153",
+	  "md5": "fc80d981fe1ee6523cf30f19046801e5",
+	  "crc32": "0042b2e4",
+	  "sha1": "2c836c839c5beb2eaeae469c5b1451edae235637",
+	  "format": "Animated GIF"
+	},
+	"\/TheElderScrollsDaggerfall_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "906f4162ccfbc5f3f38e8fe1e8fa7b343c129ce0",
+	  "mtime": "1475547073",
+	  "size": "4208",
+	  "md5": "943bda888dc2888c6cc43db05ca84f88",
+	  "crc32": "faa616e0",
+	  "sha1": "d405a2561aff75f75bb6cbf565587adda9076097",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheElderScrollsDaggerfall_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4ecf4e14e01d5a81346cdf803668e1e0"
+	},
+	"\/TheElderScrollsDaggerfall_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475547049",
+	  "size": "8192",
+	  "md5": "640ef0d57fefc7ffe566d837a70b200b",
+	  "crc32": "4990f2ca",
+	  "sha1": "c15d7d5fe6b262e43580f20bf6f121b5ae1553b3",
+	  "format": "Metadata"
+	},
+	"\/TheElderScrollsDaggerfall_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465011470",
+	  "size": "1972",
+	  "md5": "4e55bebaf77fdb551b627c428665d53b",
+	  "crc32": "ab19336b",
+	  "sha1": "8f74d2e104a7a8027302237f14aa582808db349a"
+	},
+	"\/dagdemo.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452445409",
+	  "size": "10107250",
+	  "md5": "95aca84084b448a4a85050a3a0a2cd4c",
+	  "crc32": "9cf1e119",
+	  "sha1": "a90b7a1f806bb9478eff9005742ca958b312ec22"
+	},
+	"\/dagdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346719704",
+	  "size": "10112013",
+	  "md5": "fe4b9668312237763788318a280bec8b",
+	  "crc32": "71a9d518",
+	  "sha1": "99bad1b86be3f7b77fdc3d1b242787ee8db2a2d4"
+	},
+	"\/dagdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719704",
+	  "size": "642",
+	  "md5": "421f5a72b19f4d25f4dafef9027055fd",
+	  "crc32": "fec6a858",
+	  "sha1": "f3d6f8d21b722dc3ae44e8bd2a725b20aa9dc8d4"
+	},
+	"\/dagdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475547044",
+	  "size": "249813",
+	  "md5": "2f280a94bbb2afebef8e6b2eb30f0378",
+	  "crc32": "c127286b",
+	  "sha1": "41f4c923cda53f45b1d3f059c501b8dc5e2ed465",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1071.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346719706",
+	  "size": "16460",
+	  "md5": "80676b697c6fcf2656a2db51a47b9729",
+	  "crc32": "e35879c0",
+	  "sha1": "c6f0deb6c109f43392879b65dd632124bce32d1d",
+	  "rotation": "0"
+	},
+	"\/resource_item_1071.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346719706",
+	  "size": "272",
+	  "md5": "6cae721b5b008bdeaa14c76d10b4a057",
+	  "crc32": "87e6419e",
+	  "sha1": "49ca91b123216bc7b83c21720613f74b833741b6"
+	},
+	"\/resource_item_1071_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1071.jpg",
+	  "mtime": "1346720450",
+	  "size": "4828",
+	  "md5": "51f78c6de998615e73b8a8acf242ba9f",
+	  "crc32": "6c87e2b4",
+	  "sha1": "7af4bd67c98642c43b5514d0ba4c95ba2d7c3ef4"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475547039",
+	  "size": "329167",
+	  "md5": "1eab4551506c216c639327a7c94c15d8",
+	  "crc32": "d5fc4cb9",
+	  "sha1": "e77cb7b986dee4d8eaa48f8b4563c90bcd65619f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475547071",
+	  "size": "5275",
+	  "md5": "4ac5eff8af5feeb46545a9450f320d46",
+	  "crc32": "6bc9632e",
+	  "sha1": "7d90a713aab4ac69b0d212f61a4721bfb297c783"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800302.us.archive.org\/20\/items\/TheElderScrollsDaggerfall_1020\/TheElderScrollsDaggerfall_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 6873,
+	"week": 54,
+	"month": 167
+  }
+}

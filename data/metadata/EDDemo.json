@@ -1,0 +1,130 @@
+{
+  "server": "ia601807.us.archive.org",
+  "dir": "/9/items/EDDemo",
+  "metadata": {
+	"identifier": [
+	  "EDDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Niels Bauer Games"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "<div>In order to fight for the crown you need to build a mighty castle, lead a strong army, crawl dark dungeons, find great treasures and destroy your rivals. This highly addictive game from the creators of the known Smugglers series successfully combines strategy and role playing game elements. Using an easy-to-use interface you will find yourself playing and having fun in no time.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Empires & Dungeons Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2013-06-03 10:26:50"
+	],
+	"addeddate": [
+	  "2013-06-03 10:26:50"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233855[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905701_24"
+	]
+  },
+  "files": {
+	"\/EDDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "df2e0510dea83f02b9aefbf0e3745b666dc04dde",
+	  "mtime": "1474665910",
+	  "size": "2474",
+	  "md5": "1b9b66369319f20eded3d9d0700a247e",
+	  "crc32": "22b29c00",
+	  "sha1": "c30f4b530e194afb43879e903af026fea4acbbdf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/EDDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "678673ac3576623dfc8080368029206f"
+	},
+	"\/EDDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474665909",
+	  "size": "1171",
+	  "md5": "59d12f0373c58b69ceeebc3631c0f4f5",
+	  "crc32": "d35e014e",
+	  "sha1": "c72b032f96eff308979100ec8ac4b9c82aee3a9f"
+	},
+	"\/ED_Demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1370255209",
+	  "size": "18919691",
+	  "md5": "b24f5c21bfa02efddf3838e71ddc96fe",
+	  "crc32": "b8610e84",
+	  "sha1": "d8df97b0b3d6169367a077090aef81477fdf03fc"
+	},
+	"\/ED_Demo.exe_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370255209",
+	  "size": "1692",
+	  "md5": "2ba51a33801170c95881d3e27d48abfe",
+	  "crc32": "1125b0a8",
+	  "sha1": "d34422a7032d00f757bf7c4aae7e20dbec24ae97"
+	},
+	"\/ED_Demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1370255220",
+	  "size": "22075",
+	  "md5": "88fc4b80f9e0a855f24a9f01fe7be1b9",
+	  "crc32": "d7a3f013",
+	  "sha1": "70eacb925c56a56ac0e6fe0f04fca2777e3d7a80",
+	  "rotation": "0"
+	},
+	"\/ED_Demo.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370255221",
+	  "size": "1660",
+	  "md5": "440e02e7c0d0a8e20a5df70a45a0b764",
+	  "crc32": "573e03cd",
+	  "sha1": "2fa3d29bf0e61ad6709a87f54acf4a4f44caad6f"
+	},
+	"\/ED_Demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ED_Demo.jpg",
+	  "mtime": "1370255235",
+	  "size": "6347",
+	  "md5": "cfc81650647b1785441c3e5607f58f0f",
+	  "crc32": "163cf779",
+	  "sha1": "fd9583e91193335c7d4882e3f415bd18240193fa"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601807.us.archive.org\/9\/items\/EDDemo\/ED_Demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 166,
+	"week": 4,
+	"month": 7
+  }
+}

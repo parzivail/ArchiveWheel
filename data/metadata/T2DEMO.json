@@ -1,0 +1,126 @@
+{
+  "server": "ia601909.us.archive.org",
+  "dir": "/7/items/T2DEMO",
+  "metadata": {
+	"identifier": [
+	  "T2DEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Factor 5"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Turrican II: The Final Fight is the second game of the Turrican series. The game by Factor 5 was released in 1991 for the Commodore Amiga. This version was finished before the C64 version, but Manfred Trenz cites the C64 version as the original design. Turrican 2 was also released for the CDTV, Atari ST, Amstrad CPC and ZX Spectrum, and later for DOS, and also for the Mega Drive\/Genesis and Game Boy rebranded as Universal Soldier."
+	],
+	"publisher": [
+	  "Softgold Computerspiele"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Turrican II: The Final Fight Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-11-06 22:26:27"
+	],
+	"addeddate": [
+	  "2016-11-06 22:26:27"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "turrican.exe"
+	]
+  },
+  "files": {
+	"\/T2DEMO.zip": {
+	  "source": "original",
+	  "mtime": "1478471186",
+	  "size": "738422",
+	  "md5": "d847cbb7cb96fe93a4a3051a44a3fe8c",
+	  "crc32": "792824a8",
+	  "sha1": "856779fabb55befa11e405623d23fa4ceaa6f19c",
+	  "format": "ZIP"
+	},
+	"\/T2DEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "a52276e546f1579125e3e9aa3a25ec2ca711bdfb",
+	  "mtime": "1478471282",
+	  "size": "1952",
+	  "md5": "e137c7fafbbe93b2cde433097debd898",
+	  "crc32": "5fd07871",
+	  "sha1": "d71385a86d5a83202ebfa6557bee7e88aa598016",
+	  "format": "Archive BitTorrent"
+	},
+	"\/T2DEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4800fb8d28a1c2887d2a875e5971a204"
+	},
+	"\/T2DEMO_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1478471202",
+	  "size": "14336",
+	  "md5": "93d6481376f47d0f7ddaf2f549c11de4",
+	  "crc32": "531f1e20",
+	  "sha1": "101e4aea58da90e16be519c2441b5bb89ac769cb",
+	  "format": "Metadata"
+	},
+	"\/T2DEMO_meta.xml": {
+	  "source": "original",
+	  "mtime": "1478471280",
+	  "size": "1179",
+	  "format": "Metadata",
+	  "md5": "5c9cfb2e747ca564b006beea2f829fe9",
+	  "crc32": "96c0f543",
+	  "sha1": "491b7fa18c719a35d9658403fb63f20db899cce0"
+	},
+	"\/turrican_000.png": {
+	  "source": "original",
+	  "mtime": "1478471197",
+	  "size": "11828",
+	  "md5": "c930787645fd24630ca075facb7495f7",
+	  "crc32": "4fc36f01",
+	  "sha1": "c684d1508a24ee703f7fbecdac5c1bfb94a8a5f5",
+	  "format": "PNG"
+	},
+	"\/turrican_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "turrican_000.png",
+	  "mtime": "1478471213",
+	  "size": "5936",
+	  "md5": "86706d75dba32724413b692f3525a0c0",
+	  "crc32": "3b5ee0ef",
+	  "sha1": "ed453a3dda2085207e43296035281576c12d89d8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601909.us.archive.org\/7\/items\/T2DEMO\/turrican_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 91,
+	"week": 8,
+	"month": 22
+  }
+}

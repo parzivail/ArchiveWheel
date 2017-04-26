@@ -1,0 +1,217 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/21/items/RAMDEM",
+  "metadata": {
+	"identifier": [
+	  "RAMDEM"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bethesda Softworks"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "<div>Los Angeles 2029...<\/div><div><br \/><\/div><div>They thought the holocaust had ended when the Orbital Platform was destroyed.<\/div><div><br \/><\/div><div>They were wrong.<\/div><div><br \/><\/div><div>SKYNET launched a Doomsday Plan. And you must travel to the past in order to protect the future.<\/div><div><br \/><\/div><div>A true PC Virtual Reality experience!<\/div><div>The first FULL SCREEN 3-D, 360 degree rotational battle engine!<\/div><div>Spectacular Graphics, Music & Sound Effects!<\/div><div><br \/><\/div><div>The most intense, pulse-pounding, \"you-are-there\" action simulation ever created!<\/div>"
+	],
+	"publisher": [
+	  "Bethesda Softworks"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.1"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "The Terminator: Rampage Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2015-03-10 15:35:31"
+	],
+	"addeddate": [
+	  "2015-03-10 15:35:31"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "RAMDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905302_5"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475438694",
+	  "size": "94961",
+	  "md5": "237eae1f25bc1713bf19e84c1ff8fd97",
+	  "crc32": "25142b66",
+	  "sha1": "12b064c56d51109d8c1c8a32adc3c1898443384d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475438738",
+	  "size": "2008",
+	  "md5": "244cbb4cc75b0e2db150e18a27c942ee",
+	  "crc32": "7d99456a",
+	  "sha1": "ea8488eae10866d011a0d01c39effa4740155305"
+	},
+	"\/RAMDEM.ZIP": {
+	  "source": "original",
+	  "mtime": "1426001741",
+	  "size": "1322535",
+	  "md5": "5816aca58b45f16d22fa96720763112a",
+	  "crc32": "ae806ee8",
+	  "sha1": "3aa59d68d04925e859e9ba6ddfa6628818751e82",
+	  "format": "ZIP"
+	},
+	"\/RAMDEM.gif": {
+	  "source": "original",
+	  "mtime": "1475438701",
+	  "size": "35331",
+	  "md5": "d19b14cf7d210b042b45a805ae92c0c0",
+	  "crc32": "af4513b1",
+	  "sha1": "8b3810b281567066fa0421d9d506351b18cf779e",
+	  "format": "Animated GIF"
+	},
+	"\/RAMDEM_archive.torrent": {
+	  "source": "original",
+	  "btih": "77b5c7692a9ff8457d775923185977a0a9ca5804",
+	  "mtime": "1484149870",
+	  "size": "3581",
+	  "md5": "504c93122c0d925fcec2c57fef63afbb",
+	  "crc32": "b2dce6b5",
+	  "sha1": "4cdf287f46cfb003452ee527775b37c08169d458",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RAMDEM_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7fc50e1c502c46d3bc55133ee9a98e6a"
+	},
+	"\/RAMDEM_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475438712",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "2c0e669bce5cf0ac4c4b78bd5e27464d",
+	  "crc32": "90a886d4",
+	  "sha1": "31fda45f493c867fc802273dfa76fd7963ec5ea5"
+	},
+	"\/RAMDEM_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484149870",
+	  "size": "1588",
+	  "format": "Metadata",
+	  "md5": "6ff3279fda62387b1720df1af690c668",
+	  "crc32": "118e6f8b",
+	  "sha1": "b0e35d0f2274c79612ebd147d8adabda873d39b4"
+	},
+	"\/RAMDEM_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475438707",
+	  "size": "87785",
+	  "md5": "70c5b328615bc6ff86ed1db6e23e3cdb",
+	  "crc32": "66e0c44a",
+	  "sha1": "c3abca1d9fa825e4e991ebe01b04ba567866261b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/ramdem.jpg": {
+	  "source": "original",
+	  "mtime": "1426001731",
+	  "size": "22948",
+	  "md5": "9650f8498d0fe20056238c283b619908",
+	  "crc32": "29ba6f1f",
+	  "sha1": "21453fbe34b9727d65cea0fc60b29f675a82adf6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/ramdem_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ramdem.jpg",
+	  "mtime": "1426001756",
+	  "size": "4936",
+	  "md5": "fd871844b6f23caf75af4069674883c9",
+	  "crc32": "e33f2f2c",
+	  "sha1": "05908fab37dafaa7152e9cd837ddc9acaceb8033"
+	},
+	"\/ramdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1435169630",
+	  "size": "1323440",
+	  "md5": "4c13d51efe0d70f721afae4a4951561d",
+	  "crc32": "828589ad",
+	  "sha1": "df80a36595ec7f2a54f970b951e9dc0a987bf765"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475438696",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475438741",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475438699",
+	  "size": "94961",
+	  "md5": "237eae1f25bc1713bf19e84c1ff8fd97",
+	  "crc32": "25142b66",
+	  "sha1": "12b064c56d51109d8c1c8a32adc3c1898443384d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475438743",
+	  "size": "2008",
+	  "md5": "244cbb4cc75b0e2db150e18a27c942ee",
+	  "crc32": "7d99456a",
+	  "sha1": "ea8488eae10866d011a0d01c39effa4740155305"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/21\/items\/RAMDEM\/RAMDEM.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1586,
+	"week": 16,
+	"month": 52
+  }
+}

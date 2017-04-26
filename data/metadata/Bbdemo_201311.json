@@ -1,0 +1,117 @@
+{
+  "server": "ia601003.us.archive.org",
+  "dir": "/16/items/Bbdemo_201311",
+  "metadata": {
+	"identifier": [
+	  "Bbdemo_201311"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Behaviour Interactive"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "On his way to Pismo Beach, Bugs Bunny accidentally finds and activates a time machine. Bugs Bunny is immediately propelled through five different eras in time and must find his way back to the present. It won't be an easy task, because blocking his way back to the present are some of the wildest troublemakers he has ever known - Elmer Fudd, Witch Hazel, Yosemite Sam, Rocky and Marvin The Martian."
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Bugs Bunny: Lost in Time Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2013-11-29 04:58:45"
+	],
+	"addeddate": [
+	  "2013-11-29 04:58:45"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233539[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_19"
+	]
+  },
+  "files": {
+	"\/Bbdemo_201311_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9596821496c5e245a7d7ae82d2441f8b"
+	},
+	"\/Bbdemo_201311_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385701142",
+	  "size": "14336",
+	  "md5": "0658662e73739ac3ad1b5c29ac18e354",
+	  "crc32": "31d24d1b",
+	  "sha1": "def625003d9a93f35c59512ea7e612ac6e041102"
+	},
+	"\/Bbdemo_201311_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474674274",
+	  "size": "1260",
+	  "md5": "af6c7a5c47cd3e550c13232add628349",
+	  "crc32": "cba30fa4",
+	  "sha1": "ec187cf9154239d4da785516ce07f026c7b74b6b"
+	},
+	"\/bbdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385701124",
+	  "size": "28500045",
+	  "md5": "b448c3c9d972b46f86cd678909658619",
+	  "crc32": "a8f3201b",
+	  "sha1": "dc1d0407b464f8bcd2475699af520140c9f7fe08"
+	},
+	"\/bbdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385701136",
+	  "size": "60977",
+	  "md5": "a1b25b4e79ff0ab342db275d72a5b2fd",
+	  "crc32": "15dc14b0",
+	  "sha1": "d56a50abe174342ce8165f193856e74fe146748a",
+	  "rotation": "0"
+	},
+	"\/bbdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bbdemo.jpg",
+	  "mtime": "1385701151",
+	  "size": "2900",
+	  "md5": "fd2c84c4a6f02bbd853c0c2c889541ba",
+	  "crc32": "a9701772",
+	  "sha1": "ccf212a6e29672ab88acf94bfe2b339ca2cdaaa0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601003.us.archive.org\/16\/items\/Bbdemo_201311\/bbdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 314,
+	"week": 8,
+	"month": 21
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "server": "ia600503.us.archive.org",
+  "dir": "/26/items/DungeonMasterIiTheLegendOfSkullkeepDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Dungeon Master II: The Legend of Skullkeep Demo"
+	],
+	"description": [
+	  "\"The one that started it all returns to once again redefine the standards of the interactive Dungeon experience. From the trap-filled dungeons of Skullkeep to the storm ravaged villages above, you'll enter a gaming experience that will challenge you like nothing before.\n\nCommanding your party of warriors, you'll enter the most intelligent and realistic role-playing world ever created. Featuring an all-new version of the interface that defined point-and-click and a gaming world that is actually alive, Dungeon Master II is the ultimate quest of magic, dungeons and monsters."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "FTL Games"
+	],
+	"identifier": [
+	  "DungeonMasterIiTheLegendOfSkullkeepDemo"
+	],
+	"addeddate": [
+	  "2012-07-04 23:21:05"
+	],
+	"publicdate": [
+	  "2012-07-04 23:21:24"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "dm2demo.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/DungeonMasterIiTheLegendOfSkullkeepDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "2597503ee17f3133d7105b3b56aed4f91c772e8f",
+	  "mtime": "1476203784",
+	  "size": "2450",
+	  "md5": "ab6654a37c04e179cf9ef36d73807ed1",
+	  "crc32": "d2fed94c",
+	  "sha1": "4c43313f4efb65b47ef723afc13e0aef9f9f4883",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DungeonMasterIiTheLegendOfSkullkeepDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "21486e4f7553daba64666e499db0ed14"
+	},
+	"\/DungeonMasterIiTheLegendOfSkullkeepDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476203784",
+	  "size": "1498",
+	  "md5": "37b1e895533ee0de4cc562faca8673e8",
+	  "crc32": "d0bf7019",
+	  "sha1": "e9a908e477b7e9d72c4d6e411e9278e28182edfa"
+	},
+	"\/SKULDEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476203696",
+	  "size": "3337514",
+	  "md5": "87bc30da9e19c83259872f1e8a586bd7",
+	  "crc32": "09f53bad",
+	  "sha1": "7764098e69fb9a9e7ee8d8afcd7a99236b5174cb"
+	},
+	"\/dm2demo1.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1341444045",
+	  "size": "3322972",
+	  "md5": "134c54ecf4c8dfae06a60cdb48c9dd41",
+	  "crc32": "78352f36",
+	  "sha1": "ced95f562fe8bc3bcff5f029a2723820804571ec"
+	},
+	"\/resource_item_132.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341444023",
+	  "size": "17392",
+	  "md5": "fa3d7f3cc3f2f72c7d293c9cf9126640",
+	  "crc32": "83397933",
+	  "sha1": "31bcac0781e00502aff7590205696e0bb5cccb9c",
+	  "rotation": "0"
+	},
+	"\/resource_item_132_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_132.jpg",
+	  "mtime": "1341444078",
+	  "size": "5052",
+	  "md5": "f7887288e7d3cd2fdeddcf41d35487f4",
+	  "crc32": "ef0007ed",
+	  "sha1": "a780d7f669db093816a17d8839f0701c874719a5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600503.us.archive.org\/26\/items\/DungeonMasterIiTheLegendOfSkullkeepDemo\/resource_item_132_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 806,
+	"week": 6,
+	"month": 14
+  }
+}

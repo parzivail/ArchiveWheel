@@ -1,0 +1,129 @@
+{
+  "server": "ia902500.us.archive.org",
+  "dir": "/16/items/MICRO2DEMO",
+  "metadata": {
+	"identifier": [
+	  "MICRO2DEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Supersonic Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Bigger, Better, Faster, Meaner, More! They're back! Codemasters brings you Micro Machines 2 - Turbo Tournament, packing more micro power than ever before. Flying, hovering, tracking, biking, the game has exploded in every aspect. Power pick-ups, interactive courses, rain, wind, wild jumps and much much more."
+	],
+	"publisher": [
+	  "The Codemasters Software Company"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Micro Machines 2: Turbo Tournament Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-06-21 18:29:55"
+	],
+	"addeddate": [
+	  "2014-06-21 18:29:55"
+	],
+	"backup_location": [
+	  "ia905809_16"
+	],
+	"emulator_start": [
+	  "mm2.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/MICRO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476467200",
+	  "size": "3538895",
+	  "md5": "83e32e9f0f43cb6ff90efab2d0cae12c",
+	  "crc32": "f764a385",
+	  "sha1": "6af6ab85eb3b0b90aee87a26518787ad28f7526b"
+	},
+	"\/MICRO2DEMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "54598845ae52ba89887f0cc215ad59b349275ed3",
+	  "mtime": "1476467303",
+	  "size": "2087",
+	  "md5": "458697816eb88a64a236300034891239",
+	  "crc32": "f063c4d6",
+	  "sha1": "b6b90c7bf1ddccd19edb769cac22259bd683e550",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MICRO2DEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5b38024354f4b9612ee5837a2f865baa"
+	},
+	"\/MICRO2DEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1403375413",
+	  "size": "14336",
+	  "md5": "7d93d3404e7ebb92d8c5111a37143579",
+	  "crc32": "0082bdcd",
+	  "sha1": "f0604f27f6b2ce19bd9f84a461864a556299d6de"
+	},
+	"\/MICRO2DEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476467302",
+	  "size": "1128",
+	  "md5": "2c4f296c06f7b77192b6aa11e9a94865",
+	  "crc32": "f1a8562d",
+	  "sha1": "613df879273980de518ef50c81831b00c953cc05"
+	},
+	"\/micro2demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1403375395",
+	  "size": "7543",
+	  "md5": "6277d31733639dc1bb2b8e90366e2ed3",
+	  "crc32": "6f9fc059",
+	  "sha1": "f5dc1d302af8377923d943adc30173854c6c65fc"
+	},
+	"\/micro2demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "micro2demo.png",
+	  "mtime": "1403375421",
+	  "size": "6081",
+	  "md5": "9707d4fae33621eb698b41ba56f1db77",
+	  "crc32": "129d9e10",
+	  "sha1": "ed3f21a49f9a1e114901d499b3b3ad80b218f13c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902500.us.archive.org\/16\/items\/MICRO2DEMO\/micro2demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 221,
+	"week": 7,
+	"month": 12
+  }
+}

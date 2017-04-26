@@ -1,0 +1,122 @@
+{
+  "server": "ia600303.us.archive.org",
+  "dir": "/1/items/DarwiniaDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Darwinia Demo"
+	],
+	"description": [
+	  "The world of Darwinia is a virtual themepark, running inside a computer network built by a computer genius named Dr Sepulveda. \n\nDarwinia is populated by a sentient evolving life form called the Darwinians. They are the product of a decades worth of research into genetic algorithms. \n\nUnfortunately, the systems of Darwinia have been overrun by an evil red Viral Infection. This Virus has multiplied out of control and must be stopped. \n\nYour task is to destroy the Viral Infection and save the Darwinians from extinction. The Darwinians can not be directly controlled. However you can influence the world by creating Programs such as Squads and Engineers, which you can directly control and use as weapons."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Introversion Software"
+	],
+	"identifier": [
+	  "DarwiniaDemo"
+	],
+	"addeddate": [
+	  "2012-09-03 15:54:34"
+	],
+	"date": [
+	  "2005"
+	],
+	"year": [
+	  "2005"
+	],
+	"publisher": [
+	  "Reflexive Entertainment"
+	],
+	"publicdate": [
+	  "2012-09-03 15:55:08"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/CM-darwiniademo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1346687664",
+	  "size": "19855794",
+	  "md5": "0ebec79d557df90a2d698aa753c0de42",
+	  "crc32": "85f49b1a",
+	  "sha1": "c69168d63ffbabcc7441ee77853f922c19c09fb8"
+	},
+	"\/CM-darwiniademo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346687666",
+	  "size": "274074",
+	  "md5": "2d050177999043541825460fcb7f822b",
+	  "crc32": "f9af477c",
+	  "sha1": "b7547142f74be9ba2d997ca9c8b46b76b5f78a1e",
+	  "rotation": "0"
+	},
+	"\/CM-darwiniademo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "CM-darwiniademo.jpg",
+	  "mtime": "1346688874",
+	  "size": "5572",
+	  "md5": "4d70d37fd44950a6d4a2b3ac5dfb0ee6",
+	  "crc32": "e4e65598",
+	  "sha1": "b6ea40fa2c9a54de2d38f9508478d6c2090200ee"
+	},
+	"\/Darwinia-NewLevel.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "title": "Darwinia - New Level",
+	  "mtime": "1397932986",
+	  "size": "19838717",
+	  "md5": "3f5d3fd40db15dd1a7e51891f385c57f",
+	  "crc32": "72dac67a",
+	  "sha1": "50cfda5ac841dffec5d978d44782239824ca0ac7"
+	},
+	"\/DarwiniaDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "82751d15951ecdbc70e8c11508f653b86fd058cf",
+	  "mtime": "1464559205",
+	  "size": "3528",
+	  "md5": "a0576063c87da30ecc84ec1e91d26360",
+	  "crc32": "ee621f7e",
+	  "sha1": "ea08c29e1dfbafd597255d573b321184aef9a141",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DarwiniaDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "dc99fc56be56218ff70415423e323061"
+	},
+	"\/DarwiniaDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464559203",
+	  "size": "1479",
+	  "md5": "b6cb74375ec68b2eecd9a85221e47c93",
+	  "crc32": "1bdc641e",
+	  "sha1": "5b254505877a633825338c81d65d5178a1594760"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600303.us.archive.org\/1\/items\/DarwiniaDemo\/CM-darwiniademo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 211,
+	"week": 7,
+	"month": 21
+  }
+}

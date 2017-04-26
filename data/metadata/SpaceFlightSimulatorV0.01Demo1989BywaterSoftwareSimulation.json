@@ -1,0 +1,203 @@
+{
+  "server": "ia601008.us.archive.org",
+  "dir": "/0/items/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation",
+  "metadata": {
+	"identifier": [
+	  "SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bywater Software"
+	],
+	"date": [
+	  "1989"
+	],
+	"description": [
+	  "<div><span class=\"Apple-tab-span\"><\/span>This demo is provided principally as a means of interesting<\/div><div><span class=\"Apple-tab-span\"><\/span>persons in the Space Flight Simulator. \u00a0The program at\u00a0<\/div><div><span class=\"Apple-tab-span\"><\/span>this point simply depicts the earth as seen from a wide<\/div><div><span class=\"Apple-tab-span\"><\/span>elliptical orbit. \u00a0The program should work with CGA (very<\/div><div><span class=\"Apple-tab-span\"><\/span>poorly), Hercules (tm), EGA, or VGA graphics. \u00a0<\/div>"
+	],
+	"named-persons": [
+	  "Ted A. Campbell"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Space Flight Simulator Demo"
+	],
+	"year": [
+	  "1989"
+	],
+	"publicdate": [
+	  "2013-11-17 21:28:18"
+	],
+	"addeddate": [
+	  "2013-11-17 21:28:18"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233959[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "GO.BAT"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia905709_34"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475486455",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475486485",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/Space Flight Simulator v0.01 (Demo) (1989)(Bywater Software) [Simulation].png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1384723697",
+	  "size": "10345",
+	  "md5": "b85fd6637314bc1da27a3344eb718065",
+	  "crc32": "0301029b",
+	  "sha1": "f619bdb2120268d07b7dca45387786b2d0a85599"
+	},
+	"\/Space Flight Simulator v0.01 (Demo) (1989)(Bywater Software) [Simulation]_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Space Flight Simulator v0.01 (Demo) (1989)(Bywater Software) [Simulation].png",
+	  "mtime": "1384723720",
+	  "size": "3957",
+	  "md5": "8824ddfd41d8a071e63d52d55bceef13",
+	  "crc32": "f4320e02",
+	  "sha1": "318506eb853ac237a61fa9c0c4b7323d591f884e"
+	},
+	"\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation.gif": {
+	  "source": "original",
+	  "mtime": "1475486466",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0177cea2d02a844e379bf1635bdf09df"
+	},
+	"\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475486473",
+	  "size": "15360",
+	  "md5": "0bf84c63c176fc44a2cc8cd5fc8f4334",
+	  "crc32": "b8825984",
+	  "sha1": "5873596c3a4221d189141f57b6413723d7f2bf4d"
+	},
+	"\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474543695",
+	  "size": "1651",
+	  "md5": "cf408b9b821138367ca494608c4b2f65",
+	  "crc32": "1494b463",
+	  "sha1": "e9a072ccf97af03856929444e72430b22a7518fb"
+	},
+	"\/Spaceflight.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1458239234",
+	  "size": "134852",
+	  "md5": "725dd645af6644cd392a622d3904a454",
+	  "crc32": "53ea84e6",
+	  "sha1": "1f4f4ec033199a7a37f45d51a11a90d6ba5a9afb"
+	},
+	"\/Spaceflight_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475486470",
+	  "size": "117484",
+	  "md5": "9fc5693e4b19d1d01a608647fb610587",
+	  "crc32": "6ce73a30",
+	  "sha1": "8d7ea924d74ce28d07c7541d5b338b77183d8ed9",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475486458",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475486486",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475486461",
+	  "size": "78044",
+	  "md5": "1b0d363b5863e759271a47275b4b7504",
+	  "crc32": "151e09fd",
+	  "sha1": "b9ded4165958789e3101c9e3c5e4a4de431c0974",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475486488",
+	  "size": "1967",
+	  "md5": "20db56b3d0a81c1b740154cb9e8e56c8",
+	  "crc32": "e481434f",
+	  "sha1": "929819919bf832074ae3726e9b4c970eb152ca62"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601008.us.archive.org\/0\/items\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation\/SpaceFlightSimulatorV0.01Demo1989BywaterSoftwareSimulation.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 233,
+	"week": 3,
+	"month": 6
+  }
+}

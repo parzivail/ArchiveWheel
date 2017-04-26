@@ -1,0 +1,138 @@
+{
+  "server": "ia600200.us.archive.org",
+  "dir": "/26/items/swizzle_demu_NAVY",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_NAVY"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rowan Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "In Navy Strike you have the chance of either being a pilot and going out on dogfight missions to improve your ranking, or being a strategist, and deciding how the fighting is done, when and where, while keeping track of events."
+	],
+	"publisher": [
+	  "Empire Interactive Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Navy Strike Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2016-03-22 20:01:15"
+	],
+	"addeddate": [
+	  "2016-03-22 20:01:15"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "STRIKE.EXE"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"backup_location": [
+	  "ia906102_20"
+	]
+  },
+  "files": {
+	"\/NAVY-installer.zip": {
+	  "source": "original",
+	  "mtime": "1458676897",
+	  "size": "5594630",
+	  "md5": "78209203b88f2238c29f8ae036e37126",
+	  "crc32": "88460b66",
+	  "sha1": "1cfb218336b9d05cab2ecb8fa60b90f02cd9b5d5",
+	  "format": "ZIP"
+	},
+	"\/STRIKE.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476073614",
+	  "size": "5502531",
+	  "md5": "4679f72042a79387bd489214abfc99e0",
+	  "crc32": "8252c902",
+	  "sha1": "ae32ade132fd6555262608ec4a8ec341c5bf2f9d"
+	},
+	"\/navy.png": {
+	  "source": "original",
+	  "mtime": "1458676875",
+	  "size": "58489",
+	  "md5": "75ad2050449ac5e6a89694fb7799d11e",
+	  "crc32": "954d26da",
+	  "sha1": "e25c49d71a6b1e5c3d60bfeaf952efc34b2fe92e",
+	  "format": "PNG"
+	},
+	"\/navy_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "navy.png",
+	  "mtime": "1458676908",
+	  "size": "3719",
+	  "md5": "774737f8347c40b0834d49417e00eb55",
+	  "crc32": "a5c4536c",
+	  "sha1": "9687f3706baf2e72a6902dfe3c892b6f9c2c09d2"
+	},
+	"\/swizzle_demu_NAVY_archive.torrent": {
+	  "source": "original",
+	  "btih": "937a7e4e87d298fca245f0ce55467bc2f13cac3a",
+	  "mtime": "1485664244",
+	  "size": "2614",
+	  "md5": "b88540c86e9b6f5450788e3d296a1349",
+	  "crc32": "cbf82ade",
+	  "sha1": "45debe3c3eb61419b4201e066f4375d6b7793df2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/swizzle_demu_NAVY_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "983ea52b794d899d7be35d0033b299b8"
+	},
+	"\/swizzle_demu_NAVY_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1458676901",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "7a7db3b799779f5e1efd23a3c9bd6e4a",
+	  "crc32": "6e586824",
+	  "sha1": "bb85b9322bfde18aa9616453809b31d3a799d509"
+	},
+	"\/swizzle_demu_NAVY_meta.xml": {
+	  "source": "original",
+	  "mtime": "1485664242",
+	  "size": "1032",
+	  "format": "Metadata",
+	  "md5": "de4b16faf697e50347145b0342b99173",
+	  "crc32": "c7341e73",
+	  "sha1": "8110d336b780e3cf41f876098867bf758a97154b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600200.us.archive.org\/26\/items\/swizzle_demu_NAVY\/navy_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 58,
+	"week": 4,
+	"month": 5
+  }
+}

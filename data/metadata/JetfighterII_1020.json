@@ -1,0 +1,286 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/5/items/JetfighterII_1020",
+  "metadata": {
+	"identifier": [
+	  "JetfighterII_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "RD Technologies"
+	],
+	"date": [
+	  "1990"
+	],
+	"description": [
+	  "PC Magazine crowned Jetfighter the best flight simulator on a desktop computer, period! Now the hottest flight simulator\/combat adventure ever continues with Jetfighter II: Advanced Tactical Fighter. Jetfighter II destroys the competition with advanced 3-D simulation technology featuring the new F-23 Advanced Tactical Fighter, complete with breathtaking scenery, the fastest, smoothest 256-color VGA graphics in the industry, booming AdLib sounds and the most spectacular jet dogfight action you will ever experience! The most advanced and powerful 3-D technology, period! Accurate time of day and sky coloration. Revolutionary animation lets you see parachutes opening in the wind, radar chaff blooming behind your jet, landing gear deploying and retracting. Real-time artificial intelligence for simulating the enemy to provide the most realistic dogfights imaginable. Wide range of conventional and top secret weapons. Includes F\/ A-18 Hornet, F-16 Falcon, F-14 Tomcat. Spectacular time-acceleration feature. Instant flying mode for beginners- gets you in the air and flying immediately. Interactive hypertext help system. AdLib\/ SoundBlaster support. Tunable joystick system for responsive controls. The best 3-D VGA graphics you've ever seen! Animation so smooth it will take your breath away! Real-world cityscapes. Light source shading. Accurate shadowing. Incredible midnight dogfights. Realistic modeling of the F-23, the most lethal fighter ever built. Blending radar stealth, smart weapons, and breakthrough aerodynamic design allowing speeds of Mach 3! Strap yourself into the most technologically advanced fighter aircraft of all time! Over 100 diverse and accurate combat missions. Now you can get in a dogfight with multiple MiG-29 Fulcrums! Experience the nightmare of evading SAMs homing on your signal! Every mission designed to keep you pumped with adrenaline! State or the art avionics. The most accurate carrier landing simulation ever."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Velocity"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Jetfighter II Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:57:06"
+	],
+	"addeddate": [
+	  "2012-09-04 03:57:06"
+	],
+	"year": [
+	  "1990"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "JF2DEMO\/JF2DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475314111",
+	  "size": "177700",
+	  "md5": "0d1ce10b74a88871aec9a77850179812",
+	  "crc32": "85af2a5b",
+	  "sha1": "e386157b7395c5b3698aa9b5eb5ec9e855ba70fc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475314157",
+	  "size": "4631",
+	  "md5": "c8725c098f1e3f3c731b7674181681f2",
+	  "crc32": "35733803",
+	  "sha1": "2394276a09788b03008cee9f05c026dcbed13391"
+	},
+	"\/JetfighterII_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475314135",
+	  "size": "28796",
+	  "md5": "77dc529b63d40f78f077da6e03839f09",
+	  "crc32": "efe8dc09",
+	  "sha1": "ef45962946849ceaa2b73f6cdda58323a1a8d0fe",
+	  "format": "Animated GIF"
+	},
+	"\/JetfighterII_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "9d069ac472e7184d0cb48dd03b0513cb61d50329",
+	  "mtime": "1475314164",
+	  "size": "4534",
+	  "md5": "066daf8e090e288c336b9ce114a054ae",
+	  "crc32": "55d4c051",
+	  "sha1": "477f4efaf4e1b5ec73281923460a9e867eb65a68",
+	  "format": "Archive BitTorrent"
+	},
+	"\/JetfighterII_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c8a8ecdc5aae5ba432a1bcb391931bea"
+	},
+	"\/JetfighterII_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475314143",
+	  "size": "10240",
+	  "md5": "f534d95d3b0ae6d0ba046120f4208330",
+	  "crc32": "76245800",
+	  "sha1": "833911de761c2878491c7b9bfc67d4668c7e0e12",
+	  "format": "Metadata"
+	},
+	"\/JetfighterII_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465565069",
+	  "size": "2838",
+	  "md5": "1d81c74dc7a4593479402affe3135083",
+	  "crc32": "7049597f",
+	  "sha1": "7ac6a2a51c7229b3416af5f7e1fcceb80b3b8c61"
+	},
+	"\/jf2demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731032",
+	  "size": "332612",
+	  "md5": "5991ee41394921f8116bacee46b1938f",
+	  "crc32": "98b8edda",
+	  "sha1": "7d3c164f7e4c2bb2408929d750181abd92e4a22f"
+	},
+	"\/jf2demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731032",
+	  "size": "2642",
+	  "md5": "d9b316d9e35d1ac38ab07fd49bca1573",
+	  "crc32": "4f030663",
+	  "sha1": "df897b0359a8db5fe6b4787e38d50b0272fcf92d"
+	},
+	"\/jf2demo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475314140",
+	  "size": "187299",
+	  "md5": "9440cb55a3ee5807fd704f95556aed6c",
+	  "crc32": "daf54174",
+	  "sha1": "8879ba635d832b1d8c7089d4f9b9540124dc558a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1530.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731646",
+	  "size": "10922",
+	  "md5": "4a03cfe2f519362d8e04378709214948",
+	  "crc32": "bd3f7705",
+	  "sha1": "e97ffbdd7a78bd7e97850b68161d5ffa4301ac0a",
+	  "rotation": "0"
+	},
+	"\/resource_item_1530.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731646",
+	  "size": "272",
+	  "md5": "a388dc024734682a919558edebe72a9d",
+	  "crc32": "4566bb44",
+	  "sha1": "08a21867ee7256688342d3505336ad74e88eb689"
+	},
+	"\/resource_item_1530_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1530.jpg",
+	  "mtime": "1346733061",
+	  "size": "3860",
+	  "md5": "12f9fad21e5d4cf611b5fa2f11b91352",
+	  "crc32": "35d41247",
+	  "sha1": "9a140b4f8df2b47186c99699c6409753b45d1d62"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475314113",
+	  "size": "126958",
+	  "md5": "37cde79e660e67f0980b2ef5a5c84ff2",
+	  "crc32": "5b0146f4",
+	  "sha1": "162b0241c97fbe0318b3bde1d9d0532f45fe494b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475314155",
+	  "size": "4068",
+	  "md5": "9e4d75e6c509be55f364ca66ad0c026b",
+	  "crc32": "1e80eca0",
+	  "sha1": "445438904ebb129fdacb55164b85961163ab9e7d"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475314117",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475314158",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475314120",
+	  "size": "177700",
+	  "md5": "0d1ce10b74a88871aec9a77850179812",
+	  "crc32": "85af2a5b",
+	  "sha1": "e386157b7395c5b3698aa9b5eb5ec9e855ba70fc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475314160",
+	  "size": "4631",
+	  "md5": "c8725c098f1e3f3c731b7674181681f2",
+	  "crc32": "35733803",
+	  "sha1": "2394276a09788b03008cee9f05c026dcbed13391"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475314122",
+	  "size": "170279",
+	  "md5": "6d1c6076efabbf5027932331304473e3",
+	  "crc32": "eb847fa1",
+	  "sha1": "3da05fb5cda358ac0f6a6ff75b6f396f29fa4085",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475314162",
+	  "size": "4370",
+	  "md5": "fa07171a85bb14675a8b59bf2cf48139",
+	  "crc32": "ae59357c",
+	  "sha1": "3653b5ff6aafbaab91fe8d24813dded7035511d2"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475314130",
+	  "size": "162725",
+	  "md5": "8b2e405a5f3344ca065a8aa6cac2d7fd",
+	  "crc32": "1ddfa86f",
+	  "sha1": "09da9b369b3701bfe3c62cc5841696351a9da3b8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475314161",
+	  "size": "4290",
+	  "md5": "790c6f2c14043ffa3e00f05d2c78c05c",
+	  "crc32": "db1b578e",
+	  "sha1": "d2af26d23b63860aca7fb15ccc77291811ca9bb8"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/5\/items\/JetfighterII_1020\/JetfighterII_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1232,
+	"week": 4,
+	"month": 46
+  }
+}

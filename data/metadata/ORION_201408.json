@@ -1,0 +1,129 @@
+{
+  "server": "ia902300.us.archive.org",
+  "dir": "/31/items/ORION_201408",
+  "metadata": {
+	"identifier": [
+	  "ORION_201408"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Divide By Zero"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>The demo is a fully interactive segment of the game, including rendered<\/div><div>sequences, voice-overs, sound effects and musical soundtrack.<\/div><div><br \/><\/div><div>You play Devlin McCormack, a retired engineer who has been called to the<\/div><div>Cerberus research station for the funeral of his son. After he arrives he<\/div><div>discovers that his son's death was not an accident, and decides to investigate<\/div><div>further.<\/div><div><br \/><\/div><div>But there is another murder, and Devlin is accused of the crime.<\/div><div><br \/><\/div><div>In this section from the game, Devlin is locked in the observation pod at the<\/div><div>base of the space station, awaiting the next transport ship which will deliver<\/div><div>him to the authorities.<\/div><div><br \/><\/div><div>He must escape, so that he can prove his innocence and hunt down the real murderer.<\/div>"
+	],
+	"publisher": [
+	  "Domark Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Orion Conspiracy Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2014-08-05 15:08:32"
+	],
+	"addeddate": [
+	  "2014-08-05 15:08:32"
+	],
+	"backup_location": [
+	  "ia905901_26"
+	],
+	"emulator_start": [
+	  "orion.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/ORION.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476480184",
+	  "size": "39878179",
+	  "md5": "514e0415498517e6508cb99f3c684f85",
+	  "crc32": "45568c11",
+	  "sha1": "282b10d4b4b691e8a6f1792f063a52216d6b31cf"
+	},
+	"\/ORION_201408_archive.torrent": {
+	  "source": "original",
+	  "btih": "0954b849b14d51b1822992f56899e9a81626a7e4",
+	  "mtime": "1476480322",
+	  "size": "3498",
+	  "md5": "a4bec8d6cc5ba9e7534f08a4279961c0",
+	  "crc32": "6b5a2742",
+	  "sha1": "c446192d947131f777ec9e42a4d25fb01000eb2c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ORION_201408_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8d82f7baa4f1a4c639c72e8d1bc6605a"
+	},
+	"\/ORION_201408_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1407251380",
+	  "size": "16384",
+	  "md5": "f4612075af93758ac9a28b6493ddd762",
+	  "crc32": "dd7b233d",
+	  "sha1": "727cb8812ead3bcfa4f620f02aca022fe09034db"
+	},
+	"\/ORION_201408_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476480321",
+	  "size": "1871",
+	  "md5": "e5ca4618496fd2f578d9ba842f2bcf0c",
+	  "crc32": "a8a74898",
+	  "sha1": "3e5bc00876cca2cc775eb6e2c904c3cfc11949a0"
+	},
+	"\/orion.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1407251311",
+	  "size": "117171",
+	  "md5": "0d91c2229c2f2200dc3bf13e1eeda365",
+	  "crc32": "a859e4ea",
+	  "sha1": "657ac43495752523d73e5a45c780faa13f1be595"
+	},
+	"\/orion_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "orion.png",
+	  "mtime": "1407251393",
+	  "size": "4950",
+	  "md5": "f0baae42d0d75da7f5e186ba3db376cf",
+	  "crc32": "76bacbf4",
+	  "sha1": "136cab50c22dacc64e4bb3f555d9222c68a85342"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902300.us.archive.org\/31\/items\/ORION_201408\/orion_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 171,
+	"week": 3,
+	"month": 5
+  }
+}

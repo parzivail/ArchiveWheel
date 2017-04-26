@@ -1,0 +1,236 @@
+{
+  "server": "ia800801.us.archive.org",
+  "dir": "/10/items/Simcity2000Demo",
+  "metadata": {
+	"identifier": [
+	  "Simcity2000Demo"
+	],
+	"title": [
+	  "SimCity 2000 Demo"
+	],
+	"creator": [
+	  "Maxis Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Beneath the polished facade lies a seething cauldron of angry taxpayers, broken water mains and other challenges that will take you uptown, downtown, even underground. Now entering SimCity 2000 - the ultimate city simulator.\n\nThis long-awaited follow-up to our software landmark, SimCity, makes simulated real estate, in a word, realer. In it, you get multiple viewing angles. You get to import your old SimCities. You get to terraform your landscape. You get total control of a subterranean web of water pipes and subways. And you get it all in gripping, eye-imploding 3-D.\n\nSo pack up those old programs and move to SimCity 2000. Everything that started the SimCity revolution. In a vivid new evolution."
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:22:10"
+	],
+	"addeddate": [
+	  "2012-02-23 02:21:52"
+	],
+	"publisher": [
+	  "Maxis Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:22:31"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "SC2000.EXE"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444827281",
+	  "size": "404351",
+	  "md5": "c2652921ce2c34791f95bcce13ee87b4",
+	  "crc32": "e488d785",
+	  "sha1": "ef1eb1e2be20ca1eee5f05be550a2a2bf456a0f9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444827312",
+	  "size": "5040",
+	  "md5": "075601a71c666d8ce7240efdb965ff35",
+	  "crc32": "c85f746d",
+	  "sha1": "871e7785d80370ff23386c4629d6069fbcc1f7a5"
+	},
+	"\/Simcity2000Demo.gif": {
+	  "source": "original",
+	  "mtime": "1444827292",
+	  "size": "103656",
+	  "md5": "3e692912609f9daa63e517c3f91b2b20",
+	  "crc32": "2d70d0df",
+	  "sha1": "f64c0c7951f20d3e2bcbf5f0f9135327cae27415",
+	  "format": "Animated GIF"
+	},
+	"\/Simcity2000Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8d26d4574bda28a7898aeb98ec33b779e4ab6ecb",
+	  "mtime": "1465075852",
+	  "size": "3913",
+	  "md5": "3102b8ed28f225afa6c6dcded37af007",
+	  "crc32": "2f8af323",
+	  "sha1": "1bdd93d568a811dc16a55b7f13b0141c119a098c",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Simcity2000Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "19cb36589e108868aecc6238d04097a8"
+	},
+	"\/Simcity2000Demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444827308",
+	  "size": "11264",
+	  "format": "Metadata",
+	  "md5": "2c5ab45ec841237f2712d160e1981433",
+	  "crc32": "a2b9512c",
+	  "sha1": "c4a303bf2d87e611fd58b49fd992cd47d8482080"
+	},
+	"\/Simcity2000Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465075851",
+	  "size": "1655",
+	  "md5": "a07f8000af7dbb9b32d8d3b527331ebf",
+	  "crc32": "515f1612",
+	  "sha1": "3b8ef7536919a071f8710beefcf1d84dc25fda21"
+	},
+	"\/Simcity2000Screenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "SimCity 2000 Screenshot",
+	  "mtime": "1329963689",
+	  "size": "21749",
+	  "md5": "f11f4ce99fd5fea2c1b9d05ce17cf91e",
+	  "crc32": "58d82129",
+	  "sha1": "a48b6cdd6929e7a36bfb2d6703313de2a32e9ec1",
+	  "rotation": "0"
+	},
+	"\/Simcity2000Screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Simcity2000Screenshot.jpg",
+	  "mtime": "1329963722",
+	  "size": "6403",
+	  "md5": "601baddc3840ebc521607106f0ac3b3d",
+	  "crc32": "507f8d88",
+	  "sha1": "bc16b7149c3d21f9440c2a1b9cbb156217346c3a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444827283",
+	  "size": "362637",
+	  "md5": "db0baaa80cacf216b7472a2c9330a7f1",
+	  "crc32": "f6982eee",
+	  "sha1": "6c1d158fe38d7e6e1cfb396ece1b32b7541f9f81",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444827313",
+	  "size": "5161",
+	  "md5": "20a691aac30106de660ed1c135b76f5f",
+	  "crc32": "7eca30c8",
+	  "sha1": "21bd21aa5c257bd8f01ee939041019625a2f661f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444827286",
+	  "size": "404351",
+	  "md5": "c2652921ce2c34791f95bcce13ee87b4",
+	  "crc32": "e488d785",
+	  "sha1": "ef1eb1e2be20ca1eee5f05be550a2a2bf456a0f9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444827313",
+	  "size": "5040",
+	  "md5": "075601a71c666d8ce7240efdb965ff35",
+	  "crc32": "c85f746d",
+	  "sha1": "871e7785d80370ff23386c4629d6069fbcc1f7a5"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444827288",
+	  "size": "396460",
+	  "md5": "e6ceed0dcd9f0a86a396a0a93996e400",
+	  "crc32": "8d7e0082",
+	  "sha1": "fff93e50024efa729cd3b971cd7f27ce13eb6aab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444827314",
+	  "size": "5839",
+	  "md5": "a1269078bc5b0ec20f3e4165c33b69f4",
+	  "crc32": "c70663dc",
+	  "sha1": "1b11068a711ffc44e13786fc2686b988ea20b38a"
+	},
+	"\/simc2000.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329963688",
+	  "size": "1079412",
+	  "md5": "97e82334175d33cecf09309593172693",
+	  "crc32": "436bbacd",
+	  "sha1": "456ce19ff82bc038b2e3fc630e7f176ac13b014d",
+	  "title": "SimCity 2000 Demo"
+	},
+	"\/simc2000_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444827301",
+	  "size": "432473",
+	  "md5": "052b4e12901eb76de8074167b5d79a84",
+	  "crc32": "0799fb69",
+	  "sha1": "6b35bddb54b392c8d64860843848beae742773ba",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800801.us.archive.org\/10\/items\/Simcity2000Demo\/Simcity2000Demo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2136,
+	"week": 12,
+	"month": 41
+  }
+}

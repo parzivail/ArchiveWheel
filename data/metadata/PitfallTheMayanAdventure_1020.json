@@ -1,0 +1,123 @@
+{
+  "server": "ia600800.us.archive.org",
+  "dir": "/35/items/PitfallTheMayanAdventure_1020",
+  "metadata": {
+	"identifier": [
+	  "PitfallTheMayanAdventure_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Activision"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Pitfall: The Mayan Adventure Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 08:50:53"
+	],
+	"addeddate": [
+	  "2012-09-04 08:50:53"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"The legendary PITFALL! is back! Twelve years later, the classic returns with ground-breaking gameplay that'll rattle your nerves and leave you in a cold sweat...\n\nJoin Harry Jr, son of Pitfall Harry, as he tracks an evil Mayan warrior spirit, to rescue his kidnapped father... Run, swing, skate and bungee through deep dark rainforests, raging waterfalls and Mayan templ ruins that reek of lethal enemies and deadly traps... until you face the master of evil - Zakelua.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233734[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/PITFALL.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748744",
+	  "size": "667",
+	  "md5": "a94f046acc8dde4e21d56dda4257bea9",
+	  "crc32": "8c8413eb",
+	  "sha1": "27d52e2e4909be7bd421ba77e042d477395d3de7"
+	},
+	"\/PITFALL.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1474261436",
+	  "size": "8642489",
+	  "md5": "e6fd0d61e9ba082598e5df3f633c42c3",
+	  "crc32": "09824694",
+	  "sha1": "21cdbc31b0aa63df73336f9230c63a7f4f9aa434"
+	},
+	"\/PitfallTheMayanAdventure_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "dba6633d281aeff8023722e4bae31e74"
+	},
+	"\/PitfallTheMayanAdventure_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474261778",
+	  "size": "1281",
+	  "md5": "d55afe0c28d0afb764ca79f69e3582a2",
+	  "crc32": "18aa136c",
+	  "sha1": "a8841076e3c1c9eb12da2e78bc340c41d2d3276d"
+	},
+	"\/resource_item_2010.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346748747",
+	  "size": "11881",
+	  "md5": "7fb66782a5c6c1614b61c469f1f66761",
+	  "crc32": "c53d8f89",
+	  "sha1": "33ea9d1aee1b755c3dae052b34996adba4d45372",
+	  "rotation": "0"
+	},
+	"\/resource_item_2010.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346748747",
+	  "size": "272",
+	  "md5": "86d077b42af26a3569e50c44b1007518",
+	  "crc32": "5d83ec3c",
+	  "sha1": "8dfd42a7f7bd7970926703c4db7ecc712c0c201e"
+	},
+	"\/resource_item_2010_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2010.jpg",
+	  "mtime": "1346749640",
+	  "size": "4049",
+	  "md5": "25dc5268bd3cd02a50287c79f8efd8b5",
+	  "crc32": "2018d444",
+	  "sha1": "11cc2b9b8b34876d677316eab8f582d3c6bba4d6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600800.us.archive.org\/35\/items\/PitfallTheMayanAdventure_1020\/resource_item_2010_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5776,
+	"week": 25,
+	"month": 65
+  }
+}

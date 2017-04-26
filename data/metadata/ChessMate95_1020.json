@@ -1,0 +1,132 @@
+{
+  "server": "ia800303.us.archive.org",
+  "dir": "/12/items/ChessMate95_1020",
+  "metadata": {
+	"identifier": [
+	  "ChessMate95_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Springsoft"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "ChessMate for Windows - is a good implementation of Chess. Features include 7 levels of difficulty, hints, a demo mode, sound effects, and more."
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Kevin Moore"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Board games"
+	],
+	"title": [
+	  "ChessMate"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-05 19:05:02"
+	],
+	"addeddate": [
+	  "2012-09-05 19:05:02"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	]
+  },
+  "files": {
+	"\/CHESSFW.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346871908",
+	  "size": "359010",
+	  "md5": "08963f3b489e089522e326ce36f3b2a3",
+	  "crc32": "12beff08",
+	  "sha1": "179c779018981acf3927e6d7b0264c4db8d7e23b"
+	},
+	"\/CHESSFW.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346871909",
+	  "size": "884",
+	  "md5": "9425e3647f6583dc74e381b3568b7e08",
+	  "crc32": "6b20e28c",
+	  "sha1": "cab33cbd0dffcb0401dd926476635374f3eada2d"
+	},
+	"\/ChessMate95_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "87d4f948afb5be28f8a77eb64d69a61836569d1f",
+	  "mtime": "1465712917",
+	  "size": "1856",
+	  "md5": "0aeb3f8b90c285fce397db4eeeef696e",
+	  "crc32": "6c7d8403",
+	  "sha1": "f281d101f7c7d942e4a8393f2efea7a3493b7327",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ChessMate95_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9f55a78b74a56c706c6a8e2c5cf09f58"
+	},
+	"\/ChessMate95_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465712916",
+	  "size": "929",
+	  "md5": "448b1bd56ed2352413dd78156d417428",
+	  "crc32": "fec7f913",
+	  "sha1": "e57f5ffb0315d6a98dbd2a29a0da95d98e883794"
+	},
+	"\/resource_item_3566.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346875697",
+	  "size": "42786",
+	  "md5": "df097eaa1b881ffae2d8fed43f198388",
+	  "crc32": "f3b69c28",
+	  "sha1": "0251cdf3b8745fe1c46e6fc1554a57f0205841e8"
+	},
+	"\/resource_item_3566.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346875697",
+	  "size": "272",
+	  "md5": "9b096ca0646d196a9a9e60c28150ebba",
+	  "crc32": "b2acd01f",
+	  "sha1": "0ea62b69b2564878c996a62ce3ffc800bcea2ae0"
+	},
+	"\/resource_item_3566_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3566.png",
+	  "mtime": "1346878643",
+	  "size": "6594",
+	  "md5": "f4f14648530802a96292aa31ac3f38a2",
+	  "crc32": "dc060923",
+	  "sha1": "116bb9c774b835acf6a00d9721de2c01124ce956"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800303.us.archive.org\/12\/items\/ChessMate95_1020\/resource_item_3566_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 284,
+	"week": 6,
+	"month": 11
+  }
+}

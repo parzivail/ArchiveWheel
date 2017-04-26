@@ -1,0 +1,117 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/29/items/h2_demo_us",
+  "metadata": {
+	"identifier": [
+	  "h2_demo_us"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "<div>Heretic II is a third-person action game based on the Quake II engine that sets players on a quest through vast city and outdoor environments as they search to find a cure to a deadly, evil plague before all is lost. The game plunges you into a deep, compelling game combining brutal face-to-face combat and mystery-laden adventure in an advanced graphics engine. From a third-person perspective, gamers travel through complex, richly detailed environments filled with special effects, wicked magic spells, detailed characters, vivid artwork, and challenging level designs. Glide and Direct3D graphics acceleration are supported.<\/div>"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Heretic II Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-01-27 02:06:20"
+	],
+	"addeddate": [
+	  "2014-01-27 02:06:20"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233730[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/h2_demo_us.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390788444",
+	  "size": "40079639",
+	  "md5": "ebbaa3ddf3fc5ed84dfbef5f60afe78c",
+	  "crc32": "d5a73e5b",
+	  "sha1": "d6593f2a1a12e39edd92338f95566e9c360d0c4e"
+	},
+	"\/h2_demo_us.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390788379",
+	  "size": "170647",
+	  "md5": "6fba9cf7efc8582f3c704e29437a0516",
+	  "crc32": "173eb7f4",
+	  "sha1": "9ef60fb2bbf031313b7ee8eed449d342f5122ff6",
+	  "rotation": "0"
+	},
+	"\/h2_demo_us_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a120b1fe89107d805da87cf5064094eb"
+	},
+	"\/h2_demo_us_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390788451",
+	  "size": "14336",
+	  "md5": "45903e7db3be0b3556419c867e502c6b",
+	  "crc32": "b09a01af",
+	  "sha1": "3a4d3faad6d116c2a3dcb820af54485b43b31c1c"
+	},
+	"\/h2_demo_us_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474420339",
+	  "size": "1489",
+	  "md5": "64f0c3c8919fa06d33f36803f53b7765",
+	  "crc32": "455cb2b3",
+	  "sha1": "e1a3413a341cfc3e5d3cedeeeefe43f8b5236839"
+	},
+	"\/h2_demo_us_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "h2_demo_us.jpg",
+	  "mtime": "1390788459",
+	  "size": "4194",
+	  "md5": "9463116fb87761cb8bcbb73c54ab43a5",
+	  "crc32": "44b1e488",
+	  "sha1": "eac82ff42c6fbe347558363ea043a9676c7d9ed9"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/29\/items\/h2_demo_us\/h2_demo_us_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 7849,
+	"week": 22,
+	"month": 120
+  }
+}

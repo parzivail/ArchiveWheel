@@ -1,0 +1,232 @@
+{
+  "server": "ia600302.us.archive.org",
+  "dir": "/3/items/SilentHunter_1020",
+  "metadata": {
+	"identifier": [
+	  "SilentHunter_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Silent Hunter offers an engrossing look at what it took to command an allied submarine in treacherous waters during World War II. An amazing level of historical accuracy, coupled with all the details simulation-game players love, makes this game stand out from the rest. Notable features include an enemy AI that increases in competence with the player and the ability to speed up gameplay to over 2000 times normal, eliminating downtime."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Silent Hunter Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 09:56:56"
+	],
+	"addeddate": [
+	  "2012-09-04 09:56:56"
+	],
+	"year": [
+	  "1996"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233738[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "sh.bat"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "3.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "ok.",
+		"reviewtitle": "cool!",
+		"reviewer": "rafael.37",
+		"reviewdate": "2014-01-25 12:51:44",
+		"stars": "3"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444843486",
+	  "size": "337867",
+	  "md5": "a71aae70fc3f1ebf0c7e5601ee24843a",
+	  "crc32": "30c7e35a",
+	  "sha1": "46bfff9790823f2ac888143fdbe7c48a195f3952",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444843512",
+	  "size": "5918",
+	  "md5": "d53fda58041d51c792b4fbe27155a82b",
+	  "crc32": "1db40d3f",
+	  "sha1": "b6292cbf3fd23ca555e3d242917cbdda40b536d4"
+	},
+	"\/SH.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1432842917",
+	  "size": "4806074",
+	  "md5": "a12bc02e44def5a55ff703f4dfb9abae",
+	  "crc32": "551e2aa2",
+	  "sha1": "f6ff574ac117d04a83d8d68c43e31a548cbeb6c9"
+	},
+	"\/SHUNTER.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346752760",
+	  "size": "13920715",
+	  "md5": "b168f1b09ed59f5e6294b1ca80fd223c",
+	  "crc32": "91524497",
+	  "sha1": "0ff3a24a9d247c0c308a6f356261518601d88305"
+	},
+	"\/SHUNTER.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752761",
+	  "size": "1106",
+	  "md5": "4f1259cb9a769024fe129dd629c0881b",
+	  "crc32": "ed59bf21",
+	  "sha1": "e689449dcf3859dd70dd6cc86d12f574d995deca"
+	},
+	"\/SHUNTER_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444843497",
+	  "size": "307079",
+	  "md5": "117649bc5c4ada2f2fd7add6f0f36931",
+	  "crc32": "0e24d819",
+	  "sha1": "6380de32acf4dc75de3121341d8a4947f3982e33",
+	  "format": "Emulator Screenshot"
+	},
+	"\/SilentHunter_1020.gif": {
+	  "source": "original",
+	  "mtime": "1444843493",
+	  "size": "164709",
+	  "md5": "08e4c53a933c630abb9a5aac1d828df3",
+	  "crc32": "50943002",
+	  "sha1": "dc5401aee13f665753c3446e0f33c2fb45397ecf",
+	  "format": "Animated GIF"
+	},
+	"\/SilentHunter_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "bc46311e14f0c5436027180ed3116609"
+	},
+	"\/SilentHunter_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444843501",
+	  "size": "10240",
+	  "md5": "b5025969ef1bf51f5d484a983d2c2f79",
+	  "crc32": "227c1398",
+	  "sha1": "36981b13512363ab1cb4ae7d8ea2b15a5c196aa3",
+	  "format": "Metadata"
+	},
+	"\/SilentHunter_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1466629482",
+	  "size": "1315",
+	  "md5": "4d6569572bf8b8d0f2c207520ac02a19",
+	  "crc32": "6d6a522f",
+	  "sha1": "a797b2f6eb5d4f2ce7726292b3c6c0fdc6f3333c"
+	},
+	"\/SilentHunter_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1390654306",
+	  "size": "428",
+	  "md5": "eb427916df4c2e2bf614ae7ebeee0b6f",
+	  "crc32": "5f1d3a6f",
+	  "sha1": "a6ae73f2c82926d2c8db3be0ffdf735cd03f6bf7",
+	  "format": "Metadata"
+	},
+	"\/resource_item_2014.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346752763",
+	  "size": "17656",
+	  "md5": "e59a59fa00af751fa14a755c915de375",
+	  "crc32": "7aba439c",
+	  "sha1": "2b1d60702c846f536bc88c81f617ee8842f3a442",
+	  "rotation": "0"
+	},
+	"\/resource_item_2014.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346752763",
+	  "size": "272",
+	  "md5": "f93f372e7a6f3f79019047ef12c5e33e",
+	  "crc32": "5c37a777",
+	  "sha1": "d3185872df74ace46048dc8b904c31dca70f1552"
+	},
+	"\/resource_item_2014_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2014.jpg",
+	  "mtime": "1346753604",
+	  "size": "6065",
+	  "md5": "9cfdb99c8f8ee7cc4bc83fb53ee08304",
+	  "crc32": "5139cbaf",
+	  "sha1": "e59ce15d34fbcb1a9e1d7fdbfbe1ed89d6b2337e"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444843490",
+	  "size": "337867",
+	  "md5": "a71aae70fc3f1ebf0c7e5601ee24843a",
+	  "crc32": "30c7e35a",
+	  "sha1": "46bfff9790823f2ac888143fdbe7c48a195f3952",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444843514",
+	  "size": "5918",
+	  "md5": "d53fda58041d51c792b4fbe27155a82b",
+	  "crc32": "1db40d3f",
+	  "sha1": "b6292cbf3fd23ca555e3d242917cbdda40b536d4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600302.us.archive.org\/3\/items\/SilentHunter_1020\/SilentHunter_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1639,
+	"week": 12,
+	"month": 35
+  }
+}

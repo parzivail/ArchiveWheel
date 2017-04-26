@@ -1,0 +1,138 @@
+{
+  "server": "ia601203.us.archive.org",
+  "dir": "/26/items/ALAMO_201610",
+  "metadata": {
+	"identifier": [
+	  "ALAMO_201610"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Incredible Simulations"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "<div>The first computer simulation ever to recreate those 13 fateful days in Texas of 1836 and allow you to assume command at one of the most famous and bloodiest battles in American history, the Alamo!<\/div>"
+	],
+	"publisher": [
+	  "Incredible Simulations"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Defend The Alamo Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2016-10-28 15:45:25"
+	],
+	"addeddate": [
+	  "2016-10-28 15:45:25"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "dtadmo.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia906209_25"
+	]
+  },
+  "files": {
+	"\/ALAMO.zip": {
+	  "source": "original",
+	  "mtime": "1477669524",
+	  "size": "602772",
+	  "md5": "fb66913bf89d335e2657543e6ba66e69",
+	  "crc32": "0d16a5b9",
+	  "sha1": "aeb44a8d69bdb865e3a886f53543505e59074b74",
+	  "format": "ZIP"
+	},
+	"\/ALAMO_201610_archive.torrent": {
+	  "source": "original",
+	  "btih": "54cf72e6dcca6145187e7f2739494a0173a50210",
+	  "mtime": "1484890973",
+	  "size": "2166",
+	  "md5": "cdd4580ce00d6163205d92769cddc2e0",
+	  "crc32": "9fa75207",
+	  "sha1": "29b105c4971e968cb289c0fbde1d333d2a42433a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ALAMO_201610_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d7e1f81993946c6f13ef44e3b387935c"
+	},
+	"\/ALAMO_201610_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1477669560",
+	  "size": "14336",
+	  "md5": "9f09ebdf4b8bafb55c25978cc1a2726e",
+	  "crc32": "564f8786",
+	  "sha1": "03f6e473cd5e1e5dc4926264af8ffca02f4bc3c4",
+	  "format": "Metadata"
+	},
+	"\/ALAMO_201610_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484890971",
+	  "size": "1021",
+	  "format": "Metadata",
+	  "md5": "9b8736d34f7964ae3ab0cbe913d84c9c",
+	  "crc32": "d834cd7b",
+	  "sha1": "292c4a9abfde8ce04799fae2956a4181965f5d76"
+	},
+	"\/README.TXT": {
+	  "source": "original",
+	  "mtime": "1477669552",
+	  "size": "793",
+	  "md5": "54d2f64c7d535dfa974f2f1fd8a5f312",
+	  "crc32": "6ec28a9d",
+	  "sha1": "496598a888c342c2c97fab181a4091c4f2b4c5e9",
+	  "format": "Text"
+	},
+	"\/dtadmo_000.png": {
+	  "source": "original",
+	  "mtime": "1477669542",
+	  "size": "55122",
+	  "md5": "2101436358815bad17912b9a1f1dee84",
+	  "crc32": "a66e58b5",
+	  "sha1": "711dda912d9cf726ead4040e9245abf6e2b44ac5",
+	  "format": "PNG"
+	},
+	"\/dtadmo_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "dtadmo_000.png",
+	  "mtime": "1477669606",
+	  "size": "6370",
+	  "md5": "0ced2ccb8fdb73cb69b7a68f8b65c6c8",
+	  "crc32": "49586f81",
+	  "sha1": "498ff8fe0bef5402d026f2330e98e979b797cd7f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601203.us.archive.org\/26\/items\/ALAMO_201610\/dtadmo_000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 36,
+	"week": 3,
+	"month": 8
+  }
+}

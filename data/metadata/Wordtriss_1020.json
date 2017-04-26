@@ -1,0 +1,129 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/13/items/Wordtriss_1020",
+  "metadata": {
+	"identifier": [
+	  "Wordtriss_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "A basic game of Wordtris.  This demo version runs for 45 seconds."
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Wordtriss"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-05 19:13:50"
+	],
+	"addeddate": [
+	  "2012-09-05 19:13:50"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_4"
+	],
+	"creator": [
+	  "David J. Koller"
+	]
+  },
+  "files": {
+	"\/WTZIP.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346872441",
+	  "size": "1145030",
+	  "md5": "449ae7be25671ecd27be94fff418fec5",
+	  "crc32": "bd4d78cc",
+	  "sha1": "415e9051c0e772e0fdcd36c8ac841558a0c503cb"
+	},
+	"\/WTZIP.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346872441",
+	  "size": "776",
+	  "md5": "772d47758dcb7906eb58241825db48c3",
+	  "crc32": "2a218ecb",
+	  "sha1": "6a599f6684e5873809592c81e336508a043543f4"
+	},
+	"\/Wordtriss_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "bdf6923e71c58bbdf1da0db4a5c6c77f8cb89532",
+	  "mtime": "1491460126",
+	  "size": "1878",
+	  "md5": "6b21840e0589e81671054745dc85d19c",
+	  "crc32": "f73f3aa9",
+	  "sha1": "08721f22f01cfe6d26a39856bbe576136c5d6593",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Wordtriss_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c252be2b8159157bd5706685781c8c71"
+	},
+	"\/Wordtriss_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1491460125",
+	  "size": "809",
+	  "md5": "a593ac296b03341fc70033fbe5999aeb",
+	  "crc32": "d73b1a81",
+	  "sha1": "c2fc02ecc4e5dd01ecead4d4d5383a76ce50e047"
+	},
+	"\/resource_item_3606.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1346872444",
+	  "size": "52480",
+	  "md5": "33b63ac890b04da5c29a8c74ab85b4ae",
+	  "crc32": "2de6c848",
+	  "sha1": "f096e4174b40543e890dad6ef153b8a0bc4425a3"
+	},
+	"\/resource_item_3606.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346872444",
+	  "size": "272",
+	  "md5": "c8e72c140f9dae3c458da4deaceabe34",
+	  "crc32": "824544a7",
+	  "sha1": "4942d9ac15451ba8bc943b16b00dc1bdb8aa3943"
+	},
+	"\/resource_item_3606_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3606.png",
+	  "mtime": "1346877555",
+	  "size": "5877",
+	  "md5": "5f915a90e5ae6ee4169cc95c4b809e5b",
+	  "crc32": "de8854a6",
+	  "sha1": "e56133694571d8f43aee224e92b3c6c9e8a1b099"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/13\/items\/Wordtriss_1020\/resource_item_3606_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 56,
+	"week": 1,
+	"month": 2
+  }
+}

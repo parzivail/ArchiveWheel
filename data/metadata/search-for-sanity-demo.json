@@ -1,0 +1,132 @@
+{
+  "server": "ia902706.us.archive.org",
+  "dir": "/15/items/search-for-sanity-demo",
+  "metadata": {
+	"identifier": [
+	  "search-for-sanity-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Funky Duck Productions"
+	],
+	"date": [
+	  "2002-11-24"
+	],
+	"description": [
+	  "Point and click adventure game created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Search for Sanity [demo]"
+	],
+	"publicdate": [
+	  "2015-01-03 00:29:37"
+	],
+	"addeddate": [
+	  "2015-01-03 00:29:37"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150103003516[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "19"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/141.jpg": {
+	  "source": "original",
+	  "mtime": "1420244992",
+	  "size": "104157",
+	  "md5": "4d2c03cd86158bee73511c81541b1c94",
+	  "crc32": "75eaea75",
+	  "sha1": "29c61bbc9fd2362ed591786ca08d4126c42fc2b8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/141_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "141.jpg",
+	  "mtime": "1420245321",
+	  "size": "5901",
+	  "md5": "d193b29443b44486d26c35383a4898f3",
+	  "crc32": "010dc053",
+	  "sha1": "3be6e1c2cd9e53d081caa9cc69ad3c45c59c580a"
+	},
+	"\/search-for-sanity-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4be492e935f203827f239eae4573745e99256e3c",
+	  "mtime": "1490659599",
+	  "size": "2175",
+	  "md5": "6539039cfd924f73788cef29e80d5e3d",
+	  "crc32": "4cee7e29",
+	  "sha1": "eb774dbcb66c6bb8f0972f4ee69e07c22b384cac",
+	  "format": "Archive BitTorrent"
+	},
+	"\/search-for-sanity-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e3cb2d81f67dcebaa6f99889f58bea47"
+	},
+	"\/search-for-sanity-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420244998",
+	  "size": "10240",
+	  "md5": "88652c1e04db5a46db92b517679725fe",
+	  "crc32": "1d1ccc78",
+	  "sha1": "8af1fbdd9817a7eaa5bc022bb50a83ca4a850bad",
+	  "format": "Metadata"
+	},
+	"\/search-for-sanity-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490659598",
+	  "size": "1043",
+	  "format": "Metadata",
+	  "md5": "43c1e6af2372530b4a783b2963333783",
+	  "crc32": "8f961698",
+	  "sha1": "ae92d5609d0f6b0f81ea33b8ac9a97856c5e8822"
+	},
+	"\/search-for-sanity.zip": {
+	  "source": "original",
+	  "mtime": "1420244975",
+	  "size": "2588211",
+	  "md5": "95c721f81838dca88cd6ffcb276a25d2",
+	  "crc32": "57a780ad",
+	  "sha1": "06f20ac76287b511679749141e8b783b414edf01",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902706.us.archive.org\/15\/items\/search-for-sanity-demo\/141_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 69,
+	"week": 3,
+	"month": 5
+  }
+}

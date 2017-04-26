@@ -1,0 +1,200 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/19/items/Continuum_1020",
+  "metadata": {
+	"identifier": [
+	  "Continuum_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Data East"
+	],
+	"date": [
+	  "1990"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Continuum Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:16:08"
+	],
+	"addeddate": [
+	  "2012-09-04 02:16:08"
+	],
+	"year": [
+	  "1990"
+	],
+	"description": [
+	  "\"A 3-Dimensional universe of shapes, colors, sounds... and chaos.\n\nTo enter the world of CONTINUUM is to encounter an alternate reality. Your journey will take you across a vast geometric universe - 12 different maze regions with more than 250 unique rooms - in search of 16 crystals and 16 keys needed to complete your quest.\n\nVisually stunning and stimulating, CONTINUUM combines elements of strategy with depth of playing the most unique platform\/maze game ever invented.\n\nDiscover the mechanics and challenge the power. \n\nThis demo will let you explore 16 of the rooms in the Continuum universe.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233530[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "XCONTIN\/CONTINU.COM"
+	]
+  },
+  "files": {
+	"\/$continu.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346724974",
+	  "size": "642",
+	  "md5": "bcadd9eee82999c3ef13f25a15c7c701",
+	  "crc32": "4c1b1cac",
+	  "sha1": "19831186cda1b56e18ed31c4ae6b862d4222c283"
+	},
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475221296",
+	  "size": "86360",
+	  "md5": "c8ac82f11b5f2ba333ebd945ef1a452d",
+	  "crc32": "b661f747",
+	  "sha1": "e17af30e95ab68b2bd8475f4d44afa3f1051ca74",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475221326",
+	  "size": "2928",
+	  "md5": "f7aeec2f6971952e7c6f0ac002b1c389",
+	  "crc32": "87a914ce",
+	  "sha1": "aab2e5090176d3a7d638dd5238b9a0752ceef60b"
+	},
+	"\/Continuum_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475221305",
+	  "size": "6176",
+	  "md5": "a053d273c487bb73b8a1255a443ea170",
+	  "crc32": "36b09faa",
+	  "sha1": "4a9b24a4d549afc6227d81bef2a64302dca11a3c",
+	  "format": "Animated GIF"
+	},
+	"\/Continuum_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9a8abf4b5cc9c4d7a78b9db4c6413ad2"
+	},
+	"\/Continuum_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475221314",
+	  "size": "11264",
+	  "md5": "518473d8681ac214f5c88c363191dda3",
+	  "crc32": "a797df0a",
+	  "sha1": "b5b730dfbb54e5fd148a3d5592d31d60c154f270",
+	  "format": "Metadata"
+	},
+	"\/Continuum_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468779099",
+	  "size": "1491",
+	  "md5": "dac720f09cb0f6028b1dd7c14f68ad3c",
+	  "crc32": "b40cc532",
+	  "sha1": "58c48d39423da2101378a13d139fb03e3de6a8a8"
+	},
+	"\/Continuumdemo1990dataEastCorporationactionStrategy.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Continuum (Demo) (1990)(Data East Corporation) [Action, Strategy]",
+	  "mtime": "1384282588",
+	  "size": "287060",
+	  "md5": "74c0c390b1b62263780a252a827aeab3",
+	  "crc32": "e2e3a4e0",
+	  "sha1": "57e73be195f0cf57064d8d80f20fb1dbf4ba0c71"
+	},
+	"\/Continuumdemo1990dataEastCorporationactionStrategy_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475221308",
+	  "size": "16025",
+	  "md5": "477b1a110df6aa6eaaf0db93dfc00559",
+	  "crc32": "81921bb0",
+	  "sha1": "a0d4b54b230cf1c7ce7012f89da906c4a92c03c0",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1308.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346726339",
+	  "size": "6023",
+	  "md5": "8392a47a7622cf97fa6a022297549e49",
+	  "crc32": "0961e292",
+	  "sha1": "0feda2ea334cde04efc35f99c81d9a0eb223d8ca",
+	  "rotation": "0"
+	},
+	"\/resource_item_1308.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346726340",
+	  "size": "271",
+	  "md5": "33af3513a6123c7c58fca2023a302dd2",
+	  "crc32": "fac09734",
+	  "sha1": "b3e84e1dea0bd0f6114ccd75efa27406628ca993"
+	},
+	"\/resource_item_1308_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1308.jpg",
+	  "mtime": "1346727160",
+	  "size": "2446",
+	  "md5": "7f742bbefc73c86dd7b1475d802afd78",
+	  "crc32": "450331c3",
+	  "sha1": "a54409d3044c62046c6384d35b799cf9b3efc0a4"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475221302",
+	  "size": "86360",
+	  "md5": "c8ac82f11b5f2ba333ebd945ef1a452d",
+	  "crc32": "b661f747",
+	  "sha1": "e17af30e95ab68b2bd8475f4d44afa3f1051ca74",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475221327",
+	  "size": "2928",
+	  "md5": "f7aeec2f6971952e7c6f0ac002b1c389",
+	  "crc32": "87a914ce",
+	  "sha1": "aab2e5090176d3a7d638dd5238b9a0752ceef60b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/19\/items\/Continuum_1020\/Continuum_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 129,
+	"week": 8,
+	"month": 10
+  }
+}

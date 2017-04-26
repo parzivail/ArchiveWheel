@@ -1,0 +1,226 @@
+{
+  "server": "ia800803.us.archive.org",
+  "dir": "/17/items/MultiGameDemoRailroadTycoonandSilentServiceII_1020",
+  "metadata": {
+	"identifier": [
+	  "MultiGameDemoRailroadTycoonandSilentServiceII_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1990"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Multi-Game Demo (Railroad Tycoon and Silent Service II)"
+	],
+	"year": [
+	  "1990"
+	],
+	"publicdate": [
+	  "2012-09-05 01:13:53"
+	],
+	"addeddate": [
+	  "2012-09-05 01:13:53"
+	],
+	"description": [
+	  "\"Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe, and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush you or brush you from their path. Named Best Strategy Game by the Software Publisher's Association!\n\n---\n\nSilent Service won critical and popular acclaim as the definitive World War II submarine simulation. Silent Service II picks up where its predecessor left off - with enhanced, digitized graphics and thrilling new game options - including campaign play - that give you even more decisions, even more intense action.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475385346",
+	  "size": "80680",
+	  "md5": "12a8c49a199f17b38c3fa63fc8fa5f91",
+	  "crc32": "d5522b55",
+	  "sha1": "a3acb999f3d0a65fe51a7c79143379f927dfd2a1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475385382",
+	  "size": "4093",
+	  "md5": "368273c41c6d604a13a5755d524c9460",
+	  "crc32": "b2448825",
+	  "sha1": "77b643fe3e2f56a05f37e36403fd7d1cca8ab148"
+	},
+	"\/MultiGameDemoRailroadTycoonandSilentServiceII_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475385360",
+	  "size": "8359",
+	  "md5": "cef05ae7e6ab1dffda44f24b1aefcedd",
+	  "crc32": "7fe3f06b",
+	  "sha1": "75d7a9a81bf6c916544e5522d4f8b9ecfbe66d75",
+	  "format": "Animated GIF"
+	},
+	"\/MultiGameDemoRailroadTycoonandSilentServiceII_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "1cfd1842c388b1915f0711ff29722f6b1bca0237",
+	  "mtime": "1475385387",
+	  "size": "3797",
+	  "md5": "d533f0cbda33d5d03251239bc8905d3b",
+	  "crc32": "879e3478",
+	  "sha1": "5986978b338345528ae21a9fe7f12a7171e857e1",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MultiGameDemoRailroadTycoonandSilentServiceII_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3de14e76cda370f4b33a03e875da6ea3"
+	},
+	"\/MultiGameDemoRailroadTycoonandSilentServiceII_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475385368",
+	  "size": "10240",
+	  "md5": "9650cc07f43a5502975736f0712cee6f",
+	  "crc32": "cc9178bc",
+	  "sha1": "d6b6d8c255d03af9e464ce42a6e714ff3ce58354",
+	  "format": "Metadata"
+	},
+	"\/MultiGameDemoRailroadTycoonandSilentServiceII_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468009308",
+	  "size": "1755",
+	  "md5": "dfe3105a3486df659b88c3aa44ee61df",
+	  "crc32": "23c74f12",
+	  "sha1": "54a87dfa9de5c65cb61a2533aba2277707fda5a4"
+	},
+	"\/resource_item_2792.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346808995",
+	  "size": "14521",
+	  "md5": "3de3f760f546f9505b587d6b16e0b85e",
+	  "crc32": "50ae0c6d",
+	  "sha1": "ee0d892a7e5080b942ca12cca4c40a6a84995a10",
+	  "rotation": "0"
+	},
+	"\/resource_item_2792.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346808995",
+	  "size": "272",
+	  "md5": "9c579f84faa8661b4546fca576abe1e6",
+	  "crc32": "0a57e9f3",
+	  "sha1": "a47b61bc23a8a9411d3e8991b9f95d54c7220676"
+	},
+	"\/resource_item_2792_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2792.jpg",
+	  "mtime": "1346820208",
+	  "size": "4705",
+	  "md5": "d1daeb11aafb232563d8509f8bd215a1",
+	  "crc32": "a5da7265",
+	  "sha1": "0cde16035429162030d83e929aef772e1c6ad84f"
+	},
+	"\/rrtss2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1468009398",
+	  "size": "269932",
+	  "md5": "2ca2a68fad02a2518b477560e6b7d6a9",
+	  "crc32": "bae23c6b",
+	  "sha1": "368e4e7c543b6f28923892b48692d7b697e5a2c4"
+	},
+	"\/rrtss2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346807640",
+	  "size": "719",
+	  "md5": "4b83bd6822fdedef2baf8696c8edd563",
+	  "crc32": "129acb1f",
+	  "sha1": "9f70b648c443cea935d19725ef30ccff35c43f25"
+	},
+	"\/rrtss2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475385365",
+	  "size": "24283",
+	  "md5": "54a1d3c681b543575e9d71cb24b70ec8",
+	  "crc32": "1f1f6d4f",
+	  "sha1": "03b1c69d4b0c33d2bb6c9bed1997efed968ab33c",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475385348",
+	  "size": "80680",
+	  "md5": "12a8c49a199f17b38c3fa63fc8fa5f91",
+	  "crc32": "d5522b55",
+	  "sha1": "a3acb999f3d0a65fe51a7c79143379f927dfd2a1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475385384",
+	  "size": "4093",
+	  "md5": "368273c41c6d604a13a5755d524c9460",
+	  "crc32": "b2448825",
+	  "sha1": "77b643fe3e2f56a05f37e36403fd7d1cca8ab148"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475385356",
+	  "size": "80615",
+	  "md5": "220fec4d67991b1a5bd1b4fd459c9812",
+	  "crc32": "32ae0d19",
+	  "sha1": "5a1656ee1c17bb7258761eea28fb7175f6a7aa79",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475385385",
+	  "size": "4085",
+	  "md5": "7cd0c60843b1882953f44788db5febe1",
+	  "crc32": "53496863",
+	  "sha1": "f4d1f6a260624e2452ebfe5b6e31d390c9646909"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800803.us.archive.org\/17\/items\/MultiGameDemoRailroadTycoonandSilentServiceII_1020\/MultiGameDemoRailroadTycoonandSilentServiceII_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 376,
+	"week": 2,
+	"month": 6
+  }
+}

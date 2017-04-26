@@ -1,0 +1,123 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/30/items/LordsofMagic_1020",
+  "metadata": {
+	"identifier": [
+	  "LordsofMagic_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Impressions Games"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Lords of Magic Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2012-09-04 18:35:11"
+	],
+	"addeddate": [
+	  "2012-09-04 18:35:11"
+	],
+	"description": [
+	  "Lords of Magic is a strategy game that deftly blends turn-based adventure and exploration with real-time fisticuffs for a captivating role playing experience. The story so far: the evil Lord Balkoth is threatening to massacre all denizens of Urak. Your mission is stop him by waging battles and seeking out the great temples to master the eight kinds of magic. Be sure to choose your allies with care. The demo is limited in the distance you can move from your base of operations."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234313[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/LordsofMagic_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6feea112acc4fec62ed406fa98edeeae"
+	},
+	"\/LordsofMagic_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463535772",
+	  "size": "1277",
+	  "md5": "7fa2186edf3ce3d5a19ecf74810288d8",
+	  "crc32": "3c704296",
+	  "sha1": "d9b336fc7488ace80c4141e41afbf0569fba82e8"
+	},
+	"\/ldomagic.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346783891",
+	  "size": "18600204",
+	  "md5": "d179d8d80665bce33f01a76e75dec669",
+	  "crc32": "4b5f5c65",
+	  "sha1": "27de0a3d38428be132f07c73f504ff9e1eaf5ddf"
+	},
+	"\/ldomagic.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346783891",
+	  "size": "693",
+	  "md5": "ba3ff9124f883a17eb428ae417407400",
+	  "crc32": "eacc46cb",
+	  "sha1": "691dd7a57e7b1af1dcda3933e4bd70cdaa43e9aa"
+	},
+	"\/resource_item_2501.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346783893",
+	  "size": "19501",
+	  "md5": "b879c65b77be005653d665420d7f9e07",
+	  "crc32": "b4d07b38",
+	  "sha1": "f29b42ba1ace84919f122319e332ec87f9268c96",
+	  "rotation": "0"
+	},
+	"\/resource_item_2501.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346783893",
+	  "size": "272",
+	  "md5": "b464bd39a5eaabada9c94c281f47e3a2",
+	  "crc32": "89421f5f",
+	  "sha1": "b672e66b3fa06937d53587b6e98d7b928377abaf"
+	},
+	"\/resource_item_2501_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2501.jpg",
+	  "mtime": "1346817994",
+	  "size": "5769",
+	  "md5": "e130452915a2bf81605c3f335f7261b0",
+	  "crc32": "531bcd3e",
+	  "sha1": "0b6ac7606266efa6c3576f260732e568246c5706"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/30\/items\/LordsofMagic_1020\/resource_item_2501_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 991,
+	"week": 7,
+	"month": 16
+  }
+}

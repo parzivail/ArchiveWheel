@@ -1,0 +1,202 @@
+{
+  "server": "ia601300.us.archive.org",
+  "dir": "/25/items/MELTDOWN_201506",
+  "metadata": {
+	"identifier": [
+	  "MELTDOWN_201506"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Pie in the Sky Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>Demo of 3D Game Creation System.<\/div><div>Meltdown is a one-level demo of<\/div><div>this powerful game design tool.<\/div><div>This system allows people who<\/div><div>are non-programmers to design<\/div><div>their own texture-mapped 3D games<\/div><div>similar to wolf\/doom. \u00a03DGCS can<\/div><div>use odd angled\/sized walls,<\/div><div>platforms change player elev.<\/div><div>Games can be distributed freely.<\/div>"
+	],
+	"engine": [
+	  "3D Game Creation System"
+	],
+	"license": [
+	  "freeware"
+	],
+	"named-persons": [
+	  "Terry F. Hamel"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Meltdown"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2015-06-24 18:03:22"
+	],
+	"addeddate": [
+	  "2015-06-24 18:03:22"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "demo.exe"
+	],
+	"backup_location": [
+	  "ia905307_14"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444827071",
+	  "size": "215596",
+	  "md5": "1a98acf5bb0ec37c6038f9fa30e21740",
+	  "crc32": "6e00251d",
+	  "sha1": "d322d828ef224485e0cf8f5018413c0ee5f249b2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444827093",
+	  "size": "5745",
+	  "md5": "72b185abd75318ff3f585d1bfeed4c11",
+	  "crc32": "eef9fdd3",
+	  "sha1": "cbf531f8130f5e62c0b0c0e8fb053a162e49c056"
+	},
+	"\/GCSDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1492555457",
+	  "size": "1191033",
+	  "md5": "eb2fd5d27de9565636c459af3b9cdb04",
+	  "crc32": "cdc879f0",
+	  "sha1": "c137a6f9ff73af6908f8e9846f94532cdde0f1fd"
+	},
+	"\/MELTDOWN_201506.gif": {
+	  "source": "original",
+	  "mtime": "1444827076",
+	  "size": "43159",
+	  "md5": "aa6941369b0125fd0dd9019328922599",
+	  "crc32": "d32bb839",
+	  "sha1": "50d6628cff6ee08218ecfe8f82a45b8b1315d074",
+	  "format": "Animated GIF"
+	},
+	"\/MELTDOWN_201506_archive.torrent": {
+	  "source": "original",
+	  "btih": "95803dcac9ae1518beb5a468bf82d124f10c883b",
+	  "mtime": "1492555464",
+	  "size": "3342",
+	  "md5": "f5609b0559faf9092809978e51e8e3b5",
+	  "crc32": "3321445a",
+	  "sha1": "813d841240baf372cbd76a405a425822df43d8c0",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MELTDOWN_201506_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c73fa0a6c7f1b609b126c57c64921fae"
+	},
+	"\/MELTDOWN_201506_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444827085",
+	  "size": "16384",
+	  "format": "Metadata",
+	  "md5": "0de3047eaf638d78db92f8b9e727bb0b",
+	  "crc32": "ce78339e",
+	  "sha1": "c017320f87a2f7001b8c30ca810515fa6a4713c3"
+	},
+	"\/MELTDOWN_201506_meta.xml": {
+	  "source": "original",
+	  "mtime": "1483386086",
+	  "size": "1397",
+	  "format": "Metadata",
+	  "md5": "a5033a6fa80ae677e85655e5659978d9",
+	  "crc32": "020e9eaa",
+	  "sha1": "7742739055712286da2738fd4df8450c5e7652d9"
+	},
+	"\/MELTDOWN_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444827079",
+	  "size": "95381",
+	  "md5": "f9b8b2c18733a824c97e8b43e42706ad",
+	  "crc32": "27e46025",
+	  "sha1": "005bbc1449db3c3194056adf163a5574ead2dbad",
+	  "format": "Emulator Screenshot"
+	},
+	"\/gsdem2.zip": {
+	  "source": "original",
+	  "mtime": "1435169018",
+	  "size": "1108556",
+	  "md5": "74a60426d1a2ac78887d672b9839a93d",
+	  "crc32": "8483ca5c",
+	  "sha1": "5afea828a2a1695e39c2547590003dbfe2bbf6d4",
+	  "format": "ZIP"
+	},
+	"\/meltdown_000.png": {
+	  "source": "original",
+	  "mtime": "1435169011",
+	  "size": "19538",
+	  "md5": "8e2c3449ef7a871a4951f7e9e53f4804",
+	  "crc32": "0b49bf33",
+	  "sha1": "19f029219e80ad0fc7828b03f5a17cb9cfc4b581",
+	  "format": "PNG"
+	},
+	"\/meltdown_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "meltdown_000.png",
+	  "mtime": "1435169029",
+	  "size": "4535",
+	  "md5": "c0ebeaf365155d0bac3eb6393d6c536e",
+	  "crc32": "ce6ca7a6",
+	  "sha1": "96de80c57ea7d871400b91c9a6ec1c93ba4d3300"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444827073",
+	  "size": "215596",
+	  "md5": "1a98acf5bb0ec37c6038f9fa30e21740",
+	  "crc32": "6e00251d",
+	  "sha1": "d322d828ef224485e0cf8f5018413c0ee5f249b2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444827095",
+	  "size": "5745",
+	  "md5": "72b185abd75318ff3f585d1bfeed4c11",
+	  "crc32": "eef9fdd3",
+	  "sha1": "cbf531f8130f5e62c0b0c0e8fb053a162e49c056"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601300.us.archive.org\/25\/items\/MELTDOWN_201506\/MELTDOWN_201506.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 157,
+	"week": 2,
+	"month": 6
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/8/items/Zool_1020",
+  "metadata": {
+	"identifier": [
+	  "Zool_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Gremlin Graphics Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Zool Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:18:22"
+	],
+	"addeddate": [
+	  "2012-09-04 02:18:22"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "Once every year, the games world is rocked by a game so stunning, so fast, so colourful, so big, so demanding, so mega, so awesome, so varied, so incredible, and so full of fabulous features and unexpected treats, that everybody just looks at it and says \"THAT'S IT!\" This year, ZOOL, THE NINJA FROM THE is definitely IT!"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "ZOOL\/PLAY.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475626916",
+	  "size": "259279",
+	  "md5": "793443e96153b006166a7cb5c1712e9a",
+	  "crc32": "0c64c3b0",
+	  "sha1": "06f8b29d161d3039e2671034f7fe8c0d22729e32",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475626959",
+	  "size": "6029",
+	  "md5": "9c33dece1c23dd57bb09819f1dc37f12",
+	  "crc32": "3e2fb4e8",
+	  "sha1": "c292134816e75c9e16e3d4ea07ae4d72ff660ea0"
+	},
+	"\/Zool_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475626933",
+	  "size": "35115",
+	  "md5": "8459d7a8c4ef2c2c6adbf407c5b97093",
+	  "crc32": "257bcf0b",
+	  "sha1": "92702004b6b76bb659a07c78bcc5409fd9e40ef1",
+	  "format": "Animated GIF"
+	},
+	"\/Zool_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d40d07777e6b8aa902c9cbaa1c9fd2fe10eb102b",
+	  "mtime": "1475626974",
+	  "size": "4791",
+	  "md5": "3944a70e9e3a1bfae7958f74723030d4",
+	  "crc32": "9dd26a44",
+	  "sha1": "ddc2cf084b4af0767a53f9c85d65e1973978e0cf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Zool_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a109aa82eaceb5a665bab0a96a4fe8e9"
+	},
+	"\/Zool_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475626943",
+	  "size": "11264",
+	  "md5": "204b87ce896aa15bddedae4c4f5ac548",
+	  "crc32": "142dea41",
+	  "sha1": "eed7066db295540f78227d6c67d5ae460d2a0918",
+	  "format": "Metadata"
+	},
+	"\/Zool_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471819454",
+	  "size": "1149",
+	  "md5": "7f0837de9ee06c348fd0caacff1f6b4d",
+	  "crc32": "fab65297",
+	  "sha1": "5f136f6bd8b89a4ad3aa4c1110b23381abe68e17"
+	},
+	"\/resource_item_1334.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346726359",
+	  "size": "19969",
+	  "md5": "5b05664ee069ab069423f168f3f2f10a",
+	  "crc32": "6a6e6156",
+	  "sha1": "233dff1e6e55d2e72df60b5a4d0252970c12d175",
+	  "rotation": "0"
+	},
+	"\/resource_item_1334.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346726359",
+	  "size": "272",
+	  "md5": "1f7e4bd7d0add5c3e2518a91993fae9c",
+	  "crc32": "2a4ff640",
+	  "sha1": "4999293bd36d851c0916475789dd4c443ab0b827"
+	},
+	"\/resource_item_1334_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1334.jpg",
+	  "mtime": "1346727168",
+	  "size": "5595",
+	  "md5": "f7f56c60f831226c195a701e0822987b",
+	  "crc32": "be1c2598",
+	  "sha1": "a295fc13ed98515f5da2be6bb913ea9c7331ceb3"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475626918",
+	  "size": "70162",
+	  "md5": "482f72bb9c104e341f0c8fcc6e8460e7",
+	  "crc32": "655455f9",
+	  "sha1": "69b894d7ce19444d63a83c4303f8ccfe0176a0ea",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475626960",
+	  "size": "4474",
+	  "md5": "2f51a1b5ed3a7a61d2b0c4df6e60b4d1",
+	  "crc32": "56a9aea3",
+	  "sha1": "84cf28025d4a7e636b499717450d71c246dfdeb5"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475626920",
+	  "size": "70229",
+	  "md5": "b4fe324c31f25aea73f220381e5b7a7f",
+	  "crc32": "94bd6166",
+	  "sha1": "67da226499f13f8b5c05dc61f380315816632f44",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475626962",
+	  "size": "4489",
+	  "md5": "2fb14a2d9fe6a6972260b7e0cd22f31e",
+	  "crc32": "c8040862",
+	  "sha1": "c67842d7c4f3e0023e12cbe8792069238f404f83"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475626922",
+	  "size": "259279",
+	  "md5": "793443e96153b006166a7cb5c1712e9a",
+	  "crc32": "0c64c3b0",
+	  "sha1": "06f8b29d161d3039e2671034f7fe8c0d22729e32",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475626968",
+	  "size": "6029",
+	  "md5": "9c33dece1c23dd57bb09819f1dc37f12",
+	  "crc32": "3e2fb4e8",
+	  "sha1": "c292134816e75c9e16e3d4ea07ae4d72ff660ea0"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475626925",
+	  "size": "92623",
+	  "md5": "9424542d2260f2e36e4fc2c3e1c2aef6",
+	  "crc32": "dda1249b",
+	  "sha1": "e445f585255cae62a7335425145a40d56b2d9658",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475626969",
+	  "size": "3012",
+	  "md5": "421c52f40e0fdd68695af5b4996cd997",
+	  "crc32": "016665b9",
+	  "sha1": "425d6fa27a2b5d31a9951108b54d72d7857bf592"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475626927",
+	  "size": "92288",
+	  "md5": "c8ab88d50315ec83e26bf10375ef79ed",
+	  "crc32": "d6e7b7c0",
+	  "sha1": "692884c97fc6ef3823be0577dc7c3f272dca619a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475626971",
+	  "size": "2931",
+	  "md5": "051e800c4b18dde09bd56b92f2f22d84",
+	  "crc32": "626c5f98",
+	  "sha1": "b32d827d7c84941ae105b14a29e707f2b4d99689"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475626930",
+	  "size": "130717",
+	  "md5": "710792e94db5df18c6c3791c523a9aae",
+	  "crc32": "f73bf4bd",
+	  "sha1": "d575d4dcf540294f7bbadb0a16f5ce8807223385",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475626972",
+	  "size": "4158",
+	  "md5": "1f0d1c0a4ae8d8c7f9f448eed8afdff1",
+	  "crc32": "5584fe1b",
+	  "sha1": "50662eafc7a7219358981d6cef7e28787abe3ad9"
+	},
+	"\/zool.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346725108",
+	  "size": "129161",
+	  "md5": "58f1c3aad8768586fd59734b2de6c414",
+	  "crc32": "cadd9307",
+	  "sha1": "57ccc3cca049b6e6b773c8725ebb673322e222fa"
+	},
+	"\/zool.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725108",
+	  "size": "616",
+	  "md5": "72d66218b1fee7cd1934b940a70e8ff0",
+	  "crc32": "bf5498c9",
+	  "sha1": "87e24669343351d4b72a0dabf20ee4759c027481"
+	},
+	"\/zool_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475626937",
+	  "size": "181836",
+	  "md5": "430bb5dedaf06c8deb2fb5985ae48ae7",
+	  "crc32": "d5a15bf8",
+	  "sha1": "32905b90db4a70fb2c57e6bcf9a81098187a89fa",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/8\/items\/Zool_1020\/Zool_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 461,
+	"week": 1,
+	"month": 8
+  }
+}

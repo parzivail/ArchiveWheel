@@ -1,0 +1,348 @@
+{
+  "server": "ia601700.us.archive.org",
+  "dir": "/7/items/FruitbankPCGamerDemoSW1993DenisEvansSimulation",
+  "metadata": {
+	"identifier": [
+	  "FruitbankPCGamerDemoSW1993DenisEvansSimulation"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Denis Evans"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "<div>You start each game with 30 credits, which will decrease by one each\u00a0<\/div><div>time the START button is pressed. \u00a0Once all credits have been used,\u00a0<\/div><div>the game is over, where, if you did really well, you may have a\u00a0<\/div><div>hi-score!<\/div><div><br \/><\/div><div>When START is flashing, pressing it will spin the reels. \u00a0Once\u00a0<\/div><div>stopped, you will either have a win, or, if you don't have a win,\u00a0<\/div><div>you may have some features.<\/div><div><br \/><\/div>"
+	],
+	"license": [
+	  "shareware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Fruitbank Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2013-04-13 21:04:42"
+	],
+	"addeddate": [
+	  "2013-04-13 21:04:42"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232545[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "F.BAT"
+	],
+	"backup_location": [
+	  "ia905609_12"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475269420",
+	  "size": "215343",
+	  "md5": "5c632932c3d007758c0ea84a24fb5d20",
+	  "crc32": "f107fbf5",
+	  "sha1": "c153b1247efef667f5dd2bc7ff74648242750c81",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475269471",
+	  "size": "8335",
+	  "md5": "cb8467edc379a0133d4d6ad6ea09cfe9",
+	  "crc32": "fe91d8b6",
+	  "sha1": "6ec198d7119c3fd6b69f259d0a5f8726b6490b49"
+	},
+	"\/Fruitbank (PC-Gamer Demo) [SW] (1993)(Denis Evans) [Simulation].png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1365887092",
+	  "size": "6636",
+	  "md5": "c809b2970fd0a9e75f32fac3cc3b8059",
+	  "crc32": "2c22c783",
+	  "sha1": "bad990e9d1567854e703cfe6c310eb1cb9d6a51c"
+	},
+	"\/Fruitbank (PC-Gamer Demo) [SW] (1993)(Denis Evans) [Simulation].png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1365887092",
+	  "size": "2012",
+	  "md5": "59498b93e0f134d4f2115d16a46ffe8e",
+	  "crc32": "6852f0a4",
+	  "sha1": "443901c1ea2de4d4b05889ed6fa230d164a5a42d"
+	},
+	"\/Fruitbank (PC-Gamer Demo) [SW] (1993)(Denis Evans) [Simulation].zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1365887082",
+	  "size": "2042",
+	  "md5": "cd0bcccb16a768e53e2524151b92ab52",
+	  "crc32": "1d8512d8",
+	  "sha1": "d4836f24f3de9ba9ab67a99ffb4af767e835be75"
+	},
+	"\/Fruitbank (PC-Gamer Demo) [SW] (1993)(Denis Evans) [Simulation]_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Fruitbank (PC-Gamer Demo) [SW] (1993)(Denis Evans) [Simulation].png",
+	  "mtime": "1365887101",
+	  "size": "7495",
+	  "md5": "05210308f384ef5f899a464790b90926",
+	  "crc32": "d789a43e",
+	  "sha1": "8ad29ae255089a523b0c0f540c3723d6326a3a51"
+	},
+	"\/Fruitbank.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1365887082",
+	  "size": "190062",
+	  "md5": "b56f10db1230baec0491ef31f035fcfd",
+	  "crc32": "5e088266",
+	  "sha1": "63a70304cd37413060ebdc59198d7dd74479934a"
+	},
+	"\/FruitbankPCGamerDemoSW1993DenisEvansSimulation.gif": {
+	  "source": "original",
+	  "mtime": "1475269449",
+	  "size": "20711",
+	  "md5": "47259f7b705f0109ad9a32d09c142743",
+	  "crc32": "ad89e31f",
+	  "sha1": "a5df8499f79d303124d55cb8303432f20bffff5a",
+	  "format": "Animated GIF"
+	},
+	"\/FruitbankPCGamerDemoSW1993DenisEvansSimulation_archive.torrent": {
+	  "source": "original",
+	  "btih": "f381176e5abd00b7330d2c55e79f3de9e51b389f",
+	  "mtime": "1475269479",
+	  "size": "6004",
+	  "md5": "8ff9dbbbcfd1fc57b08c5ac2d75e3f0c",
+	  "crc32": "80b1fac2",
+	  "sha1": "a1b97de07d8ca9ced237cc620700a7171b5a867e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FruitbankPCGamerDemoSW1993DenisEvansSimulation_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "93131d6e309513c46452c3c267304e03"
+	},
+	"\/FruitbankPCGamerDemoSW1993DenisEvansSimulation_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475269456",
+	  "size": "12288",
+	  "md5": "9302c5173b88b1d461792c174eefce3a",
+	  "crc32": "dd22592d",
+	  "sha1": "7837c8b4527229eb80e86fbe8a32923498fad699",
+	  "format": "Metadata"
+	},
+	"\/FruitbankPCGamerDemoSW1993DenisEvansSimulation_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474948431",
+	  "size": "1528",
+	  "md5": "46960a51bfc551e568bf3b9d1b8dfea9",
+	  "crc32": "af821955",
+	  "sha1": "b0d80a6a846ba2dc6b6af2fa51403ebcd6d224d2"
+	},
+	"\/Fruitbank_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475269454",
+	  "size": "262820",
+	  "md5": "8924b49b2544ccdf53963cf749d117f1",
+	  "crc32": "2fa125b5",
+	  "sha1": "e6998f82ab3e78c103b688663f17416d6b17c6f9",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475269423",
+	  "size": "214803",
+	  "md5": "d44a34f36618f1df886c6d5f851cab55",
+	  "crc32": "4a859d77",
+	  "sha1": "2bd1caf88ea3afcc65d0d60a8ff31bec48d871a7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475269472",
+	  "size": "8378",
+	  "md5": "62350d62eab34a750b5074a8b378ca4e",
+	  "crc32": "29ce28b5",
+	  "sha1": "1ebd4195b1a283b888d2c660f82d0fa0789d4d69"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475269426",
+	  "size": "215192",
+	  "md5": "fb040ae2533e9ab93442b90f4a93128c",
+	  "crc32": "b13b63a6",
+	  "sha1": "1b98cb774060370f2cfcd2f1d57b483d6ccd95fc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475269468",
+	  "size": "8358",
+	  "md5": "10d1162c714a549b253bd846c8d0596f",
+	  "crc32": "c525f1d5",
+	  "sha1": "787efe766b18af9f65aac3c48332c3b1448eec75"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475269429",
+	  "size": "215343",
+	  "md5": "5c632932c3d007758c0ea84a24fb5d20",
+	  "crc32": "f107fbf5",
+	  "sha1": "c153b1247efef667f5dd2bc7ff74648242750c81",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475269469",
+	  "size": "8335",
+	  "md5": "cb8467edc379a0133d4d6ad6ea09cfe9",
+	  "crc32": "fe91d8b6",
+	  "sha1": "6ec198d7119c3fd6b69f259d0a5f8726b6490b49"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475269433",
+	  "size": "215158",
+	  "md5": "d28bea7f9564bedf22f612c4e9efc505",
+	  "crc32": "536c5452",
+	  "sha1": "5e64f9814eb1df0bdb6577da75544a58ad5dd2ae",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475269473",
+	  "size": "8373",
+	  "md5": "94715a054a315a1d4d7cc76635991071",
+	  "crc32": "9f62ae33",
+	  "sha1": "d9af2308937488a25fcf72482be613aaab1e9041"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475269436",
+	  "size": "214864",
+	  "md5": "4a3792053ccfb8cb74cfa9a2ce064661",
+	  "crc32": "1abdffa1",
+	  "sha1": "7d02817180734ad51e08152e88f49f4adcc62db2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475269476",
+	  "size": "8301",
+	  "md5": "e7f6acf91276a92cfc0191aaa7ba4d3d",
+	  "crc32": "3632cd21",
+	  "sha1": "cef180db70e70bd1a6ca2e9e51b78971fee61c46"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475269438",
+	  "size": "183512",
+	  "md5": "69912baf86454c4b092063f193e65ff1",
+	  "crc32": "32819306",
+	  "sha1": "09d44fe753feb785d98a9d7112d5b146ab26552c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475269477",
+	  "size": "7872",
+	  "md5": "b341419e4536c481aaebbe6cdae3c357",
+	  "crc32": "131a2986",
+	  "sha1": "60007436ad6cd63d0fa184b0a80ab51175089ec7"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475269442",
+	  "size": "214919",
+	  "md5": "6798edd80bd31145c8e322fbb734d2f4",
+	  "crc32": "aa24b576",
+	  "sha1": "fc9b19e3b73696876e53c489f357ee307dcf3c82",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475269474",
+	  "size": "8315",
+	  "md5": "6f96f4c8523e8a769b519851b029be59",
+	  "crc32": "9a02b074",
+	  "sha1": "2fa53f3fa539f2816863f985f11e7090001cebc8"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475269446",
+	  "size": "192597",
+	  "md5": "02ab50184e1f97eb46340c0073dcde7e",
+	  "crc32": "04d3ac39",
+	  "sha1": "6fb8420db7329787f32ee2da134a9f31ae59847c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475269475",
+	  "size": "8066",
+	  "md5": "7fa5e7b84c57453c270d944c2adbc1ef",
+	  "crc32": "49d008e6",
+	  "sha1": "62c3523b7b3559c4f8e75822bf534c49a73b039f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601700.us.archive.org\/7\/items\/FruitbankPCGamerDemoSW1993DenisEvansSimulation\/FruitbankPCGamerDemoSW1993DenisEvansSimulation.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 74,
+	"week": 3,
+	"month": 4
+  }
+}

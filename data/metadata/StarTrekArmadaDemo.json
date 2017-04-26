@@ -1,0 +1,113 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/16/items/StarTrekArmadaDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Star Trek: Armada Demo"
+	],
+	"description": [
+	  "Star Trek: Armada is the first real-time 3D strategy game set in the Star Trek: The Next Generation universe. In various campaigns, the player assumes command of the fleets of the Federation, Klingon, Romulan, and Borg, using up to 30 starships in dynamic ship-to-ship combat, as well as overseeing the construction, repair and staffing of the ships."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Mad Doc Software"
+	],
+	"identifier": [
+	  "StarTrekArmadaDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 22:15:06"
+	],
+	"publicdate": [
+	  "2012-05-13 22:15:29"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/StarTrekArmadaDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "a9988229a3c8b8a661552d95b03db5f9608f7f7b",
+	  "mtime": "1464452701",
+	  "size": "4787",
+	  "md5": "fedad5b29fd9b8446abd54ba63851433",
+	  "crc32": "baf15a78",
+	  "sha1": "f15fbfd9c55c56ab5d0d950d3390c5957f421112",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StarTrekArmadaDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "28c27f2117b0a6f8b8286fe56e90c5a8"
+	},
+	"\/StarTrekArmadaDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464452699",
+	  "size": "1120",
+	  "md5": "342baaddd0c4a50c24109737f2b5358a",
+	  "crc32": "ad5a10c9",
+	  "sha1": "e6330c92408ef800608290c667b45fb487bbc1c9"
+	},
+	"\/armada_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336947294",
+	  "size": "76728794",
+	  "md5": "73250221c48a3cf3f1f8c7aeed38f64d",
+	  "crc32": "1087b69b",
+	  "sha1": "f0e15327f32382c4a80edba5241688b6272d9ba7",
+	  "title": "Star Trek: Armada Demo"
+	},
+	"\/armada_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336947295",
+	  "size": "78267",
+	  "md5": "bc29514c7638cb8131571dcec57ca00a",
+	  "crc32": "dbe913b8",
+	  "sha1": "fc77cb062f56ca05185399ffc76b3cb58a7380be",
+	  "rotation": "0"
+	},
+	"\/armada_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "armada_demo.jpg",
+	  "mtime": "1336947324",
+	  "size": "5836",
+	  "md5": "626ad978dfefb66076794bee0a21fed5",
+	  "crc32": "cc02363e",
+	  "sha1": "dd1a89d2f28b09919f986b59272972eb65bc4f80"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/16\/items\/StarTrekArmadaDemo\/armada_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 734,
+	"week": 5,
+	"month": 21
+  }
+}

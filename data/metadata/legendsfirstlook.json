@@ -1,0 +1,117 @@
+{
+  "server": "ia800700.us.archive.org",
+  "dir": "/19/items/legendsfirstlook",
+  "metadata": {
+	"identifier": [
+	  "legendsfirstlook"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "New World Computing"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "The first online and multiplayer Might and Magic game!"
+	],
+	"publisher": [
+	  "The 3DO Company"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Legends of Might and Magic Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2014-02-16 18:55:41"
+	],
+	"addeddate": [
+	  "2014-02-16 18:55:41"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234108[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_14"
+	]
+  },
+  "files": {
+	"\/legendsfirstlook.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392576940",
+	  "size": "86445598",
+	  "md5": "d42233079442cc7009bf022e96552284",
+	  "crc32": "0bdb3673",
+	  "sha1": "a6a8b1ff94304ab263cc49dd173f16d4d32d5767"
+	},
+	"\/legendsfirstlook.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392576952",
+	  "size": "160165",
+	  "md5": "2afa8c4a845d744c6b8a1ffe2c8cc451",
+	  "crc32": "aed77e77",
+	  "sha1": "daf8559f196b474cce15183a7d2cc92eea7ac956",
+	  "rotation": "0"
+	},
+	"\/legendsfirstlook_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3474716fe01314b2fe73567188b31e74"
+	},
+	"\/legendsfirstlook_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392576964",
+	  "size": "10240",
+	  "md5": "b63b5daedbfc29ce71dc241a21864805",
+	  "crc32": "2a19f8ce",
+	  "sha1": "491ec97b0a0c1932fdf55dc5a405507b5b0145d0"
+	},
+	"\/legendsfirstlook_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473605598",
+	  "size": "923",
+	  "md5": "826b26c18b78480391f3b97dc195749f",
+	  "crc32": "43be906e",
+	  "sha1": "63c601976f7e949e297e3ce1a48ce62210e1c6f6"
+	},
+	"\/legendsfirstlook_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "legendsfirstlook.jpg",
+	  "mtime": "1392576979",
+	  "size": "5849",
+	  "md5": "e629a575716d796a26ee1cd39fe2348a",
+	  "crc32": "61ea67dc",
+	  "sha1": "2deb3b114bbac9086a60375aca6f5c27476c9ce3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600700.us.archive.org\/19\/items\/legendsfirstlook\/legendsfirstlook_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 958,
+	"week": 5,
+	"month": 43
+  }
+}

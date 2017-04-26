@@ -1,0 +1,120 @@
+{
+  "server": "ia802607.us.archive.org",
+  "dir": "/20/items/msabtf",
+  "metadata": {
+	"identifier": [
+	  "msabtf"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Atomic Games"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Real-time, historically accurate World War II strategy game that puts you in command of either the Allied or Axis forces during the epic Operation Market Garden battle in German controlled Holland.<\/div>"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Close Combat: A Bridge Too Far Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-28 21:48:18"
+	],
+	"addeddate": [
+	  "2014-01-28 21:48:18"
+	],
+	"alternate-title": [
+	  "Close Combat 2"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233744[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/msabtf.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390945697",
+	  "size": "16458752",
+	  "md5": "b7caa8e099de54b5aff22551b9904f6e",
+	  "crc32": "6b75ed3f",
+	  "sha1": "2fa88e3d32b8386aacf6141bcfac4a460070bc6f"
+	},
+	"\/msabtf.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390945712",
+	  "size": "162411",
+	  "md5": "c5aff08ff1cd83070b0c46188c97e25c",
+	  "crc32": "6b779e67",
+	  "sha1": "b13b1e3644514ae6890ccd00b41c8335277c4c28",
+	  "rotation": "0"
+	},
+	"\/msabtf_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "848bb9298d667ed83b96732ab3cbe801"
+	},
+	"\/msabtf_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390945721",
+	  "size": "12288",
+	  "md5": "058864a78dd2483ddb942a9aba3d4c19",
+	  "crc32": "55a97560",
+	  "sha1": "432245763244788fe524afd79f11ba247355fe67"
+	},
+	"\/msabtf_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474512577",
+	  "size": "1124",
+	  "md5": "828f2c35ba4cc382ef7c22d8e4141db2",
+	  "crc32": "5961b42a",
+	  "sha1": "d0ffdc200526eb5ad05a449f1b3b3a886a00f26b"
+	},
+	"\/msabtf_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "msabtf.jpg",
+	  "mtime": "1390945730",
+	  "size": "6240",
+	  "md5": "f248b7cf826a61e838427d8ab46db403",
+	  "crc32": "7f5b04d6",
+	  "sha1": "eebbe993048f24ac60a2ac3c5a5bf1ab1afc7169"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia802607.us.archive.org\/20\/items\/msabtf\/msabtf_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3092,
+	"week": 29,
+	"month": 118
+  }
+}

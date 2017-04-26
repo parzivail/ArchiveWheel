@@ -1,0 +1,112 @@
+{
+  "server": "ia600701.us.archive.org",
+  "dir": "/1/items/ThinktanksDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "ThinkTanks Demo"
+	],
+	"description": [
+	  "Battle against brain-hungry bots or play your friends online in this wacky and thrilling 3D combat tank game."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Bravetree Productions"
+	],
+	"identifier": [
+	  "ThinktanksDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 03:24:00"
+	],
+	"publicdate": [
+	  "2012-05-28 03:24:14"
+	],
+	"date": [
+	  "2003"
+	],
+	"year": [
+	  "2003"
+	],
+	"publisher": [
+	  "GarageGames"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/ThinkTanksSetup.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338175347",
+	  "size": "11281037",
+	  "md5": "ebf8494856628177aead07d8cb942ade",
+	  "crc32": "20336b41",
+	  "sha1": "a3c2e1bedcb32399f8928c64c9c27a4c68f974e3"
+	},
+	"\/ThinkTanksSetup.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338175348",
+	  "size": "76126",
+	  "md5": "b664a92ea7b662f4dfc73c00f6752cb7",
+	  "crc32": "13ab9fe1",
+	  "sha1": "ac0f92e76891955235f7db9ce1f49983b106b8a2",
+	  "rotation": "0"
+	},
+	"\/ThinkTanksSetup_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ThinkTanksSetup.jpg",
+	  "mtime": "1338175448",
+	  "size": "4912",
+	  "md5": "afff67b2957dcb3b335501ba963dc4d0",
+	  "crc32": "176970f6",
+	  "sha1": "f3f6283bb1ce142b830df2dea363366343c057cd"
+	},
+	"\/ThinktanksDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5e25a145fa5c05271b2dc357221feeff01678fe4",
+	  "mtime": "1461878364",
+	  "size": "2263",
+	  "md5": "6e6206f3ea9b5c3617578aa36c3d1f14",
+	  "crc32": "45f52ebf",
+	  "sha1": "8b9dbde7ac77cd1703a93184a8fd8dd024b47132",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ThinktanksDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1fbdd8584382f4e8733e51b49c1d22b0"
+	},
+	"\/ThinktanksDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1461878363",
+	  "size": "871",
+	  "md5": "a0b6286d0fa17597629e5224a9004df6",
+	  "crc32": "b89ddef5",
+	  "sha1": "28e47f64d1ba0907f6e3442a6d603af06d79ed32"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600701.us.archive.org\/1\/items\/ThinktanksDemo\/ThinkTanksSetup_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 240,
+	"week": 3,
+	"month": 10
+  }
+}

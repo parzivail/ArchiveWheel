@@ -1,0 +1,136 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/19/items/Zorro_1020",
+  "metadata": {
+	"identifier": [
+	  "Zorro_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Capstone Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Zorro Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:34:13"
+	],
+	"addeddate": [
+	  "2012-09-04 02:34:13"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Gold - Long ago the priests of La Refugio Sagrado Mission discovered gold on their land. When word of an attack spread, the mine was sealed to hide the treasure forever.\n\nGreed - The evil Don Francisco Cortez now has the map to the mine and will use all his cunning and deceit to find the gold for himself.\n\nGallantry - As Zorro, defender of justice, you must brave the desert wilderness of 19th century California armed with only your whip and blade. Battle Cortez and his bandits. Explore ancient ghost ships. Fend off vultures and man-eating plants. And with the mark of the Z, return the gold to the village mission and fulfill the legend of our masked hero. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "zorro.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/Zorro_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f3312c2c5a61f645b7cf618826a41212b30e55b8",
+	  "mtime": "1476638836",
+	  "size": "1827",
+	  "md5": "aa981720ef42812cc2473e6133e991cc",
+	  "crc32": "fca09fda",
+	  "sha1": "f59fc8c1b0f2a54dd11e0d31660ad2e9b36a0fb6",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Zorro_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9aaf674d4726998cf8d0ebd1f5e0d761"
+	},
+	"\/Zorro_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476638835",
+	  "size": "1483",
+	  "md5": "bcda312c38861aa79688c6a74b7cb1f2",
+	  "crc32": "feee9437",
+	  "sha1": "ed88400dcd7bc947107f41ea9cb9b58e935ad9d0"
+	},
+	"\/resource_item_1333.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346726066",
+	  "size": "10323",
+	  "md5": "7a05fbde9d2f9c5caae36c86d04f274c",
+	  "crc32": "1400e5ec",
+	  "sha1": "a0155b078121ddc2ed1341d38b0664a3363baf9e",
+	  "rotation": "0"
+	},
+	"\/resource_item_1333.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346726066",
+	  "size": "272",
+	  "md5": "4f005f2d76750a30752f05ad2834ae02",
+	  "crc32": "39df603a",
+	  "sha1": "c3b4ec1ce45f689ef1472afbdf5d15c00ad21e86"
+	},
+	"\/resource_item_1333_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1333.jpg",
+	  "mtime": "1346726887",
+	  "size": "3416",
+	  "md5": "baf8f5cfd6889d780bfa28f2fde8f81d",
+	  "crc32": "f47a5432",
+	  "sha1": "601560e2f749a0e2401d597bcda54b2c0947ddb8"
+	},
+	"\/zorro.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476456226",
+	  "size": "1015227",
+	  "md5": "0d0dfa2474a9c520c58a7669b1a84697",
+	  "crc32": "77c97eba",
+	  "sha1": "084ba87d1191964ae4f13fec57e41d36cf230d55"
+	},
+	"\/zorro.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346726064",
+	  "size": "609",
+	  "md5": "1363b26bf8c09765d99b659feb874f35",
+	  "crc32": "66a022f3",
+	  "sha1": "925ad8a22e635a45e52466b724cee75aa19e1d37"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/19\/items\/Zorro_1020\/resource_item_1333_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 250,
+	"week": 5,
+	"month": 9
+  }
+}

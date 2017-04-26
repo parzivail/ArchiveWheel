@@ -1,0 +1,503 @@
+{
+  "server": "ia800305.us.archive.org",
+  "dir": "/10/items/LanceStoneTroubleAtTheWoz_1020",
+  "metadata": {
+	"identifier": [
+	  "LanceStoneTroubleAtTheWoz_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "PC Comix"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "Trial version of HyperComix - Collector's Issue # 1 Lance Stone: Trouble At The Woz. VGA electronic comic book featuring spot animation, sound effects and branching plot lines. Cyberpunk thriller set in 21st century Los Angeles. Supports Sound Blaster. A must see. Awesome!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS applications; Vintage computer applications"
+	],
+	"title": [
+	  "Lance Stone: Trouble At The Woz Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:35:43"
+	],
+	"addeddate": [
+	  "2012-09-04 03:35:43"
+	],
+	"year": [
+	  "1993"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "STONE.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475333981",
+	  "size": "361716",
+	  "md5": "9866a98a60173210439675a71bfaa3a8",
+	  "crc32": "c4ad011f",
+	  "sha1": "9c391e64ce0de0a102863741cdd18724c6521483",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475334124",
+	  "size": "5227",
+	  "md5": "710004e552fb99d2e89bc88d76263e57",
+	  "crc32": "c4b18e01",
+	  "sha1": "aae81a6625bcbc38085534a5f6717fec9b8400fc"
+	},
+	"\/1comix.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346729751",
+	  "size": "720093",
+	  "md5": "b1be84e570898919725ac806a38740d6",
+	  "crc32": "d93ce2a8",
+	  "sha1": "a78df6c0e106884b01e5b35316afe226bcfe7af7"
+	},
+	"\/1comix.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346729751",
+	  "size": "928",
+	  "md5": "dbe464bd933c4708dbd9d838ccb4f380",
+	  "crc32": "2c5ca6f6",
+	  "sha1": "53272524d1be2f17fa095de8ce09ef35e6ec5bde"
+	},
+	"\/1comix_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475334106",
+	  "size": "1197943",
+	  "md5": "db7a8ab02997c17829169a13189b1260",
+	  "crc32": "ce7fab05",
+	  "sha1": "0025b00bc9d0946fd54e454c15fc1b12b3ed3c44",
+	  "format": "Emulator Screenshot"
+	},
+	"\/LanceStoneTroubleAtTheWoz_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475334099",
+	  "size": "45558",
+	  "md5": "37e1ec381b63256aa3ecc56c2a87112f",
+	  "crc32": "1bbe19b8",
+	  "sha1": "3e2038db26d47fa1cebe81f93ec8965bc4759c9a",
+	  "format": "Animated GIF"
+	},
+	"\/LanceStoneTroubleAtTheWoz_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "fbe7b6b974f93cb978c15a2fda84f5f7427bef29",
+	  "mtime": "1475334162",
+	  "size": "8714",
+	  "md5": "1b9551929fb2e784175a50abb9f7a290",
+	  "crc32": "18ef970a",
+	  "sha1": "1ca035f6fa12152f0cf34e08c2100a579aa18336",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LanceStoneTroubleAtTheWoz_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "438152e91e39e3f4064653bb731a2d11"
+	},
+	"\/LanceStoneTroubleAtTheWoz_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475334114",
+	  "size": "16384",
+	  "format": "Metadata",
+	  "md5": "556e7f883fe3a4b141baf1ebac3549e6",
+	  "crc32": "ac61119a",
+	  "sha1": "23d2dfbcc05faf753786b2e8ff6b52edd462cd1a"
+	},
+	"\/LanceStoneTroubleAtTheWoz_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1472484590",
+	  "size": "1128",
+	  "md5": "1e1dc0b70c5e54ae9cd95c570d209b01",
+	  "crc32": "a2cb9149",
+	  "sha1": "1e236f9e6b5e2442fd970a19040afdb04512b439"
+	},
+	"\/resource_item_1539.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731580",
+	  "size": "14590",
+	  "md5": "4a9b30a0d0d61906312c09974b919e35",
+	  "crc32": "1b90a66c",
+	  "sha1": "57011499e3f63d11d6514142fad3d17430e153b5",
+	  "rotation": "0"
+	},
+	"\/resource_item_1539.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731580",
+	  "size": "272",
+	  "md5": "0a91f0e4bf73dff0203da86e2809cb48",
+	  "crc32": "d99a86b8",
+	  "sha1": "30a58e95b38d13bc78a91b523b327f187c3b8ea5"
+	},
+	"\/resource_item_1539_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1539.jpg",
+	  "mtime": "1346733031",
+	  "size": "5103",
+	  "md5": "f3caf081571cadc3958ef69490174e3a",
+	  "crc32": "fda7da55",
+	  "sha1": "61beab82fb17702b1a27a62ed543601111dcd9c3"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475333992",
+	  "size": "291996",
+	  "md5": "a21e40f6d3bf694f23657fe1df15ba4f",
+	  "crc32": "70a54e9f",
+	  "sha1": "5ee1c337b548719ff2e57f12dd30e4a4f70fda59",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475334132",
+	  "size": "4180",
+	  "md5": "6bd132b56a4f8061b3cb8931e5e0728a",
+	  "crc32": "e3c82842",
+	  "sha1": "b4bbfca9720a2a82c3199e16b403501370abacab"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475333997",
+	  "size": "293785",
+	  "md5": "02ad9782780140e123d15087b30dc829",
+	  "crc32": "4d5a4ecb",
+	  "sha1": "af0f7067b987b122e02513b8e60ab7efc847eeab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475334135",
+	  "size": "4198",
+	  "md5": "d8e615756a9d8befbff2462b9c3e8bf0",
+	  "crc32": "a15b6953",
+	  "sha1": "4b0e5da92eb11f41950e901787d442e28afa319e"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475334013",
+	  "size": "8527",
+	  "md5": "9b0e0ea2f8bdbac84031503020e70ea5",
+	  "crc32": "f952b312",
+	  "sha1": "ea6adb5089aa9a0f71672aeda327b9103e67a7a0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475334137",
+	  "size": "1438",
+	  "md5": "7cd060f596db039e2eca0d2b3c190c83",
+	  "crc32": "c4a05ce0",
+	  "sha1": "8dfe1da30daddb1e2c78a28f3f4f68724d6ffd4a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475334015",
+	  "size": "113720",
+	  "md5": "e6f63033f9e40b05347625315ac9c39a",
+	  "crc32": "1661c974",
+	  "sha1": "2771acc357a1588ff5ca74b65b707093fa68516a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475334140",
+	  "size": "2719",
+	  "md5": "b64d14a606ee9fed80249d8059cb542b",
+	  "crc32": "b6b28066",
+	  "sha1": "f0960c5a3986aa32e392463889d3dc1a02a7679c"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475334021",
+	  "size": "255800",
+	  "md5": "e94042f3608107c8c7f9292e5d15adb7",
+	  "crc32": "b9e35ca4",
+	  "sha1": "490093291db3d103714f3c4bbf51b087a1367132",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475334141",
+	  "size": "4208",
+	  "md5": "f81fa0cbe8d07c7bb342b5356fc8b4b7",
+	  "crc32": "374ec296",
+	  "sha1": "acc6d2f1dd58b6e9eb6d147aa424547299545219"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475334027",
+	  "size": "356148",
+	  "md5": "80072403c6d17a78e72157e5eaa6321d",
+	  "crc32": "67efde92",
+	  "sha1": "01723bd55de461b747f323475040aedf2e062d28",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475334142",
+	  "size": "5061",
+	  "md5": "51768ae36310a75a2891e84bfecedfc9",
+	  "crc32": "483d8c16",
+	  "sha1": "c6892d3c30cde88057bacb335a1b046e93eff255"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475334029",
+	  "size": "361716",
+	  "md5": "9866a98a60173210439675a71bfaa3a8",
+	  "crc32": "c4ad011f",
+	  "sha1": "9c391e64ce0de0a102863741cdd18724c6521483",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475334144",
+	  "size": "5227",
+	  "md5": "710004e552fb99d2e89bc88d76263e57",
+	  "crc32": "c4b18e01",
+	  "sha1": "aae81a6625bcbc38085534a5f6717fec9b8400fc"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475334035",
+	  "size": "352937",
+	  "md5": "05fd31fd183520f1631df4aa14f586dc",
+	  "crc32": "7279d9d6",
+	  "sha1": "b44e37b7a678c5e04f5647d04b0a6980a2558fbb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475334145",
+	  "size": "5194",
+	  "md5": "7505a1cc7bbdfb2dfb8c394b39bbc633",
+	  "crc32": "e42a1e4c",
+	  "sha1": "63073874d9171462f38fb0603f946f56499144de"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475334039",
+	  "size": "353014",
+	  "md5": "9ad2591a7a7781dfd2eebacf9792bbb7",
+	  "crc32": "01d737bd",
+	  "sha1": "b205e06ad7acfa64286feb7609799a59b4dc836d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475334148",
+	  "size": "5192",
+	  "md5": "5a880d2ee3061e0ebe985499190658b2",
+	  "crc32": "65d77e88",
+	  "sha1": "7ad7b5fb66c939588709e56684d60a196e7b77c4"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475334045",
+	  "size": "353482",
+	  "md5": "2a116ffd132342550d2be580a66c717a",
+	  "crc32": "0607e408",
+	  "sha1": "2e6e7acc5912bf26304e159a01ce624d531413c4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475334149",
+	  "size": "5214",
+	  "md5": "6b5b4cbbb942e00bd460c95b4679dca1",
+	  "crc32": "bb18d807",
+	  "sha1": "11e19ffea8914c87e9cda549d6a181331e073d3a"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475334049",
+	  "size": "353955",
+	  "md5": "ad7ce5c628fa7aa47a78086712d55dc5",
+	  "crc32": "018c52c3",
+	  "sha1": "05ca6d6aa032948bc683dcb4fe8c135b142abe5e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475334152",
+	  "size": "5426",
+	  "md5": "10bd8972b4da52c3b67b0fbba6397f4e",
+	  "crc32": "be477f52",
+	  "sha1": "568065e7aa957c8dfb7e8319d21434008a06d3c8"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475334058",
+	  "size": "339626",
+	  "md5": "cef43e317085a7058da272755936d193",
+	  "crc32": "3ab8b4c2",
+	  "sha1": "e66065de3b1905069bd8db426bff933c224d3697",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475334153",
+	  "size": "5201",
+	  "md5": "c5a4d368756ca2841c0b1908862414ba",
+	  "crc32": "8d78b37a",
+	  "sha1": "673afb6d64bb32c15af77f7f00517efc1fdd633c"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475334065",
+	  "size": "294553",
+	  "md5": "edcd5a0d74469fb5637787c375e81568",
+	  "crc32": "83783266",
+	  "sha1": "32d79a98faa078091a9e0efe6884cbf67fd10395",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475334156",
+	  "size": "4127",
+	  "md5": "f23792d582897c559cfdc44724a07b4f",
+	  "crc32": "1931be01",
+	  "sha1": "e11201f2611e9328d148bcca60d87300d3de7756"
+	},
+	"\/screenshot_13.jpg": {
+	  "source": "original",
+	  "mtime": "1475334072",
+	  "size": "305929",
+	  "md5": "0d5a7f22f7914b978f37a79a7ebc0263",
+	  "crc32": "60c0bca0",
+	  "sha1": "e52d07ae65ad4ab9cb3699ec39323c188cccea5c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_13_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_13.jpg",
+	  "mtime": "1475334157",
+	  "size": "4687",
+	  "md5": "d1b608b04607bc9507c752a04da24236",
+	  "crc32": "e7df74fb",
+	  "sha1": "39cd0b564c46a8dfe421d5eaa48aa5bc5af145e2"
+	},
+	"\/screenshot_14.jpg": {
+	  "source": "original",
+	  "mtime": "1475334084",
+	  "size": "305045",
+	  "md5": "fd0cd3a3c96449ee9be3e5dbecb75dd0",
+	  "crc32": "72a7990d",
+	  "sha1": "bc2247bf7bf06fddf315ecf4bd8fbadd917a3269",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_14_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_14.jpg",
+	  "mtime": "1475334158",
+	  "size": "4636",
+	  "md5": "1cc51c2d675c08ba75be3405362ff48e",
+	  "crc32": "e86b36fc",
+	  "sha1": "913194fcb81b224f1689359da2fff19f998298d9"
+	},
+	"\/screenshot_15.jpg": {
+	  "source": "original",
+	  "mtime": "1475334091",
+	  "size": "299298",
+	  "md5": "9d5457c4bef49d761742c97c36dcac6f",
+	  "crc32": "7e6b77f2",
+	  "sha1": "da07bb0099ce2bfb674c47a08856bc6ecd39cc48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_15_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_15.jpg",
+	  "mtime": "1475334160",
+	  "size": "4741",
+	  "md5": "ab86bd2a2499a6d5fb5575db00ee5094",
+	  "crc32": "2e6785b3",
+	  "sha1": "1e67cea17468c8ec084ab783ff354325d0f03234"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800305.us.archive.org\/10\/items\/LanceStoneTroubleAtTheWoz_1020\/LanceStoneTroubleAtTheWoz_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 114,
+	"week": 5,
+	"month": 8
+  }
+}

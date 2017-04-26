@@ -1,0 +1,188 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/1/items/MasterOfOrionDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Master of Orion Demo"
+	],
+	"description": [
+	  "\"BUILD AN EMPIRE TO SPAN THE GALAXY\n\nNapoleon's vast empire stretched from Madrid to Moscow.\n\nThe empire of Alexander the Great blanketed Persia, Egypt, and western India.\n\nBut compared to your empire, theirs are cosmic dust. Because, in Master Of Orion, you'll create an empire that will stretch across the entire galaxy!\n\nStarting with a single planet, you'll develop resources and design ships for your alien population to colonize nearby stars. As you obtain new technology and equip your ships with more ordnance, you'll build a powerful fleet of space ships from small shuttles to gargantuan, planet-smashing dreadnoughts.\n\nWith your fleet at your command, you'll combat ruthless enemy armadas with an awesome array of weapons. Pursue trade and negotiation with alien races. Send spies to steal technology and sabotage enemy facilities. And compete with your enemies as you struggle to inhabit or exploit distant planets. Planets for which you dictate productivity, defense, and even population capacity.\n\nUse your technology wisely, keep a close eye on the growth of your empire, and there's no telling how much of the universe you'll conquer as Master Of Orion!\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Simtex"
+	],
+	"identifier": [
+	  "MasterOfOrionDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 09:07:32"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "MicroProse"
+	],
+	"publicdate": [
+	  "2012-08-05 09:07:58"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "MOODEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475361490",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475361523",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/MasterOfOrionDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475361496",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/MasterOfOrionDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "809b06cf749e8794c70835dc618d424290d2a5d6",
+	  "mtime": "1475361529",
+	  "size": "3119",
+	  "md5": "99f471fa9c6034f67db13a8a3f648624",
+	  "crc32": "6664b835",
+	  "sha1": "9b56865f3c1274e8cae192248c4c8db55a00a4a3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MasterOfOrionDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e436e31edb10ae28539830f9974d1e5f"
+	},
+	"\/MasterOfOrionDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475361511",
+	  "size": "8192",
+	  "md5": "cf422882205314048b816aed85f97116",
+	  "crc32": "7498f6e3",
+	  "sha1": "9957fd93b8827e27d5665720daa96a4fb393eff8",
+	  "format": "Metadata"
+	},
+	"\/MasterOfOrionDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471798233",
+	  "size": "2036",
+	  "md5": "6f1dab1a7f853cd1f86205aec5566939",
+	  "crc32": "76766080",
+	  "sha1": "b050f307e3a9f5d33b821849cb9546bdae54ace8"
+	},
+	"\/moodemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344157606",
+	  "size": "161691",
+	  "md5": "a2e0a600b2d0d6cea1c4a1d092dd77a9",
+	  "crc32": "3545d6e3",
+	  "sha1": "9732ceaad7341fa1f2d9d5f3cf8aa67d7d96da4f"
+	},
+	"\/moodemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475361508",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_425.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344157614",
+	  "size": "17169",
+	  "md5": "1ec22f346d96feb3111987fd18fb6e1a",
+	  "crc32": "f4fc537f",
+	  "sha1": "7581a6b92c2e88ee1c2105df969701fd94fef54b",
+	  "rotation": "0"
+	},
+	"\/resource_item_425_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_425.jpg",
+	  "mtime": "1344157664",
+	  "size": "4867",
+	  "md5": "f57573c1d3269d5839f91b5dae4d615f",
+	  "crc32": "c35fd796",
+	  "sha1": "7494a94e17ff65dd13991843880f6acc20ef273e"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475361493",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475361524",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600807.us.archive.org\/1\/items\/MasterOfOrionDemo\/MasterOfOrionDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 637,
+	"week": 7,
+	"month": 14
+  }
+}

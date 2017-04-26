@@ -1,0 +1,125 @@
+{
+  "server": "ia600503.us.archive.org",
+  "dir": "/5/items/DRDEMO_201402",
+  "metadata": {
+	"identifier": [
+	  "DRDEMO_201402"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Kronos Digital Entertainment"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Dark Rift, a fully 3 dimensional weapon-based fighting game. Character attributes include as many as 10 hits in a combo series, exploding projectile attacks, grabs and special moves, special grab and projectile moves off of combos, and get up combos."
+	],
+	"publisher": [
+	  "Funsoft",
+	  "Vic Tokai"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Dark Rift Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-02-24 02:48:56"
+	],
+	"addeddate": [
+	  "2014-02-24 02:48:56"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234737[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_25"
+	]
+  },
+  "files": {
+	"\/DRDEMO_201402_archive.torrent": {
+	  "source": "original",
+	  "btih": "7c844d8cdc9be9da3bf51ddfb8203d69a0499500",
+	  "mtime": "1475089911",
+	  "size": "2310",
+	  "md5": "50513d4eabe727e979e1ba7ef6c150a1",
+	  "crc32": "9402ca78",
+	  "sha1": "ba392b79f44bc4a4edc18be178cf2d50d04443aa",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DRDEMO_201402_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "43f4678b39aeead96dfab7a5ad24273d"
+	},
+	"\/DRDEMO_201402_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1393210162",
+	  "size": "12288",
+	  "md5": "49c9bc01e6b99f270203ec9c75f48e9c",
+	  "crc32": "4a86afb0",
+	  "sha1": "499383962f421b284e8bff2be012ce1472cb56e9"
+	},
+	"\/DRDEMO_201402_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475089910",
+	  "size": "1091",
+	  "md5": "324a157bd75d6004ab70c7c0014e66f9",
+	  "crc32": "74e51395",
+	  "sha1": "48138d503438b8b5d82403eec296fabb0e8a5759"
+	},
+	"\/DR_DEMO.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1393210136",
+	  "size": "22220",
+	  "md5": "18b25c5d6f13d375dbcc990440bfe063",
+	  "crc32": "52c57d57",
+	  "sha1": "c269ac2356f67712dd2ff517d6e92caf3ecb173b",
+	  "rotation": "0"
+	},
+	"\/DR_DEMO.rar": {
+	  "source": "original",
+	  "format": "RAR",
+	  "mtime": "1393210155",
+	  "size": "8624353",
+	  "md5": "c813bd2946fdbc6496129b51f740ee39",
+	  "crc32": "b50d98de",
+	  "sha1": "e51f0fee83728eaae6e868ace08dbce8605fb5e1"
+	},
+	"\/DR_DEMO_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "DR_DEMO.jpg",
+	  "mtime": "1393210168",
+	  "size": "6923",
+	  "md5": "969937c1dfd7c1fffc70ca0538a004ee",
+	  "crc32": "47904848",
+	  "sha1": "63268356a358c279afcaa3e9dda33db61e7b0b1f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600503.us.archive.org\/5\/items\/DRDEMO_201402\/DR_DEMO_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 142,
+	"week": 4,
+	"month": 6
+  }
+}

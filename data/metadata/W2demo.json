@@ -1,0 +1,138 @@
+{
+  "server": "ia801800.us.archive.org",
+  "dir": "/33/items/W2demo",
+  "metadata": {
+	"identifier": [
+	  "W2demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSG Strategic Studies Group"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>This is a limited play demo of Warlords II Deluxe for IBM.\u00a0<\/div><div>Details on the game are listed below, followed by operating\u00a0<\/div><div>instructions for the demo. Warlords II Deluxe is a full\u00a0<\/div><div>commercial game, not shareware.<\/div><div><br \/><\/div><div>This demo contains two full scenarios plus a tutorial, and\u00a0<\/div><div>will run for 40 turns. Saving and loading are disabled.<\/div><div><br \/><\/div><div><br \/><\/div><div>Warlords II Deluxe features an upgraded version of\u00a0<\/div><div>Warlords II, with enhancements such as network play, an\u00a0<\/div><div>improved Warlords II Scenario Builder, plus over twenty\u00a0<\/div><div>four brand new scenarios, all on CD-ROM. The total value of<\/div><div>this package is $160.00, if purchased separately.<\/div><div><br \/><\/div><div><br \/><\/div><div>Warlords II was created due to overwhelming demand from\u00a0<\/div><div>players of the original Warlords game. The Warlords II\u00a0<\/div><div>Scenario Builder was likewise released because warlords\u00a0<\/div><div>fans demanded the ability to create their own scenarios.\u00a0<\/div><div>Warlords II Deluxe is the product of users' desires for a\u00a0<\/div><div>networkable version of Warlords II.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Warlords II Deluxe Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-06-02 11:52:49"
+	],
+	"addeddate": [
+	  "2013-06-02 11:52:49"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232741[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905701_23"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "w2demo.bat"
+	]
+  },
+  "files": {
+	"\/W2demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "daa0b6f881e8ab0f7bfcce0f66ebacd7c8de71ea",
+	  "mtime": "1476118709",
+	  "size": "1892",
+	  "md5": "069fe1454a03653871a1c2e230705f41",
+	  "crc32": "0f66461f",
+	  "sha1": "ffaceaf9d5bd7806dd61ba7168b4906d2ccc3222",
+	  "format": "Archive BitTorrent"
+	},
+	"\/W2demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "38905e1358ce05fd960d0534b1ddb682"
+	},
+	"\/W2demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476118601",
+	  "size": "2367",
+	  "md5": "53b60a078b4bbe6ed05fc5b17da08803",
+	  "crc32": "f9c6a04b",
+	  "sha1": "5dd77c58acbdb6477c9c68f72c25ca2012f51e1c"
+	},
+	"\/w2demo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1370173981",
+	  "size": "81583",
+	  "md5": "74d91a534db8b4f73edf7c318801895a",
+	  "crc32": "e02a3648",
+	  "sha1": "c7567584e737991efaac3c21ee2077f32dc455bc"
+	},
+	"\/w2demo.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370173981",
+	  "size": "2933",
+	  "md5": "7e993cd20892b8e39c32b1a854972493",
+	  "crc32": "0314d61a",
+	  "sha1": "1679f0b0edddf3b35269c603d3525949e279f4f5"
+	},
+	"\/w2demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476118703",
+	  "size": "3842221",
+	  "md5": "0bcdb2602b60d8ccae7053fa2273f0a4",
+	  "crc32": "ea99f1ef",
+	  "sha1": "220b450ebfe7ef0b560f3f2d53e4b0b0adaf8267"
+	},
+	"\/w2demo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1370173968",
+	  "size": "2963",
+	  "md5": "00210d6802769a4b71e580bbccf5cc64",
+	  "crc32": "dfec2adf",
+	  "sha1": "ed2ead66835f4dffcdc35ce01735e33927c27e1c"
+	},
+	"\/w2demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "w2demo.png",
+	  "mtime": "1370173991",
+	  "size": "7060",
+	  "md5": "b30946c744a1a9f68ba63b0d56710092",
+	  "crc32": "5b79f805",
+	  "sha1": "52eaa96eb3446045a6e45315bd01faf30bc5e321"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601800.us.archive.org\/33\/items\/W2demo\/w2demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2494,
+	"week": 30,
+	"month": 173
+  }
+}

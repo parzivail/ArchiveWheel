@@ -1,0 +1,307 @@
+{
+  "server": "ia902307.us.archive.org",
+  "dir": "/1/items/MAGIC_20140815",
+  "metadata": {
+	"identifier": [
+	  "MAGIC_20140815"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bullfrog Productions"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Shred the Skies an the world's fastest, most heavily armed flying carpet. Duel rival wizards and wade into hordes of deadly beasts in you quest to restore 50 shattered worlds. A technological masterpiece of 3D fractal landscapes that morph in real time and gorgeous texture-mapped graphics. Prepare for the rush of adrenaline as you step into the fastest arcade flight experience ever created.\u00a0"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Magic Carpet Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2014-08-15 21:10:22"
+	],
+	"addeddate": [
+	  "2014-08-15 21:10:22"
+	],
+	"backup_location": [
+	  "ia905902_13"
+	],
+	"emulator_start": [
+	  "CARPET.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475350614",
+	  "size": "251173",
+	  "md5": "4f93bc1288435ae5bd3b03cb5bed5be9",
+	  "crc32": "e54a39f5",
+	  "sha1": "d4a063aac648f52e9a917f5d8a8ec53927aa8b78",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475350676",
+	  "size": "3531",
+	  "md5": "77bae6c4ea72be985d53826a6b0eb350",
+	  "crc32": "40a4e68e",
+	  "sha1": "04811e57e4d63c9aaab87031588e794f794395fe"
+	},
+	"\/MAGIC.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473348185",
+	  "size": "3152353",
+	  "md5": "4ab5db2846aecf5d81a947d9617f1d44",
+	  "crc32": "f82373dd",
+	  "sha1": "0c73530eb38e0abd332a6c7df6ddd8378db388a9"
+	},
+	"\/MAGIC_20140815.gif": {
+	  "source": "original",
+	  "mtime": "1475350647",
+	  "size": "132857",
+	  "md5": "75cd8ed027d3213a77a1dc05c2e92d0a",
+	  "crc32": "56958eb9",
+	  "sha1": "eee2aa6b6787721faa21351ba587fa2da78890f3",
+	  "format": "Animated GIF"
+	},
+	"\/MAGIC_20140815_archive.torrent": {
+	  "source": "original",
+	  "btih": "48af0ff26f07bb7ea5c3b9f9d2aa601fd64aeb75",
+	  "mtime": "1475350685",
+	  "size": "5312",
+	  "md5": "141ddeb10b7959de0485aee65a9ad51c",
+	  "crc32": "1a1704ac",
+	  "sha1": "9303074b6c835c58cc0037a62bc069a6d46851ca",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MAGIC_20140815_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e007db69d653dcbb4d711259c7d00684"
+	},
+	"\/MAGIC_20140815_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475350656",
+	  "size": "15360",
+	  "md5": "6c36a64c6d87f421bfad0effb6839aeb",
+	  "crc32": "8007c77a",
+	  "sha1": "a5fd491ae2ca2d31d80ef9490061af3fc32a1a9a"
+	},
+	"\/MAGIC_20140815_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473348227",
+	  "size": "1183",
+	  "md5": "a0c700e48734773110316eececcf4f85",
+	  "crc32": "1b855fef",
+	  "sha1": "e3ac489c9fa429dc43972834481c6ffd77ba7888"
+	},
+	"\/MAGIC_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475350653",
+	  "size": "403571",
+	  "md5": "1b8f0a45625910b01b7dda905a9ef196",
+	  "crc32": "24769aaa",
+	  "sha1": "b77154cc4e31db8114de48b5947e09311e78eb90",
+	  "format": "Emulator Screenshot"
+	},
+	"\/magic.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1408137032",
+	  "size": "17691",
+	  "md5": "834b3853b84b3efe50b4c241dd0fc8bf",
+	  "crc32": "05c93682",
+	  "sha1": "ba4999192f01bdde4c81ee9c5a523a6a95ff12a5"
+	},
+	"\/magic_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "magic.png",
+	  "mtime": "1408137046",
+	  "size": "3377",
+	  "md5": "83268c8b1f434af0bb588651a9cbef8d",
+	  "crc32": "6bd5ddec",
+	  "sha1": "b9d78af17d59e3947bfddd1ac2658c10115f6649"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475350622",
+	  "size": "133010",
+	  "md5": "3878a409c8fc894f67f170696794544b",
+	  "crc32": "c23e3361",
+	  "sha1": "a7d4ad4b4350983bdba2b8eee7858eb15e2532b5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475350673",
+	  "size": "5356",
+	  "md5": "d635f7f31b6c671f5b304e44206d25d4",
+	  "crc32": "659a4d60",
+	  "sha1": "919a30d1f48b70ac34ca36495c32691e9317700e"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475350625",
+	  "size": "132966",
+	  "md5": "3c0b7b8e38cf6b18c9bcb04cd47b5538",
+	  "crc32": "302982d9",
+	  "sha1": "7d3fced586ae838e5e5602a44f55da8f672f5205",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475350675",
+	  "size": "5358",
+	  "md5": "8c0de0f2d4b5dcaec1af05475cd4a2d9",
+	  "crc32": "f688fcdb",
+	  "sha1": "416c143f86a626a1ac7be6b81895bb10cd04b993"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475350627",
+	  "size": "137965",
+	  "md5": "05c248ca88397db097c859ec9a0216bf",
+	  "crc32": "1c728dc2",
+	  "sha1": "a80d24bec9aaeb3eb70d3904aee961a0a5f7475f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475350677",
+	  "size": "5354",
+	  "md5": "b6ae6c6009d5a49b0936f887a79ad5bc",
+	  "crc32": "5daca280",
+	  "sha1": "f29cb6e41d02f512f683d35fea42f9773ec7c856"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475350630",
+	  "size": "137997",
+	  "md5": "7c8b8d36c5c01639af08cb7ad8f99a5b",
+	  "crc32": "72bc1bb9",
+	  "sha1": "d7cce4af2c91d22be721f6ac17973837eab038cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475350678",
+	  "size": "5355",
+	  "md5": "ba71d73a8d6de66a3b54ed0d3386518a",
+	  "crc32": "09c7b980",
+	  "sha1": "1cb1033e62590867b681cb83865e056f090e53c2"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475350637",
+	  "size": "72825",
+	  "md5": "403bed1171d4a50c938a87e001e57b47",
+	  "crc32": "198fdc13",
+	  "sha1": "ba048c05ba82f935f1bd252b787d626a04aedf60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475350682",
+	  "size": "1311",
+	  "md5": "43ee584e31c4b33c3336c616a4eb7d98",
+	  "crc32": "e94c96e2",
+	  "sha1": "9e04a7c6ca1ff8d288f661ac725d1c5bb7cb5410"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475350640",
+	  "size": "153204",
+	  "md5": "1f611b55c9f6df9d25d86ba62c3591aa",
+	  "crc32": "47da093b",
+	  "sha1": "5c1c64fc5e66af072cc8be1dd08afaba871e9622",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475350680",
+	  "size": "2225",
+	  "md5": "af71396e0ed53605cce941494c94826a",
+	  "crc32": "801eac93",
+	  "sha1": "89d07fa406a438fdaa3e3483b23edd1e7cf2704d"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475350643",
+	  "size": "251173",
+	  "md5": "4f93bc1288435ae5bd3b03cb5bed5be9",
+	  "crc32": "e54a39f5",
+	  "sha1": "d4a063aac648f52e9a917f5d8a8ec53927aa8b78",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475350681",
+	  "size": "3531",
+	  "md5": "77bae6c4ea72be985d53826a6b0eb350",
+	  "crc32": "40a4e68e",
+	  "sha1": "04811e57e4d63c9aaab87031588e794f794395fe"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902307.us.archive.org\/1\/items\/MAGIC_20140815\/MAGIC_20140815.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 442,
+	"week": 5,
+	"month": 9
+  }
+}

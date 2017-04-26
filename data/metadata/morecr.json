@@ -1,0 +1,234 @@
+{
+  "server": "ia902607.us.archive.org",
+  "dir": "/32/items/morecr",
+  "metadata": {
+	"identifier": [
+	  "morecr"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Microforum"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>First there was Warcraft, one of the greatest strategy games ever made. Now the war for Azeroth rages on with MoreCraft, the essential collection of add-on levels for Warcraft II. Gather the troops for endless hours of brutal warfare as MoreCraft invades your PC, challenging even the most accomplished warrior with over 200 custom-designed campaigns.<\/div><div><br \/><\/div><div>MoreCraft's special Quik-Browser makes choosing a level easy, and even allows you to preview each level before beginning a campaign. Each level allows battles of up to 8 players at a time and multi-player matches via network, modem and serial connection are all supported, so the mayhem doesn't have to end at your screen!<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "MoreCraft Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-11-03 23:23:58"
+	],
+	"addeddate": [
+	  "2014-11-03 23:23:58"
+	],
+	"backup_location": [
+	  "ia905906_10"
+	],
+	"emulator_start": [
+	  "menu.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475722951",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475722998",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/MCRAFTDM.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475600819",
+	  "size": "1118894",
+	  "md5": "6ae05c84c38aec28e13296a8c8258923",
+	  "crc32": "6162ce7f",
+	  "sha1": "0d427d066373053b8217615567f3ffb39bef142d"
+	},
+	"\/MCRAFTDM_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475722974",
+	  "size": "162282",
+	  "md5": "ec0e788f5fe02271b13e9fb25d5385fd",
+	  "crc32": "e93dc957",
+	  "sha1": "dfe7df9d63c8114247d8291df2f7fff7ff12f4b8",
+	  "format": "Emulator Screenshot"
+	},
+	"\/morecr-installer.zip": {
+	  "source": "original",
+	  "mtime": "1415057048",
+	  "size": "1121820",
+	  "md5": "1df9c7ddc77f461ac614ba0701b0c807",
+	  "crc32": "bc6c41f9",
+	  "sha1": "27299dd0f06742577ef935659af1247ee776c19a",
+	  "format": "ZIP"
+	},
+	"\/morecr.JPG": {
+	  "source": "original",
+	  "mtime": "1415057038",
+	  "size": "80339",
+	  "md5": "b955c964d8a84cc4e0e22942ac6264c1",
+	  "crc32": "cc50dd5b",
+	  "sha1": "807714e299563fe0df42265671e9dce8f77347c8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/morecr.gif": {
+	  "source": "original",
+	  "mtime": "1475722963",
+	  "size": "63337",
+	  "md5": "de2b21c33573a892c60b9b9a5147c38b",
+	  "crc32": "64fec8ff",
+	  "sha1": "393428434996a21b8269b34410dc86854f87d0f8",
+	  "format": "Animated GIF"
+	},
+	"\/morecr_archive.torrent": {
+	  "source": "original",
+	  "btih": "9e3dbaf8545f02a4789f07095bf222b64dbf6b39",
+	  "mtime": "1475723010",
+	  "size": "3942",
+	  "md5": "58706b14c08caf72766fcefb31f1c4fb",
+	  "crc32": "700ed74f",
+	  "sha1": "35f3a6bf90bba66952aeca540c3c2bb333e10ecf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/morecr_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "57ee3e928d1d7e85eb519a2b22bb6f4c"
+	},
+	"\/morecr_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475722977",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "3572df7d5c23f74b4f479e4d76549f24",
+	  "crc32": "9f87db2a",
+	  "sha1": "b4a5ab3af6c0bab7c8fd985e8b3a8f2a11d56c86"
+	},
+	"\/morecr_meta.xml": {
+	  "source": "original",
+	  "mtime": "1475601753",
+	  "size": "1480",
+	  "format": "Metadata",
+	  "md5": "71742b2a909dc5f6610228eb15fb473b",
+	  "crc32": "2e7a502a",
+	  "sha1": "1790257a9b0eaabd832afff56ea468a84b7f43c3"
+	},
+	"\/morecr_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "morecr.JPG",
+	  "mtime": "1415057425",
+	  "size": "6065",
+	  "md5": "4daef7b1fa4241be26db899b683dfa0d",
+	  "crc32": "ac60addb",
+	  "sha1": "51c29aab4e64587cd5eda975cdd05096873f39df"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475722953",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475723003",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475722956",
+	  "size": "90339",
+	  "md5": "b15b96a39f8b2a50944880c84ecaaebe",
+	  "crc32": "c1498c03",
+	  "sha1": "203d365a21811f99a8b79fc705d9946e7e1fef60",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475723005",
+	  "size": "3379",
+	  "md5": "43ddfc1f3b4401bc49a79738ae8c81c4",
+	  "crc32": "a30963c9",
+	  "sha1": "5c8d4fe2658cf0aa59082003b0422bb4e5c15c0a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475722958",
+	  "size": "76726",
+	  "md5": "60505a4e535967f62cae608022f04cc2",
+	  "crc32": "fbba9826",
+	  "sha1": "cdfc9056dd25b31ff03365cd0d905fefcae0be8f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475723006",
+	  "size": "1776",
+	  "md5": "190b6da25ad1a4bd49bfa9ef0485f9ce",
+	  "crc32": "37e5b36b",
+	  "sha1": "112634ad97f092ec5698a5cb91a65df98e62e707"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902607.us.archive.org\/32\/items\/morecr\/morecr.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 385,
+	"week": 3,
+	"month": 8
+  }
+}

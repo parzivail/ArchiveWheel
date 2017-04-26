@@ -1,0 +1,113 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/12/items/007NightfireDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "007: Nightfire Demo"
+	],
+	"description": [
+	  "The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before-infiltrate towering skyscrapers, take on treacherous underwater missions, and maneuver your sleek Aston Martin V12 Vanquish through the streets of Tokyo while turning on the Bond charm with glamorous (and sometimes deadly) Bond women."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Gearbox Software"
+	],
+	"identifier": [
+	  "007NightfireDemo"
+	],
+	"addeddate": [
+	  "2012-05-14 02:17:41"
+	],
+	"publicdate": [
+	  "2012-05-14 02:18:17"
+	],
+	"date": [
+	  "2002"
+	],
+	"year": [
+	  "2002"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_13"
+	]
+  },
+  "files": {
+	"\/007NightfireDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "91b30b887f0139579117032ee1d7cb76e5e24cc5",
+	  "mtime": "1465911685",
+	  "size": "7724",
+	  "md5": "3c2122e8ca418194d065554868449440",
+	  "crc32": "cfb52d86",
+	  "sha1": "8c17b630787d13fdd091c1046737fe3aac08b569",
+	  "format": "Archive BitTorrent"
+	},
+	"\/007NightfireDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9099c98982d2c34e125da6170a3279cf"
+	},
+	"\/007NightfireDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465911684",
+	  "size": "1152",
+	  "md5": "8461befea528b8853de02a38277613e7",
+	  "crc32": "9841cf9d",
+	  "sha1": "89f6020f68e205e3b1fcc136cc06ae591b885ebb"
+	},
+	"\/bonddemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336961833",
+	  "size": "154052426",
+	  "md5": "e39d4780e4a4d37e08a3c2fb6fdb5635",
+	  "crc32": "059e7cce",
+	  "sha1": "0f6cb2880b9dbed31fc6a02e8ebccf46fd9cfc6d",
+	  "title": "007: Nightfire Demo"
+	},
+	"\/bonddemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336961834",
+	  "size": "125435",
+	  "md5": "0293c0eb4cb88b87f784bdbc5df2aade",
+	  "crc32": "ed7463f3",
+	  "sha1": "31a0fc35ebef4c560ec47c72ff0472774b285fdf",
+	  "rotation": "0"
+	},
+	"\/bonddemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "bonddemo.jpg",
+	  "mtime": "1336961890",
+	  "size": "4565",
+	  "md5": "461f2bb03e2896faa0c460fae1352e10",
+	  "crc32": "ec991dbc",
+	  "sha1": "32141f42801b61a3ed491ed3fd15fe0d710f9ace"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/12\/items\/007NightfireDemo\/bonddemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1934,
+	"week": 24,
+	"month": 105
+  }
+}

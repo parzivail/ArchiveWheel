@@ -1,0 +1,246 @@
+{
+  "server": "ia600305.us.archive.org",
+  "dir": "/35/items/Quarantine_1020",
+  "metadata": {
+	"identifier": [
+	  "Quarantine_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Imagexcel"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Quarantine Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:53:59"
+	],
+	"addeddate": [
+	  "2012-09-04 03:53:59"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"You are Drake Edgewater, a 21st Century cab driver desperate to escape from the Quarantined city of KEMO. You drive a modified '52 Checker \"\"hovercab\"\" armed with headlight mounted machine guns, roof cannons, missiles, explosives, flame throwers, buzzsaws, and a Bad Attitude. Rid the streets by any means neccesary, of assault vehicles, mutant assassins and slow moving pedestrians.\n\nIt's all in a day's work, here in KEMO.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "QDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475799396",
+	  "size": "75957",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "f362c2a332d3ab995c998008992b9ef7",
+	  "crc32": "29f3cf3f",
+	  "sha1": "0649b33f6d636d3c7d73c824ee4a726768044826"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475799444",
+	  "size": "1910",
+	  "md5": "7191d60977574a953ccf47352b99db02",
+	  "crc32": "ba85309e",
+	  "sha1": "5b2ddf43f80cab0300ec9c64bf781bdea86fbc61"
+	},
+	"\/Quarantine_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475799407",
+	  "size": "30491",
+	  "format": "Animated GIF",
+	  "md5": "5a3939134236c96573bd62585b4cccf8",
+	  "crc32": "bc8f9d1c",
+	  "sha1": "426caf88682df9c20b9bac5a201741612df6da86"
+	},
+	"\/Quarantine_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f023c1eff5e67bd00be639df6c0a01435c49c6c5",
+	  "mtime": "1475799451",
+	  "size": "3833",
+	  "md5": "fac3649e66597903ef51978e57e86811",
+	  "crc32": "381c0a5e",
+	  "sha1": "4f251611cf537afe269d351143c14c2fa1afeaaa",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Quarantine_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "140a8ac66ab43870cb427c8b698a1044"
+	},
+	"\/Quarantine_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475799416",
+	  "size": "10240",
+	  "format": "Metadata",
+	  "md5": "15c7fc13770a66a721a90b0412a5fe77",
+	  "crc32": "88465cc1",
+	  "sha1": "1ff35c641b469b0d2775f06783b26c255b7d0b35"
+	},
+	"\/Quarantine_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473380172",
+	  "size": "1279",
+	  "md5": "15593944425b22bdb559848db7cf3c8b",
+	  "crc32": "40d33387",
+	  "sha1": "f62bd2a93f706ccc38fbda4df8d8ac97fc4d1d2a"
+	},
+	"\/qdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730853",
+	  "size": "1349496",
+	  "md5": "1d46ba9c0d0ade88acb4aebf77d6779f",
+	  "crc32": "a3d318ef",
+	  "sha1": "071ad0f003a5ad6c48d6dede5975f6aa3f1a13d5"
+	},
+	"\/qdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730853",
+	  "size": "641",
+	  "md5": "1f8e839c64cd82a4e09bf93dd42d69cf",
+	  "crc32": "a49bc132",
+	  "sha1": "1cd81b74888aed9114a0e230ff90bfa42d9ff770"
+	},
+	"\/qdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475799410",
+	  "size": "59660",
+	  "format": "Emulator Screenshot",
+	  "md5": "72b4d44006e1f0f7fb599d9e1113d0d0",
+	  "crc32": "79efb0f9",
+	  "sha1": "c90e826e477879338236c06a2a50112c87cc1d2e"
+	},
+	"\/resource_item_1507.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730855",
+	  "size": "17872",
+	  "md5": "a77e4f007efadcc41daa110e59bc3ae5",
+	  "crc32": "542f0e0d",
+	  "sha1": "8de7d81af67c3e2ace5f8d2ccb4335daec775b05",
+	  "rotation": "0"
+	},
+	"\/resource_item_1507.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730855",
+	  "size": "272",
+	  "md5": "8e4bd7ccc618f262d501cbcdbdec914f",
+	  "crc32": "09935061",
+	  "sha1": "adf68931b4941079607a4f37feefe47f19b8097f"
+	},
+	"\/resource_item_1507_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1507.jpg",
+	  "mtime": "1346732639",
+	  "size": "5317",
+	  "md5": "141f3d0188afd31982441a8406c59837",
+	  "crc32": "e566c535",
+	  "sha1": "f9bce271532818892c7f29ac609bcb6d94ab8acd"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475799399",
+	  "size": "59486",
+	  "md5": "87e7ebfdda94deaa228c1eb5d04621cb",
+	  "crc32": "4e09af1f",
+	  "sha1": "1c861b994008bda79673c0a440a3181039cba95a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475799446",
+	  "size": "2807",
+	  "md5": "f7660f38420b78f6c9754cefc1c8b8b5",
+	  "crc32": "55e7f621",
+	  "sha1": "4b87b30f67998e36e3f0f022fab83dac4f7637cf"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475799401",
+	  "size": "63305",
+	  "md5": "0e26fd137567eb23ac87e083ae433e01",
+	  "crc32": "f041b60c",
+	  "sha1": "bd244cc3094c6d0b0da42bd74b65894520a6a3ff",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475799448",
+	  "size": "3134",
+	  "md5": "631dc856265f82ff323d017b03394d6b",
+	  "crc32": "d0883b5f",
+	  "sha1": "b257a65a8f76f141a44b34c945c19a99727cd692"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475799404",
+	  "size": "75957",
+	  "md5": "f362c2a332d3ab995c998008992b9ef7",
+	  "crc32": "29f3cf3f",
+	  "sha1": "0649b33f6d636d3c7d73c824ee4a726768044826",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475799449",
+	  "size": "1910",
+	  "md5": "7191d60977574a953ccf47352b99db02",
+	  "crc32": "ba85309e",
+	  "sha1": "5b2ddf43f80cab0300ec9c64bf781bdea86fbc61"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/35\/items\/Quarantine_1020\/Quarantine_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 259,
+	"week": 3,
+	"month": 3
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/35/items/DungeonHackDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Dungeon Hack Demo"
+	],
+	"description": [
+	  "Explore countless new dungeons in a game that never has to be the same twice. Send your character on quest after quest, down through the many pits, traps, and puzzles of Dungeon Hack. This game delivers many combinations of play , a variety of magical and non-magical items to be found in each game and a bestiary stocked with over fifty formidable foes!"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "DreamForge Intertainment"
+	],
+	"identifier": [
+	  "DungeonHackDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 09:23:30"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"publicdate": [
+	  "2012-08-05 09:24:00"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "HACKDEMO\/HACK.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475248065",
+	  "size": "266602",
+	  "md5": "20db34849b759811b235db4c2c17deb1",
+	  "crc32": "4fdd8f4f",
+	  "sha1": "83e2ee4d201edc05b3a8378d381a41c77672c120",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475248147",
+	  "size": "4921",
+	  "md5": "cc8eb7b19935a0b5d953e9482b553a50",
+	  "crc32": "eedade84",
+	  "sha1": "7c62fb44ff6ff42dfc4232967f10879dbe6f8a5c"
+	},
+	"\/DungeonHackDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475248129",
+	  "size": "86741",
+	  "md5": "6e46e0fee04f8bcfd88170690264574b",
+	  "crc32": "d546a1ac",
+	  "sha1": "3dbd502962555557871fbb21985f9d4b32416cbf",
+	  "format": "Animated GIF"
+	},
+	"\/DungeonHackDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "b5d98590356fbf61c4f70c8a17b64ca34b74737c",
+	  "mtime": "1475248167",
+	  "size": "7400",
+	  "md5": "51be093f6e19edec4d702196923af84a",
+	  "crc32": "bf2f8ee4",
+	  "sha1": "fcdf1f8dcd643348ce9e6d81e0ce7ac937785bc2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DungeonHackDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ec1845f0e8c1fcbc18f9f3f18a406dff"
+	},
+	"\/DungeonHackDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475248141",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "6de3fef7162614200ac57a2841944bde",
+	  "crc32": "2e402783",
+	  "sha1": "bea3ce2bc37ac75b17a42412840ba6995a6edbb8"
+	},
+	"\/DungeonHackDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471887008",
+	  "size": "1235",
+	  "md5": "ee63d12f351b162afea21228befe27bd",
+	  "crc32": "2f24e9fa",
+	  "sha1": "1a6ce8095bd4d8404efcc71e1d67655e840b3db7"
+	},
+	"\/hackdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344158589",
+	  "size": "914284",
+	  "md5": "9f018ccddf231de89e9362057516c2ca",
+	  "crc32": "bbf12c1e",
+	  "sha1": "6803e96201b78dae481c8fa5dee5ae2dd5dc55b4"
+	},
+	"\/hackdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475248137",
+	  "size": "703485",
+	  "md5": "a88ac7fc84112a84fc615cfdb107cff4",
+	  "crc32": "22e346d2",
+	  "sha1": "4c0b770cd77dbc453822f5fe8efa43d2d93446ba",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_434.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344158579",
+	  "size": "20299",
+	  "md5": "ee07aeb935e45205234f023bb3d851b1",
+	  "crc32": "c2187e51",
+	  "sha1": "0c81ac742a4e04d907947d40e586e02f89607591",
+	  "rotation": "0"
+	},
+	"\/resource_item_434_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_434.jpg",
+	  "mtime": "1344158620",
+	  "size": "5801",
+	  "md5": "e1a80594ec12d1291e5ba944315c3f48",
+	  "crc32": "967a5879",
+	  "sha1": "5d24679da065070e5bebb8aeb2e7b0ceabb9fcb9"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475248071",
+	  "size": "136908",
+	  "md5": "bc3ca1a89094ca23065222ab1d761768",
+	  "crc32": "39ff2acf",
+	  "sha1": "accf9817ec19a50346b587c0a8120f51488585a9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475248148",
+	  "size": "3972",
+	  "md5": "bd6de9233b718546e68585f819ccb868",
+	  "crc32": "9a957714",
+	  "sha1": "f2a50c7d717f6f31adfd855952e56cf56d6650b6"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475248076",
+	  "size": "139513",
+	  "md5": "7aa919b095b008a53bb3930380c83281",
+	  "crc32": "113ba299",
+	  "sha1": "7e37bfee1f7ae3720f473859b392baab690b5048",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475248150",
+	  "size": "3697",
+	  "md5": "7922d4742417ab17ddca911f36a67313",
+	  "crc32": "33584820",
+	  "sha1": "b6e523e40db7f63851e95619a724b73bd13df12a"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475248078",
+	  "size": "131680",
+	  "md5": "7af3881b7e65ef68625cb892b9a9b32e",
+	  "crc32": "96bb6df8",
+	  "sha1": "763a7edd6b6f7c4e8efd1bfa6b130828af398a48",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475248151",
+	  "size": "3907",
+	  "md5": "d37066d8bb8c8fd667696f99c987eb7e",
+	  "crc32": "cc89f302",
+	  "sha1": "3e6d3d0c561379c6ec320e5bc0240c036e30a10a"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475248083",
+	  "size": "132357",
+	  "md5": "d548902db0513ad9876afbc4e8ecd074",
+	  "crc32": "c5bdfde3",
+	  "sha1": "dbce8d270d6b858d52b85d3d9c48b9ad8adfab82",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475248153",
+	  "size": "4010",
+	  "md5": "29dbbd6b5a8325d3c7d0e00bb3085136",
+	  "crc32": "6afdcf9e",
+	  "sha1": "6bfbc1b59528de4368cd5b24396f2be31077143b"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475248086",
+	  "size": "151206",
+	  "md5": "c23361a716ca8d0bdc61a2c2cfa47744",
+	  "crc32": "b97f1b84",
+	  "sha1": "9cdd6570890776a0267f71f163a13e28a20f89f7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475248154",
+	  "size": "4876",
+	  "md5": "7ea9b9b0245b562127a4264d93da836c",
+	  "crc32": "4603f984",
+	  "sha1": "4a4c8eccf2fab0dadae1e43714fa8147a33ee09b"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475248091",
+	  "size": "170502",
+	  "md5": "ed54b04e62b96443853ae6969d2a4e15",
+	  "crc32": "6a964298",
+	  "sha1": "4d6af6091525184a3c65993ced90694ac3677c08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475248155",
+	  "size": "5448",
+	  "md5": "9bf62ba9e87c9d7046705ad2e1412c2c",
+	  "crc32": "44cf1dba",
+	  "sha1": "a40c205866b8134edf8b19cd0ab87a69455d27e7"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475248095",
+	  "size": "160214",
+	  "md5": "40027f991ee90ff58eaa20b22e784657",
+	  "crc32": "51a04542",
+	  "sha1": "823dc8e35dce6581a84165d8a1d89be47ceb481e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475248157",
+	  "size": "4303",
+	  "md5": "2cb818e4f909941937e69999ffb80910",
+	  "crc32": "72336d00",
+	  "sha1": "9f2210e4a7ed111876a144c0303955501ed17787"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475248097",
+	  "size": "115523",
+	  "md5": "e809b03f6990a937da6b7a3ba367ed80",
+	  "crc32": "0db0c8c1",
+	  "sha1": "2cf18aae10b6c0fc9f75a7e679116e0f98c698f0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475248159",
+	  "size": "2865",
+	  "md5": "14d4886ed61b550d1e76933ca440520d",
+	  "crc32": "11d89b53",
+	  "sha1": "e1fc63b0420cb20de624a448c3f83c441bb1b2d0"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475248101",
+	  "size": "117030",
+	  "md5": "892bccb5d5a6d7d60759d5a8b6ee5716",
+	  "crc32": "834e236a",
+	  "sha1": "4583edafe60b0c65b6a8b6585c467f9513dc58c6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475248160",
+	  "size": "3088",
+	  "md5": "8f1d0196e2006f988bdc85912abd4d16",
+	  "crc32": "d29fbe3b",
+	  "sha1": "8fd4135bee57451397ac6c339472cdc78723dbd4"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475248108",
+	  "size": "93318",
+	  "md5": "af2ccee0935e307be7ba887287b90010",
+	  "crc32": "10cb1aa7",
+	  "sha1": "d4bae339a2d290be00e54c55598599f168375e68",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475248161",
+	  "size": "2113",
+	  "md5": "4af6df1ac87bcf5e5418fd7ae7ecdfa9",
+	  "crc32": "710bc682",
+	  "sha1": "e61d79d4120f672420b4438e2295134822df73d1"
+	},
+	"\/screenshot_10.jpg": {
+	  "source": "original",
+	  "mtime": "1475248113",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_10_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_10.jpg",
+	  "mtime": "1475248162",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_11.jpg": {
+	  "source": "original",
+	  "mtime": "1475248117",
+	  "size": "261193",
+	  "md5": "1e1bd8d71b31e824d25c98f93a5ffdf2",
+	  "crc32": "d908fe35",
+	  "sha1": "65b792988f09ea79b39fdd5d1fc65d7469a629e2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_11_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_11.jpg",
+	  "mtime": "1475248164",
+	  "size": "4469",
+	  "md5": "25b4fa7ad27dc23721094e56f29abdc2",
+	  "crc32": "7d11928e",
+	  "sha1": "226b834a90ece71b9dad8ac8d3b77564fd287301"
+	},
+	"\/screenshot_12.jpg": {
+	  "source": "original",
+	  "mtime": "1475248123",
+	  "size": "266602",
+	  "md5": "20db34849b759811b235db4c2c17deb1",
+	  "crc32": "4fdd8f4f",
+	  "sha1": "83e2ee4d201edc05b3a8378d381a41c77672c120",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_12_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_12.jpg",
+	  "mtime": "1475248166",
+	  "size": "4921",
+	  "md5": "cc8eb7b19935a0b5d953e9482b553a50",
+	  "crc32": "eedade84",
+	  "sha1": "7c62fb44ff6ff42dfc4232967f10879dbe6f8a5c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/35\/items\/DungeonHackDemo\/DungeonHackDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 316,
+	"week": 4,
+	"month": 10
+  }
+}

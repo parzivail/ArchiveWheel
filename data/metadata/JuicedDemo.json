@@ -1,0 +1,121 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/27/items/JuicedDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Juiced Demo"
+	],
+	"description": [
+	  "Juiced is the only racing simulation that totally immerses you in the lifestyle and culture of the real street modding scene. By showing off your modding and driving skills, you'll gain Respect from the rival crew chiefs, and will soon be invited to their race events, challenge them to race \u00e2for pinks\u00e2 and bet against them for cash. As your notoriety grows, new drivers will ask to join your crew, opening up the never before seen crew races where your skills at managing your drivers while you race are key to beating your rival crews."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Racing games"
+	],
+	"creator": [
+	  "Juice Games"
+	],
+	"identifier": [
+	  "JuicedDemo"
+	],
+	"addeddate": [
+	  "2012-06-10 23:41:37"
+	],
+	"publicdate": [
+	  "2012-06-10 23:42:17"
+	],
+	"date": [
+	  "2005"
+	],
+	"year": [
+	  "2005"
+	],
+	"publisher": [
+	  "THQ"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_34"
+	]
+  },
+  "files": {
+	"\/Juiced.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1400280346",
+	  "size": "140933509",
+	  "md5": "45948ebaf8f99f181da118b86f816652",
+	  "crc32": "a2461ef0",
+	  "sha1": "acd8d39ace14fc2963b708c18010a4870887a4a4"
+	},
+	"\/JuicedDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5f23a67fa6dac3dcff59e44c9cd520a0e11a533a",
+	  "mtime": "1465045219",
+	  "size": "17412",
+	  "md5": "27bdb4dd9506f729243efeac4938e46d",
+	  "crc32": "eeebd2bc",
+	  "sha1": "0a946822bcfb3a5863f518536b690d96af45209f",
+	  "format": "Archive BitTorrent"
+	},
+	"\/JuicedDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9d178a403f8cdb489aa9f803712b0500"
+	},
+	"\/JuicedDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465045214",
+	  "size": "1277",
+	  "md5": "881cfb45961278a61a09bf5f893100f6",
+	  "crc32": "821f8982",
+	  "sha1": "3d38ed24bef3c4165b4fef37f3bdf2859d2b8271"
+	},
+	"\/juiced_pc_demo_v2.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1339371653",
+	  "size": "263298873",
+	  "md5": "053bf3dc41d2c9f7633780f60ae117f0",
+	  "crc32": "a9f8cc32",
+	  "sha1": "4973cce60a7e78ee37efe2cc26597097e1a5767f"
+	},
+	"\/juiced_pc_demo_v2.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1339371654",
+	  "size": "129157",
+	  "md5": "537e7d4ac5bd16de6db1833ff2bf72b1",
+	  "crc32": "d6e70d28",
+	  "sha1": "89f87788221261fe1c469acf34ec226aeddfa8bd",
+	  "rotation": "0"
+	},
+	"\/juiced_pc_demo_v2_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "juiced_pc_demo_v2.jpg",
+	  "mtime": "1339371732",
+	  "size": "6338",
+	  "md5": "2bd60d8e43d495dcc44a5a0837f0b477",
+	  "crc32": "727b0cb6",
+	  "sha1": "ad6ec214a8afcccc5b5095e26bdfec3a3c277f68"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/27\/items\/JuicedDemo\/juiced_pc_demo_v2_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 826,
+	"week": 9,
+	"month": 19
+  }
+}

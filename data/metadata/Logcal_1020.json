@@ -1,0 +1,203 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/34/items/Logcal_1020",
+  "metadata": {
+	"identifier": [
+	  "Logcal_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rainbow Arts Software"
+	],
+	"date": [
+	  "1991"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Log!cal Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:58:52"
+	],
+	"addeddate": [
+	  "2012-09-04 03:58:52"
+	],
+	"year": [
+	  "1991"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"description": [
+	  "Logical is no ordinary thumb-numbing, brain twisting, eye-bulging puzzle game. Logical was created by our brightest wackos with a slick sense of humor. While you're reading the back of this box, they're sitting around that insane asylum they call an office laughing their butts off, picturing you trying to conquer 99 levels of marbles flying around like a whirlwind caught in a hurricane. They're betting you won't be able to use the Traffic Lights avoiding the Color Locks, and let's not forget Green Slime. Logical is more addictive than bubble gum, faster than a speeding housewife and destined to make a grown man cry. Ready for a real challenge."
+	],
+	"emulator_start": [
+	  "LOGICAL\/START.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475344941",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475344970",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/Logcal_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475344948",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/Logcal_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "2bff6a2443ad9cded22f324c887b8d32e777cc02",
+	  "mtime": "1475344975",
+	  "size": "3042",
+	  "md5": "52ca7ee22c28a2e4740dca410ff240e8",
+	  "crc32": "21eee5e3",
+	  "sha1": "b72de789988331fe0dc0cf159da1bc3382b0009b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Logcal_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1ad0cf90ee7e1f159b81f47cd357fb04"
+	},
+	"\/Logcal_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475344958",
+	  "size": "8192",
+	  "md5": "0dab5d9127dcc7b1ce5d74e231861516",
+	  "crc32": "d7df4503",
+	  "sha1": "aae6195eb24261f98154e390e62e8f804420e442",
+	  "format": "Metadata"
+	},
+	"\/Logcal_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1470159443",
+	  "size": "1486",
+	  "md5": "b7c934dada10a0be320e795bac679d65",
+	  "crc32": "fade7b0d",
+	  "sha1": "3fd88ff97ecd7c29ca8e3c77468860168cf91a8e"
+	},
+	"\/logical.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346731138",
+	  "size": "89140",
+	  "md5": "953ca7c3ec03e76f6c06b42866fb1ab0",
+	  "crc32": "11d503b2",
+	  "sha1": "f615a6fc7b7a0b38118e36b236c2f795eefdfc1c"
+	},
+	"\/logical.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731138",
+	  "size": "616",
+	  "md5": "e86cf89cb32493c5ab9f7ccfceb2eb3a",
+	  "crc32": "ac0419d7",
+	  "sha1": "bc559c2b42ce79ddcce6f12c0260e5ce00fc8567"
+	},
+	"\/logical_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475344951",
+	  "size": "101633",
+	  "md5": "ece89584202301fc50c79d00248aa3c2",
+	  "crc32": "04782c4f",
+	  "sha1": "757285f095284824d26f9c02fff4c97c856de21a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1533.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731653",
+	  "size": "15774",
+	  "md5": "59d874c196c249c985a81d4c44840d75",
+	  "crc32": "fcd1efe2",
+	  "sha1": "07192dd066c8a947266fd8ea9c74efa8286dbb51",
+	  "rotation": "0"
+	},
+	"\/resource_item_1533.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731653",
+	  "size": "272",
+	  "md5": "63f9a399ff275f15b407222b5e33f68d",
+	  "crc32": "f3225a5c",
+	  "sha1": "bcdf91147302450dd5a346c6383a2c880b2d973a"
+	},
+	"\/resource_item_1533_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1533.jpg",
+	  "mtime": "1346733066",
+	  "size": "5345",
+	  "md5": "cc5099e8815af8b38afbfa06245ed5c7",
+	  "crc32": "4433e5d7",
+	  "sha1": "34f4eeb0f268319b113a7eae16201ae6a4e12ff9"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475344944",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475344972",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/34\/items\/Logcal_1020\/Logcal_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 149,
+	"week": 3,
+	"month": 4
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "server": "ia601604.us.archive.org",
+  "dir": "/11/items/PlagueIiDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Plague II Demo"
+	],
+	"description": [
+	  "This is Plague II, a platformer where you will be able to control one of 4 characters, fighting your way through the walls of enemies in a variety of different levels and landscapes."
+	],
+	"subject": [
+	  "QBasic games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Adam Szmigin"
+	],
+	"identifier": [
+	  "PlagueIiDemo"
+	],
+	"addeddate": [
+	  "2013-01-12 14:53:22"
+	],
+	"publicdate": [
+	  "2013-01-12 14:53:32"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"license": [
+	  "freeware"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia905604_26"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "Plague2.exe"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475421873",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475421918",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/PlagueIiDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475421887",
+	  "size": "63924",
+	  "md5": "7f0c7d4888cd83807868f4521950457b",
+	  "crc32": "52bf9265",
+	  "sha1": "661862f304459de5943136d2fb69caad6728f24c",
+	  "format": "Animated GIF"
+	},
+	"\/PlagueIiDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "12cdaa8cf27a8667f29365de02905686c23d297e",
+	  "mtime": "1475421923",
+	  "size": "3226",
+	  "md5": "91d371482f771d74097a4992e7dc9fce",
+	  "crc32": "f870d967",
+	  "sha1": "96365a24342914229a785c13ba481526b85934b8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PlagueIiDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a3815873e74057382cfc572a66724cf2"
+	},
+	"\/PlagueIiDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475421893",
+	  "size": "9216",
+	  "format": "Metadata",
+	  "md5": "4e63220e808234d001a82ad36110d4b3",
+	  "crc32": "c9b66c86",
+	  "sha1": "63c35f8df64976b46dc6538beeb8e809b60e479c"
+	},
+	"\/PlagueIiDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474475859",
+	  "size": "1037",
+	  "md5": "d203e7d5028f96f89142361f91317f3c",
+	  "crc32": "c65b380d",
+	  "sha1": "b28e18d3a87f61cfb758c995bed61aa85e22fc0b"
+	},
+	"\/plague2.gif": {
+	  "source": "original",
+	  "format": "Animated GIF",
+	  "mtime": "1358002213",
+	  "size": "38060",
+	  "md5": "e83d1e9f5b72ac2d2bd5931347802b58",
+	  "crc32": "0719fc0e",
+	  "sha1": "38435f0a3440b5cf5fb8261476bfa2e99960a5a7"
+	},
+	"\/plague2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1358002214",
+	  "size": "242039",
+	  "md5": "e9bdae9acb90ede4d4aa12d40fab00a6",
+	  "crc32": "ac358473",
+	  "sha1": "010f52d711f91e2c7d6d47d2fe3f8c6b9d0ca07d"
+	},
+	"\/plague2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475421891",
+	  "size": "117080",
+	  "md5": "a91aedecc02ecee777e0aa69c9ce2272",
+	  "crc32": "3b0af230",
+	  "sha1": "a0d4c9d0d90c7e0ae2cd7e1495b67ff23ebf8526",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475421880",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475421920",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475421883",
+	  "size": "77460",
+	  "md5": "63aafaa2475e9d0f0beae99f218f7017",
+	  "crc32": "3725db83",
+	  "sha1": "ead66982566efd72265686d81ae9ad7fef6bf44b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475421921",
+	  "size": "1858",
+	  "md5": "47a958967981cdbd8ebd82092478fd3d",
+	  "crc32": "c1184975",
+	  "sha1": "e57779293af2422de7ec02ae1296bfa69d3d3623"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601604.us.archive.org\/11\/items\/PlagueIiDemo\/plague2.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 104,
+	"week": 4,
+	"month": 4
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/8/items/AdvPinDemo",
+  "metadata": {
+	"identifier": [
+	  "AdvPinDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digital Extremes"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "<div>Unlike other pinball games, the action in Forgotten Island does not take place on a traditional table, but on a living island landscape fraught with dangerous creatures and natural hazards. Using the Unreal engine, this unique pinball game offers a first person shooter feel with tons of power-ups, secret levels and menacing obstacles like dinosaurs and erupting volcanoes.<\/div>"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Adventure Pinball: Forgotten Island Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2014-02-16 22:07:29"
+	],
+	"addeddate": [
+	  "2014-02-16 22:07:29"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234109[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_14"
+	]
+  },
+  "files": {
+	"\/AdvPinDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392588449",
+	  "size": "17698304",
+	  "md5": "4b2caa28ce8a0a77fd1fe701c4851525",
+	  "crc32": "dd79cbed",
+	  "sha1": "678c5305dfa66155e858ed016f455be6e422130e"
+	},
+	"\/AdvPinDemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1392588461",
+	  "size": "245485",
+	  "md5": "52a68b014f8faa56a32e0262ae7361e9",
+	  "crc32": "adc36b38",
+	  "sha1": "ffc3956beb87d07373ec24cf4aeb4e19f64e76e3"
+	},
+	"\/AdvPinDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "af7e5b6f80287e380726db3aa931ad0a"
+	},
+	"\/AdvPinDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392588467",
+	  "size": "14336",
+	  "md5": "8a375dbef62d540d2b3416e7923defa9",
+	  "crc32": "2d9d4a53",
+	  "sha1": "353284ec3f322ccee2668edc4ea1f88bba359998"
+	},
+	"\/AdvPinDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474042355",
+	  "size": "1266",
+	  "md5": "ede0c4bf60b19d1ce175bfec464b98ef",
+	  "crc32": "216b8d1c",
+	  "sha1": "723216059ae8f566bf052c93c07a71cc69db3c19"
+	},
+	"\/AdvPinDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "AdvPinDemo.png",
+	  "mtime": "1392588476",
+	  "size": "5743",
+	  "md5": "3806639caf985df551f38ab19b567603",
+	  "crc32": "72c9ef5a",
+	  "sha1": "5154d3d764456cf35a1f7e9d754f91ad89d2d794"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/8\/items\/AdvPinDemo\/AdvPinDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 610,
+	"week": 7,
+	"month": 16
+  }
+}

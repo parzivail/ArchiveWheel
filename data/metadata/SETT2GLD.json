@@ -1,0 +1,207 @@
+{
+  "server": "ia600205.us.archive.org",
+  "dir": "/8/items/SETT2GLD",
+  "metadata": {
+	"identifier": [
+	  "SETT2GLD"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Blue Byte Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>This is a demo version of The Settlers II Gold Edition. There are 2 parts to this demo; the Map Editor and The Settlers II Gold Edition game.<\/div><div><br \/><\/div><div><div>The Map Editor demo features all of the elements found in the full version, however, you will not be able to save any of the worlds you create using the demo version. We have also restricted the use of it to 15 minutes at a time.<\/div><\/div>"
+	],
+	"publisher": [
+	  "Blue Byte Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "The Settlers II: Gold Edition Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2016-04-09 20:20:42"
+	],
+	"addeddate": [
+	  "2016-04-09 20:20:42"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "SETTLER2.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia906105_4"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475457741",
+	  "size": "475381",
+	  "md5": "f588eff3c43e41d9372d13acb514eb70",
+	  "crc32": "fbfe4863",
+	  "sha1": "06794855993498b8bfd8d687f4855ff4e01b56f4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475457774",
+	  "size": "6155",
+	  "md5": "1d0eb1b30520bff34c6bd5610c1fd9cc",
+	  "crc32": "496106ff",
+	  "sha1": "54ea7cbe882fd81979de03aa83651a0f84a88c40"
+	},
+	"\/SETT2GLD.gif": {
+	  "source": "original",
+	  "mtime": "1475457749",
+	  "size": "180557",
+	  "md5": "b2b14194544c5f854980b7d85f5c96c6",
+	  "crc32": "6708b8b0",
+	  "sha1": "942be9076411bab89b35b32aaf9d5ae4951f3a9c",
+	  "format": "Animated GIF"
+	},
+	"\/SETT2GLD.zip": {
+	  "source": "original",
+	  "mtime": "1460233277",
+	  "size": "10558805",
+	  "md5": "fc9dd766d1cf69719250ebb4c4845c65",
+	  "crc32": "2e8688c7",
+	  "sha1": "20d1410b93d69e8cfc85c8c4eb0f0f9646532017",
+	  "format": "ZIP"
+	},
+	"\/SETT2GLD_archive.torrent": {
+	  "source": "original",
+	  "btih": "80f3676390ca0bafc0346c6b820120292456eb52",
+	  "mtime": "1484792608",
+	  "size": "3823",
+	  "md5": "4e931ff12a0bac57ff80958070db4fa3",
+	  "crc32": "65aea467",
+	  "sha1": "0851f72fa35e72068c46f683791a8751c201ba04",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SETT2GLD_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "463266f9aa9298d96ef73cbd380973d2"
+	},
+	"\/SETT2GLD_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475457758",
+	  "size": "15360",
+	  "format": "Metadata",
+	  "md5": "b7013739adb7e5307af1bd6cdbded1f6",
+	  "crc32": "52194a89",
+	  "sha1": "235cd8ba7a3f955c3b39adcb5601eabff0000674"
+	},
+	"\/SETT2GLD_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484792606",
+	  "size": "1277",
+	  "format": "Metadata",
+	  "md5": "7572306c71c8576eec3e765f1f059f1f",
+	  "crc32": "bd5a91e9",
+	  "sha1": "5ce0a65df976b949648271da7ac6ebafbefabebb"
+	},
+	"\/SETT2GLD_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475457754",
+	  "size": "396949",
+	  "md5": "6b681eb6f635b2eff7e3bafa247259b4",
+	  "crc32": "8c7d24d8",
+	  "sha1": "db05582ddde3dfac5ed04c10aaf7f50a1b1c0e9b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/s2_000.png": {
+	  "source": "original",
+	  "mtime": "1460233238",
+	  "size": "197874",
+	  "md5": "d22226336f680546841595c8a97101f3",
+	  "crc32": "1a1ee71b",
+	  "sha1": "4a4b551f7ca85d0dc098d1e4af441e9fa023c4e4",
+	  "format": "PNG"
+	},
+	"\/s2_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "s2_000.png",
+	  "mtime": "1460233287",
+	  "size": "6176",
+	  "md5": "5c4a248916e7e700c854140c3aa5eed0",
+	  "crc32": "144ef715",
+	  "sha1": "588b5170da00978283cf011403a553a9e4912481"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475457743",
+	  "size": "475381",
+	  "md5": "f588eff3c43e41d9372d13acb514eb70",
+	  "crc32": "fbfe4863",
+	  "sha1": "06794855993498b8bfd8d687f4855ff4e01b56f4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475457776",
+	  "size": "6155",
+	  "md5": "1d0eb1b30520bff34c6bd5610c1fd9cc",
+	  "crc32": "496106ff",
+	  "sha1": "54ea7cbe882fd81979de03aa83651a0f84a88c40"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475457746",
+	  "size": "281251",
+	  "md5": "f18236ee4c7b141ee22ac52aac96802a",
+	  "crc32": "9328e313",
+	  "sha1": "b9632904a556469beab31aa10cc4c85276e34fab",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475457777",
+	  "size": "3365",
+	  "md5": "6008e55320d33c14c3465f3ec6fe141c",
+	  "crc32": "39fdda69",
+	  "sha1": "146fa14ab8d74074f7401f61881beabd3a7b6b71"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600205.us.archive.org\/8\/items\/SETT2GLD\/SETT2GLD.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 184,
+	"week": 8,
+	"month": 13
+  }
+}

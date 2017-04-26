@@ -1,0 +1,120 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/24/items/OutcastDemo",
+  "metadata": {
+	"identifier": [
+	  "OutcastDemo"
+	],
+	"title": [
+	  "Outcast Demo"
+	],
+	"creator": [
+	  "Appeal S.A."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Pentagon, Washington DC Xue and Kauffman are offered the chance to work together by the US Government. They jump at the chance and begin the SideStep Project. Its mission: to send a probe into the nearest parallel universe.\n\nYour mission: face the dangers of a mysterious and hostile world in order to recover the probe and close the black hole."
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"publicdate": [
+	  "2012-02-21 06:38:52"
+	],
+	"addeddate": [
+	  "2012-02-21 06:38:10"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"updatedate": [
+	  "2012-02-21 06:39:29"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_7"
+	]
+  },
+  "files": {
+	"\/OUTCAST.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1329806261",
+	  "size": "127569885",
+	  "md5": "2f5fc4d40a10994a03f2c7f62533116e",
+	  "crc32": "fca24648",
+	  "sha1": "7e4006e62b5a45851bf5d65b2017d22285265d55",
+	  "title": "Outcast Demo (v2.01.005)"
+	},
+	"\/OutcastDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "b2019db4f75724a403a72b2c4b5941e76bf17da5",
+	  "mtime": "1461995020",
+	  "size": "6681",
+	  "md5": "9933cb7c1882b32b9cd3f5dc49ec7c27",
+	  "crc32": "c3cee169",
+	  "sha1": "c5a06e68fce580b5c8c866abb2c66afe08600409",
+	  "format": "Archive BitTorrent"
+	},
+	"\/OutcastDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9e66fbda11e958c5588e1a2b606a4fcc"
+	},
+	"\/OutcastDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1461995019",
+	  "size": "1167",
+	  "md5": "6fa4a87152ddd3a93eb30a72cf452108",
+	  "crc32": "c0dfcbb7",
+	  "sha1": "412596309ed9bcfa8e1bfb953807b15e502b5365"
+	},
+	"\/OutcastScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Outcast Screenshot",
+	  "mtime": "1329805790",
+	  "size": "152156",
+	  "md5": "22ce909f428d94c0c4b1e4eb725d679a",
+	  "crc32": "e054f2ed",
+	  "sha1": "e79ed50dd3a0a61fa9beb0d48e222e75bda8c678",
+	  "rotation": "0"
+	},
+	"\/OutcastScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "OutcastScreenshot.jpg",
+	  "mtime": "1329806324",
+	  "size": "4544",
+	  "md5": "e38e9a4064537e596ec308b55909694a",
+	  "crc32": "17453607",
+	  "sha1": "134619c80433d50b9a5190b06f8d476355e56b72"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/24\/items\/OutcastDemo\/OutcastScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2146,
+	"week": 9,
+	"month": 33
+  }
+}

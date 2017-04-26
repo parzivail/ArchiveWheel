@@ -1,0 +1,349 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/8/items/VikingsFieldsofConquest_1020",
+  "metadata": {
+	"identifier": [
+	  "VikingsFieldsofConquest_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Realism Entertainment"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Vikings - Field of Conquest - strategy game - 386+\/VGA\/Mouse"
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Brian Vodnik"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Vikings: Fields of Conquest Demo"
+	],
+	"publicdate": [
+	  "2012-09-03 23:49:32"
+	],
+	"addeddate": [
+	  "2012-09-03 23:49:32"
+	],
+	"year": [
+	  "1994"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "VIKINGS.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475593534",
+	  "size": "197301",
+	  "md5": "b068625b2152a2d63680bdcce33e834a",
+	  "crc32": "61bd18e0",
+	  "sha1": "8623c96936af254306b1efbd3451adaa6c28f0b5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475593604",
+	  "size": "4681",
+	  "md5": "97cd63b2e98a110603efabcebae2c05c",
+	  "crc32": "ac012fd8",
+	  "sha1": "b2a5b05b71e0369ebcda4205f7fcbd3e84531b75"
+	},
+	"\/VikingsFieldsofConquest_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475593565",
+	  "size": "36743",
+	  "md5": "e5f5ce32b998f636961c6be57692c7ad",
+	  "crc32": "c5c61df0",
+	  "sha1": "cfc49048da236af97c6a407941a225e6ac0cfdc7",
+	  "format": "Animated GIF"
+	},
+	"\/VikingsFieldsofConquest_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "ec43c732301c2a18116aa5196170e40d31e699dc",
+	  "mtime": "1475593614",
+	  "size": "5728",
+	  "md5": "9a8a5ba2a4727382fffc68733c834b77",
+	  "crc32": "73f801f1",
+	  "sha1": "9a540b55f65d21799444cc6511a0d4d799fc6a43",
+	  "format": "Archive BitTorrent"
+	},
+	"\/VikingsFieldsofConquest_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f2304d535949d8f2f9f75d36f11b9a19"
+	},
+	"\/VikingsFieldsofConquest_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475593575",
+	  "size": "12288",
+	  "md5": "86437e59e277f41649355c25f5da7b80",
+	  "crc32": "b62dc6e0",
+	  "sha1": "8f28bf205f4e473d6158c611669ed21272416602",
+	  "format": "Metadata"
+	},
+	"\/VikingsFieldsofConquest_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473296303",
+	  "size": "1003",
+	  "md5": "6d83642e3d79a0fa692a065d18a0a98e",
+	  "crc32": "da96b015",
+	  "sha1": "a0e72fbf17225ca97e08c3c98113ee4cd915584c"
+	},
+	"\/resource_item_833.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346716367",
+	  "size": "28518",
+	  "md5": "379661d7aa2acda9441e95ed0334757a",
+	  "crc32": "36b85557",
+	  "sha1": "0c2dd03003e7bb7cd0500f42ec6cdb2f3c59b8be",
+	  "rotation": "0"
+	},
+	"\/resource_item_833.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716367",
+	  "size": "272",
+	  "md5": "b2abb6f7dcc210754190a190b7e435fe",
+	  "crc32": "5f752745",
+	  "sha1": "d51e78e98eb13a49fb3c979308dcf9b50b07bc14"
+	},
+	"\/resource_item_833_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_833.jpg",
+	  "mtime": "1346717182",
+	  "size": "6819",
+	  "md5": "3be794f613378d52c76c454851300c0d",
+	  "crc32": "95b0dacd",
+	  "sha1": "190a340288eb9fb81c05e32bb1e88d2fe89c461a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475593540",
+	  "size": "151821",
+	  "md5": "9686cc687cddb9a721c862210045fbe9",
+	  "crc32": "b53dbd89",
+	  "sha1": "43841732fbf2de8c3dc8e9242549f19d47830180",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475593605",
+	  "size": "4597",
+	  "md5": "ce2590a2aea370f0ca78ad378ccdf8de",
+	  "crc32": "bf573f32",
+	  "sha1": "a02efa3a1c16506de227cd2e6f3fe5a7c381bf55"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475593542",
+	  "size": "72676",
+	  "md5": "748b0c8ad3d5bfe5b8352657ce50109e",
+	  "crc32": "0b9fd825",
+	  "sha1": "5122da51dab6f9f722bdf55ae5398a55987aff3f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475593601",
+	  "size": "3149",
+	  "md5": "64f5af4e3737df011d5e21b93583e142",
+	  "crc32": "3de190c1",
+	  "sha1": "5d46a99d2010b12c4cb4e5d99b5b28b0f2e5939d"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475593545",
+	  "size": "192261",
+	  "md5": "e3f3597c3b3c5b52693f148c660887fe",
+	  "crc32": "addb38fe",
+	  "sha1": "acd391af8a0f7f445397a9002d690224ed06f63f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475593603",
+	  "size": "4611",
+	  "md5": "b2fc3a1db53dc5f319a34383e58a58b6",
+	  "crc32": "0ae50c68",
+	  "sha1": "9d3d0a7e10fa9bcaf35ab2f964d8608b68b5bbcc"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475593548",
+	  "size": "178202",
+	  "md5": "4a30dcc7afe75abee7a772bcff3566c4",
+	  "crc32": "1c8ecb90",
+	  "sha1": "53ea812546686fe824320c1bc0b70678daf3ee2a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475593607",
+	  "size": "4914",
+	  "md5": "b9773ecfe4bca40dd2773e84e3d17840",
+	  "crc32": "ea9950a1",
+	  "sha1": "b041c5fb3d124b2be5ff777f07bea52636ebaed7"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475593552",
+	  "size": "191090",
+	  "md5": "5bdfd4a54ca83a1da9f9533cfc3b9313",
+	  "crc32": "919ef90a",
+	  "sha1": "c1bb35c3d0d038943f143bec9e231f61fbc119fb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475593611",
+	  "size": "4053",
+	  "md5": "27bb4eb2fbd0e913dc2fb4878bb9aedf",
+	  "crc32": "eb2806ca",
+	  "sha1": "bd8b4422a9ecf9ee924c2ddf6329102d00f7a5d3"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475593554",
+	  "size": "185999",
+	  "md5": "75f85a4e77bc5ae12ba41700bb9b8a10",
+	  "crc32": "4903cde2",
+	  "sha1": "13396309041f337b214481e80e3d09e2738da8e2",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475593613",
+	  "size": "3816",
+	  "md5": "22a658674e547c3e10ad381b328ac203",
+	  "crc32": "f3b637c9",
+	  "sha1": "87d1b84ff8abee31f7783ec10242976273f187a8"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475593556",
+	  "size": "197301",
+	  "md5": "b068625b2152a2d63680bdcce33e834a",
+	  "crc32": "61bd18e0",
+	  "sha1": "8623c96936af254306b1efbd3451adaa6c28f0b5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475593608",
+	  "size": "4681",
+	  "md5": "97cd63b2e98a110603efabcebae2c05c",
+	  "crc32": "ac012fd8",
+	  "sha1": "b2a5b05b71e0369ebcda4205f7fcbd3e84531b75"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475593559",
+	  "size": "197110",
+	  "md5": "ca30a742dfbe307e87d89c87e81bf2f0",
+	  "crc32": "76f2d160",
+	  "sha1": "f4f4d2c75a1b4c5c849501793bd40ef650602b38",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475593610",
+	  "size": "4672",
+	  "md5": "69bdbfb30f7fa15285d31be1eba3faae",
+	  "crc32": "34b7694e",
+	  "sha1": "5a1620ad19194221a4e3436120c878f4e262ad25"
+	},
+	"\/vikings.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346716178",
+	  "size": "305031",
+	  "md5": "8863927832221957688722447263b1ee",
+	  "crc32": "262d1620",
+	  "sha1": "9e099ab314d4a4c895cb80778428b2ff99bacf50"
+	},
+	"\/vikings.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346716178",
+	  "size": "803",
+	  "md5": "4c6f15b10d461032f9b3dcb6344057d5",
+	  "crc32": "b251ecfd",
+	  "sha1": "27aceb348dd6ff76c50c6d0a41d92944139be28c"
+	},
+	"\/vikings_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475593570",
+	  "size": "315463",
+	  "md5": "dd562b0665afd2b0f3f58b1d0564912c",
+	  "crc32": "70f642f9",
+	  "sha1": "07a7e2a68798ef1920b8ae57277f817f7aadf79a",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/8\/items\/VikingsFieldsofConquest_1020\/VikingsFieldsofConquest_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 622,
+	"week": 3,
+	"month": 13
+  }
+}

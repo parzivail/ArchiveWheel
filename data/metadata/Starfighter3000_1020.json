@@ -1,0 +1,249 @@
+{
+  "server": "ia600805.us.archive.org",
+  "dir": "/6/items/Starfighter3000_1020",
+  "metadata": {
+	"identifier": [
+	  "Starfighter3000_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Krisalis Software"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Telstar Electronic Studios"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Starfighter 3000 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:47:46"
+	],
+	"addeddate": [
+	  "2012-09-04 03:47:46"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "\"StarFighter 3000 is the next generation of space combat simulations that puts you in control of the most lethal flying machine the 31st century has ever seen.\n\nEnter a complete virtual environment and take to the skies, flying high over buildings, lakes, bridges and mountain ranges. Drop from the mothership and fly the STARFIGHTER 3000 into air-to-air and air-to-ground combat that's so frenzied that you'll be thankful you've got highly trained wingmen for support.\n\nWith enemy fighters, heat seeking missiles and space cruisers to deal with, not to mention enemy SAM sites and radar installations, StarFighter 3000 really is state of the art.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"alternate-title": [
+	  "Star Fighter"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "GAMES\/SF3000\/STAR03.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475719025",
+	  "size": "100145",
+	  "md5": "87a114c55112847ef8342d4d4ac187ad",
+	  "crc32": "c701ce85",
+	  "sha1": "c1d8aa22253ce016950e094f1f0a8b77734bf132",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475719063",
+	  "size": "2794",
+	  "md5": "79f04f2da0d9367e1e11ec6e88e48208",
+	  "crc32": "155202a2",
+	  "sha1": "d517b3f174a54c054bce4a0ed25a4eaa74acea8f"
+	},
+	"\/Starfighter3000_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475719036",
+	  "size": "70861",
+	  "md5": "e33eda81689490273e1f83c27ce3cf5b",
+	  "crc32": "f25ec5b6",
+	  "sha1": "fae3fc72c02c65feda0dd63a584b48ae2285d615",
+	  "format": "Animated GIF"
+	},
+	"\/Starfighter3000_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "0e231d41a0d49767a9944275a95c92d07a34e3e3",
+	  "mtime": "1475719069",
+	  "size": "4166",
+	  "md5": "a3e500a6048a6573eab6608ff9ddd169",
+	  "crc32": "6d8f0f22",
+	  "sha1": "f2acf7200815c027f9f7d0c416f0f3d0b7bd30ed",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Starfighter3000_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cb84740d808d1f7dac9cb6e412711827"
+	},
+	"\/Starfighter3000_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475719044",
+	  "size": "9216",
+	  "md5": "1a576ac2aafee0e277514e1cef511285",
+	  "crc32": "11bb4435",
+	  "sha1": "f0c24fd5cf99345ab7826cedc57f99abca4fce25",
+	  "format": "Metadata"
+	},
+	"\/Starfighter3000_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475599832",
+	  "size": "1603",
+	  "md5": "40905a7bd1c13a171e750fb0d08ada28",
+	  "crc32": "049d607e",
+	  "sha1": "6f0820fea15576fa36a0d73927888bfa66b477b2"
+	},
+	"\/resource_item_1514.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730551",
+	  "size": "9824",
+	  "md5": "f04d49b943a2339d469125e7a7425a90",
+	  "crc32": "d3cabb07",
+	  "sha1": "6fdfb6aef74703ca4f8defa9bcd91c53200f7572",
+	  "rotation": "0"
+	},
+	"\/resource_item_1514.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730551",
+	  "size": "271",
+	  "md5": "faabbea4123e7ec2407e595870255e31",
+	  "crc32": "80859252",
+	  "sha1": "8aa80a09f9f3b9e1fd11c3e346ad668d4e533106"
+	},
+	"\/resource_item_1514_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1514.jpg",
+	  "mtime": "1346731089",
+	  "size": "3236",
+	  "md5": "f19bf9cbc90b6d1d15fb2f7043d4fb6f",
+	  "crc32": "000fdd6b",
+	  "sha1": "c9f15ed32657eac096e854541c1e8aeca17d855c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475719027",
+	  "size": "87496",
+	  "md5": "584395f6f34d9d55e6b7da42eeb0ffa0",
+	  "crc32": "bb742e6c",
+	  "sha1": "ca8bfae6da32d4ca31fd48517b91d5aa1fff8f85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475719065",
+	  "size": "3384",
+	  "md5": "f0f4eb32d8f75922262abdfa98a3eb3d",
+	  "crc32": "11afbb76",
+	  "sha1": "89ae8980b8a25779ad1fc233e92a2c44e4df99e7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475719030",
+	  "size": "100145",
+	  "md5": "87a114c55112847ef8342d4d4ac187ad",
+	  "crc32": "c701ce85",
+	  "sha1": "c1d8aa22253ce016950e094f1f0a8b77734bf132",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475719066",
+	  "size": "2794",
+	  "md5": "79f04f2da0d9367e1e11ec6e88e48208",
+	  "crc32": "155202a2",
+	  "sha1": "d517b3f174a54c054bce4a0ed25a4eaa74acea8f"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475719033",
+	  "size": "84079",
+	  "md5": "17435c86fc27ac1e75c4858de3c5c709",
+	  "crc32": "9ee91006",
+	  "sha1": "28344843529bdfd744444c42cda8be02060cfc92",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475719067",
+	  "size": "1928",
+	  "md5": "7311d2d2c023d58871c3e553389585a2",
+	  "crc32": "ba13d8a4",
+	  "sha1": "9357108ccfc0b223cb664f12dcbd0e151acb245e"
+	},
+	"\/sfdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730549",
+	  "size": "8559883",
+	  "md5": "9584407a7aca14ce1dbe9d8e73c34358",
+	  "crc32": "96dc97d8",
+	  "sha1": "8381f6836a6e2233fd24fc1cbc60e4c493cd5157"
+	},
+	"\/sfdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730549",
+	  "size": "674",
+	  "md5": "2ea0ed8c63601dba281b087d35c8f91e",
+	  "crc32": "4962bdc3",
+	  "sha1": "39c99e552ae4978c70ae950e813ed1e46e581c73"
+	},
+	"\/sfdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475719040",
+	  "size": "122438",
+	  "md5": "4c2a3690c86dd462d5cfb7384714433a",
+	  "crc32": "6b404c70",
+	  "sha1": "9afc63198052621158eaf4025c053aa6047e6a3a",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/6\/items\/Starfighter3000_1020\/Starfighter3000_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 364,
+	"week": 5,
+	"month": 6
+  }
+}

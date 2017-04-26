@@ -1,0 +1,117 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/7/items/mgstrial",
+  "metadata": {
+	"identifier": [
+	  "mgstrial"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Konami Computer Entertainment"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>Take on the role of retired Special Forces veteran Solid Snake. Terrorists have overrun a secret Alaskan weapons base and are threatening to launch a devastating nuclear strike unless they're demands are not met within 24 hours. Your mission is to infiltrate the base, rescue the hostages, and kill the terrorists carrying nothing but a pair of binoculars, a pack of smokes, and bad attitude. The clock is ticking. Once again, Snake heads into battle alone.<\/div>"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Metal Gear Solid Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2014-01-28 22:01:20"
+	],
+	"addeddate": [
+	  "2014-01-28 22:01:20"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233742[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/mgstrial.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390946572",
+	  "size": "50425914",
+	  "md5": "b25cd990abd6ee395b8f512e24d88794",
+	  "crc32": "4e6a743d",
+	  "sha1": "bd76a04536372dfa971f5a4e6c538552be86e542"
+	},
+	"\/mgstrial.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390946479",
+	  "size": "78482",
+	  "md5": "5545c7c3ff93fffe1f96ef2b6f88c0f9",
+	  "crc32": "5eb3f7f5",
+	  "sha1": "d07abff0bd7219fe83b924044f85bcaa0e6cadf6",
+	  "rotation": "0"
+	},
+	"\/mgstrial_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "12d775e4860e8cef4cadeec30105e3f3"
+	},
+	"\/mgstrial_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390946576",
+	  "size": "14336",
+	  "md5": "df655ad4c15612899bbf56b25d1e9414",
+	  "crc32": "3114cd7c",
+	  "sha1": "d1bf704d163ed86ae44d2a76f44a771df34fb3d8"
+	},
+	"\/mgstrial_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474587161",
+	  "size": "1335",
+	  "md5": "83a30954273d770a84c1552d034a06b2",
+	  "crc32": "056a9308",
+	  "sha1": "f82065d3d68766042c4394f97c6d4150fa9ef2e7"
+	},
+	"\/mgstrial_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "mgstrial.jpg",
+	  "mtime": "1390946592",
+	  "size": "4604",
+	  "md5": "eebe7483fa76713e87e12ed6eadbd0f7",
+	  "crc32": "f6bbdb6b",
+	  "sha1": "1c379fc21bc7064a8210d26b9a10477408eef663"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/7\/items\/mgstrial\/mgstrial_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3596,
+	"week": 31,
+	"month": 119
+  }
+}

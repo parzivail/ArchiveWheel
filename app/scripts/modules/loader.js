@@ -10,12 +10,22 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 			global.status("Initializing...");
 
 			global.sound = new Howl({
-				src: ['/sound/demodisk.mp3']
+				src: ['/sound/demodisk.webm', '/sound/demodisk.mp3']
+			});
+
+			global.status("Loading demo manifest...");
+
+			var demosUrl = "/demos.json";
+			//var allGamesUrl = "http://archive.org/advancedsearch.php?q=collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=99999&page=1&output=json#raw";
+
+			$.get(demosUrl, function (data) {
+				console.log("Loaded demo manifest off web");
+				loadJsonData(data);
 			});
 
 			var loadJsonData = function (data) {
-				var docs = data.response.docs;
-				var numDemosTotal = data.response.docs.length;
+				var docs = data;
+				var numDemosTotal = docs.length;
 				console.log("Loaded " + numDemosTotal + " demos");
 
 				$("#numDemos").text(numDemosTotal);
@@ -33,26 +43,6 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					global.demos.push(demo);
 				});
 			};
-
-			if (sessionStorage.getItem("demoCache") === null) {
-				global.status("Loading demos from web...");
-				console.log("Did not find a DemoCache, loading off web");
-
-				var demosUrl = "http://archive.org/advancedsearch.php?q=%28demo%29+AND+collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=3000&page=1&output=json#raw";
-				var allGamesUrl = "http://archive.org/advancedsearch.php?q=collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=99999&page=1&output=json#raw";
-
-				global.get(demosUrl, function (data) {
-					console.log("Loaded DemoCache off web");
-					sessionStorage.setItem('demoCache', JSON.stringify(data));
-					console.log("Loaded DemoCache off web");
-					loadJsonData(data);
-				});
-			}
-			else {
-				global.status("Loading demos from cache...");
-				console.log("Found a DemoCache, not loading off web");
-				loadJsonData(JSON.parse(sessionStorage.getItem("demoCache")));
-			}
 
 			function demosLoaded() {
 				numDemos++;

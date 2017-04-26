@@ -1,0 +1,112 @@
+{
+  "server": "ia600205.us.archive.org",
+  "dir": "/0/items/TheLordOfTheRingsWarOfTheRingDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "The Lord of the Rings: War of the Ring Demo"
+	],
+	"description": [
+	  "War rages across the land as the forces of good and evil battle for control of Middle-earth! In the first real-time strategy game based on J.R.R. Tolkien's brilliant saga The Lord of the Rings\u00e2\u00a2, you will gather an army and call upon the legendary heroes to join in the epic struggle. Will you help the forces of good fight valiantly to overcome the darkness or will you succumb to the power of the One Ring and aid Sauron in his bid to dominate the world with his evil?"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Liquid Entertainment"
+	],
+	"identifier": [
+	  "TheLordOfTheRingsWarOfTheRingDemo"
+	],
+	"addeddate": [
+	  "2012-05-28 02:38:22"
+	],
+	"publicdate": [
+	  "2012-05-28 02:38:42"
+	],
+	"date": [
+	  "2003"
+	],
+	"year": [
+	  "2003"
+	],
+	"publisher": [
+	  "Sierra Entertainment"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231922[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903804_5"
+	]
+  },
+  "files": {
+	"\/TheLordOfTheRingsWarOfTheRingDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "85b1ba9ceb32ac7dbde8d0426649e966d0f00887",
+	  "mtime": "1463406856",
+	  "size": "6805",
+	  "md5": "207830533898b7511e16f94346c7d04f",
+	  "crc32": "094a78a5",
+	  "sha1": "ac16144ee66ca7dd2ede1a2f48058d1c645d16e8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheLordOfTheRingsWarOfTheRingDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c0651bc46dc850e46edb0651c7977eb1"
+	},
+	"\/TheLordOfTheRingsWarOfTheRingDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463406855",
+	  "size": "1274",
+	  "md5": "1e15b563476616dfbfee9214d2e6eb21",
+	  "crc32": "9448807a",
+	  "sha1": "91f23743ee892ecc8ca932fde4976c6605017308"
+	},
+	"\/warofthering_demo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1338172603",
+	  "size": "125502662",
+	  "md5": "7dc032c1d5ae6deeef86d6a3b6d0f1a4",
+	  "crc32": "7de1753f",
+	  "sha1": "21e85a69cfa4ccc501f33cba13cd58acbd43f808"
+	},
+	"\/warofthering_demo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1338172606",
+	  "size": "475161",
+	  "md5": "d64f1d40ff539f76374bec438aaa4f84",
+	  "crc32": "cc2cac1e",
+	  "sha1": "68c7f5ac79740109008199c4c4e0303fe047a66f",
+	  "rotation": "0"
+	},
+	"\/warofthering_demo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "warofthering_demo.jpg",
+	  "mtime": "1338172717",
+	  "size": "4590",
+	  "md5": "17d7fa7819f8a7eab960ffcd4f730635",
+	  "crc32": "77fb8dc0",
+	  "sha1": "8a5313973345ee54e517648309b1157fc219d9f1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600205.us.archive.org\/0\/items\/TheLordOfTheRingsWarOfTheRingDemo\/warofthering_demo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 603,
+	"week": 5,
+	"month": 21
+  }
+}

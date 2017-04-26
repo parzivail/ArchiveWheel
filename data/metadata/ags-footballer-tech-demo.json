@@ -1,0 +1,126 @@
+{
+  "server": "ia600400.us.archive.org",
+  "dir": "/10/items/ags-footballer-tech-demo",
+  "metadata": {
+	"identifier": [
+	  "ags-footballer-tech-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Tzach Shabtay"
+	],
+	"date": [
+	  "2010-04-30"
+	],
+	"description": [
+	  "<div>Entrant in the April 2010 MAGS contest.<\/div>\n<div>GameJolt page: <a href=\"http:\/\/gamejolt.com\/games\/ags-footballer-tech-demo\/2263\" rel=\"nofollow\">http:\/\/gamejolt.com\/games\/ags-footballer-tech-demo\/2263<\/a><\/div>\n<div>AGS forum thread: <a href=\"http:\/\/www.adventuregamestudio.co.uk\/forums\/index.php?topic=40639\" rel=\"nofollow\">http:\/\/www.adventuregamestudio.co.uk\/forums\/index.php?topic=40639<\/a><\/div>\n<div>MAGS entry post: <a href=\"http:\/\/www.adventuregamestudio.co.uk\/forums\/index.php?topic=40476.msg538915#msg538915\" rel=\"nofollow\">http:\/\/www.adventuregamestudio.co.uk\/forums\/index.php?topic=40476.msg538915#msg538915<\/a><\/div>\n<div>Readme file: <a href=\"http:\/\/archive.org\/download\/ags-footballer-tech-demo\/AGS_Footballer_TechDemo3.zip\/AGS%20Footballer%20TechDemo3%2Freadme.txt\" rel=\"nofollow\"><tt>AGS Footballer TechDemo3\/readme.txt<\/tt><\/a><\/div>"
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"title": [
+	  "AGS Footballer Tech Demo"
+	],
+	"publicdate": [
+	  "2016-05-30 06:14:24"
+	],
+	"addeddate": [
+	  "2016-05-30 06:14:24"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20160530062456[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2010"
+	],
+	"subject": [
+	  "Adventure Game Studio games",
+	  "MAGS 2010-04 One Room"
+	],
+	"collection": [
+	  "magscompetitiongames",
+	  "classicpcgames",
+	  "adventuregamestudio"
+	],
+	"backup_location": [
+	  "ia906109_19"
+	]
+  },
+  "files": {
+	"\/AGS_Footballer_TechDemo3.zip": {
+	  "source": "original",
+	  "mtime": "1464588863",
+	  "size": "3167570",
+	  "md5": "3d978a63a4d2c43cbcf141e78101eb1b",
+	  "crc32": "b24e4c7a",
+	  "sha1": "55518da63a2dfb681aa8106702be1be7d190d790",
+	  "format": "ZIP"
+	},
+	"\/ags-footballer-tech-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "fefa92a8216fa3b3bc652af97adfb52a2ee06432",
+	  "mtime": "1484911418",
+	  "size": "2241",
+	  "md5": "f8149ee32977b40b4283e0e330ffad2c",
+	  "crc32": "6d838927",
+	  "sha1": "952ac4a84dd9d217c3f1b7ea42c55a8db70d4e34",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ags-footballer-tech-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3f2e999d5a336fe969d6f400a17c9d62"
+	},
+	"\/ags-footballer-tech-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1464588881",
+	  "size": "10240",
+	  "md5": "e3f2d3e00194fa83c5e4a34c88ad7990",
+	  "crc32": "bbff2f78",
+	  "sha1": "8c91554750684ee83b20d9d931a64a4e1b7945dc",
+	  "format": "Metadata"
+	},
+	"\/ags-footballer-tech-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484911416",
+	  "size": "1910",
+	  "format": "Metadata",
+	  "md5": "a490d3d3d778bbf96e7ffa16dd8389ab",
+	  "crc32": "3736a6fd",
+	  "sha1": "ce65977bc3c4b897716f619903c7dfcda8f341fb"
+	},
+	"\/agsfootballer.png": {
+	  "source": "original",
+	  "mtime": "1464588876",
+	  "size": "110883",
+	  "md5": "99bc8b3613c3fcd4f6376b9a6e5582bb",
+	  "crc32": "9cab9a75",
+	  "sha1": "35f5ff5505210bf02f4fcbc892e60c4d022b2b78",
+	  "format": "PNG"
+	},
+	"\/agsfootballer_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "agsfootballer.png",
+	  "mtime": "1464589500",
+	  "size": "2878",
+	  "md5": "4a05e8885c81c4e876557e352124f029",
+	  "crc32": "30e1a54b",
+	  "sha1": "074db4231439039d3799576348352b604848588c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600400.us.archive.org\/10\/items\/ags-footballer-tech-demo\/agsfootballer_thumb.jpg",
+	"collection-title": "MAGS Competition Games"
+  },
+  "item": {
+	"downloads": 56,
+	"week": 3,
+	"month": 3
+  }
+}

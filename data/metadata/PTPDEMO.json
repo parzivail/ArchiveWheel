@@ -1,0 +1,197 @@
+{
+  "server": "ia902304.us.archive.org",
+  "dir": "/3/items/PTPDEMO",
+  "metadata": {
+	"identifier": [
+	  "PTPDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "\"PTP\" is the most realistic and easy to use baseball game ever developed for your personal computer."
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Pursue the Pennant Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2013-12-23 15:00:39"
+	],
+	"addeddate": [
+	  "2013-12-23 15:00:39"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234218[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "PTPDEMO.EXE"
+	],
+	"backup_location": [
+	  "ia905801_24"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475408448",
+	  "size": "279485",
+	  "md5": "d9693e6735841f0ed5d95819eac5de27",
+	  "crc32": "4ee56c63",
+	  "sha1": "d92f1c28cc6f003d2d98ce6a19965e58f8113afe",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475408479",
+	  "size": "7421",
+	  "md5": "798be356b8b24740ecaf825977b443d2",
+	  "crc32": "60bc4ddd",
+	  "sha1": "b2ecc3e813bbe5a04512f8c705208921e3866f27"
+	},
+	"\/PTPDEMO.gif": {
+	  "source": "original",
+	  "mtime": "1475408459",
+	  "size": "34521",
+	  "md5": "5ae07dadb9e3faa7eb734a3fedc71d05",
+	  "crc32": "05796471",
+	  "sha1": "8f4a75bb83d388210e8d267a6fa2b645c2533b3c",
+	  "format": "Animated GIF"
+	},
+	"\/PTPDEMO.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1471823420",
+	  "size": "169979",
+	  "md5": "5b81588ca67395ac8c5e16272cb0699c",
+	  "crc32": "802e552f",
+	  "sha1": "69eeaabd26f2d46325f315cb01084ec507e935d6"
+	},
+	"\/PTPDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d31902b72c84d5da739bc1f9a7818c16"
+	},
+	"\/PTPDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475408467",
+	  "size": "12288",
+	  "md5": "dda99a53f8d107098a63530c2f81cf24",
+	  "crc32": "97ddcd8c",
+	  "sha1": "1c5b7f60897126bad032e9bc2db5f72977b21828"
+	},
+	"\/PTPDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474990400",
+	  "size": "978",
+	  "md5": "8e4e5b95ea38ab79bf20e9213cf59b86",
+	  "crc32": "81d5a86f",
+	  "sha1": "1e00a09022a3078ee95b331d8201d08f05cb58c0"
+	},
+	"\/PTPDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475408463",
+	  "size": "74227",
+	  "md5": "9c055e8ce5c1dccad1a8e80d902515b3",
+	  "crc32": "0ec937a1",
+	  "sha1": "3047f855934cacd360f4e4b26496e9a155a67e50",
+	  "format": "Emulator Screenshot"
+	},
+	"\/ptpdemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1387810850",
+	  "size": "8389",
+	  "md5": "2e9e50e8936180a8bc0317565b4510e8",
+	  "crc32": "bdc717df",
+	  "sha1": "c252d78c524b5316ed15a429e1cb5709a20c4dff"
+	},
+	"\/ptpdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "ptpdemo.png",
+	  "mtime": "1387810867",
+	  "size": "7272",
+	  "md5": "e015123ab9454696764113f6c54238a6",
+	  "crc32": "d4a153e3",
+	  "sha1": "8970656126816b1e4edfa38d0800d7eb67a8ea16"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475408451",
+	  "size": "235030",
+	  "md5": "8ee3425b524d3d0ddcc7c6ccd0174be3",
+	  "crc32": "6725c403",
+	  "sha1": "73f19b5fcb6adb7d0b09be181653e5cf41a7fe1d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475408480",
+	  "size": "6927",
+	  "md5": "15bd714820ad406373c71324de648436",
+	  "crc32": "12205fd0",
+	  "sha1": "d6c7545cf13e505ce893d2017bcbf770c9548b5b"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475408456",
+	  "size": "279485",
+	  "md5": "d9693e6735841f0ed5d95819eac5de27",
+	  "crc32": "4ee56c63",
+	  "sha1": "d92f1c28cc6f003d2d98ce6a19965e58f8113afe",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475408481",
+	  "size": "7421",
+	  "md5": "798be356b8b24740ecaf825977b443d2",
+	  "crc32": "60bc4ddd",
+	  "sha1": "b2ecc3e813bbe5a04512f8c705208921e3866f27"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902304.us.archive.org\/3\/items\/PTPDEMO\/PTPDEMO.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 390,
+	"week": 8,
+	"month": 16
+  }
+}

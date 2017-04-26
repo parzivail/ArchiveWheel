@@ -1,0 +1,328 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/25/items/CannonFodderDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Cannon Fodder Demo"
+	],
+	"description": [
+	  "\"From a queue of some 360 eager conscripts waiting to go to war, you'll hand pick 15 of them to volunteer for each mission. Shoot anything that moves, throw grenades, shoot bazookas, drive tanks, fly choppers, and die as you guide your troop of no-hopers through twenty-four missions, each with a different terrain and objective.\n\nDeveloped by Sensible Software, Cannon Fodder is a classic game that contains all the elements of great gameplay that Sensible fans have come to expect.\n\nIf you like maiming, killing and mindless violence, here's your chance to wipe out all 360 men in your own army, not to mention the enemy. War has never been so much fun! \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Sensible Software"
+	],
+	"identifier": [
+	  "CannonFodderDemo"
+	],
+	"addeddate": [
+	  "2012-08-26 22:20:29"
+	],
+	"publicdate": [
+	  "2012-08-26 22:21:03"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Virgin Interactive Entertainment"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_23"
+	],
+	"emulator_start": [
+	  "CFODDER.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475205100",
+	  "size": "153247",
+	  "md5": "b9ab2923cb480326b5d3b599970ed18c",
+	  "crc32": "043c8e6e",
+	  "sha1": "91579586611ae0d16a227c7de5816a6e94f893e5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475205170",
+	  "size": "4834",
+	  "md5": "a99505e429861383e569e61f2f7eeeb7",
+	  "crc32": "cba4fe6d",
+	  "sha1": "1da62ac6fef531d2558927ee3f34e5358cb0ac7b"
+	},
+	"\/CannonFodderDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475205131",
+	  "size": "32715",
+	  "md5": "9a853f21310e368c1c727246bd89c8d6",
+	  "crc32": "1e07a2d4",
+	  "sha1": "6ee10dd48a71a246ac4db08c99bcf899e4b30fc7",
+	  "format": "Animated GIF"
+	},
+	"\/CannonFodderDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "4df3162e61f59fe5e11c8e26629dc20f6c99615e",
+	  "mtime": "1475205180",
+	  "size": "5605",
+	  "md5": "ba00cc4ee2dc634522dabc0d032d2951",
+	  "crc32": "5c65be6f",
+	  "sha1": "d9f0b0e2b0415d9b5b2f8ba14a615a4964155971",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CannonFodderDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7f15f42a8b1c59ec3c341852e0d43f83"
+	},
+	"\/CannonFodderDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475205151",
+	  "size": "12288",
+	  "md5": "aacea2880e8d0021cd1b0168f712926f",
+	  "crc32": "88abb2d6",
+	  "sha1": "e5c936808f1d118e16dc734cbd1bb2a2adc93545",
+	  "format": "Metadata"
+	},
+	"\/CannonFodderDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473222711",
+	  "size": "1551",
+	  "md5": "db997a2b74b28ad060fed7515d0dbeca",
+	  "crc32": "cd3537c5",
+	  "sha1": "2b6a6eda4a872abb515cf6f02ff51b289f5d09dd"
+	},
+	"\/cfodder.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473222803",
+	  "size": "1344005",
+	  "md5": "bbcf049f8a70a3314a684fc615a65ff9",
+	  "crc32": "239f395a",
+	  "sha1": "c4990fabaef0d6ae6d39633ea897d457a9092c07"
+	},
+	"\/cfodder_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475205138",
+	  "size": "211749",
+	  "md5": "885502eab5873fc9ae6c1a4ace1adbf5",
+	  "crc32": "2b778e1b",
+	  "sha1": "5c706b728dafb541946ee1834da6c716cb6fec64",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_538.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346019580",
+	  "size": "17178",
+	  "md5": "07a04ba854b94e8e9dc6b8a0703f05a7",
+	  "crc32": "cee5bdb6",
+	  "sha1": "5747d9298853b79bc018ac935f571133d6f93411",
+	  "rotation": "0"
+	},
+	"\/resource_item_538_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_538.jpg",
+	  "mtime": "1346019651",
+	  "size": "4958",
+	  "md5": "d71ad228f2c55b3c98bc1b22061ddb0f",
+	  "crc32": "fb228037",
+	  "sha1": "00e61e5c772da5fbe450f5654075c1dca3bbfa48"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475205102",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475205171",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475205105",
+	  "size": "72471",
+	  "md5": "40405894bbae85c4d09cc736415764ae",
+	  "crc32": "56c95aa9",
+	  "sha1": "39fdb1de7c48575adfd4130fef64b9f8864b5563",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475205167",
+	  "size": "3070",
+	  "md5": "e16d52c24803e2662c7dde6ea4159d84",
+	  "crc32": "48f1a876",
+	  "sha1": "efba9b2550dbe96bfba304886035e66e0ebd5d83"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475205107",
+	  "size": "143759",
+	  "md5": "695abf6e2829580de7bbfd6cddb53204",
+	  "crc32": "3849b4ab",
+	  "sha1": "fbe96e34a8dd1d4497e0cfa7355ac23b2fe8ec4e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475205169",
+	  "size": "4304",
+	  "md5": "607fc45277bc651f557994699d365a99",
+	  "crc32": "3718dcb9",
+	  "sha1": "184808625906258d924b81ccce2717ef7601fb71"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475205110",
+	  "size": "153247",
+	  "md5": "b9ab2923cb480326b5d3b599970ed18c",
+	  "crc32": "043c8e6e",
+	  "sha1": "91579586611ae0d16a227c7de5816a6e94f893e5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475205173",
+	  "size": "4834",
+	  "md5": "a99505e429861383e569e61f2f7eeeb7",
+	  "crc32": "cba4fe6d",
+	  "sha1": "1da62ac6fef531d2558927ee3f34e5358cb0ac7b"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475205116",
+	  "size": "75051",
+	  "md5": "fb93f0e12377ddba2cdfb38d0d637f7a",
+	  "crc32": "b8276acf",
+	  "sha1": "2f8f9183bd774a942ae614d5f9e61a4c1ef94065",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475205177",
+	  "size": "3908",
+	  "md5": "cef1736577e4e9b8621ff4a66935af80",
+	  "crc32": "1bb7e238",
+	  "sha1": "abae255c919c26ef8f79044ed215ebeef85e748a"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475205119",
+	  "size": "30117",
+	  "md5": "f3bd5649597b27eb8546aa741b9aa529",
+	  "crc32": "5134c565",
+	  "sha1": "b403386fe5d3d71128fd0ff8e11f76544993c487",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475205178",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475205121",
+	  "size": "42839",
+	  "md5": "eee0f84a70ff4aa45eea1e952b158eaf",
+	  "crc32": "a8cd51e3",
+	  "sha1": "1ef25645af85e3f31257b2743f625c9d3dfa773c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475205174",
+	  "size": "2652",
+	  "md5": "fe653a7fef7d7bad97900d8286d51cfb",
+	  "crc32": "07a686a6",
+	  "sha1": "6159b255ca76cd65a7d90953ae37be7eceed18c6"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475205125",
+	  "size": "43355",
+	  "md5": "b8611db87071e8e2a113fac2d9947aa8",
+	  "crc32": "ff2fd824",
+	  "sha1": "9ec15c6d1f45dd0fbde94844bd82996d624d02cd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475205176",
+	  "size": "2694",
+	  "md5": "a1b519eb3135874873c91b04eb47140b",
+	  "crc32": "00cd9816",
+	  "sha1": "9d969eab74c3a28d12177c7f262230f8d61a8426"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/25\/items\/CannonFodderDemo\/CannonFodderDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1185,
+	"week": 7,
+	"month": 23
+  }
+}

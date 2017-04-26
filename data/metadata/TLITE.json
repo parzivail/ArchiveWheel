@@ -1,0 +1,116 @@
+{
+  "server": "ia601003.us.archive.org",
+  "dir": "/35/items/TLITE",
+  "metadata": {
+	"identifier": [
+	  "TLITE"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Philippe Basciano"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "My demo-mode is implemented using a simple evaluating function. Experiments with neural-networks have been done, they rather provide minor results. The results I obtained with my game are a mean score of 675 lines (for 50 games) and a top at 3809. The results obtained by using a neural-network provide a mean score about 100 lines with tops greater than 500 lines. The (human) world champion reached the score of 900 lines ! If you reach the score of 100 lines, without any difficulty, you are considered as an expert player. If you ever write a similar program that gives better results, let me know!"
+	],
+	"license": [
+	  "freeware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Tetris Lite"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2013-12-15 21:24:53"
+	],
+	"addeddate": [
+	  "2013-12-15 21:24:53"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234607[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905801_9"
+	]
+  },
+  "files": {
+	"\/TLITE.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1387142693",
+	  "size": "25159",
+	  "md5": "e1ff828be336344da8d682e4567af649",
+	  "crc32": "937a7b63",
+	  "sha1": "2a1e19d9aafae64127f6c0ce7d7a8052efbde58a"
+	},
+	"\/TLITE.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1387142703",
+	  "size": "156217",
+	  "md5": "80ef5e1123d1028907fa9551c4aacc5b",
+	  "crc32": "5e001b36",
+	  "sha1": "1bdf51c4a16b824b28f4539a175332d09cdbff76"
+	},
+	"\/TLITE_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c639603525c327810b6f0e64b8b99526"
+	},
+	"\/TLITE_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1387142708",
+	  "size": "14336",
+	  "md5": "06e1bd5770aba76f006e409706cb388c",
+	  "crc32": "ad31af94",
+	  "sha1": "b5896ef91e62ce14d27da429ebbebf68b6fc0de1"
+	},
+	"\/TLITE_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473829000",
+	  "size": "1426",
+	  "md5": "a0bcfb8a0af31d294eac27b3a419433a",
+	  "crc32": "a8133bd0",
+	  "sha1": "ea14f692ca75fd5e0903ac7d7590bb0744a4d94b"
+	},
+	"\/TLITE_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TLITE.png",
+	  "mtime": "1387142716",
+	  "size": "4468",
+	  "md5": "ed3d7bbd128473b018b3a4f10f7e6088",
+	  "crc32": "6a794dd5",
+	  "sha1": "77e3bdd8841f0b24bf10566ca4c2ee02f5cae8c5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601003.us.archive.org\/35\/items\/TLITE\/TLITE_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 290,
+	"week": 4,
+	"month": 7
+  }
+}

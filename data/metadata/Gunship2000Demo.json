@@ -1,0 +1,215 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/22/items/Gunship2000Demo",
+  "metadata": {
+	"identifier": [
+	  "Gunship2000Demo"
+	],
+	"title": [
+	  "Gunship 2000 Demo"
+	],
+	"creator": [
+	  "MicroProse Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "The All-New Multi-Helicopter Combat Simulation In the tradition of Gunship, the award-winning, best-selling simulation of the AH-64A Apache, Gunship 2000 gives you total command of a full mutli-copter troop of America's most powerful and versatile rotor craft. You'll take charge of five copters on hundreds of combat missions in the Persian Gulf and Central Europe. For each mission, you decide which three helo types to use in your five-copter troop AH-64A Apache: Heavily armed, amazingly maneuverable. Used primarily for close ground support against armored vehicles and anti-aircraft weapons. AH-64B Longbow: Can peer over hills with mast-mounted radar while keeping its main body hidden from enemy fire. OH-58D Kiowa Warrior: A scout with thermal imager and laser rangefinder\/target designator. UH-60K\/L Blackhawk: Multi-purpose assault\/transport craft. AH-1W Cobra: A gunship, carries Hellfires and anti-tank missiles. The AH-66A Comanche: Formerly LHX (experimental). A gunship\/scout. More heavily armed than the Kiowa Warrior. MD530G Defender: A light gunship. Ideal for covert missions and for rescuing hostages and downed pilots."
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"publicdate": [
+	  "2012-02-23 02:31:10"
+	],
+	"addeddate": [
+	  "2012-02-23 02:30:53"
+	],
+	"publisher": [
+	  "MicroProse Software"
+	],
+	"updatedate": [
+	  "2012-02-23 02:31:43"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233744[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "GSDEMO.COM"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475286627",
+	  "size": "249407",
+	  "md5": "29fddc64687e570392f770189b8fcd3d",
+	  "crc32": "8f94c439",
+	  "sha1": "04cf2a1e35dd131c06b5faaf1a93ca3b22289b24",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475286658",
+	  "size": "5479",
+	  "md5": "59123efa3d326eef65fec1dddab61192",
+	  "crc32": "72ea2b60",
+	  "sha1": "8cc4c36fbd75d9739270b11cf8d7265c162f3a13"
+	},
+	"\/Gunship2000Demo.gif": {
+	  "source": "original",
+	  "mtime": "1475286637",
+	  "size": "34612",
+	  "md5": "74a1e0ed696933fc06bf825fd642d55e",
+	  "crc32": "ec29e7dd",
+	  "sha1": "81bd65d7640123276f29d0fe63bd53772b51485d",
+	  "format": "Animated GIF"
+	},
+	"\/Gunship2000Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "79c3d2ed5dc7e7854901f644efe12582368263cc",
+	  "mtime": "1475286662",
+	  "size": "3475",
+	  "md5": "c30b5a3fc9f7f82f605e058ff0b94464",
+	  "crc32": "43ff6cbb",
+	  "sha1": "3b7c01101e45cb842405fc76690673a7e9b39001",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Gunship2000Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ffc7022cc8bd42d341692fd4127158b2"
+	},
+	"\/Gunship2000Demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475286647",
+	  "size": "9216",
+	  "md5": "1a438cfeb718a28ac6672718ae46b2a8",
+	  "crc32": "d154fd3b",
+	  "sha1": "94dc7ccc67a8aa40acacfa4a61956af908efbb06",
+	  "format": "Metadata"
+	},
+	"\/Gunship2000Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1469643868",
+	  "size": "2083",
+	  "md5": "e18bed6efc1a3eda754c101188c96b81",
+	  "crc32": "07bdf649",
+	  "sha1": "4257d2fbb11cb4db0bc65777073cab385beb76c0"
+	},
+	"\/Gunship2000Screenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Gunship 2000 Screenshot",
+	  "mtime": "1329964228",
+	  "size": "17082",
+	  "md5": "1e916f4ac64a93f53d62e35974139d82",
+	  "crc32": "72466424",
+	  "sha1": "4b79e9a79afca365217cd82dbfd262bdc1d2162c",
+	  "rotation": "0"
+	},
+	"\/Gunship2000Screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Gunship2000Screenshot.jpg",
+	  "mtime": "1329964264",
+	  "size": "5166",
+	  "md5": "3e8c3c46c2fd8dc0f802afaba05a7f48",
+	  "crc32": "537e9690",
+	  "sha1": "6841d3990edcbd9bca87f868b46fdd6b486a322e"
+	},
+	"\/gsplay.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1469643910",
+	  "size": "420592",
+	  "md5": "13fb9581b4cca64b14c8afc15216e380",
+	  "crc32": "dba04c51",
+	  "sha1": "038cdfee3498f03dce4a6690e017a710ea5776fe"
+	},
+	"\/gsplay_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475286643",
+	  "size": "55001",
+	  "md5": "de3ed58cea2319281550e6d4d56b04af",
+	  "crc32": "8d4a4631",
+	  "sha1": "96378368cc30e89129b825ab565b183988d7f2da",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475286630",
+	  "size": "249407",
+	  "md5": "29fddc64687e570392f770189b8fcd3d",
+	  "crc32": "8f94c439",
+	  "sha1": "04cf2a1e35dd131c06b5faaf1a93ca3b22289b24",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475286659",
+	  "size": "5479",
+	  "md5": "59123efa3d326eef65fec1dddab61192",
+	  "crc32": "72ea2b60",
+	  "sha1": "8cc4c36fbd75d9739270b11cf8d7265c162f3a13"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475286632",
+	  "size": "83163",
+	  "md5": "1413e291ace822f82bf888b2ba6d5382",
+	  "crc32": "23dda99d",
+	  "sha1": "8b24602565d3f5f548cdb40c4b2e550ce1b97d43",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475286660",
+	  "size": "4620",
+	  "md5": "bede859a683770cd8a6d8d13b12a82d0",
+	  "crc32": "9d7c1fcc",
+	  "sha1": "c41d2c7f7addf9d79a15bc047a35996a61d7167e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/22\/items\/Gunship2000Demo\/Gunship2000Demo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 691,
+	"week": 4,
+	"month": 9
+  }
+}

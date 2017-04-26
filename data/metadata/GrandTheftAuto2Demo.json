@@ -1,0 +1,120 @@
+{
+  "server": "ia600807.us.archive.org",
+  "dir": "/1/items/GrandTheftAuto2Demo",
+  "metadata": {
+	"identifier": [
+	  "GrandTheftAuto2Demo"
+	],
+	"title": [
+	  "Grand Theft Auto 2 Demo"
+	],
+	"creator": [
+	  "DMA Design"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Grand Theft Auto is back. The cars are faster. The streets are busier. The bad guys are nastier. The police are angrier. And now, the FBI and the Army are getting involved... Seven ruthless gangs are involved in a ruthless power struggle and it is up to you to make a name for yourself. Respect is earned, not given."
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"publicdate": [
+	  "2012-02-22 05:28:55"
+	],
+	"addeddate": [
+	  "2012-02-22 05:28:14"
+	],
+	"publisher": [
+	  "Rockstar Games"
+	],
+	"updatedate": [
+	  "2012-02-22 05:29:21"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_8"
+	]
+  },
+  "files": {
+	"\/GTA2DEMO.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1329888463",
+	  "size": "12972175",
+	  "md5": "3f46c637a6ce81a44bb4fe8796ada54c",
+	  "crc32": "7e93f81b",
+	  "sha1": "0566061b695ce975f78ef56da22fd527034ff918",
+	  "title": "Grand Theft Auto 2 Demo"
+	},
+	"\/GrandTheftAuto2Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "7e864f07444d4e9ef0e2b56649f7c23e74a2e4a4",
+	  "mtime": "1463929571",
+	  "size": "2398",
+	  "md5": "7f8a97a30dff6f9efd0d92289310a394",
+	  "crc32": "a77ae56c",
+	  "sha1": "9c5a3f7622c6e18b20518eb150e65d6c63ec0d5d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/GrandTheftAuto2Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "85f1ae35f813b2685cc1c1faaecba953"
+	},
+	"\/GrandTheftAuto2Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463929570",
+	  "size": "1160",
+	  "md5": "53f19d4170f8821a7ccec03af72d01f1",
+	  "crc32": "9db82499",
+	  "sha1": "d2f4ca800614a4a5c363e9d8e1b32d99ad322282"
+	},
+	"\/GrandTheftAuto2Screenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Grand Theft Auto 2 Screenshot",
+	  "mtime": "1329888431",
+	  "size": "275838",
+	  "md5": "16019abf55ad14f702b2a58b3e6f82ca",
+	  "crc32": "c4859cc9",
+	  "sha1": "8db3fcbdf4b8806cba398186cc7600a702cdc5c9",
+	  "rotation": "0"
+	},
+	"\/GrandTheftAuto2Screenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "GrandTheftAuto2Screenshot.jpg",
+	  "mtime": "1329888526",
+	  "size": "4268",
+	  "md5": "b7960dfb7d3ee4b03066cf428c45fbc7",
+	  "crc32": "3c6b27ee",
+	  "sha1": "2ff47defc5ae7f654eeae59012dd6e58f50a5fd0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800807.us.archive.org\/1\/items\/GrandTheftAuto2Demo\/GrandTheftAuto2Screenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1144,
+	"week": 16,
+	"month": 38
+  }
+}

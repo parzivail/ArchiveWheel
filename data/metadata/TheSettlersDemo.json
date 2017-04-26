@@ -1,0 +1,368 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/4/items/TheSettlersDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "The Settlers Demo"
+	],
+	"description": [
+	  "\"Did you ever hear about \"\"The Settlers\"\"? Well, as a reader of games-magazines you should have heard about this game. It has gained  loads of prizes and overwhelming ratings all over Europe in the  Amiga version and now we can announce the PC-version! This is the opportunity for you take a first brief look at the PC-version of \"\"The Settlers\"\"...\n\nPlease be aware, that this is only a demonstration of the final game. A lot of functions aren't included, yet, for example the S-VGA graphics mode and that the game will run only one hour before returning to the main-screen again.\n\nAlso known as: Serf City: Life is Feudal\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "Blue Byte Software"
+	],
+	"identifier": [
+	  "TheSettlersDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 17:29:07"
+	],
+	"publicdate": [
+	  "2012-08-05 17:29:22"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "SB.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475556261",
+	  "size": "443877",
+	  "md5": "eb381f3fbbcc5a2fed09db3822d643ba",
+	  "crc32": "0b0789ee",
+	  "sha1": "42498e2c82ad7dd9738452da645f11317aedd38e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475556319",
+	  "size": "5935",
+	  "md5": "0dc1c7e9bcc45cae47f0f378009ced0e",
+	  "crc32": "e66dcd53",
+	  "sha1": "06d932ee3e2e2ab4d22e7ec478a67ec2bb5ba054"
+	},
+	"\/TheSettlersDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475556289",
+	  "size": "120002",
+	  "md5": "ec2e827baccb1a15229ae2f37319b589",
+	  "crc32": "1eedd7eb",
+	  "sha1": "e91122125a3ea6c3a0f3893c6c131357670ea979",
+	  "format": "Animated GIF"
+	},
+	"\/TheSettlersDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5d7d3d0c4d246961139e693b7b1655c352b4c811",
+	  "mtime": "1475556350",
+	  "size": "6479",
+	  "md5": "32541869fd0ce2ebe5924e119e5f526a",
+	  "crc32": "60c9939b",
+	  "sha1": "7e001193cb03a098e3661d9dc2e495050f30491a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TheSettlersDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "88c3ffc512e9f02cbecdee60f3bf87ff"
+	},
+	"\/TheSettlersDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475556313",
+	  "size": "13312",
+	  "format": "Metadata",
+	  "md5": "91c543462ba4d7ffed3375b2a5d0483f",
+	  "crc32": "d145322d",
+	  "sha1": "ee41546eaec0e0835c934ceb8de527c6e5cace95"
+	},
+	"\/TheSettlersDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473295894",
+	  "size": "1485",
+	  "md5": "4f61467bd63d7a488b9ccb9424068b14",
+	  "crc32": "52631d22",
+	  "sha1": "c417251b5b981990face371bd98e7d7c569f0b90"
+	},
+	"\/resource_item_479.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344187712",
+	  "size": "19439",
+	  "md5": "1da401d66f739e40dbe6f2d637c848ec",
+	  "crc32": "8f38bb8a",
+	  "sha1": "e20a5675e1cad15ed763a3e1932d1f01bf82d3d9",
+	  "rotation": "0"
+	},
+	"\/resource_item_479_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_479.jpg",
+	  "mtime": "1344187756",
+	  "size": "5464",
+	  "md5": "4c67e0f677d9ad1d8e680e9cfb6bf208",
+	  "crc32": "e8558a96",
+	  "sha1": "928d7dee3aaa10f222c6e1282f8fd263fd91749f"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475556264",
+	  "size": "437895",
+	  "md5": "45c8d0980624060cddc5d9072c3d7866",
+	  "crc32": "4f41aff4",
+	  "sha1": "f2419ecc919f113183ebef7c5b6736f4c8c91a1f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475556325",
+	  "size": "5600",
+	  "md5": "46de4b5975e01a39e223b8f441684c64",
+	  "crc32": "2cf26404",
+	  "sha1": "2978497c94bd5c2dcfaa1fb3780ba13d6f990db7"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475556266",
+	  "size": "440233",
+	  "md5": "760112c6c626e396572306474b41e282",
+	  "crc32": "75d433c2",
+	  "sha1": "5a93c3cb5067a360a8f050d8d7b19e384f9f928a",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475556327",
+	  "size": "5699",
+	  "md5": "c11ff261b6708e3e314db4d6b6d1db83",
+	  "crc32": "da1f5d5b",
+	  "sha1": "25e39113deaa4864189ab11b7a5005d775eab187"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475556268",
+	  "size": "432384",
+	  "md5": "e3d659505c3beab957588727f017f952",
+	  "crc32": "605be287",
+	  "sha1": "c1fb6d8a0b56f1e85e10906dd0429387092eed1c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475556333",
+	  "size": "5551",
+	  "md5": "1f44eafacccfdd916cc311fe7d843c5e",
+	  "crc32": "94fe964b",
+	  "sha1": "197ec62b639cc5758b48923de4fdda520762ecca"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475556271",
+	  "size": "434404",
+	  "md5": "676313abc464a683339ecb7571d3e747",
+	  "crc32": "460e3102",
+	  "sha1": "b5f4c201b8a4f0474fcd16a63d5e7c9875296e0b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475556335",
+	  "size": "5542",
+	  "md5": "778f22a892ec7bf9f08da77e38aef38c",
+	  "crc32": "79c1c34f",
+	  "sha1": "598ab9deba7c50d1483747a85ea3be4afac4c351"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475556273",
+	  "size": "431849",
+	  "md5": "f1f96400f613eb6e44227b0a3bcd2b59",
+	  "crc32": "78bc35b3",
+	  "sha1": "5d60d6d632e64e506229c2a45ec6e77f21955d40",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475556336",
+	  "size": "5638",
+	  "md5": "3234b2348e2cfcb9ebbf48fac0a8b964",
+	  "crc32": "db09bde2",
+	  "sha1": "0f9ad89514f5540e38ee47b1c2a3cba9a59216cd"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475556275",
+	  "size": "433215",
+	  "md5": "e2680018d2b6364d60123a272ca7d022",
+	  "crc32": "8358112b",
+	  "sha1": "2ef555d4e01c2cb783a7209620c38ab4b61dac18",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475556338",
+	  "size": "5489",
+	  "md5": "68164ccd12dd168cdf004c1b6f79a86f",
+	  "crc32": "0896f975",
+	  "sha1": "101bb1db2057a98d93cbf4b34a80bea00d0fb4c5"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475556277",
+	  "size": "437631",
+	  "md5": "e6975b97b14d04ef1f5654b19a3fe809",
+	  "crc32": "01afbab5",
+	  "sha1": "d6f26d1884dc843bd640d58f9cb7ab8942e70557",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475556344",
+	  "size": "5899",
+	  "md5": "e15d33640c6ca60e749bb119910f8771",
+	  "crc32": "5eafa366",
+	  "sha1": "274bc242b74de76d48134a78d7885dbaed96a415"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475556281",
+	  "size": "432164",
+	  "md5": "910daad4bdd2c648cacfe153afd29101",
+	  "crc32": "a54ebfc6",
+	  "sha1": "ab2a75b7157f5454bcc4405546efc66769c94945",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475556345",
+	  "size": "5398",
+	  "md5": "24f93091319a87d7e88a9aa646ca1d76",
+	  "crc32": "4f2b1c32",
+	  "sha1": "4dff224aab172ddf2cb9d0d6b62aecc188975d58"
+	},
+	"\/screenshot_08.jpg": {
+	  "source": "original",
+	  "mtime": "1475556284",
+	  "size": "407628",
+	  "md5": "f2170fa4971ebf9c14505c1934cb0448",
+	  "crc32": "3909e9eb",
+	  "sha1": "accdef8e22e0642cdbb653d9fb867a14d5df65d4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_08_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_08.jpg",
+	  "mtime": "1475556347",
+	  "size": "5536",
+	  "md5": "a2abf6cb719020fc955f66d117458724",
+	  "crc32": "bfd61229",
+	  "sha1": "0e0631c52e659f74ff80053469b47fa130fdef17"
+	},
+	"\/screenshot_09.jpg": {
+	  "source": "original",
+	  "mtime": "1475556287",
+	  "size": "443877",
+	  "md5": "eb381f3fbbcc5a2fed09db3822d643ba",
+	  "crc32": "0b0789ee",
+	  "sha1": "42498e2c82ad7dd9738452da645f11317aedd38e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_09_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_09.jpg",
+	  "mtime": "1475556348",
+	  "size": "5935",
+	  "md5": "0dc1c7e9bcc45cae47f0f378009ced0e",
+	  "crc32": "e66dcd53",
+	  "sha1": "06d932ee3e2e2ab4d22e7ec478a67ec2bb5ba054"
+	},
+	"\/settlers.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473296083",
+	  "size": "661086",
+	  "md5": "b0218b8214957c6abefe0b39a0af3294",
+	  "crc32": "36b6085d",
+	  "sha1": "d683df324a5c2a31af4fb5f90cd2eb484e044c27"
+	},
+	"\/settlers_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475556300",
+	  "size": "1221394",
+	  "md5": "a99878ba29aa7e3e2bfd595a66d78429",
+	  "crc32": "4b073f60",
+	  "sha1": "5c09e5498a556cf09d1de0f9b5ccdb4a59b5f82c",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/4\/items\/TheSettlersDemo\/TheSettlersDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 669,
+	"week": 9,
+	"month": 15
+  }
+}

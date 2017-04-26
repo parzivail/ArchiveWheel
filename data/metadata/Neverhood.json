@@ -1,0 +1,155 @@
+{
+  "server": "ia600901.us.archive.org",
+  "dir": "/11/items/Neverhood",
+  "metadata": {
+	"identifier": [
+	  "Neverhood"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "The Neverhood"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>Immerse yourself in a mystery adventure in the strange, high-tech, hypervirtual, clay-animated world of the Neverhood.<br \/><\/div><div><br \/><\/div>"
+	],
+	"publisher": [
+	  "DreamWorks Interactive",
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "The Neverhood Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2013-07-07 06:59:04"
+	],
+	"addeddate": [
+	  "2013-07-07 06:59:04"
+	],
+	"notes": [
+	  "The full demo includes two puzzles to solve, while the lite demo only includes one."
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232859[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_10"
+	]
+  },
+  "files": {
+	"\/Neverhood_archive.torrent": {
+	  "source": "original",
+	  "btih": "94a850beaee0f7709bb530a978f016c01356ce42",
+	  "mtime": "1474469836",
+	  "size": "3263",
+	  "md5": "c0ab080891cfb50a0284dab8e8cad6a0",
+	  "crc32": "66fe5681",
+	  "sha1": "77f4f6d501c8f5ea4348feb59dffbdbfb4d390a1",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Neverhood_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1f49ed7290d6b65290ca805f4ea9baf8"
+	},
+	"\/Neverhood_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474469835",
+	  "size": "1131",
+	  "md5": "18675782b6f36ddb86037d0f4c91c4a5",
+	  "crc32": "41bd48bc",
+	  "sha1": "bfc1cd285e0990e5084f7847a5d7cd8b0e325690"
+	},
+	"\/nevdemo_full.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1373180385",
+	  "size": "22415075",
+	  "md5": "3fcaddb7be4c868da8316a4b8ddd327f",
+	  "crc32": "563dcfb4",
+	  "sha1": "6c78cd5c981d48ff530c5056026024afd42a0984"
+	},
+	"\/nevdemo_full.exe_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373180386",
+	  "size": "1454",
+	  "md5": "1674a4543909697f8665620bb2775a45",
+	  "crc32": "6d217c09",
+	  "sha1": "54a0e9f6750e94c1a43d5192396a447b14fa0ad6"
+	},
+	"\/nevdemo_lite.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1373180404",
+	  "size": "11852265",
+	  "md5": "513a948a07a6307fbdb0aad252e4798d",
+	  "crc32": "7817d039",
+	  "sha1": "4f46b2f7392e51789477616d846e645db640a7c0"
+	},
+	"\/nevdemo_lite.exe_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373180405",
+	  "size": "1428",
+	  "md5": "b2f33144bdea070593e95fb53ad25dee",
+	  "crc32": "3d44f2f5",
+	  "sha1": "3cbad264c4598ec0c7c067070c502c5d2031fddf"
+	},
+	"\/neverhood.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1373180344",
+	  "size": "74076",
+	  "md5": "e0408fdf529d3f200e7235339037082f",
+	  "crc32": "3d593015",
+	  "sha1": "e2ca465cdbb146b7a53c1d528e571faf08eaf0e5",
+	  "rotation": "0"
+	},
+	"\/neverhood.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373180344",
+	  "size": "1445",
+	  "md5": "eee3239d281aea70f0960d4d7028116b",
+	  "crc32": "2f11dd23",
+	  "sha1": "494ba2469078c610f7a3266ba88405f00572932f"
+	},
+	"\/neverhood_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "neverhood.jpg",
+	  "mtime": "1373180412",
+	  "size": "5942",
+	  "md5": "fde321b44575ad709e3da15a30a121d8",
+	  "crc32": "a69998b7",
+	  "sha1": "4268143a35dd3d61aa177b6b43f9aef37199816e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600901.us.archive.org\/11\/items\/Neverhood\/neverhood_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 2994,
+	"week": 17,
+	"month": 67
+  }
+}

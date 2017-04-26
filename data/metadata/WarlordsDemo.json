@@ -1,0 +1,336 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/9/items/WarlordsDemo",
+  "metadata": {
+	"identifier": [
+	  "WarlordsDemo"
+	],
+	"title": [
+	  "Warlords Demo"
+	],
+	"creator": [
+	  "SSG Strategic Studies Group"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Warlords is an eight player game of the struggle for supreme power in the fabled Kingdom of Illuria. Warlords requires 640K, VGA or EGA card and can be mouse controlled. This is a special limited play demo version of the game. This demo works with 640K, VGA graphics and mouse only. The demo version is limited to 40 turns play as a specific player against computer opponents of varying ability. The real game can run to hundreds of turns, and the computer opponents can be much more powerful. The title screen and a number of other graphics files have been omitted to keep the demo to a reasonable size for transmission over BBS systems. Your objectives in Warlords are brutally simple: to eliminate all organized opposition to your rule. To do this, you will have to control all eighty cities in the lands of Illuria, and thereby eliminate all seven opponents.There are many ways to achieve this, and brute force is just one of them."
+	],
+	"date": [
+	  "1990"
+	],
+	"year": [
+	  "1990"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"publicdate": [
+	  "2012-02-22 19:44:13"
+	],
+	"addeddate": [
+	  "2012-02-22 19:43:53"
+	],
+	"publisher": [
+	  "SSG Strategic Studies Group"
+	],
+	"updatedate": [
+	  "2012-02-22 19:45:02"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_9"
+	],
+	"emulator_start": [
+	  "WARDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475600584",
+	  "size": "346843",
+	  "md5": "7107bcd1e43ad3aeeaed73bd65e32090",
+	  "crc32": "97f637d2",
+	  "sha1": "37037936211302900593b4980506081a5bdf541b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475600681",
+	  "size": "4536",
+	  "md5": "26820b7e86f00f421ab93f5aa3ebd6e9",
+	  "crc32": "155f6c14",
+	  "sha1": "81eb52bf5511945bfd6d03c82ae3de50758c0d26"
+	},
+	"\/WarlordsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475600627",
+	  "size": "71585",
+	  "md5": "ac410089b10bbf6ebeb1f1c6d37edad7",
+	  "crc32": "a8764090",
+	  "sha1": "d0ceba409047b65d442e03031d7c7a9ca60b63e1",
+	  "format": "Animated GIF"
+	},
+	"\/WarlordsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8509ade6b45fe1fb191bbd85dd91fa17a54dcf03",
+	  "mtime": "1475600692",
+	  "size": "5629",
+	  "md5": "1b7da6646521e1d65e9efecd022402e3",
+	  "crc32": "202b8467",
+	  "sha1": "0db219dbbba5462a512f77f3c1b47aead405a95d",
+	  "format": "Archive BitTorrent"
+	},
+	"\/WarlordsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "32982a19a3de0a8db16a6b28dc057dc8"
+	},
+	"\/WarlordsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475600637",
+	  "size": "12288",
+	  "md5": "b9387c9caff73795a4c79013af944267",
+	  "crc32": "f5dcd3bc",
+	  "sha1": "62a1f25464f8dbcf76b0c2ec858ed77a12f243d6",
+	  "format": "Metadata"
+	},
+	"\/WarlordsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1468008107",
+	  "size": "1902",
+	  "md5": "2d72101f0994f8fa704ec4bf363fd04b",
+	  "crc32": "61b29805",
+	  "sha1": "88e17dc7de91e6d5d04d3735381a28494c9ecc15"
+	},
+	"\/WarlordsScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Warlords Screenshot",
+	  "mtime": "1329939712",
+	  "size": "17263",
+	  "md5": "1ec4eedd6976fcb5c5795d8f5feaa96c",
+	  "crc32": "28dad048",
+	  "sha1": "8ad7d47135c8bd88b40eee7e8fc7cf4e5e107d26",
+	  "rotation": "0"
+	},
+	"\/WarlordsScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "WarlordsScreenshot.jpg",
+	  "mtime": "1329939847",
+	  "size": "4610",
+	  "md5": "df2b941d1476437f78aa82aef453d12f",
+	  "crc32": "aab59cea",
+	  "sha1": "5ba26278290df4b55d78dc8d7d97c60965527a16"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475600587",
+	  "size": "337495",
+	  "md5": "711725feaffe24c7f013714b56526bf5",
+	  "crc32": "ab5a94cc",
+	  "sha1": "2f8e2bd3918829ed69a5d7c9b7e356030241d134",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475600682",
+	  "size": "4229",
+	  "md5": "eb9893ae6667e70744558e6374baf83b",
+	  "crc32": "4c1d5e12",
+	  "sha1": "dbcc77e22de8ac8198691bb2e198dc1da684b332"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475600598",
+	  "size": "346843",
+	  "md5": "7107bcd1e43ad3aeeaed73bd65e32090",
+	  "crc32": "97f637d2",
+	  "sha1": "37037936211302900593b4980506081a5bdf541b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475600679",
+	  "size": "4536",
+	  "md5": "26820b7e86f00f421ab93f5aa3ebd6e9",
+	  "crc32": "155f6c14",
+	  "sha1": "81eb52bf5511945bfd6d03c82ae3de50758c0d26"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475600601",
+	  "size": "332707",
+	  "md5": "f128513238adb7594f84d04c6819d71d",
+	  "crc32": "92082acc",
+	  "sha1": "88f981ffd5974ffd507b27608a4cd6efdf1574b7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475600680",
+	  "size": "4644",
+	  "md5": "9c9b9dcb0ee4b9e9bff3eef5b6473222",
+	  "crc32": "e7a8c270",
+	  "sha1": "8e1549030bdef9fd8c7abc85f9818c394a9aa9c3"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475600606",
+	  "size": "322672",
+	  "md5": "3ed64f1882f5874365549ea0ed11626c",
+	  "crc32": "0c339860",
+	  "sha1": "eaae4754abe356689312edfc6eeec343b65c6bd3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475600684",
+	  "size": "4580",
+	  "md5": "7cd33141ec7b843747ab10ecae5d4128",
+	  "crc32": "4e877746",
+	  "sha1": "4bf885a9ddf798d6d767e2cf53dc5c5614599748"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475600609",
+	  "size": "318689",
+	  "md5": "38304ae7788893cbf5443b093b1bfe90",
+	  "crc32": "a76041cb",
+	  "sha1": "7ad00740f9d33cbff076cd9b7748649de490f8ee",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475600688",
+	  "size": "4740",
+	  "md5": "0d55d22dae807e2de233494609269207",
+	  "crc32": "b8049b5e",
+	  "sha1": "c31c0832d4888d60d5288feaf81b94bea398bbe2"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475600612",
+	  "size": "318854",
+	  "md5": "f89d42c9d6a207ee29067f88629e8520",
+	  "crc32": "162880db",
+	  "sha1": "645c1f4623e9070cbfd240f3ca426c938922e442",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475600690",
+	  "size": "4745",
+	  "md5": "52c335acd37c7ffc7b9f577a99694752",
+	  "crc32": "ea33bd7d",
+	  "sha1": "89e701bd4cce46ce883c1f19438922893a90425f"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475600616",
+	  "size": "332870",
+	  "md5": "dd582e53cd4614218e0199282834dc03",
+	  "crc32": "63bcfb4e",
+	  "sha1": "1f15c1bba207700be291ef2fe49a17abe190c8fd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475600685",
+	  "size": "4794",
+	  "md5": "443dd853692de49cb8f40d7159d4c6fa",
+	  "crc32": "ee272a32",
+	  "sha1": "fa13343ab94144decb1c66699e4e8b8d0b77530b"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475600622",
+	  "size": "334136",
+	  "md5": "23a9d4ae79082a0de0477f5b5a20c625",
+	  "crc32": "2614d655",
+	  "sha1": "e32e6b871cf84b2ff6d2e62076f88b5d1ff4f599",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475600686",
+	  "size": "4842",
+	  "md5": "8395bdc90540c30900332fb26c991022",
+	  "crc32": "6d44b0ee",
+	  "sha1": "7637feaf3261fad64ab0ccbd284af9b8f98f27a5"
+	},
+	"\/warlrd.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329939714",
+	  "size": "221831",
+	  "md5": "2eead4f0358b3551b5810f25c785f943",
+	  "crc32": "f65e4aa3",
+	  "sha1": "155e4ed6d57d4853930bd4901ab86a25ec227ca1",
+	  "title": "Warlords Demo"
+	},
+	"\/warlrd_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475600633",
+	  "size": "781939",
+	  "md5": "9b5ee2c957c970f92258495a67272b29",
+	  "crc32": "a59abdc7",
+	  "sha1": "f2093bd2b13bd9b37ddbda32f62fc9bbcfc0d4b7",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/9\/items\/WarlordsDemo\/WarlordsDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 382,
+	"week": 4,
+	"month": 6
+  }
+}

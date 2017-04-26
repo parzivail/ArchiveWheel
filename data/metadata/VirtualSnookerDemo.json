@@ -1,0 +1,235 @@
+{
+  "server": "ia600808.us.archive.org",
+  "dir": "/10/items/VirtualSnookerDemo",
+  "metadata": {
+	"identifier": [
+	  "VirtualSnookerDemo"
+	],
+	"title": [
+	  "Virtual Snooker Demo"
+	],
+	"creator": [
+	  "Celeris"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Enter the world of Virtual Snooker, a snooker game so real we are sure it will improve your actual snooker playing. It has all the angles, all the shots of the real game - and more! Take a lesson in snooker techniques and tactics from six-time world champion Steve Davis."
+	],
+	"date": [
+	  "1996"
+	],
+	"year": [
+	  "1996"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"publicdate": [
+	  "2012-02-23 01:48:45"
+	],
+	"addeddate": [
+	  "2012-02-23 01:48:30"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"updatedate": [
+	  "2012-02-23 01:49:44"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "SNOOKER.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475720864",
+	  "size": "271427",
+	  "md5": "b8238e4ba57d91d2c0ae9536ad2b7af5",
+	  "crc32": "d07509f1",
+	  "sha1": "6cfe1db3663c3bfe55a6c5f07b0e2848445f2de7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475720909",
+	  "size": "6790",
+	  "md5": "e9f4d62afca46da2c9126ecfc433f82c",
+	  "crc32": "1753e8fe",
+	  "sha1": "c3a6a748a280bdb7f6b934c12fd88d18fe5973d4"
+	},
+	"\/VirtualSnookerDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475720880",
+	  "size": "22953",
+	  "md5": "a18db2914e9b4285152a8082610a7540",
+	  "crc32": "5295e721",
+	  "sha1": "b1f99579203432f9274ea38a6fc99cdc204c679b",
+	  "format": "Animated GIF"
+	},
+	"\/VirtualSnookerDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "d57c567d3d11ee72e7a0caeebb1aefc8ce69e5b7",
+	  "mtime": "1475720914",
+	  "size": "3885",
+	  "md5": "40e116a0627d18755d73651be46dadb6",
+	  "crc32": "da23a683",
+	  "sha1": "042054aeac4d8f2989f6bb8eb2d4abe12c1559c5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/VirtualSnookerDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ea14c8a59ab509428824d537bc3ad54c"
+	},
+	"\/VirtualSnookerDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475720888",
+	  "size": "9216",
+	  "md5": "351aa3bb39cce511cefb8f19e94a1330",
+	  "crc32": "4e1ede02",
+	  "sha1": "30818648970276e2e09ac9037c8d34a7cf0428b4",
+	  "format": "Metadata"
+	},
+	"\/VirtualSnookerDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475598130",
+	  "size": "1212",
+	  "md5": "41708c1f190d92e8fa63cc9df8e20d81",
+	  "crc32": "2d0b1fe6",
+	  "sha1": "10803be4fc8b9f48ad07564598ddcc413a61529b"
+	},
+	"\/VirtualSnookerScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Virtual Snooker Screenshot",
+	  "mtime": "1329961681",
+	  "size": "12001",
+	  "md5": "65d26c48429e32ba4592bdb1cb54715f",
+	  "crc32": "16a52814",
+	  "sha1": "e1080ed16faebe03726e233b2cae01f121f05865",
+	  "rotation": "0"
+	},
+	"\/VirtualSnookerScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "VirtualSnookerScreenshot.jpg",
+	  "mtime": "1329961719",
+	  "size": "4010",
+	  "md5": "f48f0856fde60051a87e0a4e4494eb6d",
+	  "crc32": "2f106d3a",
+	  "sha1": "4bbab5db762f3cdd0af6733072e894c478008cec"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475720866",
+	  "size": "271427",
+	  "md5": "b8238e4ba57d91d2c0ae9536ad2b7af5",
+	  "crc32": "d07509f1",
+	  "sha1": "6cfe1db3663c3bfe55a6c5f07b0e2848445f2de7",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475720910",
+	  "size": "6790",
+	  "md5": "e9f4d62afca46da2c9126ecfc433f82c",
+	  "crc32": "1753e8fe",
+	  "sha1": "c3a6a748a280bdb7f6b934c12fd88d18fe5973d4"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475720874",
+	  "size": "250421",
+	  "md5": "10cd7c3da8fc4972984c016b38e71fdf",
+	  "crc32": "02b5470e",
+	  "sha1": "af2406cc40b03303e22300b0d185cb5b1d58f9cf",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475720911",
+	  "size": "5375",
+	  "md5": "2f2802983f2b47c5f0b44897118e8d6b",
+	  "crc32": "9d216bc8",
+	  "sha1": "4bc367d534bcf71e28e4cea811e51f81aa888d25"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475720876",
+	  "size": "250403",
+	  "md5": "fba202b3222696d62459a052e89ff551",
+	  "crc32": "e21c3235",
+	  "sha1": "4746002dc923236d18ba0dbc7e5d049def3c5584",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475720913",
+	  "size": "5369",
+	  "md5": "e2391469062709a60232243e62f0e7fd",
+	  "crc32": "f76fcb95",
+	  "sha1": "5de4d8e3c96e3e0cb397af47a5dbf8aa1f39fe8d"
+	},
+	"\/vsnooker.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475598452",
+	  "size": "865940",
+	  "md5": "18c4bf57a00ac14be06c2f492ef6b2d9",
+	  "crc32": "2e72ad44",
+	  "sha1": "959034acc18ef2ee46f115b15c89be20fdb22c3b"
+	},
+	"\/vsnooker_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475720884",
+	  "size": "103069",
+	  "md5": "2552af687529048416a863c4a591ed9c",
+	  "crc32": "2bbfce29",
+	  "sha1": "a73002917bf179f97164718b00e3b0f6630f4ab4",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600808.us.archive.org\/10\/items\/VirtualSnookerDemo\/VirtualSnookerDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 388,
+	"week": 9,
+	"month": 11
+  }
+}

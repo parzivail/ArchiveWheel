@@ -1,0 +1,208 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/16/items/MartianMemorandumDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Martian Memorandum Demo"
+	],
+	"description": [
+	  "\"It's 2039, six years after solving the Linsky murder case and the years have been less than kind to Tex Murphy. In post-holocaust San Francisco, he's been subjected to constant radiation, but what's really put the lines in his face are the years trying to stay afloat and recapture the glory of his first big case.\n\nWhile working on his first case, Tex has stumbled into - and foiled - a conspiracy to dominate the world. Since then, he's been high and dry, trying to keep from being broke. Understandably, he jumps at the chance offered to him by the powerful Marshall Alexander.\n\nAlexander's daughter, Alexis, has disappeared, possibly kidnapped, and along with her, something which Alexander refers to only vaguely. The Oracle Stone, a priceless artifact of a long-dead Martian civilization, is something that some people would gladly kill to possess. The missing stone and missing daughter lead Tex into the cesspools of society and out into the desolate wastelands of the Red Planet. \""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Access Software"
+	],
+	"identifier": [
+	  "MartianMemorandumDemo"
+	],
+	"addeddate": [
+	  "2012-07-05 09:36:49"
+	],
+	"date": [
+	  "1991"
+	],
+	"year": [
+	  "1991"
+	],
+	"publisher": [
+	  "Access Software"
+	],
+	"publicdate": [
+	  "2012-07-05 09:37:30"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "MMDEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475359916",
+	  "size": "33759",
+	  "md5": "ba21ae2f61d1c79ecdb6a7c18332615d",
+	  "crc32": "6b8a0330",
+	  "sha1": "2b02e130cbf7e2465f2a1b540dbf70cbc9e99ea9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475359961",
+	  "size": "3215",
+	  "md5": "58ec964fa8e5ff04fe2862d47dca94a5",
+	  "crc32": "e4f3436a",
+	  "sha1": "799ffe11543feb19a223358972acc4b66090b738"
+	},
+	"\/MartianMemorandumDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475359931",
+	  "size": "5301",
+	  "md5": "94f84440409d6d766c852b8ba177eb53",
+	  "crc32": "ad8efc67",
+	  "sha1": "829900d0b335a39aeacc47394e987b92a4a0d575",
+	  "format": "Animated GIF"
+	},
+	"\/MartianMemorandumDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8210bac358ab09bf1f542461aaa330eeaee9868b",
+	  "mtime": "1475359972",
+	  "size": "3526",
+	  "md5": "5600ff2d8418ac04f535bf4330c89bc9",
+	  "crc32": "f50b971b",
+	  "sha1": "1757d6581ea27d3d831bb7fcc4ad5cf91de193b8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/MartianMemorandumDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "28e722b17d7fc093a2e8b0b76d16b3ee"
+	},
+	"\/MartianMemorandumDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475359940",
+	  "size": "9216",
+	  "md5": "5c0b9503ca9514b13729c5886f8bd7a3",
+	  "crc32": "ce6e580e",
+	  "sha1": "97f7370d91932f70c5d3246a76b8877c3ad6f56f",
+	  "format": "Metadata"
+	},
+	"\/MartianMemorandumDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1470074039",
+	  "size": "1878",
+	  "md5": "f0e70578a06a7c428bd3895aa5c92157",
+	  "crc32": "9408d6ea",
+	  "sha1": "883289fc5f14af21f6b74775088478736dd3180d"
+	},
+	"\/marmemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1470074090",
+	  "size": "985051",
+	  "md5": "de5d18f091c7e670d0b7595b9caec8c4",
+	  "crc32": "a83b9ac7",
+	  "sha1": "7b8ea9532afc083f574aa8783814a6c7cef7b821"
+	},
+	"\/marmemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475359936",
+	  "size": "29561",
+	  "md5": "ffee38061272b178129ca57cdc528af7",
+	  "crc32": "c70c8d91",
+	  "sha1": "7f8c6f79907b5bee55e8893c91767a95cda50977",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_199.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341480986",
+	  "size": "17591",
+	  "md5": "f6cbe7156badc6f939ccdb432468ccc3",
+	  "crc32": "b4f1643c",
+	  "sha1": "1bd901d7d54baeeebe3f6598b71902ae8b469521",
+	  "rotation": "0"
+	},
+	"\/resource_item_199_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_199.jpg",
+	  "mtime": "1341481021",
+	  "size": "5358",
+	  "md5": "49885e3a07348c620a9307494f17d6a7",
+	  "crc32": "4949d4b4",
+	  "sha1": "6678f036792948d1641c9e88cbc4634764a7ab0c"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475359920",
+	  "size": "33759",
+	  "md5": "ba21ae2f61d1c79ecdb6a7c18332615d",
+	  "crc32": "6b8a0330",
+	  "sha1": "2b02e130cbf7e2465f2a1b540dbf70cbc9e99ea9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475359962",
+	  "size": "3215",
+	  "md5": "58ec964fa8e5ff04fe2862d47dca94a5",
+	  "crc32": "e4f3436a",
+	  "sha1": "799ffe11543feb19a223358972acc4b66090b738"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475359925",
+	  "size": "33736",
+	  "md5": "9b9a20f93ec688403afadc896e882201",
+	  "crc32": "edc906c9",
+	  "sha1": "e655b896f7d0ef0108ad8d505b9618d0e29b97ca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475359968",
+	  "size": "3200",
+	  "md5": "5eab152f6a86a6c68efda580feee93cf",
+	  "crc32": "778861c5",
+	  "sha1": "cec48d262f4adf108ff3c91a780f3f7990a6473e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/16\/items\/MartianMemorandumDemo\/MartianMemorandumDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 177,
+	"week": 6,
+	"month": 7
+  }
+}

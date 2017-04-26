@@ -1,0 +1,226 @@
+{
+  "server": "ia800309.us.archive.org",
+  "dir": "/4/items/ReachfortheSkies_1020",
+  "metadata": {
+	"identifier": [
+	  "ReachfortheSkies_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rowan Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Virgin Interactive Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Reach for the Skies Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:47:33"
+	],
+	"addeddate": [
+	  "2012-09-04 03:47:33"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"Summer 1940. The future of World War II hangs in the balance. The cream of the Luftwaffe and the aces of the RAF are locking horns in their most crucial confrontation yet \"\"The Battle for Britain\"\".  You have the chance to re-live that famous battle, play the role of an RAF pilot or Luftwaffe flying ace and shape the course of history.  Your performance determines whether the outcome is a repeat of the RAF victory or an unequivocal Luftwaffe success.\n\n\"\"Reach for the Skies\"\" is not a mission based game which can be lost or won on the basis of one mission.  Instead it is a simulation of the entire\nconflict that became known as \"\"The Battle of Britain\"\".  You will win or\nloose depending on your long term performance during the conflict.\n\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "REACH\/DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475443212",
+	  "size": "62457",
+	  "md5": "6637f1471f56274ee3861f34f08d32da",
+	  "crc32": "43406e3f",
+	  "sha1": "305fd79d56a49e9149d94ac41c9d998b210d7787",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475443246",
+	  "size": "3464",
+	  "md5": "856f9f9b0ab90474da73b06b69b01c9e",
+	  "crc32": "e49f301f",
+	  "sha1": "fb2c03ff8275970f8aaa879bdecaef91ebf6b4d3"
+	},
+	"\/ReachfortheSkies_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475443219",
+	  "size": "7195",
+	  "md5": "07a5ade177e4aa08a57dd090e98d82e3",
+	  "crc32": "37278747",
+	  "sha1": "0d612939847ba8fe926b904170f4593c82daf8a5",
+	  "format": "Animated GIF"
+	},
+	"\/ReachfortheSkies_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "4f132faaa578568bc0b71a85805c9cc1a0ce18e4",
+	  "mtime": "1475443252",
+	  "size": "3511",
+	  "md5": "38836298347815e14028953466b3b50e",
+	  "crc32": "ae6d16a5",
+	  "sha1": "8943645d03dd0c9c0efa94f5b76aeb778d8eac69",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ReachfortheSkies_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b91d98f6356ee3eedddc502c7e7e0cab"
+	},
+	"\/ReachfortheSkies_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475443232",
+	  "size": "9216",
+	  "md5": "0ad3d4adb513298041e015ad86be19e4",
+	  "crc32": "247c15a9",
+	  "sha1": "59858563505ae9c06aaccfe9d85a5fbbfa5aa194",
+	  "format": "Metadata"
+	},
+	"\/ReachfortheSkies_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471819356",
+	  "size": "1654",
+	  "md5": "a85eac89ec4042c401aa8021c9ed48af",
+	  "crc32": "84cb355f",
+	  "sha1": "98b0cd8833700f5771ee3098f14a8bb7999d2bdb"
+	},
+	"\/reachskies.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730461",
+	  "size": "772780",
+	  "md5": "c33a32000e2488a9e4c3e71fff4e17d6",
+	  "crc32": "c1b7b2c7",
+	  "sha1": "34081ae680331f4a5676d9cd2806470823bb3042"
+	},
+	"\/reachskies.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730461",
+	  "size": "683",
+	  "md5": "a7d08c6979210bb189ee63927c014a7e",
+	  "crc32": "07f39b28",
+	  "sha1": "827e7bd2642df135c90bbeffd6e1c3463bdeeadf"
+	},
+	"\/reachskies_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475443223",
+	  "size": "23442",
+	  "md5": "e5f3d02a3d5059b9d42aca81c1be8081",
+	  "crc32": "a206c532",
+	  "sha1": "f7519ff1fc9bf2177d2a346090dccde6f9c61fa7",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1543.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730463",
+	  "size": "4292",
+	  "md5": "9873b4d7e7e64c186fa1130a4ac210b5",
+	  "crc32": "25e53e8e",
+	  "sha1": "984c08c43fcb008359e9349a01c726cfb612c90e",
+	  "rotation": "0"
+	},
+	"\/resource_item_1543.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730463",
+	  "size": "271",
+	  "md5": "5289b8479e8f8a68227cf0b4fccb400f",
+	  "crc32": "e2bbb552",
+	  "sha1": "8dea0308569520be72b8f4545205902c956d7438"
+	},
+	"\/resource_item_1543_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1543.jpg",
+	  "mtime": "1346731009",
+	  "size": "1730",
+	  "md5": "3f630cd8405c459f06f24afa5c2fae94",
+	  "crc32": "178f9b11",
+	  "sha1": "f8f488cb5b31f68cbd8f495215e38ea3a8b15736"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475443214",
+	  "size": "62454",
+	  "md5": "51517f9f29dd7fb156275ca7aec36f0f",
+	  "crc32": "3a57e329",
+	  "sha1": "e941b6bb3cf9e5b0a2a6219658ad689511ed99f8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475443247",
+	  "size": "3468",
+	  "md5": "d6886e1760b51da9bf028e550087373e",
+	  "crc32": "8808e75d",
+	  "sha1": "25c191fc2be66e6c766f091015be3db037c7e3f5"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475443216",
+	  "size": "62457",
+	  "md5": "6637f1471f56274ee3861f34f08d32da",
+	  "crc32": "43406e3f",
+	  "sha1": "305fd79d56a49e9149d94ac41c9d998b210d7787",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475443249",
+	  "size": "3464",
+	  "md5": "856f9f9b0ab90474da73b06b69b01c9e",
+	  "crc32": "e49f301f",
+	  "sha1": "fb2c03ff8275970f8aaa879bdecaef91ebf6b4d3"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/4\/items\/ReachfortheSkies_1020\/ReachfortheSkies_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 457,
+	"week": 3,
+	"month": 5
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/31/items/PinballIllusions_1020",
+  "metadata": {
+	"identifier": [
+	  "PinballIllusions_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digital Illusions"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "21st Century Entertainment"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Pinball Illusions Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 05:41:05"
+	],
+	"addeddate": [
+	  "2012-09-04 05:41:05"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"The successor to the award-winning Pinball Fantasies!\n\nGame Features Include:\n\nFOUR ALL-NEW TABLES<br \/>\nFrom the surf hunks and beach chicks of Babewatch, through the hair-raising bungee jumps in Extreme Sports and the futuristic cyborg cops of Law & Justice, to the longships and helmets of the Vikings, each table is a unique pinball challenge!\n\nHI-RES GRAPHICS<br \/>\nYour choice of video modes ranging from 320x240 all the way up to 800x600 resolution!\n\nCD AUDIO SOUNDTRACK<br \/>\nFifteen tracks of completely digital CD audio music accompany you while you play!\n\nMULTI-BALL PLAY<br \/>\nA stunning new multi-ball feature that allows up to six balls in play at once! \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "illusion.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/ILLUSION.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476203565",
+	  "size": "1097804",
+	  "md5": "6e0c5fb3b6b90069fce9fbb4232a7923",
+	  "crc32": "44c4ace6",
+	  "sha1": "ab80cd99732351658fbc87e6847b9932aa9a7f9c"
+	},
+	"\/PINBALLILL-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346737277",
+	  "size": "1128460",
+	  "md5": "d1e6f03ac28f9b0437f7eca257a3ee32",
+	  "crc32": "7d456b86",
+	  "sha1": "46faac9d65f8f8983cecbc5091b19def98ea7ed2"
+	},
+	"\/PINBALLILL.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737277",
+	  "size": "679",
+	  "md5": "565cb87d3e1366b3dc2722ceb6d67602",
+	  "crc32": "2587c913",
+	  "sha1": "a216cde6d5232c046302a085ad95b7a6b85d91d7"
+	},
+	"\/PinballIllusions_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "79c0e470df97fa8b2e8a20c142073729ec6030c0",
+	  "mtime": "1476204491",
+	  "size": "2160",
+	  "md5": "ccba9f86b0af81df7b529bb904aefaeb",
+	  "crc32": "b62c97d6",
+	  "sha1": "cf9941e69a2b8c7f401deffd0af5b010e99457a2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PinballIllusions_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f177c55fdeab1f907d1685a165ac7276"
+	},
+	"\/PinballIllusions_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204490",
+	  "size": "1598",
+	  "md5": "4321d003a2f8b8914702d8c5a864429c",
+	  "crc32": "fa229af0",
+	  "sha1": "e0a34f3684914a8f9dba97f5806eb1916b997324"
+	},
+	"\/resource_item_1856.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346737279",
+	  "size": "16058",
+	  "md5": "11a615d2c3a29fef4e26238c3fcd57a8",
+	  "crc32": "6233582e",
+	  "sha1": "a5e76ef124d611cc373daca45df1bd9fdd976905",
+	  "rotation": "0"
+	},
+	"\/resource_item_1856.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737280",
+	  "size": "272",
+	  "md5": "f78ec06e02ece5d333d108ed1f604e9e",
+	  "crc32": "81ba880d",
+	  "sha1": "57065bc9f52743e330b53f320f47498dac716e69"
+	},
+	"\/resource_item_1856_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1856.jpg",
+	  "mtime": "1346738187",
+	  "size": "5049",
+	  "md5": "2f9d2a223ae204f771d3180a3955dc21",
+	  "crc32": "b7af2b23",
+	  "sha1": "0d05d0c35569a2bed8fd945c2f963758d66afa92"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/31\/items\/PinballIllusions_1020\/resource_item_1856_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 772,
+	"week": 8,
+	"month": 11
+  }
+}

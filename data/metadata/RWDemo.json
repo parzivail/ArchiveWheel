@@ -1,0 +1,117 @@
+{
+  "server": "ia600304.us.archive.org",
+  "dir": "/14/items/RWDemo",
+  "metadata": {
+	"identifier": [
+	  "RWDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Rival Interactive"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "<div>Rival's first commercial video game being published by Simon and Schuster Interactive is called Real War. \u00a0Real War is a commercially adapted version of the military game called Joint Force Employment, released exclusively to the military. \u00a0Standard RTS games currently on the market and in production focus on sci-fi, or historical scenarios. Real War is the only game that will focus on current Real technology. \u00a0All units in the game are actual units used by our military or other militaries around the world.<\/div><div><br \/><\/div><div>The storyline of Real War is unique to say the least. \u00a0The player can choose to be the US or the Independent Liberation Army (ILA).<\/div><div>The story starts out by explaining that the US has just been bombed by terrorists resulting in a large number casualties. \u00a0Using advanced technology the US military discovers where the bomb was actually made and plans a devastating attack. The ILA has a plan that could cause catastrophic results for the US.<\/div>"
+	],
+	"publisher": [
+	  "Simon & Schuster Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Real War Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2014-02-16 22:13:30"
+	],
+	"addeddate": [
+	  "2014-02-16 22:13:30"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234111[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_14"
+	]
+  },
+  "files": {
+	"\/RWDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392588809",
+	  "size": "98898246",
+	  "md5": "793ebc8ff6154069d28340e840aea36a",
+	  "crc32": "d620b0f3",
+	  "sha1": "bce3079ff00bde8349949acc1ccf493947e2104e"
+	},
+	"\/RWDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8bff6eb1b0b9f6e44a07ec0002f3b3a8"
+	},
+	"\/RWDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392588834",
+	  "size": "18432",
+	  "md5": "9c6484c7bbc146e845f775c2ace95783",
+	  "crc32": "18f37c50",
+	  "sha1": "7c184654e3f7a8f31908aacc9ca0d26706cc293c"
+	},
+	"\/RWDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474050326",
+	  "size": "1918",
+	  "md5": "b096f3c8bcf9a71c22b83582c6ca43ee",
+	  "crc32": "5cdd0f00",
+	  "sha1": "3a28765bf6b9d5581e61b4718edca199c7140dc7"
+	},
+	"\/rwdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1392588821",
+	  "size": "98541",
+	  "md5": "5aba84946ccf6cb8dcd27a818c3960db",
+	  "crc32": "f1048efc",
+	  "sha1": "bbf90129fce22d7fced229490d563b4701ea93ab",
+	  "rotation": "0"
+	},
+	"\/rwdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "rwdemo.jpg",
+	  "mtime": "1392588850",
+	  "size": "5021",
+	  "md5": "f16f7608269e06260278d3f36a5b5484",
+	  "crc32": "b5cd5ad8",
+	  "sha1": "751cc68f5790a333610d37269e8b32ccb2812348"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600304.us.archive.org\/14\/items\/RWDemo\/rwdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3706,
+	"week": 31,
+	"month": 130
+  }
+}

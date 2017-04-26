@@ -1,0 +1,346 @@
+{
+  "server": "ia600708.us.archive.org",
+  "dir": "/20/items/KGB_1020",
+  "metadata": {
+	"identifier": [
+	  "KGB_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Cryo Interactive Entertainment"
+	],
+	"date": [
+	  "1992"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Virgin Games"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "KGB Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:55:52"
+	],
+	"addeddate": [
+	  "2012-09-04 03:55:52"
+	],
+	"year": [
+	  "1992"
+	],
+	"description": [
+	  "\"It's your first day at Department P, Moscow KGB and you can't help but think that whoever arranged for your transfer here either has a strange sense of humor or hates your guts.\n\nThe KGB is still the most feared and pervasive intelligence-gathering network in the world. But now, the KGB itself is under secret surveillance - by you.\n\nYour superior at Department P in Moscow has just given you your first assignment: find out who murdered private detective Golitsin and why.\n\nThis is just the first of his attempts to test your loyalty to the hardliners. But - who can you trust? - your Uncle Vanya, who seems to know more about the grisly murder of your parents than he is letting on?\nOr your superiors, whose own hidden agendas might even include the overthrow of Gorbachev?\n\nQuestions lead to more questions but one think is clear - the KGB reeks of corruption and you're about as save as a long-tailed cat in a room full of rocking chairs. Be advised, comrade - you must act quickly and shrewdly to uncover the conspirators before they uncover you.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "KGB\/KGB.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475319913",
+	  "size": "314800",
+	  "md5": "370475e534c19078ae30027cdb787977",
+	  "crc32": "3be35a1e",
+	  "sha1": "e18ef13a8c7ec75174c951f8276c8d65ca1f1c9c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475319964",
+	  "size": "4431",
+	  "md5": "b327c1aef9e3357b9e2336f0fdce25de",
+	  "crc32": "c0e0092e",
+	  "sha1": "323778eee4dd377a13c6d907d338f69d6d6befaa"
+	},
+	"\/KGB_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475319937",
+	  "size": "95645",
+	  "md5": "0948c905b83f640037deed20d332ccdb",
+	  "crc32": "d38ac2da",
+	  "sha1": "cf95d416cb0ff6f89f7f8dda3a2a001441aeb212",
+	  "format": "Animated GIF"
+	},
+	"\/KGB_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "746218603629b8388e4ef790b6c132a1d4106271",
+	  "mtime": "1475319978",
+	  "size": "5559",
+	  "md5": "127d50e92a2461474a003a138cac004a",
+	  "crc32": "3ab73d95",
+	  "sha1": "7ae2afa06306342766bfe259ad8dba24079a7de2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/KGB_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1693cc67816aeb835f213594a1cdb230"
+	},
+	"\/KGB_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475319959",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "b93f218168b9ec30fa039e89f11141d4",
+	  "crc32": "b3b02e3d",
+	  "sha1": "528e9732c710bae1978642bd2b72a97aa94e24b9"
+	},
+	"\/KGB_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471042520",
+	  "size": "1924",
+	  "md5": "840c855235676dd038dac6b76b80efd2",
+	  "crc32": "2d7ddc22",
+	  "sha1": "91e0b2de3b86851233c732b05dd229be11c1a5a6"
+	},
+	"\/kgb.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730958",
+	  "size": "340312",
+	  "md5": "1e6c50fb4733fe1ba60bb96ca035614d",
+	  "crc32": "30436e46",
+	  "sha1": "e0b3801ec9f1074489c8bf18cad7c16d5d1804b6"
+	},
+	"\/kgb.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730958",
+	  "size": "662",
+	  "md5": "1aad9498a360ba75a0f801d64075e4e1",
+	  "crc32": "539de26f",
+	  "sha1": "4415247531ab939f8bec833b50eba6190fa6a90a"
+	},
+	"\/kgb_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475319945",
+	  "size": "669253",
+	  "md5": "f21188b9cd1d5604f86b10b5859de26c",
+	  "crc32": "df9641da",
+	  "sha1": "5ecee065e48861138f227a48fc2fbbed4c9c716d",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1531.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731641",
+	  "size": "18044",
+	  "md5": "00cc58a1e08640607f92e3f31d82f36b",
+	  "crc32": "03801b7e",
+	  "sha1": "b7a8a74bc78899ca399d1df78855a5732b860b63",
+	  "rotation": "0"
+	},
+	"\/resource_item_1531.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731641",
+	  "size": "272",
+	  "md5": "c481d930391676070ca3a6e65e883fcd",
+	  "crc32": "23b68775",
+	  "sha1": "5e08f90308241946f01601b0b96309860bf5b309"
+	},
+	"\/resource_item_1531_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1531.jpg",
+	  "mtime": "1346733061",
+	  "size": "5400",
+	  "md5": "205077d1ef10e2bc7cfbe82f1abed716",
+	  "crc32": "8e40568a",
+	  "sha1": "11fe4c6f6deeacf34e95601c457a789d2abccdb0"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475319915",
+	  "size": "42795",
+	  "md5": "62b1dfcb05c48d8fab8097b9444bc82c",
+	  "crc32": "9d9cd8dc",
+	  "sha1": "19e1dc8bf1d3c62edc822dd559a8038407c055c6",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475319965",
+	  "size": "1825",
+	  "md5": "72f2b451ca7798376e5c253c2d3d696b",
+	  "crc32": "1227678d",
+	  "sha1": "30c61fb5145ff764835c7b9626d53904e70d65bf"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475319918",
+	  "size": "314800",
+	  "md5": "370475e534c19078ae30027cdb787977",
+	  "crc32": "3be35a1e",
+	  "sha1": "e18ef13a8c7ec75174c951f8276c8d65ca1f1c9c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475319967",
+	  "size": "4431",
+	  "md5": "b327c1aef9e3357b9e2336f0fdce25de",
+	  "crc32": "c0e0092e",
+	  "sha1": "323778eee4dd377a13c6d907d338f69d6d6befaa"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475319920",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475319968",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475319922",
+	  "size": "245791",
+	  "md5": "2a26f4397d4b232f835224dfc6159ed5",
+	  "crc32": "8a037dc8",
+	  "sha1": "4bb80ee95bb96adb426d4d823dfdf00f0a40015e",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475319970",
+	  "size": "4670",
+	  "md5": "fedda9526247ba53b34ed1f3a53f93fd",
+	  "crc32": "afdefba2",
+	  "sha1": "e321a0f22ba6b6b28546c2fcceb4f6e127d8dedb"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475319925",
+	  "size": "298115",
+	  "md5": "80d602f38f50b51f63b159bf08ebe286",
+	  "crc32": "17ae29f0",
+	  "sha1": "4714694ab4cc001f12854d2e611abe6a46f1a5d1",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475319971",
+	  "size": "5521",
+	  "md5": "d56c67fc054145fdc5ee87d791da8a78",
+	  "crc32": "016a27bc",
+	  "sha1": "6cb27206aa4493b601456269e9c3409323b6b86e"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475319927",
+	  "size": "297895",
+	  "md5": "ad4525c7975dd76fb712910623fa7078",
+	  "crc32": "2d9fad66",
+	  "sha1": "d47e949caf918995dbbc28ac5d9c72dedd24d0d8",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475319972",
+	  "size": "5522",
+	  "md5": "4f0cc3fc5dff0db57a59379b4a1df793",
+	  "crc32": "f759ed51",
+	  "sha1": "bd1ce8cac34aaa67023cf2f687d8d0248feb63d7"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475319931",
+	  "size": "298193",
+	  "md5": "39a2950c431b69e8ec92bff1800e3fb6",
+	  "crc32": "6846b552",
+	  "sha1": "dd638d3c84c597b9ce00f7fd28f410e6e156c78f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475319974",
+	  "size": "5519",
+	  "md5": "2e20e3fd570f09cf490c80627dcba88b",
+	  "crc32": "2271df23",
+	  "sha1": "f399db7c96ae0a208d81200a2985f4ba8c5b3bb2"
+	},
+	"\/screenshot_07.jpg": {
+	  "source": "original",
+	  "mtime": "1475319934",
+	  "size": "297942",
+	  "md5": "eee417a2648e300f08b86555e60fc9e5",
+	  "crc32": "818ca9f1",
+	  "sha1": "d5dc5ffa243c21d5f5840caa83507255dd559a03",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_07_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_07.jpg",
+	  "mtime": "1475319975",
+	  "size": "5517",
+	  "md5": "d67aab1f9d88edd7b69cc461481c15ac",
+	  "crc32": "4742bb87",
+	  "sha1": "82c82679c1a7b617def808776103daa405e3706b"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600708.us.archive.org\/20\/items\/KGB_1020\/KGB_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 747,
+	"week": 4,
+	"month": 9
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "server": "ia800700.us.archive.org",
+  "dir": "/33/items/ThirdReichPC_1020",
+  "metadata": {
+	"identifier": [
+	  "ThirdReichPC_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Avalon Hill"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Welcome to the THIRD REICH PC 1939-1940 demo.  This demo will allow you to play the first part of our grand strategy game on WWII--starting with the invasion of Poland and ending when France is conquered or at the end of 1940 (whichever comes first).  You command the Allied powers against the computer driven Axis powers."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Third Reich PC Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:04:35"
+	],
+	"addeddate": [
+	  "2012-09-04 03:04:35"
+	],
+	"year": [
+	  "1996"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "3r.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475719874",
+	  "size": "567749",
+	  "md5": "7c925602632a89a95cd2cfb0a30ba70f",
+	  "crc32": "cd7c81f3",
+	  "sha1": "0a07a3e17daaabb4a1868a90ec3075ceb4a2c703",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475719900",
+	  "size": "7135",
+	  "md5": "d5d808c27afbe2d0909c9f213871101b",
+	  "crc32": "b754013b",
+	  "sha1": "10611a36ac4e82931266de79996a8958c41b42a5"
+	},
+	"\/3rdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346727889",
+	  "size": "1183071",
+	  "md5": "da520962750aef7e7a2d95517a7848f6",
+	  "crc32": "1d40c938",
+	  "sha1": "ac0f311611c452495186806f391bdb5e4c57f569"
+	},
+	"\/3rdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727889",
+	  "size": "966",
+	  "md5": "a4736d2a0b200c4a687a504902ce411d",
+	  "crc32": "1de65651",
+	  "sha1": "945b93068f908a906c24c63ac894d17c7fd8e3ce"
+	},
+	"\/3rdemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475719883",
+	  "size": "176271",
+	  "md5": "ff0f6fe4a7d1f1ab06a6d633a6e754ab",
+	  "crc32": "7f7be842",
+	  "sha1": "81822e1b8c713474acde9e354b89e190038dc81b",
+	  "format": "Emulator Screenshot"
+	},
+	"\/ThirdReichPC_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475719879",
+	  "size": "38882",
+	  "md5": "fe415774e3ffa2be322d3d2c83675aeb",
+	  "crc32": "162379fc",
+	  "sha1": "65b48641c902fb902d81a002a4c0391f616d8729",
+	  "format": "Animated GIF"
+	},
+	"\/ThirdReichPC_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "371e33ced78cee010321825366178d91c0b68c92",
+	  "mtime": "1475719903",
+	  "size": "3185",
+	  "md5": "5f3c42d51abf2519473c7bf875d118ac",
+	  "crc32": "a9ed851e",
+	  "sha1": "3be5364138ce2c34409f938d15f51bd0414bc512",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ThirdReichPC_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f1b4a6029faf1575bad4ec853a2d8957"
+	},
+	"\/ThirdReichPC_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475719887",
+	  "size": "8192",
+	  "md5": "9321b943c4e8d005d25c7ba465dc0139",
+	  "crc32": "a3e64868",
+	  "sha1": "19648d3378e41e56bc51be40d52a34ae84017f63",
+	  "format": "Metadata"
+	},
+	"\/ThirdReichPC_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475254090",
+	  "size": "1149",
+	  "md5": "51d6b32ffe90acae0fe2c6507be71c5a",
+	  "crc32": "ff1db922",
+	  "sha1": "30e96f3e90c0c0ee50f620d8fdc31accc0065ba3"
+	},
+	"\/resource_item_1435.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346727891",
+	  "size": "26770",
+	  "md5": "315cb5d11926d923bc23e9b1aebbfb10",
+	  "crc32": "b1045f45",
+	  "sha1": "313869c9dfad9bd3360526eb998f0c8833a25fa5",
+	  "rotation": "0"
+	},
+	"\/resource_item_1435.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727891",
+	  "size": "272",
+	  "md5": "4ffa9a485ca4ecbb1dbbac0aa6600559",
+	  "crc32": "93630db5",
+	  "sha1": "4a9d3a69c01c989f3df049e729301a1e3250445d"
+	},
+	"\/resource_item_1435_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1435.jpg",
+	  "mtime": "1346728702",
+	  "size": "7585",
+	  "md5": "fcfa1ef2a8ea6b10bd33b6f34a72d77e",
+	  "crc32": "aefd30b6",
+	  "sha1": "cb759c11e60d9320091738cdb24448703fe3c97e"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475719876",
+	  "size": "567749",
+	  "md5": "7c925602632a89a95cd2cfb0a30ba70f",
+	  "crc32": "cd7c81f3",
+	  "sha1": "0a07a3e17daaabb4a1868a90ec3075ceb4a2c703",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475719901",
+	  "size": "7135",
+	  "md5": "d5d808c27afbe2d0909c9f213871101b",
+	  "crc32": "b754013b",
+	  "sha1": "10611a36ac4e82931266de79996a8958c41b42a5"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600700.us.archive.org\/33\/items\/ThirdReichPC_1020\/ThirdReichPC_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 694,
+	"week": 7,
+	"month": 12
+  }
+}

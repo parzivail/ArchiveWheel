@@ -1,0 +1,208 @@
+{
+  "server": "ia600306.us.archive.org",
+  "dir": "/2/items/DarkLegions_1020",
+  "metadata": {
+	"identifier": [
+	  "DarkLegions_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Silicon Knights"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Dark Legions is a game of fantasy combat. You fight for universal power with the aid of the dark denizens from the world of Tahr Carog. Similarly, your opponent, either the computer or a human player, uses his own army of creatures to fight you. Each character type in Dark Legions has its own strengths and weaknessess. Use them well and you will be victorious; if you fail, abject humiliations will be the least of your worries."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Dark Legions Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:33:19"
+	],
+	"addeddate": [
+	  "2012-09-04 00:33:19"
+	],
+	"year": [
+	  "1994"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234223[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "DL.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475232106",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475232135",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	},
+	"\/DLDEMO-playable.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1359958879",
+	  "size": "1440770",
+	  "md5": "e8d5defaf17d41273f7b9f2ef5114e2c",
+	  "crc32": "ad88fe2a",
+	  "sha1": "5633951a1f8630bf0c75c6974f97edbb0311e93a"
+	},
+	"\/DarkLegions_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475232115",
+	  "size": "64516",
+	  "md5": "c7a1ec1204277545d567123bf3b95950",
+	  "crc32": "aa88d7e1",
+	  "sha1": "f1b08e3c276439133654b919a6bcda95f7a3b4b2",
+	  "format": "Animated GIF"
+	},
+	"\/DarkLegions_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ca6e1daf635fd864786f9e98f5152ced"
+	},
+	"\/DarkLegions_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475232125",
+	  "size": "8192",
+	  "md5": "2bb97acb45ebe552a379b4cb4297c164",
+	  "crc32": "3c5d4bfc",
+	  "sha1": "65750ccfa11f8ea3bb97a246ee5f626a30c65d05",
+	  "format": "Metadata"
+	},
+	"\/DarkLegions_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473381708",
+	  "size": "1312",
+	  "md5": "903e2c3b45ad6c1879f6ff25a3e50c40",
+	  "crc32": "04c85099",
+	  "sha1": "9ecc79c93778254b3db205f5c56b75ae31cfeb70"
+	},
+	"\/dldemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346718817",
+	  "size": "1870968",
+	  "md5": "557a8be8b608df6f382d42dc6e08bbc4",
+	  "crc32": "b79e024e",
+	  "sha1": "ea3b36892a79358dc9483d6088c2d6d358c4acd5"
+	},
+	"\/dldemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718817",
+	  "size": "1104",
+	  "md5": "42c0457a78273bbd1b7aef70fe9f646a",
+	  "crc32": "d0b8db16",
+	  "sha1": "62f55402e486412bd7eb7a5be9168eb45ee098d4"
+	},
+	"\/dldemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475232120",
+	  "size": "101577",
+	  "md5": "6bdafd08b1c537ee53880b5b657c7cef",
+	  "crc32": "db78027d",
+	  "sha1": "22fe84094311edae8a523487bfe6e49c5c8bba3a",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1076.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346718819",
+	  "size": "14127",
+	  "md5": "0ffb449f6eeb037c191d8c274666a0f5",
+	  "crc32": "1052e6f6",
+	  "sha1": "d5b9b03024c6440e9ca2da6beae54cfafb6145ab",
+	  "rotation": "0"
+	},
+	"\/resource_item_1076.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718819",
+	  "size": "272",
+	  "md5": "f61234d6422c692538e1da6f906c961c",
+	  "crc32": "e8a02535",
+	  "sha1": "e12dffdbd05668f75107693f96a13df8a0ee96d6"
+	},
+	"\/resource_item_1076_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1076.jpg",
+	  "mtime": "1346719997",
+	  "size": "3922",
+	  "md5": "19189e45598e5732a333beda568c737d",
+	  "crc32": "594837d4",
+	  "sha1": "56366b0b981cf52f92a0bc21b00b7bb643287bd5"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475232110",
+	  "size": "85283",
+	  "md5": "18d51597da2d47cd95ac4f0ba21f09d8",
+	  "crc32": "d92a2f76",
+	  "sha1": "fda6748378d4d5c60ea141fcc4fecc850c3d1bcd",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475232136",
+	  "size": "3224",
+	  "md5": "5f96945467541bff74fb840b34188e7c",
+	  "crc32": "c99c0d85",
+	  "sha1": "7b5ebc27077148111ddcf625e1d491ea1f4bb326"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600306.us.archive.org\/2\/items\/DarkLegions_1020\/DarkLegions_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 257,
+	"week": 4,
+	"month": 10
+  }
+}

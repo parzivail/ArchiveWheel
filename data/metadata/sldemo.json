@@ -1,0 +1,117 @@
+{
+  "server": "ia600202.us.archive.org",
+  "dir": "/18/items/sldemo",
+  "metadata": {
+	"identifier": [
+	  "sldemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Warthog"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>StarLancer combines the action of first-person space combat with the drama and intrigue of a classic air combat movie. Countries from around the world, including the United States, China, Russia, and Great Britain have formed strategic alliances and are now battling for control of Earth, Mars, and other planets across the solar system. As part of a newly formed ragtag aviation unit, the 45th Volunteers Squadron, players must prove themselves and earn the respect of their peers.<\/div>"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Starlancer Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2014-01-28 21:37:16"
+	],
+	"addeddate": [
+	  "2014-01-28 21:37:16"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233742[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/sldemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390945154",
+	  "size": "75535872",
+	  "md5": "cacdedb957ecab527df4cc7dedde3bc3",
+	  "crc32": "c91fe57a",
+	  "sha1": "ca8e2733aa6344b99c241023b3425ce8556739b9"
+	},
+	"\/sldemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390945035",
+	  "size": "74822",
+	  "md5": "143e9130f3a5f2bd92e39d623a6c3699",
+	  "crc32": "51d1667a",
+	  "sha1": "d47d3a047a6ea6f2a88ed0ff206b8245327d4322",
+	  "rotation": "0"
+	},
+	"\/sldemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3889a32a29fe4828f2c27c3bc8965eb0"
+	},
+	"\/sldemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390945169",
+	  "size": "14336",
+	  "md5": "b3e675cf9f33a12d1af52824d3d87317",
+	  "crc32": "0adcdb72",
+	  "sha1": "4ee96fc9cee3466ed7a6b5ff83a183929ee1ab7a"
+	},
+	"\/sldemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474481171",
+	  "size": "1334",
+	  "md5": "d1dd05a74296e595f3bbcd895d91f72c",
+	  "crc32": "05732397",
+	  "sha1": "2f54b60c6770b5ea5fb64340529b38ce3ec02de7"
+	},
+	"\/sldemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "sldemo.jpg",
+	  "mtime": "1390945194",
+	  "size": "4331",
+	  "md5": "e7c6a8e1d1dbe03a5454a4823c9f1c9d",
+	  "crc32": "728015e2",
+	  "sha1": "2065a69947c1d6e69fa4e0fdb40260a508dd90ba"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600202.us.archive.org\/18\/items\/sldemo\/sldemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4869,
+	"week": 12,
+	"month": 68
+  }
+}

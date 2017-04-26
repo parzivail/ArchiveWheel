@@ -1,0 +1,123 @@
+{
+  "server": "ia800805.us.archive.org",
+  "dir": "/0/items/Interstate76_1020",
+  "metadata": {
+	"identifier": [
+	  "Interstate76_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Activision"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Interstate '76 Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 05:49:07"
+	],
+	"addeddate": [
+	  "2012-09-04 05:49:07"
+	],
+	"year": [
+	  "1997"
+	],
+	"description": [
+	  "\"It's 1976...a different '76. Stretched out before you are thousands of miles of desert - the American Southwest. The massive engine roars as you slam down the accelerator. It's time to get funked up...\n\nYou are Groove Champion, auto-vigilante. Your agenda: Payback for your dead sister. Your weapon: A 425-horsepower '72 Picard Piranha with two 50-caliber M60 machine guns on top and a flame-thrower on the side. You're one mean dude in an even meaner ride.\n\nThey've messed with the wrong Champion.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234311[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	]
+  },
+  "files": {
+	"\/I76.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346737947",
+	  "size": "20770154",
+	  "md5": "c09013e09be0f1679ffcfc17600ea56c",
+	  "crc32": "8bddeb7c",
+	  "sha1": "36e24f3ef1693bc3d47258a19156102315cd2738"
+	},
+	"\/I76.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737947",
+	  "size": "654",
+	  "md5": "e1b1f907625144e9f839dc62be1dd7e8",
+	  "crc32": "9a6d2b91",
+	  "sha1": "c98e4f636da32854d431398a09fb35f15c6d7acd"
+	},
+	"\/Interstate76_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "672e574555d6faef2e33e5c37bdde6c2"
+	},
+	"\/Interstate76_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463380856",
+	  "size": "1284",
+	  "md5": "815c4938635d43ace53b4095c308bd5e",
+	  "crc32": "09832239",
+	  "sha1": "651b88790f29bad62a4d6582b20b8280ff065c3b"
+	},
+	"\/resource_item_1875.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346737949",
+	  "size": "14893",
+	  "md5": "096d53dfce3d3af86a9cb2c989b8acbc",
+	  "crc32": "3cbf691b",
+	  "sha1": "9c3017288a54cf4f02ee88d016f64605aacb03da",
+	  "rotation": "0"
+	},
+	"\/resource_item_1875.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737949",
+	  "size": "272",
+	  "md5": "27282cbf2f2278076346aee25966c55e",
+	  "crc32": "9da7b55e",
+	  "sha1": "0d4169e2bf165566c52e1aec4a71b74828f54967"
+	},
+	"\/resource_item_1875_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1875.jpg",
+	  "mtime": "1346738883",
+	  "size": "5281",
+	  "md5": "83193050c45c1d7a768cfb776447905d",
+	  "crc32": "770f8245",
+	  "sha1": "bd13f07b446decea83903d76e40b898dda03ff6c"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600805.us.archive.org\/0\/items\/Interstate76_1020\/resource_item_1875_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1578,
+	"week": 9,
+	"month": 35
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "server": "ia600508.us.archive.org",
+  "dir": "/20/items/net_lt",
+  "metadata": {
+	"identifier": [
+	  "net_lt"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Terraform Software Systems"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "Luna Ticks is an action-strategy game from Brisbane-based Terraform Software Systems which redefines a few game boundaries!\nThis game is set on various moons where you have purchased a mining franchise from the MegaBucks Corp., who owns this moon. They don\u2019t care how you go about paying off your establishment loan, but pay you must!\n\nYou can\u2019t holler for the sheriff if your opponents start to play dirty, so you have to write your own rulebook as you go...\n\nEach of the moons is composed of different materials, but to you they\u2019re all just ore. In your Tick - that\u2019s your mining vehicle - you mine the ore using Cutter Orbs and then process the Orb contents in your factory to make either loan repayments or other useful items, such as defense installations, weapons or Tick performance enhancements. Your opponents will not hesitate to steal or destroy your manufactured items, and you too, if they can!\n\nThe race is on to see who can pay off their loan first, then discover and access the wormhole out of this moon which appears only after the first player reaches that stage. To suggest that the normal ethics of mining might be a little bent is an understatement...\n\nThe complete version of Luna Ticks allows for single-player games, with \"Robo-Ticks\" as opponents - up to the full complement of 8 players, or two-player games using a Serial connection (modem or cable), or full network games using the standard IPX protocol.\n\nIn any game, Robo-Ticks may be used to fill empty player slots, and these are provided in several play-strategy types.\nThe shareware version of Luna Ticks does not include the IPX network play, and has fewer moons. The even smaller internet version available here does not include Serial play, and has only two moons.\n\nThe fluid and, er, unorthodox nature of the gameplay changes with player\u2019s input. Changing your game strategies will result in an immediate reaction from your opponents. Competing with Robo-Ticks in a single-player game can be a big challenge, but nothing compares in perversity with playing other human players!\n\nFor this reason the Serial and Network play modes of Luna Ticks really offer a completely different game. Forget about re-writing the rulebook - you\u2019ll need to throw it away!\n\nIs this the high-flying job for you? Can you be a Major Miner - or just a Minor Miner? (Morris Minors need not apply)"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Luna Ticks Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2015-06-25 21:03:27"
+	],
+	"addeddate": [
+	  "2015-06-25 21:03:27"
+	],
+	"publisher": [
+	  "Manaccom"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"emulator_start": [
+	  "luna.exe"
+	],
+	"backup_location": [
+	  "ia905307_15"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444840236",
+	  "size": "217531",
+	  "md5": "826bf99fdd29aae8cb272524bddf3ee1",
+	  "crc32": "0bacb4d7",
+	  "sha1": "f4d2a9d1a14838d1c326bc7f25db7f01073f328f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444840260",
+	  "size": "4772",
+	  "md5": "70f427a6f7783552e08e505f0e659338",
+	  "crc32": "7be86348",
+	  "sha1": "1eabdd20477bede0e9c9b5691f0ff3bcad31d08e"
+	},
+	"\/_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444840245",
+	  "size": "142515",
+	  "md5": "6c4ead713cf8968e60cf0800ea9942ba",
+	  "crc32": "cd8f375f",
+	  "sha1": "66040287e39725ac55deb0bb6e84a52564713d24",
+	  "format": "Emulator Screenshot"
+	},
+	"\/luna.play": {
+	  "source": "original",
+	  "mtime": "1435266221",
+	  "size": "2208657",
+	  "md5": "c626bf098231bd06a99381c87da5c449",
+	  "crc32": "50200d51",
+	  "sha1": "cf9a966a3dd9ead1a1c840c21f0eaf487e940405",
+	  "format": "Unknown"
+	},
+	"\/luna_000.png": {
+	  "source": "original",
+	  "mtime": "1435266216",
+	  "size": "21037",
+	  "md5": "b0320b8eecc22ecb96228b7d3222672f",
+	  "crc32": "a0e2ebf7",
+	  "sha1": "d1824c2c2c9de1defc3f5b234a093149dbbb0365",
+	  "format": "PNG"
+	},
+	"\/luna_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "luna_000.png",
+	  "mtime": "1435266234",
+	  "size": "4370",
+	  "md5": "229bac23514b964e4945d95cc851afd9",
+	  "crc32": "bcc5465e",
+	  "sha1": "c5476ab7cbc872131a77491f3769779ef0e6ea3b"
+	},
+	"\/net_lt.exe": {
+	  "source": "original",
+	  "mtime": "1435266206",
+	  "size": "2409292",
+	  "md5": "441ccb3c8ee6af9c4dff2b52be5461af",
+	  "crc32": "62e801f3",
+	  "sha1": "c0768fba8e4bfab55547111d8f9cc8a4b32b2d40",
+	  "format": "Windows Executable"
+	},
+	"\/net_lt.gif": {
+	  "source": "original",
+	  "mtime": "1444840241",
+	  "size": "65821",
+	  "md5": "807756f9ad234bdd1d79aa376da15278",
+	  "crc32": "82dcd2a9",
+	  "sha1": "3ce906b546e2cd1e2a3d5ad2c8e009a0689843a4",
+	  "format": "Animated GIF"
+	},
+	"\/net_lt_archive.torrent": {
+	  "source": "original",
+	  "btih": "2619128ab4bd4c10896942edb947eab2fbeddfa1",
+	  "mtime": "1484054042",
+	  "size": "3332",
+	  "md5": "cd63d74def59a1c40b46600d56b63d25",
+	  "crc32": "4e0bf440",
+	  "sha1": "0ba1f354b907361651ab1a6688242cc40d634140",
+	  "format": "Archive BitTorrent"
+	},
+	"\/net_lt_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "486b2eef4373a5f5113e3060ebb39f8a"
+	},
+	"\/net_lt_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444840251",
+	  "size": "13312",
+	  "format": "Metadata",
+	  "md5": "0b1cea08068e518e5844267f40ec745f",
+	  "crc32": "cd50c062",
+	  "sha1": "0490e3067166baeeb7fc65a989d375064d1da46a"
+	},
+	"\/net_lt_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484054040",
+	  "size": "3148",
+	  "format": "Metadata",
+	  "md5": "4653a0ca8f9058229aa98bdf876dc0b2",
+	  "crc32": "5ec06bb0",
+	  "sha1": "8614d00285327b18084eeb86d10c0b042ca6b7df"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444840238",
+	  "size": "217531",
+	  "md5": "826bf99fdd29aae8cb272524bddf3ee1",
+	  "crc32": "0bacb4d7",
+	  "sha1": "f4d2a9d1a14838d1c326bc7f25db7f01073f328f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444840261",
+	  "size": "4772",
+	  "md5": "70f427a6f7783552e08e505f0e659338",
+	  "crc32": "7be86348",
+	  "sha1": "1eabdd20477bede0e9c9b5691f0ff3bcad31d08e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600508.us.archive.org\/20\/items\/net_lt\/net_lt.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 71,
+	"week": 2,
+	"month": 3
+  }
+}

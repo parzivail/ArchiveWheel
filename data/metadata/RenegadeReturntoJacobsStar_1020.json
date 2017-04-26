@@ -1,0 +1,212 @@
+{
+  "server": "ia800802.us.archive.org",
+  "dir": "/26/items/RenegadeReturntoJacobsStar_1020",
+  "metadata": {
+	"identifier": [
+	  "RenegadeReturntoJacobsStar_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Renegade: Return to Jacob's Star Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 06:50:34"
+	],
+	"addeddate": [
+	  "2012-09-04 06:50:34"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "\"This game appears never to have been released. At one point it was scheduled to be released in the first quarter of 1996.\n\nPresumably the game is a sequel to Renegade: The Battle for Jacob's Star.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "demo.exe"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475717628",
+	  "size": "361683",
+	  "md5": "237ef6f0e706ea8a58fd1e35c90543a6",
+	  "crc32": "1ac0ef71",
+	  "sha1": "2a7679f908ed40bcbd0b366cb1992ac6920db3fb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475717660",
+	  "size": "5059",
+	  "md5": "cbaf29926ff017674d7665e59bb080ad",
+	  "crc32": "f5648e66",
+	  "sha1": "23f6a7c9518df4252353d9c9cad27b6f000666d0"
+	},
+	"\/REN2-installer.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346741516",
+	  "size": "8441938",
+	  "md5": "6891c7ba47a2e0e1448e32df27c7aa8d",
+	  "crc32": "afd745a9",
+	  "sha1": "dc0a71c4ebb12474f4d6d011c3f7f6ef1f310ec3"
+	},
+	"\/REN2-installer_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475717639",
+	  "size": "263387",
+	  "md5": "cef2f00a032ab6360b0cd0f1d3a55410",
+	  "crc32": "e518b38c",
+	  "sha1": "509a13c1134f7a62e0d463b7387d7f483b7688c7",
+	  "format": "Emulator Screenshot"
+	},
+	"\/REN2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741516",
+	  "size": "627",
+	  "md5": "3dd909c7ece86850b82e22d12a5c7c20",
+	  "crc32": "fac2cfb6",
+	  "sha1": "ca91a92e763be239118eff7df26e33dc4f665e5c"
+	},
+	"\/REN2DEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1475690151",
+	  "size": "8304621",
+	  "md5": "d80e39aac877d40b5c9f844a2088bccc",
+	  "crc32": "efd3e891",
+	  "sha1": "d679e8b3058d0bbf6f9927c1fb46343c120b195a"
+	},
+	"\/RenegadeReturntoJacobsStar_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475717633",
+	  "size": "165858",
+	  "md5": "8d401c2268b8c7d2edba5b79d8f70885",
+	  "crc32": "0d492a8e",
+	  "sha1": "8049b38091eb36763c832f7b2f3e1af796ba7135",
+	  "format": "Animated GIF"
+	},
+	"\/RenegadeReturntoJacobsStar_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "38e32565d6bec62cbd5dbed86fc9ebe4eb69add8",
+	  "mtime": "1475717664",
+	  "size": "4110",
+	  "md5": "5db0ab96f18e253a3990dc8f21bde5da",
+	  "crc32": "f4a30097",
+	  "sha1": "f799ef8e2e1be5e7a01c82b5b8ab25e738b6a9d3",
+	  "format": "Archive BitTorrent"
+	},
+	"\/RenegadeReturntoJacobsStar_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1290feb5d248186dc858bdbc70b9ee6f"
+	},
+	"\/RenegadeReturntoJacobsStar_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475717645",
+	  "size": "8192",
+	  "md5": "00daf7092d4bd4dc3b8dce8bbdc5a667",
+	  "crc32": "f640d6bf",
+	  "sha1": "58cc68c1ee454a61fb83d2dda4da447c157fa519",
+	  "format": "Metadata"
+	},
+	"\/RenegadeReturntoJacobsStar_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475690201",
+	  "size": "1053",
+	  "md5": "a50930688cf4b73025a523b0093e6cbe",
+	  "crc32": "26b0d07f",
+	  "sha1": "80a35a7851a45fabd0b16bf7887b38b1b73dd3d0"
+	},
+	"\/resource_item_1885.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346741519",
+	  "size": "11976",
+	  "md5": "ca624cb094c6614199218dbe827901fd",
+	  "crc32": "da770ce9",
+	  "sha1": "c9b9a6c99bdaf53c9731aa158e24f74078782938",
+	  "rotation": "0"
+	},
+	"\/resource_item_1885.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346741519",
+	  "size": "272",
+	  "md5": "c95d7a0de0a24b685f860b399cf845d0",
+	  "crc32": "0c7474c5",
+	  "sha1": "41234736d6d9bab48911e174cb420594c7e90e88"
+	},
+	"\/resource_item_1885_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1885.jpg",
+	  "mtime": "1346742077",
+	  "size": "4117",
+	  "md5": "0b714590f7933fc764cb40fa23cf9d8f",
+	  "crc32": "f784f53b",
+	  "sha1": "048a5768142a08ebbe12d3f85c8f6fab25b4c704"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475717630",
+	  "size": "361683",
+	  "md5": "237ef6f0e706ea8a58fd1e35c90543a6",
+	  "crc32": "1ac0ef71",
+	  "sha1": "2a7679f908ed40bcbd0b366cb1992ac6920db3fb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475717662",
+	  "size": "5059",
+	  "md5": "cbaf29926ff017674d7665e59bb080ad",
+	  "crc32": "f5648e66",
+	  "sha1": "23f6a7c9518df4252353d9c9cad27b6f000666d0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800802.us.archive.org\/26\/items\/RenegadeReturntoJacobsStar_1020\/RenegadeReturntoJacobsStar_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 294,
+	"week": 3,
+	"month": 13
+  }
+}

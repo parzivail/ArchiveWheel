@@ -1,0 +1,283 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/0/items/JanesCombatSimulationsAdvancedTacticalFighters_1020",
+  "metadata": {
+	"identifier": [
+	  "JanesCombatSimulationsAdvancedTacticalFighters_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Electronic Arts"
+	],
+	"date": [
+	  "1996"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Jane's Combat Simulations: Advanced Tactical Fighters Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:43:43"
+	],
+	"addeddate": [
+	  "2012-09-04 03:43:43"
+	],
+	"year": [
+	  "1996"
+	],
+	"description": [
+	  "\"\"\"No other multiplayer sim can touch ATF's pure fun factor\"\" Denny Atkin, Computer Gaming World\n\nJane's Combat Simulations presents the next generation of air combat in the fighters of the early 21st century with Advanced Tactical Fighters, the sequel to the smash hit U.S. Navy Fighters. Advanced Tactical Fighters combines superior graphics and simulation technology with the vast military expertise of Jane's Defence Information to create a truly authentic future of air combat. Speed, Stealth and Agility will rule the skies!\n\nFly Seven Exotic Technology Aircraft, including the X-31 EFM, the F-22A Rapier, B-2A Spirit and the Rafale C.\n\nMultiplayer Cooperative or Competitive dogfighting with up to 8 people on a network, or two player via a modem.\n\nJane's All the Worlds Aircraft multimedia reference guide - packed with photos, technical specs, and over 30 minutes of rare, in-flight footage.\n\nEnhanced effects include new explosions, enhanced terrain, and over 90 distinct shapes for damaged aircraft - watch enemy airplanes lose wings and break in half. \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475713393",
+	  "size": "134365",
+	  "md5": "c47f3085ebc260c49a7b9bc7f3abc533",
+	  "crc32": "b8683601",
+	  "sha1": "73c0f2a14bbe70ce23acfb39c33c48ba1a4c3a08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475713442",
+	  "size": "5115",
+	  "md5": "0dc5aa34ab4e5ae8fbcd040381066323",
+	  "crc32": "960f549d",
+	  "sha1": "df8400d7112aef7b501f0581db2f4b8d8aaa8cdd"
+	},
+	"\/ATFDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730289",
+	  "size": "6689664",
+	  "md5": "4bcc4615ca88233d0a42a96f130b6c91",
+	  "crc32": "1f9963bd",
+	  "sha1": "7fd37a8f3da3f534ff31e3009842fb4b1530ad33"
+	},
+	"\/ATFDEMO.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730289",
+	  "size": "660",
+	  "md5": "e1b9f158221331a5a0a0359c2b1d1bc3",
+	  "crc32": "172bb741",
+	  "sha1": "6420f143edf5a054e0deb112fb6f0d98a96786dc"
+	},
+	"\/ATFDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475713411",
+	  "size": "217189",
+	  "md5": "f345e1946084fa2bcb246a57a06cc52f",
+	  "crc32": "5fbf1338",
+	  "sha1": "97990c9004c10aae1886a68d5aaa5c572d209766",
+	  "format": "Emulator Screenshot"
+	},
+	"\/JanesCombatSimulationsAdvancedTacticalFighters_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475713407",
+	  "size": "15486",
+	  "md5": "7b61df4c9d9550b974dfe4358bf4ff52",
+	  "crc32": "847ac0da",
+	  "sha1": "9be0a7534d711d7cce648a84daf2f12f73c068b8",
+	  "format": "Animated GIF"
+	},
+	"\/JanesCombatSimulationsAdvancedTacticalFighters_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "4cd94b1ed82c371c84e917cc92c31519cd69c00d",
+	  "mtime": "1475713451",
+	  "size": "5113",
+	  "md5": "cb3f3527fbf8ab3501e8cad1b16aebce",
+	  "crc32": "3a37d4ac",
+	  "sha1": "ef7b6ddbe7799371a8a84fbbc70e38c0a0778fc5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/JanesCombatSimulationsAdvancedTacticalFighters_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "aaddd24530d77c227c66a9ac54a40cd1"
+	},
+	"\/JanesCombatSimulationsAdvancedTacticalFighters_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475713421",
+	  "size": "12288",
+	  "md5": "9a508a82c4fb99d78bb68e13c5fd0424",
+	  "crc32": "c6f3236a",
+	  "sha1": "181aebae7edb510de25bb2576248018bbc86f117",
+	  "format": "Metadata"
+	},
+	"\/JanesCombatSimulationsAdvancedTacticalFighters_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475167463",
+	  "size": "1973",
+	  "md5": "eca35452f1ff55c08e39939d77d2c719",
+	  "crc32": "114513ba",
+	  "sha1": "30fcc8a7e33a67872f6f05d6a353bb49ec3655d8"
+	},
+	"\/resource_item_1511.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730291",
+	  "size": "9397",
+	  "md5": "cd99b1b16548ed699f033986d28fa924",
+	  "crc32": "edb33182",
+	  "sha1": "3faf9994afa5f61c79fc091c4306fba464f44c0a",
+	  "rotation": "0"
+	},
+	"\/resource_item_1511.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730291",
+	  "size": "271",
+	  "md5": "31a0281cee9a7d39d73db836b612eeaf",
+	  "crc32": "23ee8b1f",
+	  "sha1": "aa55d88f1dc25cfda23922342adf41eb210bcb02"
+	},
+	"\/resource_item_1511_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1511.jpg",
+	  "mtime": "1346730836",
+	  "size": "3458",
+	  "md5": "a0dea3477e3251f049663c2d891b95b5",
+	  "crc32": "6b7196bc",
+	  "sha1": "a946eaf8996e1174a870ab0ba8136299b46782ea"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475713395",
+	  "size": "134365",
+	  "md5": "c47f3085ebc260c49a7b9bc7f3abc533",
+	  "crc32": "b8683601",
+	  "sha1": "73c0f2a14bbe70ce23acfb39c33c48ba1a4c3a08",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475713443",
+	  "size": "5115",
+	  "md5": "0dc5aa34ab4e5ae8fbcd040381066323",
+	  "crc32": "960f549d",
+	  "sha1": "df8400d7112aef7b501f0581db2f4b8d8aaa8cdd"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475713397",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475713445",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475713400",
+	  "size": "110598",
+	  "md5": "ae4810971c57e7b3511dd2a42441cbe6",
+	  "crc32": "133777f9",
+	  "sha1": "4cc3e134d9e02b092bccc34b822cd678a4cb8ef0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475713446",
+	  "size": "4852",
+	  "md5": "858e8a75b6d807838cba54c44f9668e9",
+	  "crc32": "8d76ae62",
+	  "sha1": "eb25be58016353832105b73e8be4c0d560db7d9f"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475713402",
+	  "size": "94886",
+	  "md5": "cf02a142c65ee387756038eac41f812c",
+	  "crc32": "97103442",
+	  "sha1": "e09df44739d51164f11ea1cfdd32c3b6a9584e23",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475713448",
+	  "size": "3702",
+	  "md5": "28a83310911be55ecb9c8f15b29bf98c",
+	  "crc32": "82e49a8c",
+	  "sha1": "54072fee38a5c62d8e734a39c7b2728ea8b2f56e"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475713404",
+	  "size": "94879",
+	  "md5": "ec9570598f36a0f5c5fbc970ec7860c6",
+	  "crc32": "9e28f7c1",
+	  "sha1": "770334757914b015f25ac06b72eaed54bbfeb9ca",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475713450",
+	  "size": "3700",
+	  "md5": "fbf85f6ebf7fe649bf4165d34d22ac5d",
+	  "crc32": "0ae2f350",
+	  "sha1": "cb34a07da8dd57911d6ab5f9e121ad3b6ef0abf1"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/0\/items\/JanesCombatSimulationsAdvancedTacticalFighters_1020\/JanesCombatSimulationsAdvancedTacticalFighters_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 934,
+	"week": 8,
+	"month": 25
+  }
+}

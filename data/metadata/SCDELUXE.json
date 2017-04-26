@@ -1,0 +1,117 @@
+{
+  "server": "ia600500.us.archive.org",
+  "dir": "/29/items/SCDELUXE",
+  "metadata": {
+	"identifier": [
+	  "SCDELUXE"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Metropolis Digital"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "Sequel to Star Command Revolution.\u00a0"
+	],
+	"publisher": [
+	  "GT Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Star Command Deluxe Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-23 20:02:20"
+	],
+	"addeddate": [
+	  "2014-02-23 20:02:20"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407235205[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_25"
+	]
+  },
+  "files": {
+	"\/SCDELUXE.rar": {
+	  "source": "original",
+	  "format": "RAR",
+	  "mtime": "1393185793",
+	  "size": "31753333",
+	  "md5": "944ca742f227551cfb32795929603eec",
+	  "crc32": "d7187468",
+	  "sha1": "9220776701547c6a27145f2ea005f8d7bf90eb98"
+	},
+	"\/SCDELUXE_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "25e07d9ab601a8c40b4e1bed2bc20369"
+	},
+	"\/SCDELUXE_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1393185796",
+	  "size": "10240",
+	  "md5": "ddb026c90c1bca2822e9125f714b8455",
+	  "crc32": "57ce9fe3",
+	  "sha1": "edde8608f4e0fdfb2306eb932fe9fed0050b7e73"
+	},
+	"\/SCDELUXE_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474014238",
+	  "size": "890",
+	  "md5": "f4d3e77a25f8a7c98ab4cc514d6ff3ae",
+	  "crc32": "4413499c",
+	  "sha1": "72926efe7ff1e4bed0c4f1162e7c392916932430"
+	},
+	"\/scdeluxe.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1393185740",
+	  "size": "38879",
+	  "md5": "41d81bdef9eff3aab5fe6a53a6b7ce41",
+	  "crc32": "7bcea438",
+	  "sha1": "e9411fa83afc629d6fbebee4606ac6a3fd4f658f",
+	  "rotation": "0"
+	},
+	"\/scdeluxe_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "scdeluxe.jpg",
+	  "mtime": "1393185812",
+	  "size": "3877",
+	  "md5": "1fe9918cc9ceb703537ef412023d6b5b",
+	  "crc32": "a62696a4",
+	  "sha1": "cebcd3cabf0e5561d26d8ddb474eec4c29451d7e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600500.us.archive.org\/29\/items\/SCDELUXE\/scdeluxe_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 308,
+	"week": 6,
+	"month": 13
+  }
+}

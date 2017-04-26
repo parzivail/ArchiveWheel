@@ -1,0 +1,118 @@
+{
+  "server": "ia600300.us.archive.org",
+  "dir": "/28/items/Planetfall2FloydsNextThingDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Planetfall 2: Floyd's Next Thing Demo"
+	],
+	"description": [
+	  "This demo is the only binary which has been found so far for Planetfall 2.  The game was canceled by Activision in the mid-90's."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Infocom"
+	],
+	"identifier": [
+	  "Planetfall2FloydsNextThingDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 19:38:45"
+	],
+	"publicdate": [
+	  "2012-08-05 19:39:00"
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "PF2_DEMO\/PLANETF.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/Planetfall2FloydsNextThingDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "3f4144eddb573b785fb2544ad8e3982b0961949a",
+	  "mtime": "1476457000",
+	  "size": "2209",
+	  "md5": "39621beb3be68e0628fa6e0292cc8987",
+	  "crc32": "13a3a47d",
+	  "sha1": "7dd28cdd28cd47d8b7572ea540499e9aea185da8",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Planetfall2FloydsNextThingDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d9e51ef6033bbf244f7fc00d9e8b5719"
+	},
+	"\/Planetfall2FloydsNextThingDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476456999",
+	  "size": "998",
+	  "md5": "20e213768223dadf17119c5350392b22",
+	  "crc32": "57cac18d",
+	  "sha1": "b5cd298a6c2d538b7f4179d8f98ac2255098ae5c"
+	},
+	"\/pf2_demo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344195506",
+	  "size": "6378123",
+	  "md5": "addb78f577bba89c3e74d402ced2292c",
+	  "crc32": "1e3ac9f4",
+	  "sha1": "bca233f159a4cd15c98a9ca2c7191de3170bef0c"
+	},
+	"\/resource_item_491.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344195507",
+	  "size": "10354",
+	  "md5": "355902d7c6d6076cff42f97412b948d3",
+	  "crc32": "9b2239aa",
+	  "sha1": "add78323c914a9b2dca37ca921f8e71153a07c53",
+	  "rotation": "0"
+	},
+	"\/resource_item_491_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_491.jpg",
+	  "mtime": "1344195535",
+	  "size": "3643",
+	  "md5": "98c67d89175aa54fc310b1de83dea23a",
+	  "crc32": "fa5d6e24",
+	  "sha1": "161ed1e54d06391f719608db3d8f762ebfef763a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600300.us.archive.org\/28\/items\/Planetfall2FloydsNextThingDemo\/resource_item_491_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 243,
+	"week": 3,
+	"month": 6
+  }
+}

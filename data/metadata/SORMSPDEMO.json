@@ -1,0 +1,117 @@
+{
+  "server": "ia601007.us.archive.org",
+  "dir": "/0/items/SORMSPDEMO",
+  "metadata": {
+	"identifier": [
+	  "SORMSPDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Zombie Studios"
+	],
+	"date": [
+	  "2004"
+	],
+	"description": [
+	  "This is the Shadow Ops: Red Mercury demo weighing in at just under 300 MB and contains a blistering mission located in Syria, in which gamers will battle terrorist forces to destroy anti-aircraft emplacements in the war-torn city.\u00a0"
+	],
+	"publisher": [
+	  "Atari"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Shadow Ops: Red Mercury Demo"
+	],
+	"year": [
+	  "2004"
+	],
+	"publicdate": [
+	  "2013-11-29 08:59:33"
+	],
+	"addeddate": [
+	  "2013-11-29 08:59:33"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140408011742[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_19"
+	]
+  },
+  "files": {
+	"\/SORMSPDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "705a34d1dbbc05f34ab9709a05d0c55e"
+	},
+	"\/SORMSPDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385715600",
+	  "size": "12288",
+	  "md5": "af1b5d927aeab23d4b9d76e350a122a2",
+	  "crc32": "6bea9b09",
+	  "sha1": "75b0e55e3b0aa200fdb2cdc6f96dadc27b9ad8ae"
+	},
+	"\/SORMSPDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475421612",
+	  "size": "1077",
+	  "md5": "fac068863c310693f4e23142e97c8887",
+	  "crc32": "329edbe6",
+	  "sha1": "2cd2e8f002a0c58afe21e3798ee9f04f73cafbed"
+	},
+	"\/SORM_SP_DEMO.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385715573",
+	  "size": "306152038",
+	  "md5": "45ea2f25cc0844caa712ffefe9ca3555",
+	  "crc32": "7f2fbd16",
+	  "sha1": "706dac81942751aa53ff89f30d06b5ef8c597e36"
+	},
+	"\/SORM_SP_DEMO.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385715586",
+	  "size": "149636",
+	  "md5": "211e020adb5c6b4884cef120e91dc143",
+	  "crc32": "e0fa8b94",
+	  "sha1": "4b7d7654e9d6b10a0e58310b80bbc7a0299a3d48",
+	  "rotation": "0"
+	},
+	"\/SORM_SP_DEMO_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "SORM_SP_DEMO.jpg",
+	  "mtime": "1385715619",
+	  "size": "5062",
+	  "md5": "d1681cbdde28cb8f7cfe7ae68b362a60",
+	  "crc32": "6d1339ec",
+	  "sha1": "6a67461238a541e4be41fa5da23fe91539ed9e22"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601007.us.archive.org\/0\/items\/SORMSPDEMO\/SORM_SP_DEMO_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 680,
+	"week": 13,
+	"month": 33
+  }
+}

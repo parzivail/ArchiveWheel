@@ -1,0 +1,196 @@
+{
+  "server": "ia600801.us.archive.org",
+  "dir": "/11/items/CastlesIiSiegeConquest",
+  "metadata": {
+	"identifier": [
+	  "CastlesIiSiegeConquest"
+	],
+	"title": [
+	  "Castles II: Siege & Conquest Demo"
+	],
+	"creator": [
+	  "Quicksilver Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Immerse yourself in all of the glory and honor of being a medieval Baron struggling for the throne. Forge diplomatic alliances with neighboring power hungry barons while you use your administrative skills to build and empire of trade and wealth. Defend your otherwise helpless people with well-trained armies and might castles. Succeed and you will be made the King of France! Over 30 minutes of BBC documentary footage show you how and why castles were planned, constructed, sieged and attacked prior to the age of gunpowder. Using this knowledge, you can create your own original castle designs to play against your computer opponents. Or, you can choose from 10 historical castles for your own personal fortress."
+	],
+	"date": [
+	  "1992"
+	],
+	"year": [
+	  "1992"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"publicdate": [
+	  "2012-02-23 01:33:56"
+	],
+	"addeddate": [
+	  "2012-02-23 01:33:39"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"updatedate": [
+	  "2012-02-23 01:34:25"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "C2DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475208057",
+	  "size": "141255",
+	  "md5": "dc39f04323d545aaf24eb74fbab24698",
+	  "crc32": "19772804",
+	  "sha1": "70dd80b0e8be4a2be3aa84d7e27753f5cc330862",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475208086",
+	  "size": "4277",
+	  "md5": "f2490896d81c1dcc7846ffe9187d13f5",
+	  "crc32": "93dc6f74",
+	  "sha1": "8f2d18e3456ca5288ef73154072d34cd7e6a7959"
+	},
+	"\/CastlesIiScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Castles II Screenshot",
+	  "mtime": "1329960792",
+	  "size": "13404",
+	  "md5": "11aeae99cecd69ed2c2afe7fac2fee1a",
+	  "crc32": "96844602",
+	  "sha1": "6f940e66eb262c63bc28941c796397219da59288",
+	  "rotation": "0"
+	},
+	"\/CastlesIiScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "CastlesIiScreenshot.jpg",
+	  "mtime": "1329960830",
+	  "size": "3594",
+	  "md5": "3eed4b9a484145e03c2e01cb7986691c",
+	  "crc32": "4d3164e6",
+	  "sha1": "3410ee42432c8654859c090f1243ddfa8bb8a42e"
+	},
+	"\/CastlesIiSiegeConquest.gif": {
+	  "source": "original",
+	  "mtime": "1475208065",
+	  "size": "25216",
+	  "md5": "eb0486c2b66949eb561cb303529e0ba3",
+	  "crc32": "2b6b3a96",
+	  "sha1": "25616a542a746c9d5ae52ff277493a1fe2947908",
+	  "format": "Animated GIF"
+	},
+	"\/CastlesIiSiegeConquest_archive.torrent": {
+	  "source": "original",
+	  "btih": "0be90407e309d0febd694618f58e04307d774369",
+	  "mtime": "1475208093",
+	  "size": "3178",
+	  "md5": "62c5c25b77c4cf400809378740dffb86",
+	  "crc32": "be0603ae",
+	  "sha1": "a14053ad2456843f9e9fba5fdc109d118b14cfe2",
+	  "format": "Archive BitTorrent"
+	},
+	"\/CastlesIiSiegeConquest_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5cc12c478b398feddd59bc7e46096cf3"
+	},
+	"\/CastlesIiSiegeConquest_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475208075",
+	  "size": "8192",
+	  "md5": "41000dd767170d81f9294bef72a39188",
+	  "crc32": "85a38234",
+	  "sha1": "d987a99989d8379c028b0ee74943eac5d54c5123",
+	  "format": "Metadata"
+	},
+	"\/CastlesIiSiegeConquest_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471103139",
+	  "size": "1691",
+	  "md5": "171d90459db7925ca7d91d64dd7c2854",
+	  "crc32": "87c263a8",
+	  "sha1": "ab00a6a643662edfc631cbf51b7cdbd87505a712"
+	},
+	"\/castles2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1329960794",
+	  "size": "402700",
+	  "md5": "86b2e5547e66283662d7f0007c9b67c5",
+	  "crc32": "b062309f",
+	  "sha1": "42ba3e061c19ccc748de2ea29780a8b3d8674a4a",
+	  "title": "Castles II: Siege & Conquest Demo"
+	},
+	"\/castles2_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475208070",
+	  "size": "53581",
+	  "md5": "6c908f3e9d2cf4675f19d56c79e0354a",
+	  "crc32": "cc13692d",
+	  "sha1": "68437faad97ce979785b92ae1a45938f96b133cc",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475208060",
+	  "size": "141255",
+	  "md5": "dc39f04323d545aaf24eb74fbab24698",
+	  "crc32": "19772804",
+	  "sha1": "70dd80b0e8be4a2be3aa84d7e27753f5cc330862",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475208087",
+	  "size": "4277",
+	  "md5": "f2490896d81c1dcc7846ffe9187d13f5",
+	  "crc32": "93dc6f74",
+	  "sha1": "8f2d18e3456ca5288ef73154072d34cd7e6a7959"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600801.us.archive.org\/11\/items\/CastlesIiSiegeConquest\/CastlesIiSiegeConquest.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 573,
+	"week": 10,
+	"month": 18
+  }
+}

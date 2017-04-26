@@ -1,0 +1,117 @@
+{
+  "server": "ia800305.us.archive.org",
+  "dir": "/5/items/STNWDemo",
+  "metadata": {
+	"identifier": [
+	  "STNWDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Binary Asylum"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>Star Trek: New Worlds presents the Star Trek universe as never seen before. Set in the 23rd century (the year 2292), the game chronicles the challenges and adventures of a small group of colonial officers on the surfaces of new alien worlds .<\/div><div><br \/><\/div><div>Choosing to play as the Federation, Klingons, or the Romulans, the player must meet a series of challenges that take the form of mission objectives. These challenges contain primary objectives, secondary, and even tertiary objectives. The main mission objective must be met to complete the mission, while the secondary and tertiary objectives enable the player to finish the mission with a higher score and rank.<\/div>"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Star Trek: New Worlds Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2014-01-28 21:55:48"
+	],
+	"addeddate": [
+	  "2014-01-28 21:55:48"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233742[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/STNWDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390946147",
+	  "size": "91723742",
+	  "md5": "5df29e1a3edaddbdf1720e974c85d78f",
+	  "crc32": "dfefe6e2",
+	  "sha1": "5df57344968caf5e1a7d05ffe5261f6dd1bdc4d2"
+	},
+	"\/STNWDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390946160",
+	  "size": "43328",
+	  "md5": "d2c043f53b233f8fffe3e426b4b4d83d",
+	  "crc32": "bf8efcf5",
+	  "sha1": "a6292035dd4cef5f8a25d614e8b0e4dfbd4470c5",
+	  "rotation": "0"
+	},
+	"\/STNWDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "fd49550299249eb1e48925e2eecd2cff"
+	},
+	"\/STNWDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390946169",
+	  "size": "14336",
+	  "md5": "850748b1556a091c24198d7df1c772c9",
+	  "crc32": "f06ea019",
+	  "sha1": "e3d0070aea1d92f47ace14a8d73ef25939520094"
+	},
+	"\/STNWDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474559594",
+	  "size": "1581",
+	  "md5": "c3ecbfb2feec91236cd3b40b105f9d9b",
+	  "crc32": "dc743472",
+	  "sha1": "55610b7b86996a9d5f8f1f3aaf3559231615a193"
+	},
+	"\/STNWDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "STNWDemo.jpg",
+	  "mtime": "1390946195",
+	  "size": "3865",
+	  "md5": "441ec428f475403744335da1983badb7",
+	  "crc32": "9c070146",
+	  "sha1": "c773580a90181c7ed818b9e6956e017c91324700"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600305.us.archive.org\/5\/items\/STNWDemo\/STNWDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 3006,
+	"week": 30,
+	"month": 96
+  }
+}

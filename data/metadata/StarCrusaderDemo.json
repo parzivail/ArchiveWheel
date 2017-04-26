@@ -1,0 +1,188 @@
+{
+  "server": "ia600207.us.archive.org",
+  "dir": "/34/items/StarCrusaderDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Star Crusader Demo"
+	],
+	"description": [
+	  "Fly 13 of the sleekest, fully armed starships in the fiercest war the galaxy has ever known. Packed with over 100 combat, stealth, and reconnaissance missions in eye-popping 3D, you must rely on your instincts and reflexes at every moment."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"creator": [
+	  "Take 2 Interactive"
+	],
+	"identifier": [
+	  "StarCrusaderDemo"
+	],
+	"addeddate": [
+	  "2012-08-05 17:13:08"
+	],
+	"publicdate": [
+	  "2012-08-05 17:13:22"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "GameTek"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903905_15"
+	],
+	"emulator_start": [
+	  "SC.COM"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475500519",
+	  "size": "322915",
+	  "md5": "8b9e036df0deeb7e4d6f87d968a197c8",
+	  "crc32": "e66070fe",
+	  "sha1": "2a3853dd5e933d75112fe9c6665c3af56b5b9b82",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475500551",
+	  "size": "4583",
+	  "md5": "adbfcaa534c3af33dbf59ff0d2064923",
+	  "crc32": "14d9073f",
+	  "sha1": "1af64072e2faba8eb8dd0fcf23f6ef3145abeb46"
+	},
+	"\/StarCrusaderDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475500527",
+	  "size": "96321",
+	  "md5": "d77a73562f8affd2f193cda6dd4fb2ea",
+	  "crc32": "651a2d97",
+	  "sha1": "eef654caee37219f682378d4e03203896dae9a5c",
+	  "format": "Animated GIF"
+	},
+	"\/StarCrusaderDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "ebf34f8949cd99f2053236900971773c162cd0a3",
+	  "mtime": "1475500566",
+	  "size": "3177",
+	  "md5": "91b1ac960337d3c74e0bbde0245a6d93",
+	  "crc32": "42ce245a",
+	  "sha1": "267880b08fa765c5e390d64ea68ecf54d9c72d73",
+	  "format": "Archive BitTorrent"
+	},
+	"\/StarCrusaderDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e34852cfba04d34775c7edf35357a8ca"
+	},
+	"\/StarCrusaderDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475500535",
+	  "size": "8192",
+	  "md5": "d47ff788d25b749c9d7c5202f1b3615c",
+	  "crc32": "076f5f95",
+	  "sha1": "4992dede0e0ea7586abcd5e7ebcf529c2039aefb",
+	  "format": "Metadata"
+	},
+	"\/StarCrusaderDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473616415",
+	  "size": "1109",
+	  "md5": "487660c0b13a5ca5fea7ded64698b703",
+	  "crc32": "e9938261",
+	  "sha1": "5269058b8242fc1cc029f632ee253d5726724dfa"
+	},
+	"\/resource_item_470.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1344186766",
+	  "size": "12291",
+	  "md5": "4c406c13a8e7421a2b8ede52458b1abc",
+	  "crc32": "34730fed",
+	  "sha1": "d0fc058b848ef9638e6fb60378dcc19c73ff6887",
+	  "rotation": "0"
+	},
+	"\/resource_item_470_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_470.jpg",
+	  "mtime": "1344186797",
+	  "size": "4152",
+	  "md5": "326902702baa845cb3bfd7146b0fb81d",
+	  "crc32": "90508081",
+	  "sha1": "cc8f4ae057c3ae16535fe70e5d4033972d58af30"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475500522",
+	  "size": "322915",
+	  "md5": "8b9e036df0deeb7e4d6f87d968a197c8",
+	  "crc32": "e66070fe",
+	  "sha1": "2a3853dd5e933d75112fe9c6665c3af56b5b9b82",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475500553",
+	  "size": "4583",
+	  "md5": "adbfcaa534c3af33dbf59ff0d2064923",
+	  "crc32": "14d9073f",
+	  "sha1": "1af64072e2faba8eb8dd0fcf23f6ef3145abeb46"
+	},
+	"\/starcrus.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1344186762",
+	  "size": "1152086",
+	  "md5": "effb18318e5d5a2ebdae7f6f3b904717",
+	  "crc32": "e9940846",
+	  "sha1": "3062145fc65a43c2ca8db77ec5fdea6067b994b8"
+	},
+	"\/starcrus_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475500530",
+	  "size": "192497",
+	  "md5": "3210cd121d12b3c92bb016c786c0751b",
+	  "crc32": "9883d86e",
+	  "sha1": "0053b1d1cac04ff0f059d8e0abf7abe11bd5d326",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600207.us.archive.org\/34\/items\/StarCrusaderDemo\/StarCrusaderDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 138,
+	"week": 4,
+	"month": 6
+  }
+}

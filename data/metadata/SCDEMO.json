@@ -1,0 +1,116 @@
+{
+  "server": "ia800303.us.archive.org",
+  "dir": "/27/items/SCDEMO",
+  "metadata": {
+	"identifier": [
+	  "SCDEMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Blizzard Entertainment"
+	],
+	"date": [
+	  "1998"
+	],
+	"description": [
+	  "In the distant future, a small group of human exiles have been doomed to fight for survival on the edge of the galaxy. Through military strength, espionage, and deceit, a unified Terran government has maintained an uneasy peace. But as resources and fuel run short, the Confederate nations find themselves looking towards the rich worlds of their alien neighbors, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species-- the Zerg-- has entered Protoss space and is destroying everything in its path. The time for war has come.\u00a0"
+	],
+	"publisher": [
+	  "Blizzard Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "StarCraft Demo"
+	],
+	"year": [
+	  "1998"
+	],
+	"publicdate": [
+	  "2014-02-14 02:43:56"
+	],
+	"addeddate": [
+	  "2014-02-14 02:43:56"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233755[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905804_10"
+	]
+  },
+  "files": {
+	"\/SCDEMO.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1392345836",
+	  "size": "29569615",
+	  "md5": "c720ccb88c8d5611a8ef2d9a9a86ef7d",
+	  "crc32": "8f757e6e",
+	  "sha1": "2bef4f65032f34d70957bb123560fddb63e5686c"
+	},
+	"\/SCDEMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "be6c348d28b69945a3956986f0dfd8bb"
+	},
+	"\/SCDEMO_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1392345854",
+	  "size": "14336",
+	  "md5": "a4c1be039f5d93cba9763c57d19ad62a",
+	  "crc32": "82a4555c",
+	  "sha1": "5a7868ed6d1271e1945dedb252a52369d793117d"
+	},
+	"\/SCDEMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471799587",
+	  "size": "1424",
+	  "md5": "33f3697cbdfe3fee85e7f2f295577161",
+	  "crc32": "7d6c323d",
+	  "sha1": "da8d41ed56936ff7577dd054b275ac97a345574c"
+	},
+	"\/scdemo.PNG": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1392345848",
+	  "size": "173201",
+	  "md5": "a5c8b1e376940f1ba564b3d38adc1c5d",
+	  "crc32": "2e4167be",
+	  "sha1": "df5d708cb85137ee8f856660611f0654cbc39ab7"
+	},
+	"\/scdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "scdemo.PNG",
+	  "mtime": "1392345869",
+	  "size": "5860",
+	  "md5": "24f90af510cf639799931d225b19d632",
+	  "crc32": "c42896f3",
+	  "sha1": "3c00bac17e0ff920a2f0b83c3a68b0c0c63155c2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800303.us.archive.org\/27\/items\/SCDEMO\/scdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 10572,
+	"week": 171,
+	"month": 782
+  }
+}

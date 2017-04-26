@@ -1,0 +1,113 @@
+{
+  "server": "ia800504.us.archive.org",
+  "dir": "/33/items/NoxDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Nox Demo"
+	],
+	"description": [
+	  "You're a regular 20th century guy cast into a strange world you must save in order to get back to yours. Trickery and deception lurk around every corner. However the evil you face is the evil you must master. You will be schooled in the art of deception. With your new-found skills you must fight for a world that is not your own. Anything is possible in NOX."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "Westwood Studios"
+	],
+	"identifier": [
+	  "NoxDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 06:54:33"
+	],
+	"publicdate": [
+	  "2012-05-13 06:54:51"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/NoxDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "65030204234780a6a868be6591605410e3a6cc88",
+	  "mtime": "1463674099",
+	  "size": "3526",
+	  "md5": "6ed8d4e8d112324b3b433f96c93b89b5",
+	  "crc32": "8b3b3969",
+	  "sha1": "1c341dd1d65cf607dfb6d4d97d1a630e7bc729cb",
+	  "format": "Archive BitTorrent"
+	},
+	"\/NoxDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c20e536c9426052fb467d38bf58c4356"
+	},
+	"\/NoxDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463674097",
+	  "size": "1113",
+	  "md5": "f243997a672d3f806789f5942c4c7803",
+	  "crc32": "f238635f",
+	  "sha1": "e175d5c3a1a3ff3310228e5ad9be4b138065de22"
+	},
+	"\/noxdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336892008",
+	  "size": "46083584",
+	  "md5": "1b96a80a11370a449c6515648578c80f",
+	  "crc32": "9285f468",
+	  "sha1": "78c5187fd27d1264e4cce1b053e1c02bfc0b38ca",
+	  "title": "Nox Demo"
+	},
+	"\/noxdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336892009",
+	  "size": "130891",
+	  "md5": "3df0b8849ea0929e07792539a5047293",
+	  "crc32": "a54ca5dc",
+	  "sha1": "e7c1e96856ac713fb0a0a2e4ca95acaed4df0a7f",
+	  "rotation": "0"
+	},
+	"\/noxdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "noxdemo.jpg",
+	  "mtime": "1336892085",
+	  "size": "4654",
+	  "md5": "4833f41e024dc4aaee2f4699c966d90c",
+	  "crc32": "27499ca4",
+	  "sha1": "ef98defb5ff4a494b08f698ceae08ff403b3e9df"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600504.us.archive.org\/33\/items\/NoxDemo\/noxdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 23555,
+	"week": 68,
+	"month": 254
+  }
+}

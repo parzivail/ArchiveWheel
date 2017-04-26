@@ -1,0 +1,116 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/27/items/litedemo",
+  "metadata": {
+	"identifier": [
+	  "litedemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "<div>You are frantically summoned to your friend's lighthouse home to babysit his 1-year-old daughter Amanda. When you arrive, your friend is gone--and you see a terrifying, humanoid creature snatch Amanda from her crib, leap into a portal that has opened in the room, and disappear. When you follow, you embark on an adventure in a different world. There you discover various contraptions and vehicles you must learn to use, and a strange adversary that must be overcome as you rescue your friend and his baby.<\/div>"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.1"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Lighthouse: The Dark Being Demo"
+	],
+	"year": [
+	  "1996"
+	],
+	"publicdate": [
+	  "2014-02-06 15:52:55"
+	],
+	"addeddate": [
+	  "2014-02-06 15:52:55"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234811[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_32"
+	]
+  },
+  "files": {
+	"\/litedemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391701974",
+	  "size": "16042127",
+	  "md5": "21074ac6bc0d9c4925e8b4c976b18dcc",
+	  "crc32": "939c4551",
+	  "sha1": "8f66ebd1f2173abcdd0ec2b4707c4b326b8ecfab"
+	},
+	"\/litedemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1391701986",
+	  "size": "76019",
+	  "md5": "ceb846a2d9b3ff4316a0b5680d9b5fb1",
+	  "crc32": "5b8c85d0",
+	  "sha1": "4d2c0a2e6cfb73094cc9b1b5cbcd5a9e91ffaa2c"
+	},
+	"\/litedemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "2a45c825db15d0eb4936d681ac64c45b"
+	},
+	"\/litedemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1391701991",
+	  "size": "14336",
+	  "md5": "ae9ef51f7dbc6030914e632edaea24cd",
+	  "crc32": "8fb3312e",
+	  "sha1": "6d594a9be90eaf48dd1c7479130b8f9384c85d7d"
+	},
+	"\/litedemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473602611",
+	  "size": "1387",
+	  "md5": "b77c46a0942d0d2b381a0e632372679b",
+	  "crc32": "999cd9fe",
+	  "sha1": "0179de181cfa8b92a2c929c1842b91077dc089ef"
+	},
+	"\/litedemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "litedemo.png",
+	  "mtime": "1391702000",
+	  "size": "4377",
+	  "md5": "f19d5e0d6e237a3e1641e0a87beff24e",
+	  "crc32": "0bc71c0c",
+	  "sha1": "46322fd35798933cda3027cd10325d28a46dc851"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600301.us.archive.org\/27\/items\/litedemo\/litedemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 620,
+	"week": 9,
+	"month": 21
+  }
+}

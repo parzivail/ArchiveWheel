@@ -1,0 +1,113 @@
+{
+  "server": "ia902304.us.archive.org",
+  "dir": "/24/items/ReachForTheStarsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Reach for the Stars Demo"
+	],
+	"description": [
+	  "Reach for the Stars (RFTS) is a turn-based strategy game of epic galactic exploration, colonization and conquest. The original RFTS released in the mid 1980's was wildly popular in it's day, winning spots on many \" Game Of The Year \" and \" Best Game \" lists, and even now maintains a very loyal following. Reach for the Stars is considered to be one of the original 4X (eXplore, eXpand, eXploit, eXterminate) games."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"creator": [
+	  "SSG Strategic Studies Group"
+	],
+	"identifier": [
+	  "ReachForTheStarsDemo"
+	],
+	"addeddate": [
+	  "2012-05-13 07:18:40"
+	],
+	"publicdate": [
+	  "2012-05-13 07:19:24"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Strategic Simulations"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/ReachForTheStarsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "0f4cd9debce92126bbed742ea508432665a5da69",
+	  "mtime": "1463859263",
+	  "size": "3686",
+	  "md5": "2680f467c46ee91e46a1e03e4df494fd",
+	  "crc32": "ab9b048e",
+	  "sha1": "136167869b7eeb927d6e6ab5f64398fa1f181fb5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ReachForTheStarsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a6dcbf39dc77677ae205d69d3cc552a6"
+	},
+	"\/ReachForTheStarsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463859262",
+	  "size": "1211",
+	  "md5": "d7661e7f2e154544a25ff8eef1cbfeae",
+	  "crc32": "e9828eb0",
+	  "sha1": "493d925ee9d638b41e06a34e92292d515944d565"
+	},
+	"\/reach4stdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336893340",
+	  "size": "53756",
+	  "md5": "deadb240ff54ef060c6d443bcabbdb1b",
+	  "crc32": "480c0f4f",
+	  "sha1": "5d2572726f30e9a4516a78780d7b51db7e3dfd14",
+	  "rotation": "0"
+	},
+	"\/reach4stdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "reach4stdemo.jpg",
+	  "mtime": "1336893556",
+	  "size": "6651",
+	  "md5": "61e80a02a54add16fe3295eb4914ffdf",
+	  "crc32": "824fbf22",
+	  "sha1": "1538cfd08f1b2f91be27d13b8282441687d465f5"
+	},
+	"\/reach4tsdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336893503",
+	  "size": "47235648",
+	  "md5": "2857f5ea077b01c4fb882cb3ea6fdcae",
+	  "crc32": "3d76d26c",
+	  "sha1": "65afeef38c58bd5b98b44fbb3972b5873fd83ca6",
+	  "title": "Reach for the Stars Demo"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902304.us.archive.org\/24\/items\/ReachForTheStarsDemo\/reach4stdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 405,
+	"week": 5,
+	"month": 12
+  }
+}

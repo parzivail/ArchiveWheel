@@ -1,0 +1,139 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/16/items/Apache_1020",
+  "metadata": {
+	"identifier": [
+	  "Apache_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digital Integration"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Interactive Magic"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Apache Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 00:34:06"
+	],
+	"addeddate": [
+	  "2012-09-04 00:34:06"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"\"\"I turned my head and pressed the trigger. My helmet-mounted sight and Hellfire missiles did the rest. This is high-tech video game technology - for real!\"\"\n\nDigital Integration presents Apache Longbow - a stunning simulation of the world's most exciting combat helicopter. Take off from your forward air base and fly into the thick of the action with a devastating array of lethal weapons at your fingertips.\n\nApache Longbow is the first genuine helicopter simulation to combine breathtaking 3D graphics, authenticity and ease of use. Climb aboard and experience what it's like to fly this awesome warrior.\""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "APACHE.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/Apache_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "1dab52242ab3112a28983c76d702fe273a72d07d",
+	  "mtime": "1476405210",
+	  "size": "1920",
+	  "md5": "fb179ba48fbdaec21b7974a549504500",
+	  "crc32": "3fee26e9",
+	  "sha1": "37894424318adc53d4d20d941ab3c645ed101e5e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Apache_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "73ac6963b566235bbe75e8ba90054a47"
+	},
+	"\/Apache_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476405087",
+	  "size": "1480",
+	  "md5": "acc60c0d198b9412a15cc4b96209da16",
+	  "crc32": "a9610290",
+	  "sha1": "f769944495259731a7b653dccfa906cb4f4295a6"
+	},
+	"\/apchdemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476405205",
+	  "size": "2953306",
+	  "md5": "2f55f5f54ca3b52d525d0d4fc3e0f14d",
+	  "crc32": "75845bd2",
+	  "sha1": "a329bedd188bebf9b7021be553aeb0ca109f5977"
+	},
+	"\/apchdemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718873",
+	  "size": "661",
+	  "md5": "5672a62394584a5df7380ee3c2f809b7",
+	  "crc32": "821e2702",
+	  "sha1": "98535746bf31d294c16270ce89daf6c1162399b7"
+	},
+	"\/resource_item_1073.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346718876",
+	  "size": "14290",
+	  "md5": "19d02a6b8983ac096096743068dcd346",
+	  "crc32": "a10b6012",
+	  "sha1": "ab2dd674adb0cf6143ac5b6f777b4268482ecdc0",
+	  "rotation": "0"
+	},
+	"\/resource_item_1073.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346718876",
+	  "size": "272",
+	  "md5": "9f051f298bd504d0499328327715caa6",
+	  "crc32": "9cfb304c",
+	  "sha1": "53f40a4113bd7bb387a30bf3ac5fe83412f0b399"
+	},
+	"\/resource_item_1073_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1073.jpg",
+	  "mtime": "1346720137",
+	  "size": "5106",
+	  "md5": "cc115057817501822c86108addceee1f",
+	  "crc32": "9b3459bf",
+	  "sha1": "79596abd50312196e311ef7f99f2d75122be9bb6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/16\/items\/Apache_1020\/resource_item_1073_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 399,
+	"week": 4,
+	"month": 6
+  }
+}

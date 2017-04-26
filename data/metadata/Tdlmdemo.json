@@ -1,0 +1,117 @@
+{
+  "server": "ia600408.us.archive.org",
+  "dir": "/3/items/Tdlmdemo",
+  "metadata": {
+	"identifier": [
+	  "Tdlmdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Eutechnyx"
+	],
+	"date": [
+	  "2000"
+	],
+	"description": [
+	  "<div>Test Drive Le Mans delivers a realistic racing sensation of 200 mph heart-stopping action. Gamers compete on official Le Mans sanctioned courses including locations in the French Alps and landmarks like the famous Dunlop Bridge. Select from over 50 cars and 25 racing teams, and experience around-the-clock racing, day-to-night-to-day lighting conditions, and realistic night time effects.<\/div>"
+	],
+	"publisher": [
+	  "Infogrames"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Test Drive: Le Mans Demo"
+	],
+	"year": [
+	  "2000"
+	],
+	"publicdate": [
+	  "2013-11-29 09:23:05"
+	],
+	"addeddate": [
+	  "2013-11-29 09:23:05"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233550[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905800_19"
+	]
+  },
+  "files": {
+	"\/Tdlmdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "6a7d8c556db19dbba22887e165fd2b91"
+	},
+	"\/Tdlmdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1385717075",
+	  "size": "14336",
+	  "md5": "c4c1e9b556a699a01120c7300507aab9",
+	  "crc32": "9d32b8f4",
+	  "sha1": "97e29a2efbec67eaafb1708b276e46f41d42bd87"
+	},
+	"\/Tdlmdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475585916",
+	  "size": "1255",
+	  "md5": "75773de34a7bd38768f2a57f9132e844",
+	  "crc32": "7171dae0",
+	  "sha1": "052149affbdb75a5e0380280b665bffa210f24a2"
+	},
+	"\/tdlmdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1385717070",
+	  "size": "55477075",
+	  "md5": "cd5d60bf4b5de2d78b8880285936bf3f",
+	  "crc32": "013a85c2",
+	  "sha1": "1b936dd4f3fed7c1fea7e03a45952c9d3506f087"
+	},
+	"\/tdlmdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1385716984",
+	  "size": "19377",
+	  "md5": "2367fe6e9aa2b50402e6b37dc32ad1fc",
+	  "crc32": "38fd7f87",
+	  "sha1": "24cf0b090ab24c88817ae6ec670689e878aed43e",
+	  "rotation": "0"
+	},
+	"\/tdlmdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "tdlmdemo.jpg",
+	  "mtime": "1385717082",
+	  "size": "5618",
+	  "md5": "f25f6c5000c624dd92669473db5488d6",
+	  "crc32": "6f9738ce",
+	  "sha1": "a2aa76a6ca7f39d36bb6a8fd328f664480ef8899"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600408.us.archive.org\/3\/items\/Tdlmdemo\/tdlmdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 4564,
+	"week": 30,
+	"month": 143
+  }
+}

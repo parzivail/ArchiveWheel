@@ -1,0 +1,226 @@
+{
+  "server": "ia600308.us.archive.org",
+  "dir": "/2/items/DeathGate_1020",
+  "metadata": {
+	"identifier": [
+	  "DeathGate_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Legend Entertainment"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Long ago the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labrynth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people to freedom! A dazzling display of multimedia technology, this award-winning adventure is fantasy at its finest!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Virgin Interactive"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Death Gate Demo"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 04:26:33"
+	],
+	"addeddate": [
+	  "2012-09-05 04:26:33"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator_start": [
+	  "DEMO.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475234366",
+	  "size": "60276",
+	  "md5": "596529d53be1d676aa59019cb87a83e1",
+	  "crc32": "b6f02d62",
+	  "sha1": "2afd1d8b1960b3c7ca29b1f6f9f540664a9d6ac3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475234395",
+	  "size": "3962",
+	  "md5": "3f82ba64cb9c37d4ff55f31201b04a9b",
+	  "crc32": "926e593b",
+	  "sha1": "b67cecbe6b70e3430952c3c175906af801a4996f"
+	},
+	"\/DeathGate_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475234375",
+	  "size": "11102",
+	  "md5": "9f6fb552bb9ec18b33848a9029ab811f",
+	  "crc32": "e41ea88c",
+	  "sha1": "f53833e7c6460e9e2672512e48b6eec8ce31efe5",
+	  "format": "Animated GIF"
+	},
+	"\/DeathGate_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "d00700a6bb24cdbbf438b1cb5954ce6e3c0ce0a2",
+	  "mtime": "1475234399",
+	  "size": "4104",
+	  "md5": "0acf97ee4b85c689272ebcbd0eeb69ef",
+	  "crc32": "68fdb7c4",
+	  "sha1": "b4be7c2311952031230368f0ea902dcda51bc3ee",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DeathGate_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "c031617ac7c851b15d85ce7ad3473070"
+	},
+	"\/DeathGate_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475234384",
+	  "size": "9216",
+	  "md5": "afbd90a1c7e6cf4868aa1b7dfaf2c298",
+	  "crc32": "bf03983c",
+	  "sha1": "d920f9a324858994bb72fd307a2a4c304966d328",
+	  "format": "Metadata"
+	},
+	"\/DeathGate_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473224756",
+	  "size": "1397",
+	  "md5": "a6917738677050105610afaa57fc9955",
+	  "crc32": "efed781f",
+	  "sha1": "f30cdbaded45f3a728628771d5723a2df64e4400"
+	},
+	"\/deathgate.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346819367",
+	  "size": "17814920",
+	  "md5": "72bd61f1616447cee7949f32b2b9337a",
+	  "crc32": "367605e4",
+	  "sha1": "b9bf6660037f073293c18e838e7dd3f4242c6c3c"
+	},
+	"\/deathgate.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346819367",
+	  "size": "1243",
+	  "md5": "93819b645bc6e45119fd955fe9124409",
+	  "crc32": "a8705ec1",
+	  "sha1": "e18cc036b7c53ea3d809703ad7e706e814b22f16"
+	},
+	"\/deathgate_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475234378",
+	  "size": "30424",
+	  "md5": "d37a317ffd9f00bc6b0f05c1da13c696",
+	  "crc32": "9e91b893",
+	  "sha1": "618fd777663d51a9211a2c2c3f88d6bcd86e7ea6",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3132.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346819369",
+	  "size": "19829",
+	  "md5": "3ba1e3304f4040038aa0484191f3b9a9",
+	  "crc32": "9104b6c3",
+	  "sha1": "3e1b89fd7920468c5c27ccfb14971245eef58cb9",
+	  "rotation": "0"
+	},
+	"\/resource_item_3132.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346819370",
+	  "size": "272",
+	  "md5": "10f3ca97e4d400e60acbcb744b674d5f",
+	  "crc32": "1c9e80a7",
+	  "sha1": "53aafef148394016ee8720873b369380d942bc2e"
+	},
+	"\/resource_item_3132_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3132.jpg",
+	  "mtime": "1346822680",
+	  "size": "6141",
+	  "md5": "13633711638fc5702d8ef6e0bc44d6ae",
+	  "crc32": "d360ffd2",
+	  "sha1": "52d2bc87e2524d9432e3d00cee4a5814ef229e48"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475234368",
+	  "size": "60276",
+	  "md5": "596529d53be1d676aa59019cb87a83e1",
+	  "crc32": "b6f02d62",
+	  "sha1": "2afd1d8b1960b3c7ca29b1f6f9f540664a9d6ac3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475234396",
+	  "size": "3962",
+	  "md5": "3f82ba64cb9c37d4ff55f31201b04a9b",
+	  "crc32": "926e593b",
+	  "sha1": "b67cecbe6b70e3430952c3c175906af801a4996f"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475234372",
+	  "size": "60246",
+	  "md5": "6d2a9653d0ff94119268b9231a237eae",
+	  "crc32": "e39cf4ce",
+	  "sha1": "d42806f22b59f9476809279e4fd44e588820bfda",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475234398",
+	  "size": "3948",
+	  "md5": "c9775003b80c0f9b4f0a9e66fd399060",
+	  "crc32": "312d86ed",
+	  "sha1": "41da7c97d0638b77e35be7b1742749747d2ab1cc"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600308.us.archive.org\/2\/items\/DeathGate_1020\/DeathGate_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 916,
+	"week": 5,
+	"month": 9
+  }
+}

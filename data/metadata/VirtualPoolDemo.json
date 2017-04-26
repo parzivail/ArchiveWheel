@@ -1,0 +1,128 @@
+{
+  "server": "ia600809.us.archive.org",
+  "dir": "/9/items/VirtualPoolDemo",
+  "metadata": {
+	"identifier": [
+	  "VirtualPoolDemo"
+	],
+	"title": [
+	  "Virtual Pool Demo"
+	],
+	"creator": [
+	  "Celeris"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "Virtual Pool is the definitive pool simulation game that actually teaches novice players how to play and even promises to improve the game of the pool shark. Developed by a team of physicists and professional pool players, Virtual Pool brings the game to life with the highest degree of accuracy. Balls roll, skid, collide and move on a fully rendered 3D controlled pool table that mirrors reality. Virtual Pool has revolutionary features that allow players to actually 'walk' around the table to check out their next shot, take a closer look, back away, look left or right and then line-up the shot like they would in a real game with a real table. This title also allows players to take an overhead view from above, something unavailable in a real pool game! Taking game tips from World Champion pool player \u00e2Machine Gun\u00e2 Lou Butera is guaranteed to improve the player's game. \u00e2Machine Gun\u00e2 Lou will teach players over 30 famous trick shots the player can practice on their computer screen and then implement on a real table. Virtual Pool brings into the game all the physics of live pool and calculates friction, cushion response and cue ball spin for accurate game play."
+	],
+	"date": [
+	  "1995"
+	],
+	"year": [
+	  "1995"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Sports games"
+	],
+	"publicdate": [
+	  "2012-02-23 01:50:59"
+	],
+	"addeddate": [
+	  "2012-02-23 01:50:41"
+	],
+	"publisher": [
+	  "Interplay"
+	],
+	"updatedate": [
+	  "2012-02-23 01:51:15"
+	],
+	"updater": [
+	  "Swizzley"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_10"
+	],
+	"emulator_start": [
+	  "pool.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/VirtualPoolDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "6d942a3370f3ba07988f5fc650361f5563ccdc4f",
+	  "mtime": "1476455571",
+	  "size": "1853",
+	  "md5": "d1fd8611784a8968e54aecfc66e88681",
+	  "crc32": "53afda0c",
+	  "sha1": "e4aa70f21a5e58bf55aff2e032548bd458475904",
+	  "format": "Archive BitTorrent"
+	},
+	"\/VirtualPoolDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "732ade8b2889fde43661caa110963846"
+	},
+	"\/VirtualPoolDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476455438",
+	  "size": "2110",
+	  "md5": "042af0a554592494f012907093ab61c1",
+	  "crc32": "9a73e5a4",
+	  "sha1": "66c5fc35e5e07a98aaba43e1918a7fe72019c3bb"
+	},
+	"\/VirtualPoolScreenshot.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "title": "Virtual Pool Screenshot",
+	  "mtime": "1329961816",
+	  "size": "9825",
+	  "md5": "3262a65f6c23926853124e49b78f375b",
+	  "crc32": "e36be851",
+	  "sha1": "bf436f9a9a139755b50ba0e18da0decd3445ff5e",
+	  "rotation": "0"
+	},
+	"\/VirtualPoolScreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "VirtualPoolScreenshot.jpg",
+	  "mtime": "1329961853",
+	  "size": "3494",
+	  "md5": "70cc8015cdfc9bbc9300acd94e8425a4",
+	  "crc32": "f1c138c7",
+	  "sha1": "b97c5566f28b9f65d25dec21fe33f98514fe0327"
+	},
+	"\/vrpool10.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476455563",
+	  "size": "325663",
+	  "md5": "4a1451a624a3fdb0f420b516ca02ac49",
+	  "crc32": "1e535df9",
+	  "sha1": "58e9d3a343f1b54b741f50a26d60b47b685d7f5e"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600809.us.archive.org\/9\/items\/VirtualPoolDemo\/VirtualPoolScreenshot_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 267,
+	"week": 5,
+	"month": 10
+  }
+}

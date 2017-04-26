@@ -1,0 +1,225 @@
+{
+  "server": "ia601903.us.archive.org",
+  "dir": "/30/items/SWOTL",
+  "metadata": {
+	"identifier": [
+	  "SWOTL"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Lucasfilm Games"
+	],
+	"date": [
+	  "1990"
+	],
+	"description": [
+	  "Includes a playable demo for\u00a0Secret Weapons of the Luftwaffe and a non-playable demo for Their Finest Hour: The Battle of Britain."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Lucasfilm Games Demo Sampler"
+	],
+	"year": [
+	  "1990"
+	],
+	"publicdate": [
+	  "2013-02-04 06:28:36"
+	],
+	"addeddate": [
+	  "2013-02-04 06:28:36"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 0.8"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233013[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "play.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905605_32"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475461507",
+	  "size": "105625",
+	  "md5": "3e4e2d98652d36564e95f9c24b60132c",
+	  "crc32": "395ccd04",
+	  "sha1": "a3a24997805352872a17fda98dd3d73705701185",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475461542",
+	  "size": "4237",
+	  "md5": "cd8b0e82b1c9464bc959ec6f7e81d77a",
+	  "crc32": "6ae0b749",
+	  "sha1": "15634b1dda2ac311953c1d9703eda3654f968cda"
+	},
+	"\/SWOTL.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359959315",
+	  "size": "1364",
+	  "md5": "5ac0fc3b84336be0676d6060e3ee1f92",
+	  "crc32": "423a5fc9",
+	  "sha1": "b01a984ee5c8eb50192cefc117134a41da9bbdac"
+	},
+	"\/SWOTL.gif": {
+	  "source": "original",
+	  "mtime": "1475461516",
+	  "size": "12834",
+	  "md5": "9b65e4ac0e82badcb8e727c2e15987dd",
+	  "crc32": "a4fe869d",
+	  "sha1": "a4b3b5db992591e1286381a0c6ce1300b8861dad",
+	  "format": "Animated GIF"
+	},
+	"\/SWOTL.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476894008",
+	  "size": "638987",
+	  "md5": "c8b9625787f6e2bde56355f12abbde9b",
+	  "crc32": "f5af64f8",
+	  "sha1": "018bbb8c285972a89257a62ab56d8c010cd5a00b"
+	},
+	"\/SWOTL_archive.torrent": {
+	  "source": "original",
+	  "btih": "9a07d645877d791123758b1232f66222ef6ad06e",
+	  "mtime": "1476894034",
+	  "size": "3346",
+	  "md5": "db8c1f437405c87c1651490ddcfb08e1",
+	  "crc32": "702521af",
+	  "sha1": "b7eda75c1c638637314dc26c80a0e64baf6a7372",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SWOTL_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b05ef7c0a6a61fc1540cf8719c0ed793"
+	},
+	"\/SWOTL_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475461531",
+	  "size": "9216",
+	  "md5": "670352fd7a6660f8e34d1249c4a0ecc4",
+	  "crc32": "5fc5f056",
+	  "sha1": "39871996f8b64fee3a7926d5c6b08edf75bceaf6",
+	  "format": "Metadata"
+	},
+	"\/SWOTL_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476894033",
+	  "size": "1004",
+	  "md5": "90ad860b6479f59a94bdcb91ef3858f7",
+	  "crc32": "0dc320a9",
+	  "sha1": "4913fb9aaa38de2f432a9ecfb43256cc7c9b52e0"
+	},
+	"\/SWOTL_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475461520",
+	  "size": "39240",
+	  "md5": "cfb07115562b16910fd35374f096a21b",
+	  "crc32": "c66f6067",
+	  "sha1": "4884176217e5d5a518e010f24932b52c000e51be",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475461512",
+	  "size": "105625",
+	  "md5": "3e4e2d98652d36564e95f9c24b60132c",
+	  "crc32": "395ccd04",
+	  "sha1": "a3a24997805352872a17fda98dd3d73705701185",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475461543",
+	  "size": "4237",
+	  "md5": "cd8b0e82b1c9464bc959ec6f7e81d77a",
+	  "crc32": "6ae0b749",
+	  "sha1": "15634b1dda2ac311953c1d9703eda3654f968cda"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475461514",
+	  "size": "105600",
+	  "md5": "aa47efedc395345f300c7a0eb5b8c23e",
+	  "crc32": "8b9bc23b",
+	  "sha1": "d975bdf6d843aeb85f959d47194a884c22266285",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475461545",
+	  "size": "4236",
+	  "md5": "4c472d3a5963e9640893b9ff6541876e",
+	  "crc32": "172cd652",
+	  "sha1": "d2bca318dc50aaee68b71d7105b3d0c80bdd7698"
+	},
+	"\/swotl_000.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1359959324",
+	  "size": "18424",
+	  "md5": "293e9afc4b253e882f28da81eea3592a",
+	  "crc32": "2162ea3c",
+	  "sha1": "2b562f9452c4f2fcc1949cab8aee98182dbfca20"
+	},
+	"\/swotl_000.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1359959325",
+	  "size": "1340",
+	  "md5": "b6ea55cf58ea41461ebc1d0eccae1897",
+	  "crc32": "5f77b908",
+	  "sha1": "e3ccc7aaabd2ec0e735f12748240991a08437a31"
+	},
+	"\/swotl_000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "swotl_000.png",
+	  "mtime": "1359959334",
+	  "size": "6358",
+	  "md5": "7f359a2bdedac6b026f454db14bd75c3",
+	  "crc32": "78254174",
+	  "sha1": "848a0d9898e95ff261444a0968aa535e9c11d799"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601903.us.archive.org\/30\/items\/SWOTL\/SWOTL.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 282,
+	"week": 4,
+	"month": 8
+  }
+}

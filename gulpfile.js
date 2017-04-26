@@ -73,11 +73,11 @@ gulp.task('reloadjs', ['js'], function () {
 
 
 gulp.task('default', ['bundle'], function () {
-	browserSync({
-		notify: false,
-		server: ['app'],
-		port: 3000
-	});
+	// browserSync({
+	// 	notify: false,
+	// 	server: ['app'],
+	// 	port: 3000
+	// });
 
 	gulp.watch(['app/**/*.html'], ['reload']);
 	gulp.watch(['app/sass/**/*.scss'], ['reloadcss']);

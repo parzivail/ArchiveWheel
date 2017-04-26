@@ -1,0 +1,124 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/10/items/DarkstarOne",
+  "metadata": {
+	"identifier": [
+	  "DarkstarOne"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "ASCARON Entertainment"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "Today CDV is pleased to announce the release of a new single-player demo for their upcoming space adventure title, DarkStar One. The all-new demo (~950 MB) contains a huge variety of worlds, equipment upgrades and alien races, offering the player an estimated two+ hours of gameplay. The demo also contains an extensive tutorial that follows the story line direct from the full retail game. As with the full game, the demo offers players the opportunity to play in free-form mode, creating their own adventure on-the-fly, or follow the storyline to learn more about the death of the lead character's father, and the mysterious ship, the DarkStar One."
+	],
+	"publisher": [
+	  "CDV Software Entertainment"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Darkstar One Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-03-22 15:47:36"
+	],
+	"addeddate": [
+	  "2014-03-22 15:47:36"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231849[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_26"
+	]
+  },
+  "files": {
+	"\/Darkstar One.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1395504621",
+	  "size": "963862191",
+	  "md5": "479cb30712e6fa23b4dd161d26fa30e2",
+	  "crc32": "2fc35a1f",
+	  "sha1": "50b61097346aa3d1aa97bd883f570380a47c673b"
+	},
+	"\/Darkstar One.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1395503255",
+	  "size": "366052",
+	  "md5": "3883a5a4ec6a4464230fa644ae1d0da8",
+	  "crc32": "67a01da8",
+	  "sha1": "32b382792d18f330b59adcbac1c587ff55284177",
+	  "rotation": "0"
+	},
+	"\/Darkstar One_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Darkstar One.jpg",
+	  "mtime": "1395504887",
+	  "size": "6637",
+	  "md5": "92e6bb5a6d0034379d819523daec4ee3",
+	  "crc32": "4cbf7327",
+	  "sha1": "c0dd29a7b17e503246b6f629bbc84b2232852c66"
+	},
+	"\/DarkstarOne_archive.torrent": {
+	  "source": "original",
+	  "btih": "b7807214dd7d07e02f1577d225613caac03195c3",
+	  "mtime": "1474828888",
+	  "size": "38774",
+	  "md5": "daa50e85c90733b67c5a14c76d16f25c",
+	  "crc32": "23c0cf12",
+	  "sha1": "fd349630570a9c0f954d390e6d2fc8936fe7563e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DarkstarOne_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e6f5d04aaa0719101cecb2513aab18b6"
+	},
+	"\/DarkstarOne_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1395504687",
+	  "size": "14336",
+	  "md5": "cee5e60c6c9b13ff84dbdbc0d3371f67",
+	  "crc32": "864b938e",
+	  "sha1": "f3e2947f53965a92fd3d9dda747270083ac24c5c"
+	},
+	"\/DarkstarOne_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474828881",
+	  "size": "1473",
+	  "md5": "c5b97cc1cbc1bbf59ddf6a9757ffd127",
+	  "crc32": "1d0a1b93",
+	  "sha1": "1d67f277a833483ebff2020db05d55092634a7d0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/10\/items\/DarkstarOne\/Darkstar%20One_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 259,
+	"week": 3,
+	"month": 5
+  }
+}

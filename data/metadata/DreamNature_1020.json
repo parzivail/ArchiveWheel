@@ -1,0 +1,229 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/28/items/DreamNature_1020",
+  "metadata": {
+	"identifier": [
+	  "DreamNature_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "NecroBones"
+	],
+	"date": [
+	  "1994"
+	],
+	"description": [
+	  "Dream Nature is a sound and graphics demo that requires at least a 386 to run, though my 486\/33DX is barely enough to run the program with soundblaster sound at 12khz."
+	],
+	"license": [
+	  "freeware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Ed T. Toton III"
+	],
+	"subject": [
+	  "DOS extras"
+	],
+	"title": [
+	  "Dream Nature"
+	],
+	"year": [
+	  "1994"
+	],
+	"publicdate": [
+	  "2012-09-05 03:45:25"
+	],
+	"addeddate": [
+	  "2012-09-05 03:45:25"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "DRNAT.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475244926",
+	  "size": "136472",
+	  "md5": "80ae20a5417b55fdd1512ab56b3de8ec",
+	  "crc32": "e3cf7849",
+	  "sha1": "07c4dbabf28cf7315f58faa1e1738557b3be4784",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475244957",
+	  "size": "4272",
+	  "md5": "5d410be253e6e8386404a80c4991cc25",
+	  "crc32": "9037b647",
+	  "sha1": "3e1c8515f21f767d377b3ac028080b7f397c917c"
+	},
+	"\/DreamNature_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475244936",
+	  "size": "14188",
+	  "md5": "e1892f5400641dc7f55cbd17ec72f4be",
+	  "crc32": "f2775199",
+	  "sha1": "2350182e01668464f1d3c9321c18a9d120ac3734",
+	  "format": "Animated GIF"
+	},
+	"\/DreamNature_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "c064ad607c143e6be63eeb8e35e4e90f27ef8e6e",
+	  "mtime": "1475244962",
+	  "size": "3460",
+	  "md5": "6f7ba2572f076b9774777844e8ffe499",
+	  "crc32": "4b5d9cad",
+	  "sha1": "faa490d720c571194fd2582fe0c70d952ad0bf20",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DreamNature_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b7935a080278df4e9f662612619a5994"
+	},
+	"\/DreamNature_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475244945",
+	  "size": "9216",
+	  "md5": "8ab855e5fce699b287b66c8448d789e1",
+	  "crc32": "e8edb5a1",
+	  "sha1": "c741e23277c8d41fdddf36bc4f271bbc236c8d4f",
+	  "format": "Metadata"
+	},
+	"\/DreamNature_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474090437",
+	  "size": "1028",
+	  "md5": "7449a40a429fe1d5a5a16fce025b20b3",
+	  "crc32": "9b4372f7",
+	  "sha1": "890f6fffdac3ad8c762fcc736fcbbf3526b2531a"
+	},
+	"\/ndemo3.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346816731",
+	  "size": "138883",
+	  "md5": "18d56fab421772d2841b5e34739aff83",
+	  "crc32": "e1a11c89",
+	  "sha1": "a50ea0fbbe23702b96a7ef5ed00c730eb5b24945"
+	},
+	"\/ndemo3.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346816731",
+	  "size": "873",
+	  "md5": "c404e13f09694c96e66f04b78af5376b",
+	  "crc32": "c7bdc73a",
+	  "sha1": "55c253c72a3fc1ccc723dbc4d65f6845e0c03f9b"
+	},
+	"\/ndemo3_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475244941",
+	  "size": "40120",
+	  "md5": "b285b81861c9aed22dbc808a0eb70ea6",
+	  "crc32": "aec90324",
+	  "sha1": "39340622898bc7c04d6ea2a6072d4cc2e9c8bf19",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_3162.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346823434",
+	  "size": "11332",
+	  "md5": "1f83d983b1e831b4e91639aa6453de48",
+	  "crc32": "d24022a5",
+	  "sha1": "a9bfeea7881a5da376d78078825a8933c20c055a",
+	  "rotation": "0"
+	},
+	"\/resource_item_3162.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346823434",
+	  "size": "272",
+	  "md5": "ae783746835f9c77be1cfba7432f4623",
+	  "crc32": "11884354",
+	  "sha1": "cd4576fcac7ed86c6d5212d2dab716b5fd5943ad"
+	},
+	"\/resource_item_3162_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3162.jpg",
+	  "mtime": "1346836600",
+	  "size": "4159",
+	  "md5": "54e56ff12ef1f460cb36889c451b6414",
+	  "crc32": "f88db29f",
+	  "sha1": "c4458f45b3ec9bc14166885277618c482ad2c8a5"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475244930",
+	  "size": "136472",
+	  "md5": "80ae20a5417b55fdd1512ab56b3de8ec",
+	  "crc32": "e3cf7849",
+	  "sha1": "07c4dbabf28cf7315f58faa1e1738557b3be4784",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475244958",
+	  "size": "4272",
+	  "md5": "5d410be253e6e8386404a80c4991cc25",
+	  "crc32": "9037b647",
+	  "sha1": "3e1c8515f21f767d377b3ac028080b7f397c917c"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475244932",
+	  "size": "136465",
+	  "md5": "41dc04add0bd386fdc1736aa92a3022a",
+	  "crc32": "09c98713",
+	  "sha1": "cd148444d4771b354778745f06f840a76a722bb3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475244960",
+	  "size": "4251",
+	  "md5": "a1f302cf3fe879b99ea37bd82debfbbb",
+	  "crc32": "d18d1202",
+	  "sha1": "1d743a74cf9ecb47f22a76b1c003bd1fbad34b84"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/28\/items\/DreamNature_1020\/DreamNature_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 72,
+	"week": 4,
+	"month": 4
+  }
+}

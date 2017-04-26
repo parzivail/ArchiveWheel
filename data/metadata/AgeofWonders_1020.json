@@ -1,0 +1,132 @@
+{
+  "server": "ia600806.us.archive.org",
+  "dir": "/2/items/AgeofWonders_1020",
+  "metadata": {
+	"identifier": [
+	  "AgeofWonders_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Triumph Studios"
+	],
+	"date": [
+	  "1999"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Gathering of Developers"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Age of Wonders Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2012-09-05 00:01:55"
+	],
+	"addeddate": [
+	  "2012-09-05 00:01:55"
+	],
+	"description": [
+	  "\"Age of Wonders is a turn-based game of strategy and conquest that successfully incorporates adventure, exploration and role playing elements. These elements, together with a rich story line and heavy emphasis on global strategy without repetitive micro-management, make each scenario and game unique and fun to play.\n\nChoose one of two main characters to play the single player campaign, or create your own mercenary hero. Customize your heroes as they grow in experience and power. Make strategic decisions that affect the outcome of each mission, use stealth, deception, magic, brute force, and diplomacy to conquer your enemies. Make decisions that affect which races you align yourself with and which path you take throughout the campaign. With a great amount of player involvement and control, two players will very rarely have the same campaign experience.\n\nOr play multi-player games against your friends and sworn enemies through hotseat play, play-by-email, or over LAN or the Internet. The latter two modes feature an additional game play mode of simultaneous turns. Play on small battle-filled maps or huge maps with up to two levels of underground caverns. With 12 playable races, hundreds of units, heroes, items, and spells, a choice of fast or tactical combat, and tons of other sought after features, Age of Wonders will satisfy any strategy gamers wish list.\""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233748[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/AOWBETAD.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1391743284",
+	  "size": "43939746",
+	  "md5": "b5466c0999e03d96c6f1dfc344509f78",
+	  "crc32": "355541ff",
+	  "sha1": "ee04850a5d031349ed808519312d3a937b55118f"
+	},
+	"\/AgeofWonders_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3f40d095c0e40a2ab9245b88449f5a9d"
+	},
+	"\/AgeofWonders_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462320558",
+	  "size": "2181",
+	  "md5": "990edb3e498b189e23491535a4442197",
+	  "crc32": "00868be7",
+	  "sha1": "60557b8bd906b0ecff2c74499475600f5e912d8b"
+	},
+	"\/aowDemo131b.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346803776",
+	  "size": "47751140",
+	  "md5": "6fe1c5c7213f04d3e7e449dfe400febe",
+	  "crc32": "8ee1d499",
+	  "sha1": "ba79e2843b461c4212dcf426c7e54cac4b941a9f"
+	},
+	"\/aowDemo131b.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346803776",
+	  "size": "700",
+	  "md5": "ae92986e3bd8b5962cbc9d7740c94e14",
+	  "crc32": "de609e1d",
+	  "sha1": "0090f8b58f222f8d64a607e35dfec6cbf66c85ec"
+	},
+	"\/resource_item_2642.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346803778",
+	  "size": "20059",
+	  "md5": "dfb66e24110accc2d6ed44407db83f1f",
+	  "crc32": "b56b8833",
+	  "sha1": "a1034c3a3b195c000fe9e8503084c2caa3fcc7f5",
+	  "rotation": "0"
+	},
+	"\/resource_item_2642.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346803779",
+	  "size": "272",
+	  "md5": "e55318529b19ffebff777303c37d1107",
+	  "crc32": "810ab990",
+	  "sha1": "19565de92e6723928f2e09efa8228679a6623e0d"
+	},
+	"\/resource_item_2642_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2642.jpg",
+	  "mtime": "1346820034",
+	  "size": "6068",
+	  "md5": "c39730a1aaba349127bda9712606718a",
+	  "crc32": "3cf6e973",
+	  "sha1": "0e498cab78a6c250c62ad91ef77abb5fa5c30779"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600806.us.archive.org\/2\/items\/AgeofWonders_1020\/resource_item_2642_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 618,
+	"week": 6,
+	"month": 22
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "server": "ia801305.us.archive.org",
+  "dir": "/31/items/ClassicArcade_201511",
+  "metadata": {
+	"identifier": [
+	  "ClassicArcade_201511"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Atari"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Atari Arcade Hits is a compilation of six classic Atari arcade games. \u00a0Including Asteroids, Super Breakout, Centipede, Pong, Tempest and Missile Command.<\/div><div><br \/><\/div><div>The compilation allows you to play the games in their original state or a new enhanced version.<br \/><\/div>"
+	],
+	"publisher": [
+	  "Hasbro Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Atari Arcade Hits: Volume 1 Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2015-11-09 01:59:50"
+	],
+	"addeddate": [
+	  "2015-11-09 01:59:50"
+	],
+	"backup_location": [
+	  "ia905504_30"
+	]
+  },
+  "files": {
+	"\/ClassicArcade.exe": {
+	  "source": "original",
+	  "mtime": "1447034390",
+	  "size": "13385087",
+	  "md5": "7c744669778f21b1e3dc1485db71b695",
+	  "crc32": "9664812f",
+	  "sha1": "d5bb789d09490debb591eff735bdb7ec8046c20a",
+	  "format": "Windows Executable"
+	},
+	"\/ClassicArcade_201511_archive.torrent": {
+	  "source": "original",
+	  "btih": "96ec0bf804b2f3b8a3988ecfd6884447bc71357d",
+	  "mtime": "1483623730",
+	  "size": "2557",
+	  "md5": "8d9a80404f0dc80ff4e8282b982f8000",
+	  "crc32": "0836dfb5",
+	  "sha1": "0f8e8280f8d5e211471a4e592c9b849047dd98dd",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ClassicArcade_201511_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "3d6c658ed73550d1d93b61a221a6dfd5"
+	},
+	"\/ClassicArcade_201511_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1447034408",
+	  "size": "14336",
+	  "md5": "4041bf3418c43bc32f235ce3f247f218",
+	  "crc32": "adc2b941",
+	  "sha1": "cdef45176ec3c1411ebfa032c6187398c7686b6b",
+	  "format": "Metadata"
+	},
+	"\/ClassicArcade_201511_meta.xml": {
+	  "source": "original",
+	  "mtime": "1483623723",
+	  "size": "1032",
+	  "format": "Metadata",
+	  "md5": "3a1c39eaee3eec2aab88f24150a069de",
+	  "crc32": "1af32fa7",
+	  "sha1": "8ffe50abe5e9da3bd5085ae68069d40f93e89246"
+	},
+	"\/atari.jpg": {
+	  "source": "original",
+	  "mtime": "1447034403",
+	  "size": "52595",
+	  "md5": "5b613515381ccd17dd8f2e00161bc5fa",
+	  "crc32": "9d3cf7cd",
+	  "sha1": "bc18c264da5049f4ac9fb9838d6f382f3b6da055",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/atari_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "atari.jpg",
+	  "mtime": "1447034416",
+	  "size": "5873",
+	  "md5": "77e28614d19a105512790c2e3ac282b8",
+	  "crc32": "55bf8f7e",
+	  "sha1": "43015b3b2c62c31fe8d7bc6b7d1cd294cbcb0a64"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia801305.us.archive.org\/31\/items\/ClassicArcade_201511\/atari_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 180,
+	"week": 9,
+	"month": 16
+  }
+}

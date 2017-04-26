@@ -1,0 +1,365 @@
+{
+  "server": "ia800308.us.archive.org",
+  "dir": "/16/items/XCOMUFODefense_1020",
+  "metadata": {
+	"identifier": [
+	  "XCOMUFODefense_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse"
+	],
+	"date": [
+	  "1994"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "X-COM: UFO Defense Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:56:16"
+	],
+	"addeddate": [
+	  "2012-09-04 02:56:16"
+	],
+	"year": [
+	  "1994"
+	],
+	"description": [
+	  "\"Now that aliens have invaded the Earth X-COM: Enemy Unknown presents the player with 2 distinct challenges.\n\nIn the Geoscape section, strategic skills are stretched to the limit: finite resources have to be allocated to establish bases across the globe, and the world's governments have to be kept happy.\n\nIn the Battlescape section, you fight the aliens in the air and every so often will get the chance to deploy troops and vehicles against a crash-landed alien craft in an attempt to salvage alien artifacts that can be used to enhance your weapons systems.\n\nA fine mix of strategy and turn-by-turn wargaming, enhanced by animated transition sequences.\""
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233833[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "xcom"
+	],
+	"emulator_ext": [
+	  "play"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "5.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "I haven't played it yet",
+		"reviewtitle": "No Play yet",
+		"reviewer": "ImperialNight42",
+		"reviewdate": "2017-02-16 17:50:18",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475618658",
+	  "size": "216902",
+	  "md5": "28b57147a84c59aec9e5d69114c7c913",
+	  "crc32": "bffc1f82",
+	  "sha1": "ac27873d4dc28f063f61537fbd7f5de0ebef7f9f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475618709",
+	  "size": "3850",
+	  "md5": "c61c6a70e8f5a52a377675df59a2e641",
+	  "crc32": "b5554593",
+	  "sha1": "553490dd7d9d5e09651260934438ff76ede1c3fa"
+	},
+	"\/UFO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1370256849",
+	  "size": "1184703",
+	  "md5": "5286f5c17b6465e3b25e8f552f225f60",
+	  "crc32": "e3eaaf2c",
+	  "sha1": "7c06eb3cbeaff12d1e132dcaa2a4823371f5087a"
+	},
+	"\/XCOMDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1370256852",
+	  "size": "1147569",
+	  "md5": "e0c039e472f10b96368c376ef6ad648d",
+	  "crc32": "ad5a4735",
+	  "sha1": "62d7b2784d1e60c5636d6e96d31ba12555585391"
+	},
+	"\/XCOMDEMO.play": {
+	  "source": "original",
+	  "format": "Unknown",
+	  "mtime": "1452442954",
+	  "size": "1147569",
+	  "md5": "e0c039e472f10b96368c376ef6ad648d",
+	  "crc32": "ad5a4735",
+	  "sha1": "62d7b2784d1e60c5636d6e96d31ba12555585391"
+	},
+	"\/XCOMDEMO_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475618686",
+	  "size": "371415",
+	  "md5": "3c7674c7f30bdecd30d8b17944aebd7c",
+	  "crc32": "8de2eab2",
+	  "sha1": "99ddcb065903c5784b8a9d7e088d08b6fd210ed1",
+	  "format": "Emulator Screenshot"
+	},
+	"\/XCOMUFODefense_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475618680",
+	  "size": "57474",
+	  "md5": "0524fb033f5d219c05e81cd719738e94",
+	  "crc32": "1061685b",
+	  "sha1": "04ade5fa4a2458d82961692c6f0a59fe6637d15a",
+	  "format": "Animated GIF"
+	},
+	"\/XCOMUFODefense_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "7a309bec6fb224587f96459e5e40d177863dc02d",
+	  "mtime": "1487267423",
+	  "size": "5727",
+	  "md5": "e70531bf21bb02000b14a8a40286da68",
+	  "crc32": "c3619ef2",
+	  "sha1": "6418bfbfda35ec4067994e111fab24dbc5d0b9d4",
+	  "format": "Archive BitTorrent"
+	},
+	"\/XCOMUFODefense_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "1d428c6fdef7731bb4bff6256ee357f3"
+	},
+	"\/XCOMUFODefense_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475618690",
+	  "size": "11264",
+	  "md5": "0b7069fd0ce21d23c6d168024c4a3765",
+	  "crc32": "bb87e75c",
+	  "sha1": "1b5c1ec5b696e9653e7a7f5d627662c62176e9c1",
+	  "format": "Metadata"
+	},
+	"\/XCOMUFODefense_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1464703800",
+	  "size": "1471",
+	  "md5": "036518eaef22236903e321b1837dfe43",
+	  "crc32": "b53fc735",
+	  "sha1": "e847c2bcab7b947a751fcd868e1ce51a981a1c53"
+	},
+	"\/XCOMUFODefense_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1487267419",
+	  "size": "462",
+	  "md5": "e4f58a0e0af768aef2d0f980b42a3c5a",
+	  "crc32": "818bb26f",
+	  "sha1": "76120964770b81c5f3f986e4ffff15b8489b4826",
+	  "format": "Metadata"
+	},
+	"\/resource_item_1416.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346727390",
+	  "size": "15160",
+	  "md5": "883eb8557b1e9f83228b883dde3ad973",
+	  "crc32": "687bdbc4",
+	  "sha1": "538a7011cef2ee429d87036a23de99243bd07fa8",
+	  "rotation": "0"
+	},
+	"\/resource_item_1416.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727391",
+	  "size": "272",
+	  "md5": "3332f738c150368566559114116519fe",
+	  "crc32": "a7ef111e",
+	  "sha1": "83360c7b05f3b9d171bd2cdd118e27f1f4899830"
+	},
+	"\/resource_item_1416_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1416.jpg",
+	  "mtime": "1346728264",
+	  "size": "4435",
+	  "md5": "ec7bcf6aa635f5dc0433c367cbec8df9",
+	  "crc32": "d6b199a7",
+	  "sha1": "393081f268d5e0442ab837b00c8e0f8f42b0e645"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475618660",
+	  "size": "64478",
+	  "md5": "824ee551077591c4a3dced481280ebd0",
+	  "crc32": "d1ee12c3",
+	  "sha1": "f8eec531dea5f8277800b59fb5b765321433e5d9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475618710",
+	  "size": "2775",
+	  "md5": "4733c2de69454055b840e6e706a6aa6b",
+	  "crc32": "3c43fdd4",
+	  "sha1": "816ed6e9ac768af513cb07dfbfb6446388fe6852"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475618663",
+	  "size": "161343",
+	  "md5": "bed69c4eb922cb08de0fd2c611ec2519",
+	  "crc32": "b90c7ec5",
+	  "sha1": "7938c15c977111359f66b5b7f0ce0de649a47ec9",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475618712",
+	  "size": "4846",
+	  "md5": "485732ffd5739d5a0e8a6600a4a0cd21",
+	  "crc32": "2b134ba2",
+	  "sha1": "a9075c9949ad9d452c56a07cfc620866378b0c22"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475618665",
+	  "size": "137826",
+	  "md5": "6c64487b0efa35a29fa6aa7023ae848e",
+	  "crc32": "528567ae",
+	  "sha1": "5369fdd29e396e3d371037d31c3ac93ef1c889e4",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475618714",
+	  "size": "4351",
+	  "md5": "a89c9827e3fb6706f13ca469820d2a74",
+	  "crc32": "dd54af19",
+	  "sha1": "e4657357d1ee64d23f463a1176da7e8fb63bf5e6"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475618667",
+	  "size": "138413",
+	  "md5": "3a09dbfcee1f48837feec3720ef6f739",
+	  "crc32": "b561daff",
+	  "sha1": "0331ee6bd4f387eadd37c0ab20231ec95201c5a3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475618715",
+	  "size": "3525",
+	  "md5": "42dee3f481d81169ab614c973c0a2337",
+	  "crc32": "1fea9d5b",
+	  "sha1": "fc8158d4754d33d5c9f5f06b04cfff74d4b9fb91"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475618672",
+	  "size": "215508",
+	  "md5": "1aab29c7a052ff0bb126ac4241f53079",
+	  "crc32": "eef14ba5",
+	  "sha1": "ab8894a137097975909711c062f92d19b3cbfcd3",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475618717",
+	  "size": "4259",
+	  "md5": "a019c5ba1afd974a9ee03fb997d7658f",
+	  "crc32": "9606e0ff",
+	  "sha1": "918b7f2be9eabd8e6011b3f633a6255eb26a2a29"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475618674",
+	  "size": "62913",
+	  "md5": "02c08e4e3a8cdd250f69c13599174416",
+	  "crc32": "8aff96a8",
+	  "sha1": "abbdc20adb2dbec202f8e9ca4749385bf5b93ffb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475618719",
+	  "size": "2390",
+	  "md5": "703f1f61fa921272b96b652e98bd855f",
+	  "crc32": "552d4f2f",
+	  "sha1": "bd1cf036fa181e5e5607d814ac71cce6a8988e1e"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475618677",
+	  "size": "216902",
+	  "md5": "28b57147a84c59aec9e5d69114c7c913",
+	  "crc32": "bffc1f82",
+	  "sha1": "ac27873d4dc28f063f61537fbd7f5de0ebef7f9f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475618721",
+	  "size": "3850",
+	  "md5": "c61c6a70e8f5a52a377675df59a2e641",
+	  "crc32": "b5554593",
+	  "sha1": "553490dd7d9d5e09651260934438ff76ede1c3fa"
+	},
+	"\/xcomufo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346727388",
+	  "size": "618",
+	  "md5": "7891c32b272fe2e53121d2bf6fb9b0d7",
+	  "crc32": "ed68f2f7",
+	  "sha1": "1b31768030e12ce2072a00cbab479f955e9b8195"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800308.us.archive.org\/16\/items\/XCOMUFODefense_1020\/XCOMUFODefense_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 17459,
+	"week": 32,
+	"month": 136
+  }
+}

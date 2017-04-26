@@ -1,0 +1,154 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/15/items/PandorasBox_1020",
+  "metadata": {
+	"identifier": [
+	  "PandorasBox_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Microsoft"
+	],
+	"date": [
+	  "1999"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Pandora's Box Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2012-09-04 19:19:43"
+	],
+	"addeddate": [
+	  "2012-09-04 19:19:43"
+	],
+	"description": [
+	  "\"A box is opened. Pieces fly away. And seven mythical Tricksters escape to wreak havoc on the world. Welcome to Microsoft Pandora's Box, a puzzle-solving game that will take you literally to the ends of the earth. This visually stunning journey includes 350 of the most beautiful puzzles ever created. It's up to you to solve them, capture the Tricksters, and save the world from chaos.\n\nA puzzle game from the creator of Tetris, Alexey Pajitnov. \""
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234138[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 2,
+	  "avg_rating": "4.50"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "fantastic",
+		"reviewtitle": "pandora",
+		"reviewer": "ikbenriick",
+		"reviewdate": "2013-04-15 19:11:12",
+		"stars": "4"
+	  },
+	  {
+		"reviewbody": "thanks",
+		"reviewtitle": "thanks",
+		"reviewer": "IraMontfort6340",
+		"reviewdate": "2014-01-03 20:56:05",
+		"stars": "5"
+	  }
+	]
+  },
+  "files": {
+	"\/PandorasBox_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ca9c8eee1920648b97cf5538015c1323"
+	},
+	"\/PandorasBox_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465258876",
+	  "size": "1228",
+	  "md5": "596af946e7804cfbffcd353aa23b1007",
+	  "crc32": "d407d793",
+	  "sha1": "b15953d2900f5de0cd6ef23b7c49adfc67f0ec4b"
+	},
+	"\/PandorasBox_1020_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1388782565",
+	  "size": "693",
+	  "format": "Metadata",
+	  "md5": "dbf4cbedcee476cf3a8c7aad34693aec",
+	  "crc32": "b0982222",
+	  "sha1": "dfaab693f2d63cf09a94bbb9365420b855193c5d"
+	},
+	"\/pandemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346786472",
+	  "size": "9323895",
+	  "md5": "27a670fa04964d6f4efdcddfc1fd135b",
+	  "crc32": "0260bdf6",
+	  "sha1": "c4fcda98b9515c1bca478127685c692a0b0dce06"
+	},
+	"\/pandemo.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786472",
+	  "size": "676",
+	  "md5": "2f450b3139692da206078a0313662aa0",
+	  "crc32": "a8500d02",
+	  "sha1": "62e0b35ceb65e293f54a259fdec4351f4d8e16bd"
+	},
+	"\/resource_item_2447.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346786475",
+	  "size": "17916",
+	  "md5": "32138c34402f25ad8f41eb6127add355",
+	  "crc32": "0e9e4923",
+	  "sha1": "6e0f2ac6d588138103d56496191516a0be0c6e35",
+	  "rotation": "0"
+	},
+	"\/resource_item_2447.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346786475",
+	  "size": "272",
+	  "md5": "9b994bbc3156a33c01e55a1cc1baa041",
+	  "crc32": "c4bd4cf7",
+	  "sha1": "df77e5038db3ec2087b315a481fb4dd2e79cdf2d"
+	},
+	"\/resource_item_2447_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2447.jpg",
+	  "mtime": "1346819366",
+	  "size": "6208",
+	  "md5": "c7b491d23be566be7e3d4d4fd24b3cf8",
+	  "crc32": "257bbfae",
+	  "sha1": "a5892ab7c522dd36643b4015615487b11bfa3185"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/15\/items\/PandorasBox_1020\/resource_item_2447_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5560,
+	"week": 37,
+	"month": 129
+  }
+}

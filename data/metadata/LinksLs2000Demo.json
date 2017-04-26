@@ -1,0 +1,113 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/16/items/LinksLs2000Demo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Links LS 2000 Demo"
+	],
+	"description": [
+	  "Links LS 2000 is the newest edition of the all-time best-selling golf simulation game. More than 17 years of passion and precision have evolved into Links LS 2000. The realism of the ball's flight and its interaction with the meticulously rendered terrain separates Links LS 2000 from all other PC golf games."
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"creator": [
+	  "Access Software"
+	],
+	"identifier": [
+	  "LinksLs2000Demo"
+	],
+	"addeddate": [
+	  "2012-05-13 10:43:55"
+	],
+	"publicdate": [
+	  "2012-05-13 10:44:28"
+	],
+	"date": [
+	  "2000"
+	],
+	"year": [
+	  "2000"
+	],
+	"publisher": [
+	  "Microsoft"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903803_12"
+	]
+  },
+  "files": {
+	"\/LinksLS2000.EXE": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1336905597",
+	  "size": "43122264",
+	  "md5": "36083690419fca4a54407f2452d65c79",
+	  "crc32": "f4855346",
+	  "sha1": "907ce04711f1833e0bad5574f843e1ea328cec75",
+	  "title": "Links LS 2000 Demo"
+	},
+	"\/LinksLS2000.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1336905597",
+	  "size": "99236",
+	  "md5": "4ceff9240070fe4b5edf3fef8ddd2825",
+	  "crc32": "7e21e9a1",
+	  "sha1": "c60a77dbbc4cf4388da57846e245674a05da7826",
+	  "rotation": "0"
+	},
+	"\/LinksLS2000_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "LinksLS2000.jpg",
+	  "mtime": "1336905863",
+	  "size": "4997",
+	  "md5": "ca3e4576d2552e9ca377d0dad10901f3",
+	  "crc32": "98c4609d",
+	  "sha1": "a4280c4030d2bf52b20ceace54604d384eceadd7"
+	},
+	"\/LinksLs2000Demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5b8df4cda3c8ebc8525b56d39ab9b754c518cf46",
+	  "mtime": "1462092522",
+	  "size": "3483",
+	  "md5": "14633b58e5a342903fd51e040cf4db71",
+	  "crc32": "c3c85a93",
+	  "sha1": "077c1c920faeffe11d54609042278b439a88bc44",
+	  "format": "Archive BitTorrent"
+	},
+	"\/LinksLs2000Demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "5f554587c3960d0bad3c1bfaa6780c8d"
+	},
+	"\/LinksLs2000Demo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462092521",
+	  "size": "1069",
+	  "md5": "c8bd509e9134d4ccb092bce2e39fc5e4",
+	  "crc32": "01df945e",
+	  "sha1": "d6059ffbd2840f1bfc08ebd07b4f91849f506539"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/16\/items\/LinksLs2000Demo\/LinksLS2000_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1172,
+	"week": 13,
+	"month": 30
+  }
+}

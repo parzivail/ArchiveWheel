@@ -1,0 +1,268 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/1/items/DarkSunShatteredLandsDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Dark Sun: Shattered Lands Demo"
+	],
+	"description": [
+	  "Your party begins as slaves in the city of Draj. You must find a way to escape into the hostile wilderness, join with other escaped slaves and create a rebel force powerful enough to destroy the evil sorcerer-king's armies. Your party moves realistically across the screen picking up and examining objects, interacting with physical surroundings, conversing with characters and battling monsters."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"creator": [
+	  "SSI"
+	],
+	"identifier": [
+	  "DarkSunShatteredLandsDemo"
+	],
+	"addeddate": [
+	  "2012-07-04 23:22:35"
+	],
+	"date": [
+	  "1993"
+	],
+	"year": [
+	  "1993"
+	],
+	"publisher": [
+	  "SSI"
+	],
+	"publicdate": [
+	  "2012-07-04 23:23:05"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903806_12"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475804106",
+	  "size": "64000",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "98cba0a3904df203a7a3c7ff807d7851",
+	  "crc32": "dbde0bba",
+	  "sha1": "8cad0930a6a4aa0b4a4952fceea5c6bb5f0a868d"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475804154",
+	  "size": "3119",
+	  "md5": "854fa80580e24dcc2721bd4c6cd66eed",
+	  "crc32": "21c86436",
+	  "sha1": "07302445dff10acbf741bde8e413a021f1976319"
+	},
+	"\/DarkSunShatteredLandsDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475804131",
+	  "size": "7445",
+	  "format": "Animated GIF",
+	  "md5": "9251fe1f1cb40823deba9f42ae6a5148",
+	  "crc32": "42eda3f1",
+	  "sha1": "4a20789c4721a514f6696c3da22505ba5a36dba8"
+	},
+	"\/DarkSunShatteredLandsDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "eba5bfc8f02eb1e8c6625199a804953a2e169d7e",
+	  "mtime": "1475804162",
+	  "size": "4627",
+	  "md5": "5dcebdafcc4be0029fc161df91d22383",
+	  "crc32": "493c0a5e",
+	  "sha1": "469878a7fa51a4943a026209128c287d09b66933",
+	  "format": "Archive BitTorrent"
+	},
+	"\/DarkSunShatteredLandsDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "49f6fd55d18d2a5f0c1bc3a4398cf4e8"
+	},
+	"\/DarkSunShatteredLandsDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475804142",
+	  "size": "11264",
+	  "format": "Metadata",
+	  "md5": "168c9b142c7ac9356b8afb52176f35c4",
+	  "crc32": "455f27cc",
+	  "sha1": "1ef569f758fa2858de4863bfa499eb1ddb10465b"
+	},
+	"\/DarkSunShatteredLandsDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471824525",
+	  "size": "1270",
+	  "md5": "5a20ed30c27cb957673ae0b45ba43001",
+	  "crc32": "fe6d099e",
+	  "sha1": "e70c85d24a46475e2515942414d388d445beb61a"
+	},
+	"\/darksun.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1341444125",
+	  "size": "1467370",
+	  "md5": "dce66511d88a056632d0535ce95c9861",
+	  "crc32": "5f685d93",
+	  "sha1": "650e4f9b9a6f6d8344f473dda44406ca8e6931b4"
+	},
+	"\/darksun_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475804135",
+	  "size": "45873",
+	  "format": "Emulator Screenshot",
+	  "md5": "0fc1f98f83c9a9e92fa87c630af323e0",
+	  "crc32": "75caaee1",
+	  "sha1": "d209799cf43e9806321e5ab8c6698912d5202895"
+	},
+	"\/resource_item_133.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1341444129",
+	  "size": "24697",
+	  "md5": "fa39cc40a60b4ee894d690038cd28b00",
+	  "crc32": "d2e837b3",
+	  "sha1": "f76a99a691f8a60256526da3d05f7346d9977f17",
+	  "rotation": "0"
+	},
+	"\/resource_item_133_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_133.jpg",
+	  "mtime": "1341444169",
+	  "size": "6555",
+	  "md5": "8658657b6b4feb7d0bfcc1591fac4a2b",
+	  "crc32": "0bf51d98",
+	  "sha1": "5ddd1c73141def0385304ddf8f93732cf4e34a4a"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475804108",
+	  "size": "59376",
+	  "md5": "6a739b509f11c02b260aa2f1f10abf30",
+	  "crc32": "0931fb0c",
+	  "sha1": "32b7c45188c8403c15e90fa0813e2bc369893651",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475804155",
+	  "size": "3009",
+	  "md5": "71f088109a49ffde568812495a622e13",
+	  "crc32": "0e386327",
+	  "sha1": "6638fda58155596192bba3581cf7ed4c3462c251"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475804110",
+	  "size": "59283",
+	  "md5": "d5b00107c6bf4ddded4899397ab98d90",
+	  "crc32": "d7c71195",
+	  "sha1": "5124bdbecc60503c1f6d7d363f821d2614df3b11",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475804156",
+	  "size": "3004",
+	  "md5": "10665e0373bc6e8ebc0704c68b0aeb9e",
+	  "crc32": "7a778f50",
+	  "sha1": "9cc127af2ffefafc37d4473ccc061b06697a3b20"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475804118",
+	  "size": "63914",
+	  "md5": "03cb6e0d039ddf2414013ae3eaf4980a",
+	  "crc32": "80eb9dc1",
+	  "sha1": "f91c88ca20b2ac18a6c2a737cfb6885140facc58",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475804158",
+	  "size": "3114",
+	  "md5": "ff902cade54ed502ddbf3cc4c5ba5095",
+	  "crc32": "661d8c09",
+	  "sha1": "09ff0c23d107d24e97d9e1a5a139d0eea470b4a2"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475804120",
+	  "size": "63900",
+	  "md5": "9b7c0f0579d69f4f60f500bbcce2e189",
+	  "crc32": "acef90a0",
+	  "sha1": "c4b39fde34da9897d21d74cd563f841cd785fc1c",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475804159",
+	  "size": "3109",
+	  "md5": "b83d73326dd00afa08f9c26c0e28d385",
+	  "crc32": "a40d9ec4",
+	  "sha1": "429f0236af26cba2cc79648cc7faec92dc4058a8"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475804123",
+	  "size": "64000",
+	  "md5": "98cba0a3904df203a7a3c7ff807d7851",
+	  "crc32": "dbde0bba",
+	  "sha1": "8cad0930a6a4aa0b4a4952fceea5c6bb5f0a868d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475804160",
+	  "size": "3119",
+	  "md5": "854fa80580e24dcc2721bd4c6cd66eed",
+	  "crc32": "21c86436",
+	  "sha1": "07302445dff10acbf741bde8e413a021f1976319"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600309.us.archive.org\/1\/items\/DarkSunShatteredLandsDemo\/DarkSunShatteredLandsDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 290,
+	"week": 2,
+	"month": 8
+  }
+}

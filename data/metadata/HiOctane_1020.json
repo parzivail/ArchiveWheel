@@ -1,0 +1,148 @@
+{
+  "server": "ia600309.us.archive.org",
+  "dir": "/32/items/HiOctane_1020",
+  "metadata": {
+	"identifier": [
+	  "HiOctane_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Bullfrog Productions"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Welcome to the world of Hi-Octane, Bullfrogs visceral, high-speed deathchase. Hi-Octane is all about two things: Speed and Death. The main objective is to come first in the race. How you achieve this, however, is entirely up to you. You will be racing against (initially) three other Hover-vehicles around a simple, roughly oval track. This demo features a SINGLE-PLAYER mode and a MULTIPLAYER mode. It does not reveal all features of the full game, which appears very soon.\n\n When June comes...You won't believe your eyes!"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Electronic Arts"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Hi-Octane Demo"
+	],
+	"publicdate": [
+	  "2012-09-03 23:30:11"
+	],
+	"addeddate": [
+	  "2012-09-03 23:30:11"
+	],
+	"year": [
+	  "1995"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "hioctane\\hioctane.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/HiOctane_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "ba16a876b787cae0aa44af5da5759f357133015c",
+	  "mtime": "1477158598",
+	  "size": "2312",
+	  "md5": "653f68ae8853f244a1edea7547444b3d",
+	  "crc32": "337b9edf",
+	  "sha1": "855cd20b629e998f75261fad4635bc3da60d279b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/HiOctane_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "0633f404f9290c7a6aa8d8a30c85eb42"
+	},
+	"\/HiOctane_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1477158581",
+	  "size": "1404",
+	  "md5": "3f1b29005de9b958a0531f2f6c51ea30",
+	  "crc32": "3761fca8",
+	  "sha1": "97924bd8673189e4380ba3cff951d7d90fe63c3c"
+	},
+	"\/hioctane-installer.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346715051",
+	  "size": "4080567",
+	  "md5": "a51fde7208357e1e27e04ab0f0f5060c",
+	  "crc32": "46c9f9e5",
+	  "sha1": "8b742547773c0d367c03c4f752e42fec15799c68"
+	},
+	"\/hioctane.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1477158522",
+	  "size": "4023673",
+	  "md5": "2cf4dd9118c2400f95f4d7a4fc89ea2f",
+	  "crc32": "bb775442",
+	  "sha1": "324f80b215b956df09913969392bc3ac5c4ff518"
+	},
+	"\/hioctane.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346715051",
+	  "size": "1090",
+	  "md5": "3a9390e355a8b7c7e9434f26f0a15ebe",
+	  "crc32": "d30d8889",
+	  "sha1": "e6d48873a9c86a1130eff50facc853efa1c25df7"
+	},
+	"\/resource_item_813.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346715054",
+	  "size": "14326",
+	  "md5": "6bb08644488e4bd6e6a865bc9bea7944",
+	  "crc32": "9e40d139",
+	  "sha1": "2008e226d5d940a9e03a213833a2c1581aceb1e0",
+	  "rotation": "0"
+	},
+	"\/resource_item_813.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346715054",
+	  "size": "272",
+	  "md5": "24207b60e7d04aca73fbce5edec513e1",
+	  "crc32": "35e93616",
+	  "sha1": "8a21df6c33c015f8f7311c89b262f07199a84d7b"
+	},
+	"\/resource_item_813_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_813.jpg",
+	  "mtime": "1346715999",
+	  "size": "4306",
+	  "md5": "307ef9891373021d6d052b6b66845d4b",
+	  "crc32": "8645636b",
+	  "sha1": "b0edc08a233ec88b99eedf18c28d607d3a71e13b"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600309.us.archive.org\/32\/items\/HiOctane_1020\/resource_item_813_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 500,
+	"week": 4,
+	"month": 8
+  }
+}

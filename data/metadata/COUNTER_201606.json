@@ -1,0 +1,187 @@
+{
+  "server": "ia600401.us.archive.org",
+  "dir": "/17/items/COUNTER_201606",
+  "metadata": {
+	"identifier": [
+	  "COUNTER_201606"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Nashi Igry"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Counter Action is a real-time strategy released when, due to success of Command & Conquer, many clones started to appear. What really differs this game from almost all RTS-titles of that time is its setting. Game actions take place in World War 2 on the East front. Player can take command over both Russian or German armies with separate campaigns and 14 missions for each side.<\/div><div><br \/><\/div><div>Another feature of Counter Action is an absence of macromanagement, i.e. there's no building\/resource gathering involved in the game. One will only need to control his forces on a battlefield. However, in terms of gameplay CA is still very close to Command & Conquer, with its famous \"tank rush\" tactic. (<a href=\"http:\/\/www.mobygames.com\/game\/dos\/counter-action\" rel=\"nofollow\">MobyGames<\/a>)<\/div>"
+	],
+	"publisher": [
+	  "Mindscape"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Counter Action Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2016-06-20 17:51:28"
+	],
+	"addeddate": [
+	  "2016-06-20 17:51:28"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "START.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia906200_33"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475798314",
+	  "size": "474522",
+	  "format": "JPEG",
+	  "rotation": "0",
+	  "md5": "c2174a2753c9db09a5e098bb14684104",
+	  "crc32": "03b120dc",
+	  "sha1": "b2e1b6f45f18f420374eec749ccdbd6d4c9b5a99"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475798344",
+	  "size": "3933",
+	  "md5": "4a3d552f9e531fa7bc494fd20d2d1783",
+	  "crc32": "4b833b88",
+	  "sha1": "6dbfda6cfc24ff7bdbb3fc782886cc763f371623"
+	},
+	"\/COUNTER.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1474940025",
+	  "size": "5602017",
+	  "md5": "e113db4d6a2f5afc9805cbf815bb77ac",
+	  "crc32": "741493be",
+	  "sha1": "296bec954a88f3a435632f097b3bdea85cd98cf1"
+	},
+	"\/COUNTER_201606.gif": {
+	  "source": "original",
+	  "mtime": "1475798323",
+	  "size": "158170",
+	  "format": "Animated GIF",
+	  "md5": "54555401bf5811c9f0c122d9fc917d2b",
+	  "crc32": "49febffb",
+	  "sha1": "8c0bbe257b2a14a8c15ff16d31ad1d39d6f6aa87"
+	},
+	"\/COUNTER_201606_archive.torrent": {
+	  "source": "original",
+	  "btih": "eb34c3fc5571aea56f044aa2a24bcd2dd08219be",
+	  "mtime": "1484193959",
+	  "size": "3317",
+	  "md5": "4202f72dcc0cc19d28408e3ade232501",
+	  "crc32": "5adad2e7",
+	  "sha1": "005217903121748a12740234b22112b2e746171b",
+	  "format": "Archive BitTorrent"
+	},
+	"\/COUNTER_201606_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "20b13fd8fe620a5b06ef0efb791a1217"
+	},
+	"\/COUNTER_201606_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475798333",
+	  "size": "14336",
+	  "format": "Metadata",
+	  "md5": "9c9ee0fb459dc41a42b014f8f67e4bcd",
+	  "crc32": "566fbd8c",
+	  "sha1": "f101f1c5dbd4cd4987197a124d0e367026127151"
+	},
+	"\/COUNTER_201606_meta.xml": {
+	  "source": "original",
+	  "mtime": "1484193958",
+	  "size": "1648",
+	  "format": "Metadata",
+	  "md5": "0ca119d1e4e5bfebc3720961b3310c81",
+	  "crc32": "7467f6f1",
+	  "sha1": "f147c148d5fad336695e09d68181494207b02c6d"
+	},
+	"\/COUNTER_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475798327",
+	  "size": "306005",
+	  "format": "Emulator Screenshot",
+	  "md5": "16cdac072b23347af4aceeaf910270e2",
+	  "crc32": "1bb8ff86",
+	  "sha1": "21a74e7942f61c4d780123292a21eb53da289395"
+	},
+	"\/counter.png": {
+	  "source": "original",
+	  "mtime": "1466445087",
+	  "size": "92219",
+	  "md5": "68348f62e511bb3f409ae75d259de4df",
+	  "crc32": "4f7361f0",
+	  "sha1": "b3f1acbaa22f252325ef092d1590ed5e4fdfc389",
+	  "format": "PNG"
+	},
+	"\/counter_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "counter.png",
+	  "mtime": "1466445118",
+	  "size": "4628",
+	  "md5": "8d423ef961e08a443c2a0c8a491eaf58",
+	  "crc32": "29f047ca",
+	  "sha1": "466775036ff838cf76b89ff1df7575e9aa7dd071"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475798316",
+	  "size": "474522",
+	  "md5": "c2174a2753c9db09a5e098bb14684104",
+	  "crc32": "03b120dc",
+	  "sha1": "b2e1b6f45f18f420374eec749ccdbd6d4c9b5a99",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475798345",
+	  "size": "3933",
+	  "md5": "4a3d552f9e531fa7bc494fd20d2d1783",
+	  "crc32": "4b833b88",
+	  "sha1": "6dbfda6cfc24ff7bdbb3fc782886cc763f371623"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600401.us.archive.org\/17\/items\/COUNTER_201606\/COUNTER_201606.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 87,
+	"week": 2,
+	"month": 4
+  }
+}

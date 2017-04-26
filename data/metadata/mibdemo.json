@@ -1,0 +1,117 @@
+{
+  "server": "ia902705.us.archive.org",
+  "dir": "/8/items/mibdemo",
+  "metadata": {
+	"identifier": [
+	  "mibdemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Gigawatt Studios"
+	],
+	"date": [
+	  "1997"
+	],
+	"description": [
+	  "<div>Men in Black: The Game is a visually stunning action and adventure game from SouthPeak Interactive. Based loosely on the hit movie of the same name, the game puts you in the shoes of one James Edwards, a New York City cop. Your job is to eliminate bad guys and aliens to become one of the elusive Men In Black. Start out in an apartment building somewhere in Gotham and defuse a rather explosive situation happening there. If you succeed in this initial mission, the black suit is yours. If you fail, well, just look into this light for a moment.<\/div>"
+	],
+	"publisher": [
+	  "SouthPeak Interactive"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Men in Black: The Game Demo"
+	],
+	"year": [
+	  "1997"
+	],
+	"publicdate": [
+	  "2014-01-26 21:16:03"
+	],
+	"addeddate": [
+	  "2014-01-26 21:16:03"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233731[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_18"
+	]
+  },
+  "files": {
+	"\/mibdemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390770962",
+	  "size": "17789266",
+	  "md5": "93f48c92040e09ae628cee32ae8b285a",
+	  "crc32": "514ae782",
+	  "sha1": "d42b38cfbe3d5fe168ac2e86e82a1d19d53ecc07"
+	},
+	"\/mibdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390770975",
+	  "size": "94098",
+	  "md5": "c2c896517bf6beb7e7349875091ccb5e",
+	  "crc32": "cd636f18",
+	  "sha1": "7e42c5eb7a3fc99c46a6529a5d44cd6a228abdd1",
+	  "rotation": "0"
+	},
+	"\/mibdemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "ba6a1e5a4b489d75f6afdeb3931013e0"
+	},
+	"\/mibdemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390770980",
+	  "size": "14336",
+	  "md5": "8e955b3732ee834157ac45e98da36d74",
+	  "crc32": "1ddb587e",
+	  "sha1": "3ba5f8562eb2e19506bf4d01bed2ea2dce6722e3"
+	},
+	"\/mibdemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473807768",
+	  "size": "1428",
+	  "md5": "4e4ae4091209a06024e3edab4122fe6e",
+	  "crc32": "44c6c2bd",
+	  "sha1": "b1d14480726783d28c7e4c94cbb2ba2be904c7c4"
+	},
+	"\/mibdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "mibdemo.jpg",
+	  "mtime": "1390770998",
+	  "size": "4123",
+	  "md5": "2602fd5285064998b30632939dbbbfab",
+	  "crc32": "16fd1f23",
+	  "sha1": "b2059a430f088b3589106d0d2b8757acb8998f13"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902705.us.archive.org\/8\/items\/mibdemo\/mibdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 5319,
+	"week": 43,
+	"month": 180
+  }
+}

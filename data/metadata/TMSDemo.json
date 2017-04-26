@@ -1,0 +1,121 @@
+{
+  "server": "ia902502.us.archive.org",
+  "dir": "/1/items/TMSDemo",
+  "metadata": {
+	"identifier": [
+	  "TMSDemo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Microids"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "Here is a new demo of this great tennis match up which contains one exhibition match with players Fernando Silva, John Wisler and Christopher Pauly at Indiana Wells (California, USA). Demo is limited to 20 runs or 15 days of installation.\u00a0"
+	],
+	"publisher": [
+	  "Microids"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Sports games"
+	],
+	"title": [
+	  "Tennis Masters Series Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2014-06-02 15:43:28"
+	],
+	"addeddate": [
+	  "2014-06-02 15:43:28"
+	],
+	"backup_location": [
+	  "ia905808_19"
+	]
+  },
+  "files": {
+	"\/TMSDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1401724364",
+	  "size": "62863436",
+	  "md5": "d58fd95a6bed4e4a03971f22a20b053f",
+	  "crc32": "3d5a33ec",
+	  "sha1": "861bfdd7b35b2286dceb66338584b7adec4a7f7d"
+	},
+	"\/TMSDemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1401723807",
+	  "size": "76871",
+	  "md5": "bbe9b934c8cb47b2719d62191ba85f9e",
+	  "crc32": "fc88964b",
+	  "sha1": "2a552a3a6f5fc505543e48aa2884b2357bc7fb08",
+	  "rotation": "0"
+	},
+	"\/TMSDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "25637237bafa9fda178443b66bacaafe07f06344",
+	  "mtime": "1473535790",
+	  "size": "4335",
+	  "md5": "5b6d951d4bbfa07576392fc31a9d9046",
+	  "crc32": "69e6007e",
+	  "sha1": "d8b5579384ecbbf50482e02688e4709a66f873e6",
+	  "format": "Archive BitTorrent"
+	},
+	"\/TMSDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "59aded0a5cd986a4749cc8aae72e890e"
+	},
+	"\/TMSDemo_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1401724371",
+	  "size": "12288",
+	  "md5": "2d96aa71da13973655d639d606cda1b1",
+	  "crc32": "4a9049b3",
+	  "sha1": "19aa122d37b976c3fa13c95cfa40afeb62abfebd"
+	},
+	"\/TMSDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473535789",
+	  "size": "904",
+	  "md5": "61e0ca25b2ad1939f0e98e0d7d26cc39",
+	  "crc32": "000cad58",
+	  "sha1": "7a931431fd533c119413b774385a385185ca02a8"
+	},
+	"\/TMSDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "TMSDemo.jpg",
+	  "mtime": "1401728037",
+	  "size": "4180",
+	  "md5": "6176c4319ad1505a8831a17d438d03c9",
+	  "crc32": "63d8be6f",
+	  "sha1": "78e45efc8d1ae9689d23392a870705b9a1018674"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902502.us.archive.org\/1\/items\/TMSDemo\/TMSDemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 951,
+	"week": 10,
+	"month": 31
+  }
+}

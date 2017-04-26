@@ -1,0 +1,183 @@
+{
+  "server": "ia601005.us.archive.org",
+  "dir": "/8/items/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy",
+  "metadata": {
+	"identifier": [
+	  "RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "MicroProse Software"
+	],
+	"date": [
+	  "1989"
+	],
+	"description": [
+	  "Based on the Tom Clancy novel Red Storm Rising, the game will make you an American nuclear attack submarine commander during World War III, charged with keeping the North Atlantic clear of Warsaw Pact forces, so that supplies and reinforcements can reach the European mainland. There's no time for mistakes. Every encounter requires an intimate knowledge of your ship: every battle pushes your patience, determination and fighting spirit to the limit.\u00a0"
+	],
+	"publisher": [
+	  "MicroProse Software"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Simulation games"
+	],
+	"title": [
+	  "Red Storm Rising Demo"
+	],
+	"year": [
+	  "1989"
+	],
+	"publicdate": [
+	  "2013-11-17 23:44:27"
+	],
+	"addeddate": [
+	  "2013-11-17 23:44:27"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234514[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "demo"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905709_34"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475444321",
+	  "size": "64130",
+	  "md5": "9d79908233830cc50a1749116bb3197b",
+	  "crc32": "7c420ac3",
+	  "sha1": "7a50a92f10a040608e6137d5d892ea7cc3c64294",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475444356",
+	  "size": "3929",
+	  "md5": "a48465d34705e9c30dddd30f96a56f44",
+	  "crc32": "f40b5c78",
+	  "sha1": "f6a942c153d951178a2dac61eb234593a65ba158"
+	},
+	"\/Red Storm Rising (Demo) (1989)(MicroProse Software, Inc.) [Simulation, Strategy].png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1384731866",
+	  "size": "6623",
+	  "md5": "290d4245b691294c4068f4faacd8f00d",
+	  "crc32": "87cfc491",
+	  "sha1": "3d6aaf008996f7e21e9a785af7ae1a457060a9c4"
+	},
+	"\/Red Storm Rising (Demo) (1989)(MicroProse Software, Inc.) [Simulation, Strategy]_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Red Storm Rising (Demo) (1989)(MicroProse Software, Inc.) [Simulation, Strategy].png",
+	  "mtime": "1384731906",
+	  "size": "4558",
+	  "md5": "e7ac2d3b4e497ba2a7ec47bc79a5b7ad",
+	  "crc32": "649518fe",
+	  "sha1": "0ab34fd1520930af00c76237d46f9bbf07b48030"
+	},
+	"\/RedStorm.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1457845230",
+	  "size": "194006",
+	  "md5": "dcd0d2560a25e53776443a938948fa8d",
+	  "crc32": "22905f57",
+	  "sha1": "215bd94801803d0dbb42ee5055320f7bee071998"
+	},
+	"\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy.gif": {
+	  "source": "original",
+	  "mtime": "1475444329",
+	  "size": "8145",
+	  "md5": "fccc82773558146274d5b0c5419d4ade",
+	  "crc32": "c40bc3aa",
+	  "sha1": "24f93eabcb966e42ca34afc7881a504c1c61afc6",
+	  "format": "Animated GIF"
+	},
+	"\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "964a9beac860b3a7e219a520a5a7ef05"
+	},
+	"\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475444348",
+	  "size": "15360",
+	  "md5": "8e239a5485929806bf295b6eed91d70c",
+	  "crc32": "80b08a63",
+	  "sha1": "fec1631be8872c45246281559ae7b0e3202980e3"
+	},
+	"\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474857735",
+	  "size": "1467",
+	  "md5": "2370dfd8fde9d57c4b55ea14c4690ff4",
+	  "crc32": "ee04ab3a",
+	  "sha1": "4569a2cc6a61a6467a3bce65e63ca2d82e9372ce"
+	},
+	"\/RedStorm_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475444340",
+	  "size": "16851",
+	  "md5": "ddd092fc1fcfcac51b261d38f2231ab2",
+	  "crc32": "5bab3dcc",
+	  "sha1": "49bcc9e214d17c0bc82a8ecc22b56baa1a5f81c6",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475444327",
+	  "size": "64130",
+	  "md5": "9d79908233830cc50a1749116bb3197b",
+	  "crc32": "7c420ac3",
+	  "sha1": "7a50a92f10a040608e6137d5d892ea7cc3c64294",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475444357",
+	  "size": "3929",
+	  "md5": "a48465d34705e9c30dddd30f96a56f44",
+	  "crc32": "f40b5c78",
+	  "sha1": "f6a942c153d951178a2dac61eb234593a65ba158"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601005.us.archive.org\/8\/items\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy\/RedStormRisingDemo1989MicroProseSoftwareInc.SimulationStrategy.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 541,
+	"week": 3,
+	"month": 6
+  }
+}

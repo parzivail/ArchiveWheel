@@ -1,0 +1,132 @@
+{
+  "server": "ia902702.us.archive.org",
+  "dir": "/14/items/firewall-demo",
+  "metadata": {
+	"identifier": [
+	  "firewall-demo"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "LilGryphMaster"
+	],
+	"date": [
+	  "2002-06-20"
+	],
+	"description": [
+	  "Point and click adventure game, created with Adventure Game Studio."
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.0"
+	],
+	"subject": [
+	  "Adventure Game Studio games"
+	],
+	"title": [
+	  "Firewall [demo]"
+	],
+	"publicdate": [
+	  "2015-01-02 22:48:31"
+	],
+	"addeddate": [
+	  "2015-01-02 22:48:31"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20150102225405[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2002"
+	],
+	"backup_location": [
+	  "ia905909_5"
+	],
+	"collection": [
+	  "classicpcgames",
+	  "software",
+	  "adventuregamestudio"
+	],
+	"ags_format_version": [
+	  "12"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/79.jpg": {
+	  "source": "original",
+	  "mtime": "1420238924",
+	  "size": "25505",
+	  "md5": "af53a1d22c175a7149cbb7bffdee5c86",
+	  "crc32": "f5bc75e3",
+	  "sha1": "b6db91863961e1ec5440cab9d6ce055aa465133d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/79_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "79.jpg",
+	  "mtime": "1420239252",
+	  "size": "4129",
+	  "md5": "a7e8fa540433413a8bdb74a894886c75",
+	  "crc32": "41c5b7ac",
+	  "sha1": "a2cc9ad8a87cad5dcbcffb688b5815cd58496d04"
+	},
+	"\/firewall-demo_archive.torrent": {
+	  "source": "original",
+	  "btih": "8b4d0ef94e94674510dce6df6b2eb9cbe8084ea6",
+	  "mtime": "1490658087",
+	  "size": "2000",
+	  "md5": "8828dbbec13a552fcf43770a3ef4eaf2",
+	  "crc32": "f2aa44b2",
+	  "sha1": "53c0ee6ccfa3947e2cf68d1b87284e5da802e15e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/firewall-demo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "275a31a5e6efad565906ceb623089b36"
+	},
+	"\/firewall-demo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1420238930",
+	  "size": "10240",
+	  "md5": "942d676438be01032f50479885bd1dcc",
+	  "crc32": "a6445d34",
+	  "sha1": "441cae89bf3c9940b674ff9a1048427cd82096d0",
+	  "format": "Metadata"
+	},
+	"\/firewall-demo_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490658086",
+	  "size": "1018",
+	  "format": "Metadata",
+	  "md5": "e04bd1fa64cbfb7f47ccce2f8f6b65e2",
+	  "crc32": "18952a66",
+	  "sha1": "e33c1e514c2dc87b2e5f741929b8b7f3ad2574b1"
+	},
+	"\/firewall.zip": {
+	  "source": "original",
+	  "mtime": "1420238910",
+	  "size": "863772",
+	  "md5": "e40384fa7fd20a14b00ca32bd1e2ee7f",
+	  "crc32": "f3d6a1a2",
+	  "sha1": "8d9fee0227ef1382df5259d1cfbcb4ed1c43a388",
+	  "format": "ZIP"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902702.us.archive.org\/14\/items\/firewall-demo\/79_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 59,
+	"week": 4,
+	"month": 7
+  }
+}

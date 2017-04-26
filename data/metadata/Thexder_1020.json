@@ -1,0 +1,130 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/30/items/Thexder_1020",
+  "metadata": {
+	"identifier": [
+	  "Thexder_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Synergistic Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "This is a five level playable demo of Thexder for Windows 95. Note that the demo is limited to low resolution; in the full game there are three resolutions-low, medium, and high. The demo does not support network play."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Sierra On-Line"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Thexder"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2012-09-05 04:55:51"
+	],
+	"addeddate": [
+	  "2012-09-05 04:55:51"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_3"
+	]
+  },
+  "files": {
+	"\/THEXDEMO.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346820965",
+	  "size": "1431419",
+	  "md5": "0b665675b78d846c51556b014dd70435",
+	  "crc32": "7f1d816a",
+	  "sha1": "61014860da7ff2f0aacd57ccb031b2981b0b4fbf"
+	},
+	"\/THEXDEMO.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820965",
+	  "size": "933",
+	  "md5": "a3dd01b378e7da0e9ba72dcf882f9877",
+	  "crc32": "e7097926",
+	  "sha1": "2a88afd0a3bb0fd031691959b486dc8c07298a7d"
+	},
+	"\/Thexder_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "f2a119c9e7597491f784b8da27daf3b920d9220b",
+	  "mtime": "1462645395",
+	  "size": "1866",
+	  "md5": "cf7bb9d869e61d1df54eec5d4ae52052",
+	  "crc32": "225108e9",
+	  "sha1": "53a950d9225176286e8f59e22b3e1e04a60483e7",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Thexder_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f9a63d9afeab3153f8af8f05c00d353d"
+	},
+	"\/Thexder_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462645394",
+	  "size": "972",
+	  "md5": "bc23dc84ce66b104b36e28898731401c",
+	  "crc32": "378fb9ef",
+	  "sha1": "16a3de498ce0e8972e0c02d15d71495d1164131d"
+	},
+	"\/resource_item_3100.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346820967",
+	  "size": "22960",
+	  "md5": "3baaa58476b8dff005d134c895eed154",
+	  "crc32": "d991fc5a",
+	  "sha1": "a20354ca39fedc41b0e6064e0d4e61605a98c8a5",
+	  "rotation": "0"
+	},
+	"\/resource_item_3100.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346820967",
+	  "size": "272",
+	  "md5": "de03fadf87c57f1bdf16acf174ce901c",
+	  "crc32": "246acbb0",
+	  "sha1": "59c260d0340bd9b8711a799d3fa9b52a53b6d978"
+	},
+	"\/resource_item_3100_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_3100.jpg",
+	  "mtime": "1346833159",
+	  "size": "7185",
+	  "md5": "2f5268ea531674d15ff24c78ad0d0dc5",
+	  "crc32": "255dc247",
+	  "sha1": "43984a58b2ad82292c93630d4627d23cadd064a2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600301.us.archive.org\/30\/items\/Thexder_1020\/resource_item_3100_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 254,
+	"week": 4,
+	"month": 11
+  }
+}

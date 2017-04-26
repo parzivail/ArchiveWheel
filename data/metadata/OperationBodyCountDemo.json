@@ -1,0 +1,308 @@
+{
+  "server": "ia800709.us.archive.org",
+  "dir": "/21/items/OperationBodyCountDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Operation Body Count Demo"
+	],
+	"description": [
+	  "\"It's the year 2012. Mass chaos erupts when militant terrorists take over the United Nations Towers and hold a group of ambassadors hostage on the top floor. Hundreds of hallways have been booby-trapped, all the usual accesses are barricaded, fires are breaking out and negotiations have come to an abrupt end.\n\nYou are a member of the nation's Elite Force, trained to take out terrorists \"\"when the talking stops.\"\" Waste away all enemies, from scum-sucking sewer rats to steroid-pumped assassins, on your never-say-die mission to save the hostages. Now the world watches as you confront the terrorist assault and battle your way to the top - peace by piece.\""
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Capstone Software"
+	],
+	"identifier": [
+	  "OperationBodyCountDemo"
+	],
+	"addeddate": [
+	  "2012-08-26 23:21:49"
+	],
+	"publicdate": [
+	  "2012-08-26 23:22:15"
+	],
+	"date": [
+	  "1994"
+	],
+	"year": [
+	  "1994"
+	],
+	"publisher": [
+	  "Capstone Software"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903906_23"
+	],
+	"emulator_start": [
+	  "bc.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475399597",
+	  "size": "353343",
+	  "md5": "096ff4e50100f909a959e70ce20ce99f",
+	  "crc32": "236d5f44",
+	  "sha1": "fb1d19fe761ee65b2b201cb384e37ea78998639b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475399639",
+	  "size": "6341",
+	  "md5": "f6fa6dee883d2b7534cea523cc975d06",
+	  "crc32": "169d404c",
+	  "sha1": "2b116343ac90da7f90ba37f73c98aab2a0fd408f"
+	},
+	"\/OperationBodyCountDemo.gif": {
+	  "source": "original",
+	  "mtime": "1475399615",
+	  "size": "126548",
+	  "md5": "ad4eaa9aa69dc138cf3ede397a12b258",
+	  "crc32": "23bfcc6a",
+	  "sha1": "a7506a346470da942eeb24c7669458baca3ea199",
+	  "format": "Animated GIF"
+	},
+	"\/OperationBodyCountDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "5550b3d281b6b8502b77b3fde83e20e4aad14ce7",
+	  "mtime": "1475399647",
+	  "size": "5403",
+	  "md5": "4d8093eee531473a9495e97410dc6ec4",
+	  "crc32": "8e06e3ff",
+	  "sha1": "21664140696a6629329cc62da64fdaa192d11f72",
+	  "format": "Archive BitTorrent"
+	},
+	"\/OperationBodyCountDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "9012242ba73e57e76b84b95d11419609"
+	},
+	"\/OperationBodyCountDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475399624",
+	  "size": "11264",
+	  "md5": "248fe2a7b6b8ee3abb696b1b221790ed",
+	  "crc32": "1dc82b2e",
+	  "sha1": "4525b94f43a0c045ee6594edc53b3f46d6c05b76",
+	  "format": "Metadata"
+	},
+	"\/OperationBodyCountDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473379771",
+	  "size": "1549",
+	  "md5": "f9049eb66ce48542cdd966191a8357f2",
+	  "crc32": "583f2ea4",
+	  "sha1": "2d0ad692067ad84062d8040255fb53d9f85647a3"
+	},
+	"\/bodycnt.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1473379746",
+	  "size": "1786272",
+	  "md5": "d8bb6c0e4ad614c917c546f5ddbe8c23",
+	  "crc32": "a395f94c",
+	  "sha1": "82c5822679a5512024cd12940789aa9762ce2192"
+	},
+	"\/bodycnt_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475399620",
+	  "size": "628991",
+	  "md5": "4aeab8c3285a0626abd96d9bf9ccbc2a",
+	  "crc32": "c2726d97",
+	  "sha1": "4fc5580e2054185456b80522ae358048a0cefb74",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_550.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346023275",
+	  "size": "14583",
+	  "md5": "bbb817c065197c0e47c9de9e9a6e2205",
+	  "crc32": "122bed18",
+	  "sha1": "a12183523e228b5a41b5d369d3b5e40bd6e25da9",
+	  "rotation": "0"
+	},
+	"\/resource_item_550_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_550.jpg",
+	  "mtime": "1346023329",
+	  "size": "4145",
+	  "md5": "907a66c5a42c5ce18edd777ffe2d76c4",
+	  "crc32": "bdad1221",
+	  "sha1": "24e397209844d452670f79a3eca7f36121e864f4"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475399599",
+	  "size": "173813",
+	  "md5": "75c0e09b1e27fbb70bc601951f79326d",
+	  "crc32": "7352659f",
+	  "sha1": "302017710aae7bc33ce4e1a26824895f613a3ab0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475399636",
+	  "size": "3649",
+	  "md5": "e6ba0d605b347a7e87c85c7e03c31f2e",
+	  "crc32": "6bf1e919",
+	  "sha1": "59acaa2236d114a6f0dcf0a604061327c6f8b4f1"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475399601",
+	  "size": "145379",
+	  "md5": "d17e5e930caba46b686b707465a3316e",
+	  "crc32": "6ad81418",
+	  "sha1": "a083337f9d3cc51231defa03dd9e3570f9862c17",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475399637",
+	  "size": "2647",
+	  "md5": "05e9a17499d012c8acd99c39b2c36d05",
+	  "crc32": "b5ef3a13",
+	  "sha1": "668ab82e3e28fe6799c4390a5a7ce678e7042eab"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475399604",
+	  "size": "3284",
+	  "md5": "c7fe21900a9891233cea1751d2555d34",
+	  "crc32": "a8da4401",
+	  "sha1": "478cf0778eedeab11e46358360dc8373a4ecd079",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475399640",
+	  "size": "1011",
+	  "md5": "c96d922005e073e59fa1fbc3456198fc",
+	  "crc32": "6a5a2747",
+	  "sha1": "e83a07ebcc9e4ddc40a2422d881805658fb80717"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1475399606",
+	  "size": "353343",
+	  "md5": "096ff4e50100f909a959e70ce20ce99f",
+	  "crc32": "236d5f44",
+	  "sha1": "fb1d19fe761ee65b2b201cb384e37ea78998639b",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1475399641",
+	  "size": "6341",
+	  "md5": "f6fa6dee883d2b7534cea523cc975d06",
+	  "crc32": "169d404c",
+	  "sha1": "2b116343ac90da7f90ba37f73c98aab2a0fd408f"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1475399609",
+	  "size": "353213",
+	  "md5": "c2a074aff0bb7e77447f8672ded6bb7e",
+	  "crc32": "d9b76632",
+	  "sha1": "7c184a11010c859fdbfc4715b7f73fa08efd829f",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1475399645",
+	  "size": "6342",
+	  "md5": "4fa6a87d1efefa9560bdc753ba161ea0",
+	  "crc32": "44b47a45",
+	  "sha1": "2b86094362a5561d3148993359f61da98cf9df44"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1475399611",
+	  "size": "184905",
+	  "md5": "1bfe7edcbc8e413196271ed572fe7203",
+	  "crc32": "37c7b0ac",
+	  "sha1": "9dd6c70123f5f1fd8f2c3b27fd6858b9e647bb85",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1475399643",
+	  "size": "2927",
+	  "md5": "f3b405811914ee8c2b8c12f83e7ec955",
+	  "crc32": "661212e5",
+	  "sha1": "38ccf97f9d5a8fdf465f9ccbac589284fa6ffcab"
+	},
+	"\/screenshot_06.jpg": {
+	  "source": "original",
+	  "mtime": "1475399613",
+	  "size": "126804",
+	  "md5": "aa8332d1fb972458f1303704da06e31a",
+	  "crc32": "1ac7d408",
+	  "sha1": "6d85444140b281b84aa2948edbf42b3b042d34dc",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_06_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_06.jpg",
+	  "mtime": "1475399644",
+	  "size": "3570",
+	  "md5": "f36bdda9f4341df21f223aa3147ef229",
+	  "crc32": "f9c142d2",
+	  "sha1": "54fbe4b8cf7a786781aa8ecf60f2fbfaccac884c"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia800709.us.archive.org\/21\/items\/OperationBodyCountDemo\/OperationBodyCountDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 286,
+	"week": 4,
+	"month": 6
+  }
+}

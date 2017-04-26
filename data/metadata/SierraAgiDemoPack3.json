@@ -1,0 +1,185 @@
+{
+  "server": "ia600702.us.archive.org",
+  "dir": "/4/items/SierraAgiDemoPack3",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Sierra AGI Demo Pack 3"
+	],
+	"description": [
+	  "This demo includes the following games: Sierra's Helicopter Simulator, Space Quest II, Police Quest, King's Quest III, Mixed-up Mother Goose, and Leisure Suit Larry."
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"creator": [
+	  "Sierra On-Line"
+	],
+	"identifier": [
+	  "SierraAgiDemoPack3"
+	],
+	"addeddate": [
+	  "2012-08-27 00:37:11"
+	],
+	"publicdate": [
+	  "2012-08-27 00:37:33"
+	],
+	"date": [
+	  "1987"
+	],
+	"year": [
+	  "1987"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "DEMO.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"backup_location": [
+	  "ia903906_23"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475471730",
+	  "size": "141996",
+	  "md5": "7fa51317a68e6ce2a03969ab7b4d727a",
+	  "crc32": "5ce4910f",
+	  "sha1": "ac412d924a704667ec8fd7be4814f6d856c72837",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475471758",
+	  "size": "7500",
+	  "md5": "1c44d08e1f1f8e4a1e2e9d155ddaa2e8",
+	  "crc32": "d35e7666",
+	  "sha1": "dde7563b01c1ace427cf81453979de0a63b39965"
+	},
+	"\/SierraAgiDemoPack3.gif": {
+	  "source": "original",
+	  "mtime": "1475471735",
+	  "size": "28531",
+	  "md5": "65600d4e3ba668c1dd941347db1b21b3",
+	  "crc32": "6b73857c",
+	  "sha1": "e2c40a657ba003c1069b96376fff1efb9a9bd296",
+	  "format": "Animated GIF"
+	},
+	"\/SierraAgiDemoPack3_archive.torrent": {
+	  "source": "original",
+	  "btih": "218c0bead7ff4cc08d067927ca300b7b0ed543a2",
+	  "mtime": "1475471762",
+	  "size": "3146",
+	  "md5": "3ad63b5126d32787f7a294f1663cd661",
+	  "crc32": "1608e2a1",
+	  "sha1": "293817af822b5bbbcaa10ccdc14380d6ee1f1dfe",
+	  "format": "Archive BitTorrent"
+	},
+	"\/SierraAgiDemoPack3_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b314a98102b23f3d6c54e2f496597792"
+	},
+	"\/SierraAgiDemoPack3_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475471744",
+	  "size": "8192",
+	  "md5": "ac17f27b3462eac4280e9bc5b25bd144",
+	  "crc32": "84a7b8c6",
+	  "sha1": "194c708ec44a6781492c1350d77349e16a0725b1",
+	  "format": "Metadata"
+	},
+	"\/SierraAgiDemoPack3_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1463669145",
+	  "size": "1007",
+	  "md5": "5211df0edbe5d4f8cc6fe5d1efa88065",
+	  "crc32": "7601da40",
+	  "sha1": "18764975b38165374f410f74d34b81dbe1fc83c5"
+	},
+	"\/agi_demo_pack_3.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346027805",
+	  "size": "178026",
+	  "md5": "d696668e19a0bdacf58701bc0e8c6906",
+	  "crc32": "083ad25f",
+	  "sha1": "1cf6c05147af5b209d99c3410723a61ae9ccde48"
+	},
+	"\/agi_demo_pack_3_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475471739",
+	  "size": "47551",
+	  "md5": "3ab252587249b18b33c5800adba1ab82",
+	  "crc32": "c2b89c65",
+	  "sha1": "af1270675d0ceb50aeb5e48351757628ef14f785",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_569.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346027811",
+	  "size": "19966",
+	  "md5": "53d70c1375024f9a67934e4daab2ce45",
+	  "crc32": "cbe08b99",
+	  "sha1": "8ad226fc420b6f4aa5b2a48b6d2128d797f98221",
+	  "rotation": "0"
+	},
+	"\/resource_item_569_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_569.jpg",
+	  "mtime": "1346027847",
+	  "size": "7091",
+	  "md5": "b0bd63c544a9db4a2ed4b2087931710c",
+	  "crc32": "0688c56a",
+	  "sha1": "e42819d69624a9688764a0022cd0d130c82cb195"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475471732",
+	  "size": "141996",
+	  "md5": "7fa51317a68e6ce2a03969ab7b4d727a",
+	  "crc32": "5ce4910f",
+	  "sha1": "ac412d924a704667ec8fd7be4814f6d856c72837",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475471760",
+	  "size": "7500",
+	  "md5": "1c44d08e1f1f8e4a1e2e9d155ddaa2e8",
+	  "crc32": "d35e7666",
+	  "sha1": "dde7563b01c1ace427cf81453979de0a63b39965"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600702.us.archive.org\/4\/items\/SierraAgiDemoPack3\/SierraAgiDemoPack3.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 214,
+	"week": 3,
+	"month": 9
+  }
+}

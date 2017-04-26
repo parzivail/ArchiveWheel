@@ -1,0 +1,141 @@
+{
+  "server": "ia800306.us.archive.org",
+  "dir": "/6/items/residentevil3trial",
+  "metadata": {
+	"identifier": [
+	  "residentevil3trial"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Capcom"
+	],
+	"date": [
+	  "2001"
+	],
+	"description": [
+	  "<div>Join Jill Valentine, the heroine and survivor of the notorious disaster at the mansion, as her nightmare continues. After resigning from S.T.A.R.S., Jill prepares to head out of Raccoon City, but it's not going to be easy. Caught in a town crawling with flesh-eating zombies, she must rely on brute force and cunning to find a way to escape alive. This unique adventure intricately reveals more of Umbrella Corporation's nightmarish plot and picks up just hours before the events from Resident Evil 2.<\/div>"
+	],
+	"publisher": [
+	  "Capcom"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Resident Evil 3: Nemesis Demo"
+	],
+	"year": [
+	  "2001"
+	],
+	"publicdate": [
+	  "2014-01-28 22:07:47"
+	],
+	"addeddate": [
+	  "2014-01-28 22:07:47"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233715[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "reviews": {
+	"info": {
+	  "num_reviews": 1,
+	  "avg_rating": "4.00"
+	},
+	"reviews": [
+	  {
+		"reviewbody": "My operating system is Windows 7, and I was very surprised to see the demo installing easily and running almost flawlessly on my system, with no extra manipulations of any kind on my part. The game even allows for the use of a modern USB controller.\n\nI should however mention two small issues:\n\n  - It did crash once, out of the six or seven times I launched it; it wasn't that much of an annoyance, given that the demo itself is not that long (maybe a bit over an hour on a first playthrough).\n\n  - The prerendered backgrounds appear somewhat roughly cracked; this didn't really reduce visibility or make the demo less playable, but it was noticeable.\n\nDespite these problems, the game's tense atmosphere and uncompromising survival horror mechanics make this demo very much worth playing, particularly for those curious about older Resident Evil games which, like many previous-generation games, are not easy to obtain today.",
+		"reviewtitle": "Surprisingly functional, with great atmosphere.",
+		"reviewer": "Siegmeyer",
+		"reviewdate": "2015-10-15 02:03:47",
+		"stars": "4"
+	  }
+	]
+  },
+  "files": {
+	"\/residentevil3trial.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390946866",
+	  "size": "74558160",
+	  "md5": "84ce14fde15b99fef1aa651ac4bb3b8e",
+	  "crc32": "18daddfe",
+	  "sha1": "015072a47a6a6be570b1d5c43bf349db6e199216"
+	},
+	"\/residentevil3trial.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390946879",
+	  "size": "42202",
+	  "md5": "7e3f915f08f79b0fc58f99833bc78421",
+	  "crc32": "b6bf60d8",
+	  "sha1": "4110c0c77cd791ffed28421233ef716d6ed05144",
+	  "rotation": "0"
+	},
+	"\/residentevil3trial_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "8f3f3840ccfb215f15566ed326f2684a"
+	},
+	"\/residentevil3trial_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390946885",
+	  "size": "15360",
+	  "md5": "a2f6b5df2e1bc10b55eb23d0f09266ea",
+	  "crc32": "55bcafe6",
+	  "sha1": "b171c0b1fa7f560bcba0cdc59d3f6e220ffe9eb1"
+	},
+	"\/residentevil3trial_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474607229",
+	  "size": "1371",
+	  "md5": "849d5c82bc79b77cfe4258a399d6c1c1",
+	  "crc32": "a8a5bd78",
+	  "sha1": "e4b8a7a6058c1f8f03130847aa21761824941413"
+	},
+	"\/residentevil3trial_reviews.xml": {
+	  "source": "original",
+	  "mtime": "1444874628",
+	  "size": "1395",
+	  "md5": "17fb48ad8030c8fbcba0fcfcb71f7cc4",
+	  "crc32": "17c880c3",
+	  "sha1": "8f7266d1466e53869c16502b3b7090e8c0e0c2ec",
+	  "format": "Metadata"
+	},
+	"\/residentevil3trial_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "residentevil3trial.jpg",
+	  "mtime": "1390946903",
+	  "size": "5079",
+	  "md5": "c5946e81dcf2e5b629aadd1f26f5be7f",
+	  "crc32": "9f126319",
+	  "sha1": "fb816cb271df25a7ac0406e6278bd24837058742"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800306.us.archive.org\/6\/items\/residentevil3trial\/residentevil3trial_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 22671,
+	"week": 154,
+	"month": 790
+  }
+}

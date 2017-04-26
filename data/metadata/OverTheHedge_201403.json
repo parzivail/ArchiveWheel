@@ -1,0 +1,124 @@
+{
+  "server": "ia600501.us.archive.org",
+  "dir": "/34/items/OverTheHedge_201403",
+  "metadata": {
+	"identifier": [
+	  "OverTheHedge_201403"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Edge of Reality"
+	],
+	"date": [
+	  "2006"
+	],
+	"description": [
+	  "<div>When a housing development intrudes on their woodland habitat and an opossum is kidnapped by an evil exterminator, three wise-cracking rodents and one very neurotic reptile invade the 'burbs in a quest to rescue their friend. Battle the exterminator and his army of mind-controlled mammals, and save the forest (and your own hide) from the world's peskiest critter--man.<\/div>"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.5.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Over The Hedge Demo"
+	],
+	"year": [
+	  "2006"
+	],
+	"publicdate": [
+	  "2014-03-23 15:48:01"
+	],
+	"addeddate": [
+	  "2014-03-23 15:48:01"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407231838[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905805_27"
+	]
+  },
+  "files": {
+	"\/Over The Hedge.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1395589680",
+	  "size": "193475568",
+	  "md5": "d244476ead5885050fb4240acf5c48f3",
+	  "crc32": "caf34339",
+	  "sha1": "223c45cb4b1a71ed9dbff99bbed9415b3cc34c00"
+	},
+	"\/Over The Hedge.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1395589702",
+	  "size": "24884",
+	  "md5": "19caf5f9fc4bc041e8dbda2cae608b40",
+	  "crc32": "f7781f5b",
+	  "sha1": "e4f2498fa70e8b818d2e88ac6a56a003ee7c3311",
+	  "rotation": "0"
+	},
+	"\/Over The Hedge_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Over The Hedge.jpg",
+	  "mtime": "1395590869",
+	  "size": "4844",
+	  "md5": "1a5e8d19738f8d8d083e77c585115106",
+	  "crc32": "efd7d265",
+	  "sha1": "a2806e0e39eedcf7c4d2e36c89d1059b8291ecb7"
+	},
+	"\/OverTheHedge_201403_archive.torrent": {
+	  "source": "original",
+	  "btih": "6c09bfceb3865b0aa66c60e68e3bd215357a0f45",
+	  "mtime": "1474957987",
+	  "size": "9450",
+	  "md5": "af8aea1605ec8d91debd57a733242f95",
+	  "crc32": "f72f0791",
+	  "sha1": "1779d4ed16eaaebc074e33a1b7e1ac692bb132af",
+	  "format": "Archive BitTorrent"
+	},
+	"\/OverTheHedge_201403_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "97b1a7f73ba3c2396ab5df441cde174c"
+	},
+	"\/OverTheHedge_201403_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1395589734",
+	  "size": "14336",
+	  "md5": "332db06593ce83ae25c023526fcab634",
+	  "crc32": "4411290e",
+	  "sha1": "44f2c3867509993866411733a330dc43c34a5714"
+	},
+	"\/OverTheHedge_201403_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474957985",
+	  "size": "1200",
+	  "md5": "f147c6018b1b5717b4ba510fa1323d8c",
+	  "crc32": "8e689d02",
+	  "sha1": "77043ea7750c86345dff85de9dbfb673596213a0"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600501.us.archive.org\/34\/items\/OverTheHedge_201403\/Over%20The%20Hedge_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 291,
+	"week": 8,
+	"month": 22
+  }
+}

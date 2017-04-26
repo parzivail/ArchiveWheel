@@ -1,0 +1,132 @@
+{
+  "server": "ia601800.us.archive.org",
+  "dir": "/17/items/swizzle_demu_C64",
+  "metadata": {
+	"identifier": [
+	  "swizzle_demu_C64"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Digital Eclipse Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "This demo includes the Commodore 64 game Hacker."
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Activision's Commodore 64 15 Pack Demo"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2013-07-07 08:35:59"
+	],
+	"addeddate": [
+	  "2013-07-07 08:35:59"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407233405[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905703_10"
+	]
+  },
+  "files": {
+	"\/C64.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1373186172",
+	  "size": "2577790",
+	  "md5": "3e3e0f69c999d5b0c2760c94587c5f43",
+	  "crc32": "b7b326ba",
+	  "sha1": "055d6c45af14f486165c7697a126e4d61d207d2f"
+	},
+	"\/C64.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373186172",
+	  "size": "1255",
+	  "md5": "06aaee4ff2ad5f46e9ec411be55ff080",
+	  "crc32": "ae499c78",
+	  "sha1": "4ed422b745ab5bd3c9eb846f139d6ac91afb6631"
+	},
+	"\/c64.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1373186158",
+	  "size": "421",
+	  "md5": "aed2e0266564abde7ce6be9c083b355f",
+	  "crc32": "08543232",
+	  "sha1": "65eab13e1d3d20654c6a4f5372daa37398fb4d5c"
+	},
+	"\/c64.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1373186159",
+	  "size": "1273",
+	  "md5": "9f625b91b6f491f2b28082ff360a4554",
+	  "crc32": "1bee2f24",
+	  "sha1": "83eea886aae4d930e8178cfa31e35222444a8f6b"
+	},
+	"\/c64_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "c64.png",
+	  "mtime": "1373186185",
+	  "size": "1884",
+	  "md5": "27af4c81e3a84239a7bf0c046bcd8e45",
+	  "crc32": "47725b81",
+	  "sha1": "e8117ef5652200d5388e10d2682699076d072920"
+	},
+	"\/swizzle_demu_C64_archive.torrent": {
+	  "source": "original",
+	  "btih": "c63d457ea733dc3fc6626ad295b98b963e573641",
+	  "mtime": "1474833834",
+	  "size": "1900",
+	  "md5": "f4953bf04708d525e1daa0865f24be75",
+	  "crc32": "329f2103",
+	  "sha1": "7e65cfa19f3c16811c47f06569f9fa881830369a",
+	  "format": "Archive BitTorrent"
+	},
+	"\/swizzle_demu_C64_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "39186925298c32963c1af19e6f2f13ae"
+	},
+	"\/swizzle_demu_C64_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1474833833",
+	  "size": "881",
+	  "md5": "1153da74316fef195145411b555e35ef",
+	  "crc32": "cbf00ddc",
+	  "sha1": "b0b9cba802dc268ae28ca77760f9266dfe146f1d"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601800.us.archive.org\/17\/items\/swizzle_demu_C64\/c64_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 567,
+	"week": 16,
+	"month": 27
+  }
+}

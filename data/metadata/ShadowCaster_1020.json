@@ -1,0 +1,246 @@
+{
+  "server": "ia800307.us.archive.org",
+  "dir": "/9/items/ShadowCaster_1020",
+  "metadata": {
+	"identifier": [
+	  "ShadowCaster_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Raven Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "ORIGIN Systems"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Role playing games"
+	],
+	"title": [
+	  "ShadowCaster Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:46:19"
+	],
+	"addeddate": [
+	  "2012-09-04 03:46:19"
+	],
+	"year": [
+	  "1993"
+	],
+	"description": [
+	  "\"Morph At Will\n\nEach of your six metaforms (feline, floating eye, gremlin, frogman, flame lizard, and terramental) unleashes new powers and reveals new weaknesses. Fascinating shapeshifting technology morphs you from human to metaform and back before your eyes.\n\nReplay the adventure in a number of different ways, based on the morphform you select at any given time.\n\nThe Pace Never Falters\n\nFly, swim, and run indoors and out, through dungeons, caverns, castles, mines, volcanoes, and underwater caves.\n\nImmerse yourself in a combat and puzzles -- no mapping, spell memorization or anything that might slow the breakneck speed of this surging adventure.\n\nCD-Enhanced Sights And Sounds\n\nSubmerge yourself in the most outstanding 3-D animations and texture maps in any point-of-view game -- only possible with CD-ROM.\n\nBattle the latest formidable creatures in two challenging new levels of electrical excitement -- where even the walls are watching you!\n\nEnjoy the heightened experience of fully digitized speech and an even richer tapestry of sound than before! \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_start": [
+	  "SHADOWCA\/SHADOW.BAT"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475467119",
+	  "size": "290189",
+	  "md5": "8de13e349b937b7c3f779336ae2e37e3",
+	  "crc32": "ae041e4f",
+	  "sha1": "9e8ae0bc074f6a172d8699a7461330f646969e57",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475467154",
+	  "size": "4529",
+	  "md5": "5515fac76647de5f06cca7e4a09cb95c",
+	  "crc32": "34e6956b",
+	  "sha1": "cd37761a6c1954b25dc4a754537b43eff02dde15"
+	},
+	"\/ShadowCaster_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475467129",
+	  "size": "115652",
+	  "md5": "45e71fa773b09ebf4c8dea44bc73e6a6",
+	  "crc32": "cbd442e6",
+	  "sha1": "94d2a7cce8dcf689d1a5adacca965013c7a56f14",
+	  "format": "Animated GIF"
+	},
+	"\/ShadowCaster_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "1cdcde3dc1128095d0a26ece69f8e24074f7beab",
+	  "mtime": "1475467163",
+	  "size": "3904",
+	  "md5": "0712fe1cc88a45b979cfab22efa4e0c4",
+	  "crc32": "cdf9f783",
+	  "sha1": "06e0d05dec5b4085457f28691ced8945d502e402",
+	  "format": "Archive BitTorrent"
+	},
+	"\/ShadowCaster_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "e30f77bb5c4dcb64cf1a655b831cbab7"
+	},
+	"\/ShadowCaster_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475467139",
+	  "size": "9216",
+	  "md5": "a55511043d5f8ba06aa0da99d523495d",
+	  "crc32": "30ac8e74",
+	  "sha1": "a8b5bc2234010a5f824a79f5e7db56f3c1a359c1",
+	  "format": "Metadata"
+	},
+	"\/ShadowCaster_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471797729",
+	  "size": "1950",
+	  "md5": "17f860e8fff1601cbf57f0f1b5f580b1",
+	  "crc32": "3641d857",
+	  "sha1": "1385516fecf407e1afe64ba7026d6b961e68eaef"
+	},
+	"\/resource_item_1548.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346730394",
+	  "size": "15406",
+	  "md5": "6b48ccc30038c9fed569a948ea7cfe28",
+	  "crc32": "07c65a1c",
+	  "sha1": "6a32d1c64f0fb0b4919a30daca38634f99c87b7e",
+	  "rotation": "0"
+	},
+	"\/resource_item_1548.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730394",
+	  "size": "272",
+	  "md5": "7f60ab9e40928f4839bbd04d8626b1e7",
+	  "crc32": "1d12eade",
+	  "sha1": "c1dd332b578a0f9758f6106cc594ed07f900b26e"
+	},
+	"\/resource_item_1548_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1548.jpg",
+	  "mtime": "1346730989",
+	  "size": "4452",
+	  "md5": "d7a04d3bef81fe486a6bc657b299e4d3",
+	  "crc32": "ab102bd8",
+	  "sha1": "4eb20c972179399ab7cda49838e1c4f5f6925d1d"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475467122",
+	  "size": "172958",
+	  "md5": "89cb6cc5dc5f9ad69a40c9064bb7ddfb",
+	  "crc32": "d438927a",
+	  "sha1": "0fc11b228ec6ecabf2aa16bda88df6cb20eac4c5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475467155",
+	  "size": "3914",
+	  "md5": "04d0b51e3747a54cf451ee9fcf972801",
+	  "crc32": "2ac88cfe",
+	  "sha1": "6f6a831b967968739bd56c36810aa232aaed4cd8"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475467124",
+	  "size": "290189",
+	  "md5": "8de13e349b937b7c3f779336ae2e37e3",
+	  "crc32": "ae041e4f",
+	  "sha1": "9e8ae0bc074f6a172d8699a7461330f646969e57",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475467157",
+	  "size": "4529",
+	  "md5": "5515fac76647de5f06cca7e4a09cb95c",
+	  "crc32": "34e6956b",
+	  "sha1": "cd37761a6c1954b25dc4a754537b43eff02dde15"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1475467126",
+	  "size": "288164",
+	  "md5": "7048cfcbb5aedeb41e8520ba33d77914",
+	  "crc32": "f34b9f0e",
+	  "sha1": "e116bbc8474bbbf157f251c40a4b84040952ce50",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1475467162",
+	  "size": "4659",
+	  "md5": "041d3f873ac8a47fef177684ee09fd18",
+	  "crc32": "82c4633c",
+	  "sha1": "e5ba29e9402197e385d1f4a881de3239f549a431"
+	},
+	"\/shadowca.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730391",
+	  "size": "1327033",
+	  "md5": "4fc385a819e87cfce453455c9868cc8b",
+	  "crc32": "196c0ee0",
+	  "sha1": "8527cf2e95c8265bf092e0473b9e58c16c62d58c"
+	},
+	"\/shadowca.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730392",
+	  "size": "661",
+	  "md5": "ba2a64c1afa63393b029de9d4b356848",
+	  "crc32": "4007e285",
+	  "sha1": "c8202e4339f9cbabddf1311a9cabc16b66b385eb"
+	},
+	"\/shadowca_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475467133",
+	  "size": "437973",
+	  "md5": "0827fed71bf6a15cf8ffc2d658d11895",
+	  "crc32": "e1359a7e",
+	  "sha1": "babf88554f116bf7f566dcbe9b0e13d674996e21",
+	  "format": "Emulator Screenshot"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia800307.us.archive.org\/9\/items\/ShadowCaster_1020\/ShadowCaster_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 667,
+	"week": 3,
+	"month": 11
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "server": "ia902608.us.archive.org",
+  "dir": "/19/items/erbeta",
+  "metadata": {
+	"identifier": [
+	  "erbeta"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Firetoad Software"
+	],
+	"date": [
+	  "1999"
+	],
+	"description": [
+	  "<div>Everglade Rush is a 3D hovercraft racing game. Everglade Rush includes tracks from all over the world, with many different and customizable hovercrafts and characters to choose from. In addition to realistic water and environmental effects already employed, the developer plans to create animals to swim with and lots of hidden secrets to find. This beta version of Everglade Rush has only one track.<\/div>"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.4.2"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Everglade Rush Demo"
+	],
+	"year": [
+	  "1999"
+	],
+	"publicdate": [
+	  "2014-01-28 16:05:21"
+	],
+	"addeddate": [
+	  "2014-01-28 16:05:21"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234254[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia905803_20"
+	]
+  },
+  "files": {
+	"\/erbeta.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1390925121",
+	  "size": "7081989",
+	  "md5": "72ff319d824d58509c01d42d2fe9c55c",
+	  "crc32": "d0db52f5",
+	  "sha1": "0a14ba965c453babad4bc94c18208afb48eb376a"
+	},
+	"\/erbeta.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1390925133",
+	  "size": "89200",
+	  "md5": "23d589be4fb7f56edfa606cdeb4f6f21",
+	  "crc32": "3507231e",
+	  "sha1": "d62555fa64a08ee4380d78f8c845db1def6bf134",
+	  "rotation": "0"
+	},
+	"\/erbeta_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "07d36ccf9a76489d52c7058168b9a041"
+	},
+	"\/erbeta_meta.sqlite": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1390925139",
+	  "size": "14336",
+	  "md5": "424126542bd352e751b9ac8ad2f62d62",
+	  "crc32": "7d7224e1",
+	  "sha1": "bb663553bac91bc0cd27de89ec69cd9f1f63ba1a"
+	},
+	"\/erbeta_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1473550418",
+	  "size": "1227",
+	  "md5": "d845b94f431ac92eda0cb41e27092768",
+	  "crc32": "bbc871aa",
+	  "sha1": "8f8a6832a33e17c7f412668085b0e761eec46aaf"
+	},
+	"\/erbeta_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "erbeta.jpg",
+	  "mtime": "1390927344",
+	  "size": "5082",
+	  "md5": "30ff019b31e5a81b923e4e5d50d7b2fb",
+	  "crc32": "31965489",
+	  "sha1": "f4d4fd7b09f0671665a790a03ef2f2b41d2ff45f"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia902608.us.archive.org\/19\/items\/erbeta\/erbeta_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 203,
+	"week": 5,
+	"month": 35
+  }
+}

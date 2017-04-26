@@ -1,0 +1,139 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/15/items/InnerDemons_1020",
+  "metadata": {
+	"identifier": [
+	  "InnerDemons_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"date": [
+	  "1996"
+	],
+	"description": [
+	  "Inner Demons is a text\/graphics adventure in which the player is put into the mind of a madman. You must overcome the demons that haunt your life or succumb to them. Includes SVGA graphics and an easy to use command system. Requires a 386 or better and SVGA card. This is a shareware demo of the game. This game includes some violent descriptions, which may not be suitable for children."
+	],
+	"license": [
+	  "shareware"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"named-persons": [
+	  "Michael Zerbo"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Inner Demons"
+	],
+	"publicdate": [
+	  "2012-09-04 03:49:54"
+	],
+	"addeddate": [
+	  "2012-09-04 03:49:54"
+	],
+	"year": [
+	  "1996"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "DEMONS.EXE"
+	]
+  },
+  "files": {
+	"\/InnerDemons_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "46c662e4b84cc7bd1665665aa56cabdee3d03fc1",
+	  "mtime": "1475797195",
+	  "size": "1875",
+	  "md5": "d4acb36705ebe76ec91fdfd85419345b",
+	  "crc32": "0b5b9a87",
+	  "sha1": "6ad4234f694e3d24d59c59faf8797a5c45976bbf",
+	  "format": "Archive BitTorrent"
+	},
+	"\/InnerDemons_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4e94d17317996a27cbae4f58a2b1f939"
+	},
+	"\/InnerDemons_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475797194",
+	  "size": "1256",
+	  "md5": "344f034b58ed8bad9bfabba4299ff5ba",
+	  "crc32": "d14e220b",
+	  "sha1": "37e3dbc79f3782ec673b40c45e9f14cee49c8fe0"
+	},
+	"\/demons.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730600",
+	  "size": "638607",
+	  "md5": "af3fe1a388ebe1a18b13a19665ab42c2",
+	  "crc32": "025fde6c",
+	  "sha1": "73d904896801f4656b8c4b886c4e398017e506c3"
+	},
+	"\/demons.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730600",
+	  "size": "1071",
+	  "md5": "72de111e2dff59933e0a16584af200e5",
+	  "crc32": "830323f7",
+	  "sha1": "25f49919b99f7b5c094193fc134d74cff018c457"
+	},
+	"\/resource_item_1582.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731626",
+	  "size": "7175",
+	  "md5": "071802c5e3cd816ecd1ea2669d251312",
+	  "crc32": "c3a3dcd7",
+	  "sha1": "e645ce0c6dcbab23ccd4d0eed795b308251ff324",
+	  "rotation": "0"
+	},
+	"\/resource_item_1582.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731626",
+	  "size": "271",
+	  "md5": "4a3ae95d3c22413f2cbe53de052b5d55",
+	  "crc32": "0175ae3f",
+	  "sha1": "122d9fe699cf87648d02c77f5d2f809d2de94a44"
+	},
+	"\/resource_item_1582_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1582.jpg",
+	  "mtime": "1346733055",
+	  "size": "2939",
+	  "md5": "b50ee23cefcee6bc5ef73018392aa27f",
+	  "crc32": "3c9c82f5",
+	  "sha1": "9e8622d0a379a21f35773e78afdd8515ff3fe871"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/15\/items\/InnerDemons_1020\/resource_item_1582_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 112,
+	"week": 4,
+	"month": 6
+  }
+}

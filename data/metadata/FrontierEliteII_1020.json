@@ -1,0 +1,219 @@
+{
+  "server": "ia600508.us.archive.org",
+  "dir": "/3/items/FrontierEliteII_1020",
+  "metadata": {
+	"identifier": [
+	  "FrontierEliteII_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "GameTek"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "The most eagerly awaited sequel to date, Frontier pitches you far, far into the future to the year 3200. Civilisations have spread through the galaxy hundreds of light years from earth in all directions. Vast areas of the galaxy remain unexplored and with many thousands of worlds now settled in the cosmos, a rich and varied life of adventure awaits. Take on the role of a space trader known to moonlight as an intergalactic mercenary and watch the Universe unfold before your very eyes."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Konami"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Frontier: Elite II Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 03:54:33"
+	],
+	"addeddate": [
+	  "2012-09-04 03:54:33"
+	],
+	"year": [
+	  "1993"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234218[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "FRONTIER\/FRONTIER.EXE"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475269331",
+	  "size": "86784",
+	  "md5": "a7c885c95d740a8c9f6e444034165c17",
+	  "crc32": "ae301f0e",
+	  "sha1": "f79a9d0e120ee794e00b37bfcb7dafa6692c3e07",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475269360",
+	  "size": "4287",
+	  "md5": "4bbfe9c7217e609bc643b99f1e1e5458",
+	  "crc32": "4366cef0",
+	  "sha1": "cf571cf8f5df3546135761435ef50b7c6b7b7571"
+	},
+	"\/FrontierEliteII_1020.gif": {
+	  "source": "original",
+	  "mtime": "1475269340",
+	  "size": "10573",
+	  "md5": "ae032352531de671248672dbcfb8de3e",
+	  "crc32": "0b816d22",
+	  "sha1": "23156d89a62573b3457cdfad3ff4d505f65be243",
+	  "format": "Animated GIF"
+	},
+	"\/FrontierEliteII_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7b96e2073c01ce01dba9813659b398c4"
+	},
+	"\/FrontierEliteII_1020_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475269349",
+	  "size": "9216",
+	  "md5": "4dcb37dd803125341e7e86268ee5fe64",
+	  "crc32": "a700be37",
+	  "sha1": "132c8c5c8923743d6e7b425255f7e6e7a9a9b9a9",
+	  "format": "Metadata"
+	},
+	"\/FrontierEliteII_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1471798362",
+	  "size": "1390",
+	  "md5": "d949551864afdba78b6a4e77d09bb0bb",
+	  "crc32": "3e23f9ba",
+	  "sha1": "3379c461fa2962cc58c161fca2fd57fa85fb38a5"
+	},
+	"\/frontier.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346730879",
+	  "size": "142698",
+	  "md5": "7cc6876c3170eb0cc792f7555bc4b6b4",
+	  "crc32": "a1d779fd",
+	  "sha1": "df9dcdedda0c704b69fe073c87703283fd0619d3"
+	},
+	"\/frontier.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346730879",
+	  "size": "1162",
+	  "md5": "bc00706200a2985bba520b2e7ef982b7",
+	  "crc32": "414e7cc6",
+	  "sha1": "1aff0a59f55206b95ccbdcc17b07724f0529a7c4"
+	},
+	"\/frontier_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475269344",
+	  "size": "34135",
+	  "md5": "86f1ae043186c5eba73a0909cadf3a66",
+	  "crc32": "dfaa23be",
+	  "sha1": "7d07eac46b54833c073e3a3c8f5eda1144300065",
+	  "format": "Emulator Screenshot"
+	},
+	"\/resource_item_1525.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346731635",
+	  "size": "8924",
+	  "md5": "54470ab71977af31ea123c24ecc22ca1",
+	  "crc32": "d3ccec93",
+	  "sha1": "a92c0822a3813c663af7ba60e4255776222a954f",
+	  "rotation": "0"
+	},
+	"\/resource_item_1525.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346731635",
+	  "size": "271",
+	  "md5": "cbd81bc94b2869566277d03893e7ce07",
+	  "crc32": "582af622",
+	  "sha1": "0a61392c5c0dd38e8a6b15284554fc20b92e0138"
+	},
+	"\/resource_item_1525_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1525.jpg",
+	  "mtime": "1346733061",
+	  "size": "3358",
+	  "md5": "4040c5b1cca13e3905c91c091955ec98",
+	  "crc32": "10b23a54",
+	  "sha1": "29f351e6f4492115c9654e8c6097f249a54c0a89"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475269334",
+	  "size": "86784",
+	  "md5": "a7c885c95d740a8c9f6e444034165c17",
+	  "crc32": "ae301f0e",
+	  "sha1": "f79a9d0e120ee794e00b37bfcb7dafa6692c3e07",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475269362",
+	  "size": "4287",
+	  "md5": "4bbfe9c7217e609bc643b99f1e1e5458",
+	  "crc32": "4366cef0",
+	  "sha1": "cf571cf8f5df3546135761435ef50b7c6b7b7571"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1475269337",
+	  "size": "86750",
+	  "md5": "9feb0ac6128f9c7029a167735cc21b1a",
+	  "crc32": "75eba4f8",
+	  "sha1": "1cd8472006972173b7f80afca1a407b1fc624cfb",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1475269364",
+	  "size": "4273",
+	  "md5": "0e9f9154637dc31c16154fe508a88857",
+	  "crc32": "7c69c9c5",
+	  "sha1": "f55ab08e80b86ceb2220e27bc5ba009146ec821a"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600508.us.archive.org\/3\/items\/FrontierEliteII_1020\/FrontierEliteII_1020.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 606,
+	"week": 6,
+	"month": 9
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "server": "ia601409.us.archive.org",
+  "dir": "/10/items/1ROMEDMO",
+  "metadata": {
+	"identifier": [
+	  "1ROMEDMO"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Mindcraft Software"
+	],
+	"date": [
+	  "1993"
+	],
+	"description": [
+	  "<div>SIEGE* warfare moves from the fantasy worlds of Gurtex and Solia to the historical lands of Europe, Asia and Africa in Walls of Rome. All the siege techniques of classical antiquity are in your hands. \u00a0Scale the walls with ladders, bombard them with boulders or\u00a0flaming\u00a0pitch, or undermine and collapse them. Armies from a multitude of times and places are under your command; fortifications of many types in many settings are yours to besiege or defend. \u00a0Play the ready scenarios, separately or in\u00a0campaigns, or use the editor to combine and modify the troops and maps in myriads of ways.\u00a0<\/div><div>Extensive research and design experience give Walls of Rome an exciting depth of strategy, level of reality, and height of enjoyment.<\/div>"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Walls of Rome Demo"
+	],
+	"year": [
+	  "1993"
+	],
+	"publicdate": [
+	  "2013-02-04 22:52:40"
+	],
+	"addeddate": [
+	  "2013-02-04 22:52:40"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 0.8"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407232510[\/date][comment]checked for malware[\/comment]"
+	],
+	"emulator_start": [
+	  "walls.bat"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"backup_location": [
+	  "ia905605_33"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1475150045",
+	  "size": "289867",
+	  "md5": "9a537f18ac0ced6f8fa2e661493ef751",
+	  "crc32": "1fb305da",
+	  "sha1": "db89c1cedd25e50d78e3b95eacdb4e07b1c58864",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1475150072",
+	  "size": "4537",
+	  "md5": "e783db95503b0dfd11f2fdeafdab37f1",
+	  "crc32": "f7fb5f33",
+	  "sha1": "3542121e7827d78f537bb2b2feece770bafe0d9b"
+	},
+	"\/1ROMEDMO.ARJ_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1360018360",
+	  "size": "1966",
+	  "md5": "7a4a0e964a715d79955e8c7b91f54318",
+	  "crc32": "74516c7e",
+	  "sha1": "a7a206049fcb8eef04922e3fd2566a84bc665e5a"
+	},
+	"\/1ROMEDMO.gif": {
+	  "source": "original",
+	  "mtime": "1475150053",
+	  "size": "56017",
+	  "md5": "a6cbfc95e49c561b19ee934168637990",
+	  "crc32": "2c9f50f2",
+	  "sha1": "39eead514a6a69fb589b86f5d6ff9ff79be56e82",
+	  "format": "Animated GIF"
+	},
+	"\/1ROMEDMO_archive.torrent": {
+	  "source": "original",
+	  "btih": "ae19394db0555584328398bf9e7a7d6d1dfa0aaf",
+	  "mtime": "1475268064",
+	  "size": "3042",
+	  "md5": "420f4e9adf891d32eb0174ce1b613661",
+	  "crc32": "dfb5ed70",
+	  "sha1": "03034d59867d2fd8783404b297482a4a94200d34",
+	  "format": "Archive BitTorrent"
+	},
+	"\/1ROMEDMO_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "a20c554c3c1a45b6a820728872515541"
+	},
+	"\/1ROMEDMO_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1475150061",
+	  "size": "8192",
+	  "md5": "2c3b4c421b7cff75daf454a97e74b190",
+	  "crc32": "d796c1e2",
+	  "sha1": "572a3ea804168bfe0bc780031fb60a2874d687c1",
+	  "format": "Metadata"
+	},
+	"\/1ROMEDMO_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1475268063",
+	  "size": "1643",
+	  "md5": "5d55b9ca25be0a5a2b477bf1bd0e6617",
+	  "crc32": "d5659226",
+	  "sha1": "e5d48e3eb6ddb0d96121b62940883d8b536da33b"
+	},
+	"\/1rome.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1472155184",
+	  "size": "1029320",
+	  "md5": "2da90788980b8ce6b86ab7336244c153",
+	  "crc32": "2aac6cd9",
+	  "sha1": "94fa29bf4c53b812f9499a69435a62000170d85d"
+	},
+	"\/1rome_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1475150057",
+	  "size": "133937",
+	  "md5": "27f877d2458b90089498d545f327f192",
+	  "crc32": "e2034ab5",
+	  "sha1": "4cf9ef6123500169a4e20a93caa9aa556e745ea0",
+	  "format": "Emulator Screenshot"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1475150050",
+	  "size": "289867",
+	  "md5": "9a537f18ac0ced6f8fa2e661493ef751",
+	  "crc32": "1fb305da",
+	  "sha1": "db89c1cedd25e50d78e3b95eacdb4e07b1c58864",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1475150074",
+	  "size": "4537",
+	  "md5": "e783db95503b0dfd11f2fdeafdab37f1",
+	  "crc32": "f7fb5f33",
+	  "sha1": "3542121e7827d78f537bb2b2feece770bafe0d9b"
+	},
+	"\/w_001.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "mtime": "1360018370",
+	  "size": "12090",
+	  "md5": "0dd956d3a2963ab1555074da9eef6f22",
+	  "crc32": "07cb23d0",
+	  "sha1": "493296342a9a7d77e394fb59e87c574050dbb54f"
+	},
+	"\/w_001.png_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1360018370",
+	  "size": "1933",
+	  "md5": "b3a5ab856224ab28f9257fafc636271c",
+	  "crc32": "6f31a231",
+	  "sha1": "b08156b3081b43bbf0a177ed2fdedc7d193a1d18"
+	},
+	"\/w_001_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "w_001.png",
+	  "mtime": "1360018379",
+	  "size": "4826",
+	  "md5": "cf4eb2d7558e2548b6b4472d215fd280",
+	  "crc32": "3cc43674",
+	  "sha1": "82f4ffef4b8288026b6ca775bd52de8c34aec1d7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601409.us.archive.org\/10\/items\/1ROMEDMO\/1ROMEDMO.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 149,
+	"week": 5,
+	"month": 5
+  }
+}

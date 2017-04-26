@@ -1,0 +1,132 @@
+{
+  "server": "ia600307.us.archive.org",
+  "dir": "/32/items/Rayman_1020",
+  "metadata": {
+	"identifier": [
+	  "Rayman_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Ubi Soft"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "Enter the challenging, mind-altering world of Rayman and, suddenly, reality seems far too tame. Free your mind as Rayman takes you on an arduous adventure through a complex realm of psychedelic landscapes, absurd characters, formidable opponents, and uncharted levels of dementia. You'll experience a heightened sense of visual awareness. You'll hear strange and beautiful sounds. Endless legions of bizarre creatures will be out to get you. One trip into Rayman's kaleidoscopic domain...and you'll be addicted."
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Ubi Soft"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Action games"
+	],
+	"title": [
+	  "Rayman Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 09:09:51"
+	],
+	"addeddate": [
+	  "2012-09-04 09:09:51"
+	],
+	"year": [
+	  "1995"
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234251[\/date][comment]checked for malware[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_ext": [
+	  "ZIP"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_start": [
+	  "rayman.exe"
+	]
+  },
+  "files": {
+	"\/RAYMAN.ZIP": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1476204671",
+	  "size": "2741792",
+	  "md5": "02da9c9c8f13105119c94b42fcb988eb",
+	  "crc32": "1fccaac5",
+	  "sha1": "dbc3dd44682a68a68aa4287c11e591cddb63c14e"
+	},
+	"\/RAYMAN.ZIP_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346749821",
+	  "size": "1177",
+	  "md5": "e0eda732ff0790bbeb0fb29a1504afe7",
+	  "crc32": "b8774475",
+	  "sha1": "6a31748f508fd0c6ba1d784317d1ce8803b7f1bf"
+	},
+	"\/Rayman_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "b658799eaa3919098c0701004cf0dc7b"
+	},
+	"\/Rayman_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204908",
+	  "size": "1384",
+	  "md5": "f5a582ecbc3beeea6fd57e8dd9dc289d",
+	  "crc32": "3c80611b",
+	  "sha1": "204920ab510209bbbd814da34203b8f5ab9dcbfc"
+	},
+	"\/resource_item_2011.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346749823",
+	  "size": "14990",
+	  "md5": "440a4e5571d796431224c3b2abb33533",
+	  "crc32": "f534ce41",
+	  "sha1": "d3849184dc827ef1ee9d9b25a2c8655668c32a0c",
+	  "rotation": "0"
+	},
+	"\/resource_item_2011.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346749823",
+	  "size": "272",
+	  "md5": "29f09b7f47d0a11c88c4a8d97feb4bf3",
+	  "crc32": "983807c2",
+	  "sha1": "e25d59a5147fc5be80503dfc7f14d5affdeaa349"
+	},
+	"\/resource_item_2011_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_2011.jpg",
+	  "mtime": "1346751093",
+	  "size": "5364",
+	  "md5": "7973a5db324d4d63dc8b42675ff6e5e3",
+	  "crc32": "28aa2eb7",
+	  "sha1": "d2c2663a09ec2f6feb13c3a51f669c538b294fd7"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600307.us.archive.org\/32\/items\/Rayman_1020\/resource_item_2011_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 647,
+	"week": 7,
+	"month": 16
+  }
+}

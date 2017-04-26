@@ -1,0 +1,135 @@
+{
+  "server": "ia600403.us.archive.org",
+  "dir": "/11/items/james-bondage",
+  "metadata": {
+	"identifier": [
+	  "james-bondage"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"creator": [
+	  "Jeroen Dekker"
+	],
+	"date": [
+	  "2001-10"
+	],
+	"description": [
+	  "Point and click adventure game created with Adventure Game Studio.<div><br \/><\/div><div>Entrant in the October 2001 MAGS contest.<\/div>\n<div>AGS database page: <a href=\"http:\/\/www.adventuregamestudio.co.uk\/site\/games\/game\/1782\/\" rel=\"nofollow\">http:\/\/www.adventuregamestudio.co.uk\/site\/games\/game\/1782\/<\/a><\/div>"
+	],
+	"language": [
+	  "eng"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"title": [
+	  "James Bondage"
+	],
+	"publicdate": [
+	  "2016-05-29 13:11:54"
+	],
+	"addeddate": [
+	  "2016-05-29 13:11:54"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20160529131739[\/date][comment]checked for malware[\/comment]"
+	],
+	"year": [
+	  "2001"
+	],
+	"subject": [
+	  "Adventure Game Studio games; AGS Awards 2001; AGS Award nominees; AGS Best Demo Award nominees",
+	  "MAGS 2001-10 Hallowe'en"
+	],
+	"no_readme": [
+	  "true"
+	],
+	"collection": [
+	  "magscompetitiongames",
+	  "classicpcgames",
+	  "adventuregamestudio"
+	],
+	"backup_location": [
+	  "ia906109_18"
+	],
+	"ags_format_version": [
+	  "11"
+	],
+	"ags_packing_version": [
+	  "10"
+	]
+  },
+  "files": {
+	"\/james-bondage.png": {
+	  "source": "original",
+	  "mtime": "1464527527",
+	  "size": "9836",
+	  "md5": "465a71c53817612affaea26b015f7e29",
+	  "crc32": "35518a96",
+	  "sha1": "9e09c14fb7286e5e4793f1d508fcedb68eefd868",
+	  "format": "PNG"
+	},
+	"\/james-bondage.zip": {
+	  "source": "original",
+	  "mtime": "1464527514",
+	  "size": "657722",
+	  "md5": "ce6e9572f20a2cdaeed7e40202430565",
+	  "crc32": "7d3997b9",
+	  "sha1": "6131c2095893f99703255bd3a50038026134976d",
+	  "format": "ZIP"
+	},
+	"\/james-bondage_archive.torrent": {
+	  "source": "original",
+	  "btih": "f345539d0b0ae95925f90bbe939f27dc302d4903",
+	  "mtime": "1490654742",
+	  "size": "2027",
+	  "md5": "165d5dd6973ba28ccc5463794719fa98",
+	  "crc32": "2a71ae21",
+	  "sha1": "483e7f55bb142f34bd8c566cd2814ef0d107d6d1",
+	  "format": "Archive BitTorrent"
+	},
+	"\/james-bondage_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "f432d894f765d72f0f684afd6389c213"
+	},
+	"\/james-bondage_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1464527546",
+	  "size": "12288",
+	  "md5": "6bdb2f5c55cf39e01f09a8b27ca08290",
+	  "crc32": "357fdc59",
+	  "sha1": "1393f20152e3435733186b2220621f37aaefe3e8",
+	  "format": "Metadata"
+	},
+	"\/james-bondage_meta.xml": {
+	  "source": "original",
+	  "mtime": "1490654741",
+	  "size": "1466",
+	  "format": "Metadata",
+	  "md5": "914381c536799a11a5008f12123fdc21",
+	  "crc32": "e2a7ad72",
+	  "sha1": "dd02389ac6af717a969fa669912892043bcaaa6c"
+	},
+	"\/james-bondage_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "james-bondage.png",
+	  "mtime": "1464527864",
+	  "size": "4395",
+	  "md5": "26ebf22cbe7b57d1e6512ceba37f33c7",
+	  "crc32": "07db9a8b",
+	  "sha1": "3ac07e755a71abe1db929a80ce2bbb2294cae0e2"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600403.us.archive.org\/11\/items\/james-bondage\/james-bondage_thumb.jpg",
+	"collection-title": "MAGS Competition Games"
+  },
+  "item": {
+	"downloads": 127,
+	"week": 4,
+	"month": 7
+  }
+}

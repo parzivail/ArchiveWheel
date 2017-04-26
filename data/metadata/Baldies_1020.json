@@ -1,0 +1,139 @@
+{
+  "server": "ia600804.us.archive.org",
+  "dir": "/9/items/Baldies_1020",
+  "metadata": {
+	"identifier": [
+	  "Baldies_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Creative Edge Software"
+	],
+	"date": [
+	  "1995"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Panasonic Interactive Media"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Strategy games"
+	],
+	"title": [
+	  "Baldies Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 05:40:40"
+	],
+	"addeddate": [
+	  "2012-09-04 05:40:40"
+	],
+	"year": [
+	  "1995"
+	],
+	"description": [
+	  "\"Ever want to rule the world? With Baldies you have the resources, but do you have the strategy and skill? Build your own society complete with workers, builders, soldiers, and scientists, and use them to conquer enemy territory.\n\nWhen it comes to killing your foe, creativity is highly encouraged. You can skunk 'em, drown 'em, blow 'em up, and electrocute 'em. The only limit is your imagination. Plan your attack well. The enemy is trying to do the same to you! \""
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308010027[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903907_2"
+	],
+	"emulator_start": [
+	  "BALDIES\/BALDIES.EXE"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	]
+  },
+  "files": {
+	"\/BALDIES.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346737247",
+	  "size": "690862",
+	  "md5": "83c2fc9e218c7ced9186c9d239ab10de",
+	  "crc32": "1a4f4de0",
+	  "sha1": "2ed57d36f4b3fff669f3f8bce48647030511cc5a"
+	},
+	"\/BALDIES.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346737247",
+	  "size": "672",
+	  "md5": "79c6e8694df6ca18b0f4ecb8a4b17ae2",
+	  "crc32": "93e4d26a",
+	  "sha1": "04411f980984f53096eadac6d9ad97fbc8bff5a6"
+	},
+	"\/Baldies_1020_archive.torrent": {
+	  "source": "original",
+	  "btih": "4a0647ae530dbd3444982a387ef5b09c051d0c0a",
+	  "mtime": "1476204477",
+	  "size": "1843",
+	  "md5": "3fbc10379f0d9525cdf17ca0cf5813ee",
+	  "crc32": "43b91fb2",
+	  "sha1": "1cd80cdd7e34649b426a34bffacc35a3b946274e",
+	  "format": "Archive BitTorrent"
+	},
+	"\/Baldies_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "24cebfc4cabd997978871c71786b6c1b"
+	},
+	"\/Baldies_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1476204476",
+	  "size": "1358",
+	  "md5": "cea968c3eea61e61d1ad390d6780cee8",
+	  "crc32": "09581e57",
+	  "sha1": "a5e69b5c2feca412fc4ce608a3df0092aeadec2d"
+	},
+	"\/resource_item_1844.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346744653",
+	  "size": "15694",
+	  "md5": "1eb4b76ee94cc782473827d73e42c3bb",
+	  "crc32": "9969d7d7",
+	  "sha1": "ad63cada92022ef66cf4e22175eb09ca1d12a376",
+	  "rotation": "0"
+	},
+	"\/resource_item_1844.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346744653",
+	  "size": "272",
+	  "md5": "b136a76fc7d2e6cf49e14925b6488748",
+	  "crc32": "0e207414",
+	  "sha1": "2ebe6ec78ed2d44130247fc6fc80749088410cdf"
+	},
+	"\/resource_item_1844_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1844.jpg",
+	  "mtime": "1346745173",
+	  "size": "4098",
+	  "md5": "b6ca0e6fa680f9136506eb1654c78893",
+	  "crc32": "991766ea",
+	  "sha1": "039ca0810f1273d439c8343cf5881e369a3c7d47"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600804.us.archive.org\/9\/items\/Baldies_1020\/resource_item_1844_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 659,
+	"week": 3,
+	"month": 4
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "server": "ia601909.us.archive.org",
+  "dir": "/35/items/FGWTET11",
+  "metadata": {
+	"identifier": [
+	  "FGWTET11"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Diana Gruber"
+	],
+	"date": [
+	  "1995"
+	],
+	"description": [
+	  "<div>I wrote this program for several reasons. First, I am trying to figure<\/div><div>out how Delphi works. Don't laugh. Delphi is powerful and<\/div><div>non-trivial. There are a lot of undocumented features. Even the<\/div><div>documented ones are sometimes cryptic and non-obvious. I'm making<\/div><div>slow progress.<\/div><div><br \/><\/div><div>Second, I wanted to beta-test Fastgraph for Windows. Somebody needs to<\/div><div>keep an eye on Ted and make sure he is writing it right.<\/div><div><br \/><\/div><div>Third, I wanted to provide a demo program for our Fastgraph\/Delphi<\/div><div>users, so they can get an idea how to write Windows games. This is<\/div><div>perhaps not the most brilliant Windows program ever written, but it's<\/div><div>a start. Very likely, you will find better ways to solve some of the<\/div><div>problems this program addresses. If so, please tell me.<\/div><div><br \/><\/div><div>Finally, I was asked to judge a contest sponsored by the x2.ftp.oulu<\/div><div>group. \u00a0One of the contest categories is \"best tetris\". I thought<\/div><div>tackling tetris programming myself would make me a better judge.<\/div><div><br \/><\/div><div>So here it is, my version of tetris for Windows. It took me about<\/div><div>three weeks to write the program. My understanding of Windows<\/div><div>programming and Delphi programming has improved considerably, and<\/div><div>hopefully looking at this program will shed some light on the process<\/div><div>for you too.<\/div>"
+	],
+	"license": [
+	  "freeware"
+	],
+	"scanner": [
+	  "Internet Archive HTML5 Uploader 1.6.3"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Puzzle games"
+	],
+	"title": [
+	  "Fastgraph Tetris"
+	],
+	"year": [
+	  "1995"
+	],
+	"publicdate": [
+	  "2016-10-31 21:09:18"
+	],
+	"addeddate": [
+	  "2016-10-31 21:09:18"
+	],
+	"emulator_start": [
+	  "d:\\runapp wintet.exe"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"dosbox_drive_d": [
+	  "emularity_win31\/win31.zip"
+	],
+	"backup_location": [
+	  "ia906209_35"
+	]
+  },
+  "files": {
+	"\/Clipboard-20161031-04.png": {
+	  "source": "original",
+	  "mtime": "1477948157",
+	  "size": "7389",
+	  "md5": "ea68ef8836748a9544f8620888a0fdf3",
+	  "crc32": "f91df3fb",
+	  "sha1": "bd484c8502bfae897bdd5638048cdd4d0245726a",
+	  "format": "PNG"
+	},
+	"\/Clipboard-20161031-04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "Clipboard-20161031-04.png",
+	  "mtime": "1477948244",
+	  "size": "3840",
+	  "md5": "c570ed077eedb8ef5467b690f2bd42ee",
+	  "crc32": "8d1c2268",
+	  "sha1": "14fa1f207cef5e239673f674c7053c0b27c1aa32"
+	},
+	"\/FGWTET11.zip": {
+	  "source": "original",
+	  "mtime": "1477948173",
+	  "size": "152098",
+	  "md5": "bc4f3f590a53cb154bfada33adc180f3",
+	  "crc32": "b1afd342",
+	  "sha1": "be3dc8ac2d084ec70be780522ad054b04e4cb2b1",
+	  "format": "ZIP"
+	},
+	"\/FGWTET11_archive.torrent": {
+	  "source": "original",
+	  "btih": "89c64c7bf976ec1a0bde279ffb90b6a7e064e1e7",
+	  "mtime": "1482571108",
+	  "size": "1971",
+	  "md5": "aaac230e33daff3020412315e23096b4",
+	  "crc32": "00fd0db6",
+	  "sha1": "18c5093144797461d3b3c5e17f8a32c591cdf2b5",
+	  "format": "Archive BitTorrent"
+	},
+	"\/FGWTET11_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "7bc8cdbec17fa91c10771b23a31744ac"
+	},
+	"\/FGWTET11_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1477948213",
+	  "size": "18432",
+	  "md5": "508cc8fd20ed50332d5a9c34b50dad6f",
+	  "crc32": "9a42a941",
+	  "sha1": "a10c4b2ebc3586003d388a7f5f816abb851774aa",
+	  "format": "Metadata"
+	},
+	"\/FGWTET11_meta.xml": {
+	  "source": "original",
+	  "mtime": "1482571106",
+	  "size": "2626",
+	  "format": "Metadata",
+	  "md5": "fd510120857899b566942aadeb3169ad",
+	  "crc32": "400f1dcf",
+	  "sha1": "3cbefd7ca5471617a0ee4d9fe3ce80fbdf36b3d6"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia601909.us.archive.org\/35\/items\/FGWTET11\/Clipboard-20161031-04_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 22,
+	"week": 4,
+	"month": 6
+  }
+}

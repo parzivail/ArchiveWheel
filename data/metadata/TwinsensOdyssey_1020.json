@@ -1,0 +1,126 @@
+{
+  "server": "ia600301.us.archive.org",
+  "dir": "/9/items/TwinsensOdyssey_1020",
+  "metadata": {
+	"identifier": [
+	  "TwinsensOdyssey_1020"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"creator": [
+	  "Adeline Software"
+	],
+	"date": [
+	  "1997"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"publisher": [
+	  "Activision"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Adventure games"
+	],
+	"title": [
+	  "Twinsen's Odyssey Demo"
+	],
+	"publicdate": [
+	  "2012-09-04 02:29:19"
+	],
+	"addeddate": [
+	  "2012-09-04 02:29:19"
+	],
+	"year": [
+	  "1997"
+	],
+	"description": [
+	  "Twinsen has been the hero of the planet Twinsun ever since he vanquished the evil dictator Dr. FunFrock in Relentless. Trouble begins with the arrival of unidentified spaceships that are piloted by strange beings called Esmers. Twinsen, now a graduate magician, is kidnapped by the Esmers and taken to the planet Zeelich. He learns of their plot to kidnap the children of Twinsun, but he is too late to stop them. The Esmers, under the spell of their mysterious god, the Dark Monk, have also built powerful jet engines to ram the Emerald Moon into Twinsun in order to destroy it. Twinsen must battle the aliens and the Dark Monk to save his planet and family."
+	],
+	"noarchivetorrent": [
+	  "true"
+	],
+	"curation": [
+	  "[curator]validator@archive.org[\/curator][date]20140407234303[\/date][comment]checked for malware[\/comment]"
+	],
+	"alternate-title": [
+	  "Little Big Adventure 2"
+	],
+	"backup_location": [
+	  "ia903907_1"
+	]
+  },
+  "files": {
+	"\/TwinsensOdyssey_1020_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "cc38a3c599e1b3397f48fc27798188bc"
+	},
+	"\/TwinsensOdyssey_1020_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465325371",
+	  "size": "1514",
+	  "md5": "12e3c84cc0adb381bdc8102fc2302459",
+	  "crc32": "286e7868",
+	  "sha1": "6e60ee87eda59747cad375e4a7fab0d0f87113b0"
+	},
+	"\/lba2.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "mtime": "1346725887",
+	  "size": "13101701",
+	  "md5": "8244ad5b0e0689fce8afeb6b77a25248",
+	  "crc32": "124e057d",
+	  "sha1": "4e32f13749877827935b2f1d2c02992c831e64fd"
+	},
+	"\/lba2.zip_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725887",
+	  "size": "662",
+	  "md5": "9323e6770ea579c9ed7f58c8ae1673c0",
+	  "crc32": "6c4d3bcb",
+	  "sha1": "e901c31c4f5700ca97e079f6958b97830787d406"
+	},
+	"\/resource_item_1336.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1346725889",
+	  "size": "12614",
+	  "md5": "05250ea3d942d1810a59a5f2a5789c8a",
+	  "crc32": "5d16c757",
+	  "sha1": "d95f1cd1667eda6907e0d9d89ae6f35f4d5a82af",
+	  "rotation": "0"
+	},
+	"\/resource_item_1336.jpg_meta.txt": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1346725889",
+	  "size": "272",
+	  "md5": "bede5e01054ac4f91c856aa793b17594",
+	  "crc32": "86fd4839",
+	  "sha1": "726d30a8a90e877cfb127f5e4db31a4d3d3ead89"
+	},
+	"\/resource_item_1336_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "resource_item_1336.jpg",
+	  "mtime": "1346726874",
+	  "size": "4145",
+	  "md5": "dab555a5a0ff0ddddefa8f7304324c05",
+	  "crc32": "7c3e73ed",
+	  "sha1": "d002061fb119d60eb53e8761a07cc7ddfab8e867"
+	}
+  },
+  "misc": {
+	"image": "http:\/\/ia600301.us.archive.org\/9\/items\/TwinsensOdyssey_1020\/resource_item_1336_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 803,
+	"week": 5,
+	"month": 12
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "server": "ia600806.us.archive.org",
+  "dir": "/17/items/BigRedRacingDemo",
+  "metadata": {
+	"identifier": [
+	  "BigRedRacingDemo"
+	],
+	"title": [
+	  "Big Red Racing Demo"
+	],
+	"creator": [
+	  "Big Red Software"
+	],
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"description": [
+	  "This playable demo allows you to play a US course and a Japanese course."
+	],
+	"date": [
+	  "1996"
+	],
+	"year": [
+	  "1996"
+	],
+	"subject": [
+	  "DOS games; Vintage computer games; Racing games"
+	],
+	"publicdate": [
+	  "2012-02-14 08:57:19"
+	],
+	"addeddate": [
+	  "2012-02-14 08:56:16"
+	],
+	"updater": [
+	  "Swizzley",
+	  "Swizzley",
+	  "Swizzley"
+	],
+	"updatedate": [
+	  "2012-02-14 08:57:17",
+	  "2012-02-15 23:32:23",
+	  "2012-02-15 23:37:32"
+	],
+	"publisher": [
+	  "Domark Software"
+	],
+	"emulator": [
+	  "dosbox"
+	],
+	"emulator_ext": [
+	  "zip"
+	],
+	"emulator_start": [
+	  "racing.exe"
+	],
+	"backup_location": [
+	  "ia903708_34"
+	]
+  },
+  "files": {
+	"\/00_coverscreenshot.jpg": {
+	  "source": "original",
+	  "mtime": "1444823728",
+	  "size": "171629",
+	  "md5": "3bcf72d50d3a67fd54d63f4f318ec854",
+	  "crc32": "6f3d5659",
+	  "sha1": "f0c63b314d717e1e7513c6934f989e14209d1109",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/00_coverscreenshot_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "00_coverscreenshot.jpg",
+	  "mtime": "1444823770",
+	  "size": "3325",
+	  "md5": "340afa43a290c289c0807c221ca4f0b4",
+	  "crc32": "8fe49091",
+	  "sha1": "c6aa5bccbe3fc7fcc809092119ff9df981de4f01"
+	},
+	"\/BigRedRacingDemo.gif": {
+	  "source": "original",
+	  "mtime": "1444823752",
+	  "size": "60383",
+	  "md5": "151c6980247b37d4d8cad0ba43008389",
+	  "crc32": "e6834efb",
+	  "sha1": "d358475ed97ea2e2ef9b67568d3eff566acf98b0",
+	  "format": "Animated GIF"
+	},
+	"\/BigRedRacingDemo.png": {
+	  "source": "original",
+	  "format": "PNG",
+	  "title": "Big Red Racing Demo",
+	  "mtime": "1329348681",
+	  "size": "10509",
+	  "md5": "243cb10c1d01b1a2c7c1017a9a0c0b2f",
+	  "crc32": "63367573",
+	  "sha1": "7cb25435e6eb65cebfc5606cd7d82c22a799d115"
+	},
+	"\/BigRedRacingDemo.zip": {
+	  "source": "original",
+	  "format": "ZIP",
+	  "title": "Big Red Racing Demo",
+	  "mtime": "1329209648",
+	  "size": "2891291",
+	  "md5": "4ac040fc3a19a1ececa87caa84b4c06c",
+	  "crc32": "218df5be",
+	  "sha1": "ed8e25cd09496f91809ce4dc027640719d10c70c"
+	},
+	"\/BigRedRacingDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "e4d1df87587fbac30627c9469cf632974a13e2fe",
+	  "mtime": "1465842533",
+	  "size": "5012",
+	  "md5": "9b0faaabd946613f3d2dd18e47c38bb4",
+	  "crc32": "7e01bd25",
+	  "sha1": "eb181e174dec6eb11fae3eb79124d2a4c532ee57",
+	  "format": "Archive BitTorrent"
+	},
+	"\/BigRedRacingDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "d7ae882d07413480255c078e23a7c0b0"
+	},
+	"\/BigRedRacingDemo_meta.sqlite": {
+	  "source": "original",
+	  "mtime": "1444823762",
+	  "size": "12288",
+	  "format": "Metadata",
+	  "md5": "f7ef466597b97dcdbbb94110b4d2e0c0",
+	  "crc32": "6589951b",
+	  "sha1": "4b335b9f30f40634fea198e62ffbc5bcd634fbc6"
+	},
+	"\/BigRedRacingDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1465842532",
+	  "size": "1035",
+	  "md5": "e8a8f00acb1958ab96e7d1b1340dd7a4",
+	  "crc32": "e3a30bf1",
+	  "sha1": "00e41730bd43b73d1e50cc898e153cbaf0f931d7"
+	},
+	"\/BigRedRacingDemo_screenshot.gif": {
+	  "source": "original",
+	  "mtime": "1444823757",
+	  "size": "395398",
+	  "md5": "1d99bdfc9e4a5ecefaff2d2483d03ce2",
+	  "crc32": "c0cac1e1",
+	  "sha1": "125c78fd00dcc826308a094a799288025295aee1",
+	  "format": "Emulator Screenshot"
+	},
+	"\/BigRedRacingDemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "BigRedRacingDemo.png",
+	  "mtime": "1444823775",
+	  "size": "5158",
+	  "md5": "2eb183a058d4d92fa958b2e1cd28dc43",
+	  "crc32": "76652eff",
+	  "sha1": "ffec996d606bcf6f5bf7c1f8ed2b83bc1b614513"
+	},
+	"\/screenshot_00.jpg": {
+	  "source": "original",
+	  "mtime": "1444823732",
+	  "size": "169062",
+	  "md5": "c8284cbf033f4557603cbb3444e06946",
+	  "crc32": "e51a717b",
+	  "sha1": "1be58c27ff8b144e8edc07f3c775207fbb54590d",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_00_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_00.jpg",
+	  "mtime": "1444823769",
+	  "size": "3296",
+	  "md5": "b9cc4a3788746db2050db18fa2aa53f5",
+	  "crc32": "56e8f220",
+	  "sha1": "33f0ad08d99ec8310dae794ea97a3e32beb3c810"
+	},
+	"\/screenshot_01.jpg": {
+	  "source": "original",
+	  "mtime": "1444823734",
+	  "size": "170012",
+	  "md5": "b4f1e75d850ae366a4fc6d782939a849",
+	  "crc32": "ce4a0e50",
+	  "sha1": "06880f17fc738ebabc6ab02559a5792491b91857",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_01_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_01.jpg",
+	  "mtime": "1444823772",
+	  "size": "3268",
+	  "md5": "84afd18fb89e2cc3387e174a508a84af",
+	  "crc32": "b9dceff2",
+	  "sha1": "687863bd68316310540a4df8e8465ffe65409a4c"
+	},
+	"\/screenshot_02.jpg": {
+	  "source": "original",
+	  "mtime": "1444823737",
+	  "size": "171629",
+	  "md5": "3bcf72d50d3a67fd54d63f4f318ec854",
+	  "crc32": "6f3d5659",
+	  "sha1": "f0c63b314d717e1e7513c6934f989e14209d1109",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_02_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_02.jpg",
+	  "mtime": "1444823771",
+	  "size": "3325",
+	  "md5": "340afa43a290c289c0807c221ca4f0b4",
+	  "crc32": "8fe49091",
+	  "sha1": "c6aa5bccbe3fc7fcc809092119ff9df981de4f01"
+	},
+	"\/screenshot_03.jpg": {
+	  "source": "original",
+	  "mtime": "1444823744",
+	  "size": "170247",
+	  "md5": "e021b5f437607ce2a5b4722d854cd6be",
+	  "crc32": "94006fd0",
+	  "sha1": "773b620ffa365a728f272f0841c009a2e1e38bf5",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_03_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_03.jpg",
+	  "mtime": "1444823773",
+	  "size": "3330",
+	  "md5": "0fddc2dc4f5a32c7d76b3c01455b75e5",
+	  "crc32": "bc5c4d60",
+	  "sha1": "5968b7c334ec851c179fd7535a99164350bb7b94"
+	},
+	"\/screenshot_04.jpg": {
+	  "source": "original",
+	  "mtime": "1444823747",
+	  "size": "171506",
+	  "md5": "2c8463a2d1efc0265043abbccd55235b",
+	  "crc32": "f1c065c0",
+	  "sha1": "2f063235d437edbfee59239da989659152ad97ee",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_04_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_04.jpg",
+	  "mtime": "1444823774",
+	  "size": "3252",
+	  "md5": "ebeb50c2d403a2128cb82b827fc7145a",
+	  "crc32": "28bba0df",
+	  "sha1": "3b31bd29ec5033acfd5db24df72a754ffa5629bc"
+	},
+	"\/screenshot_05.jpg": {
+	  "source": "original",
+	  "mtime": "1444823749",
+	  "size": "170594",
+	  "md5": "b880bf46e20d87610edacf295de212d9",
+	  "crc32": "101778eb",
+	  "sha1": "806d46eb0f00a1f83fb545a4f0b202700f792fe0",
+	  "format": "JPEG",
+	  "rotation": "0"
+	},
+	"\/screenshot_05_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "screenshot_05.jpg",
+	  "mtime": "1444823774",
+	  "size": "3294",
+	  "md5": "97bc0e32964dbc609c0e86671ee6bbf3",
+	  "crc32": "c5b293e3",
+	  "sha1": "9f65cda98dbea556f8d46d83c32b3b9887148f10"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600806.us.archive.org\/17\/items\/BigRedRacingDemo\/BigRedRacingDemo.gif",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 1640,
+	"week": 7,
+	"month": 16
+  }
+}

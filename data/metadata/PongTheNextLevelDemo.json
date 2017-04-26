@@ -1,0 +1,114 @@
+{
+  "server": "ia600803.us.archive.org",
+  "dir": "/15/items/PongTheNextLevelDemo",
+  "metadata": {
+	"mediatype": [
+	  "software"
+	],
+	"collection": [
+	  "classicpcgames"
+	],
+	"title": [
+	  "Pong: The Next Level Demo"
+	],
+	"description": [
+	  "The addictive game that started it all is now an incredible 3-D experience. The premise is the same - keep your opponent from scoring. But now you have the option of single or multi-player games and over 20 unbelievably fun, action-packed levels of competition. Best of all, Pong now has loads of offensive and defensive power-ups, game secrets, and fully functioning paddles that can catch, throw and spin the ball. Get ready to take your skills to a whole new level with Pong!"
+	],
+	"subject": [
+	  "Windows games; Vintage computer games; Action games"
+	],
+	"creator": [
+	  "Supersonic Software"
+	],
+	"identifier": [
+	  "PongTheNextLevelDemo"
+	],
+	"addeddate": [
+	  "2012-03-07 00:45:24"
+	],
+	"publicdate": [
+	  "2012-03-07 00:45:42"
+	],
+	"date": [
+	  "1999"
+	],
+	"year": [
+	  "1999"
+	],
+	"publisher": [
+	  "Atari Interactive"
+	],
+	"curation": [
+	  "[curator]jscott@archive.org[\/curator][date]20140308004704[\/date][state]un-dark[\/state][comment]Darked by Mistake[\/comment]"
+	],
+	"backup_location": [
+	  "ia903709_31"
+	]
+  },
+  "files": {
+	"\/PongDemo.exe": {
+	  "source": "original",
+	  "format": "Windows Executable",
+	  "mtime": "1331081109",
+	  "size": "3779072",
+	  "md5": "e37e3036210c12dce331591555cb6bac",
+	  "crc32": "7b713f35",
+	  "sha1": "e7b859c69731fd7b3605404534b720bbedbcc2c4",
+	  "title": "Pong: The Next Level Demo"
+	},
+	"\/PongTheNextLevelDemo_archive.torrent": {
+	  "source": "original",
+	  "btih": "023836bc60bd02d2e83c27f4922763f76bc58fda",
+	  "mtime": "1462149723",
+	  "size": "2012",
+	  "md5": "569da8340973bf6102f9188e95ace6dc",
+	  "crc32": "8322ec42",
+	  "sha1": "a65745a64cbb209ed4bbf06e965454a548e52965",
+	  "format": "Archive BitTorrent"
+	},
+	"\/PongTheNextLevelDemo_files.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "md5": "4125d5753f67cacfd5559dbc01afe5d1"
+	},
+	"\/PongTheNextLevelDemo_meta.xml": {
+	  "source": "original",
+	  "format": "Metadata",
+	  "mtime": "1462149722",
+	  "size": "1262",
+	  "md5": "0835b1438809517778a0bdcebbc43431",
+	  "crc32": "dcba00bc",
+	  "sha1": "528f690122361d9e7721fec3139403ffe42d01ee"
+	},
+	"\/pongdemo.jpg": {
+	  "source": "original",
+	  "format": "JPEG",
+	  "mtime": "1331081111",
+	  "size": "64188",
+	  "md5": "eb2f38e62a2fa0dbdfde4458a4563b0b",
+	  "crc32": "e24feb3c",
+	  "sha1": "e80532274a5a57edf3c718a850ad24cd1db81227",
+	  "title": "Pong: The Next Level Screenshot",
+	  "rotation": "0"
+	},
+	"\/pongdemo_thumb.jpg": {
+	  "source": "derivative",
+	  "format": "JPEG Thumb",
+	  "original": "pongdemo.jpg",
+	  "mtime": "1331081135",
+	  "size": "7021",
+	  "md5": "27ccf5a66adfd410c2a521f741719526",
+	  "crc32": "4c893f90",
+	  "sha1": "4d40311c2ee0fc14930a1fea29def498a15b24d4"
+	}
+  },
+  "misc": {
+	"image": "https:\/\/ia600803.us.archive.org\/15\/items\/PongTheNextLevelDemo\/pongdemo_thumb.jpg",
+	"collection-title": "Classic PC Games"
+  },
+  "item": {
+	"downloads": 508,
+	"week": 7,
+	"month": 14
+  }
+}

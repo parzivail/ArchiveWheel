@@ -26,10 +26,6 @@ body {
   color: #9b9bc2;
 }
 
-.strike {
-  text-decoration: line-through;
-}
-
 #container {
   position: absolute;
   top: 50%;
@@ -38,6 +34,22 @@ body {
   width: 850px;
   height: 850px;
   z-index: 15;
+}
+
+#container-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 850px;
+  height: 850px;
+  z-index: 16;
+}
+
+#circle-text {
+  width: 850px;
+  height: 850px;
+  z-index: 16;
 }
 
 #loaderInfo {

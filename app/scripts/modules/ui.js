@@ -83,22 +83,37 @@ define(['modules/global'], function (global) {
 			});
 			tl.to(l2, 0.2, {scaleX: 1.1, scaleY: 1.1});
 			tl.to(l2, 0.4, {scaleX: 1, scaleY: 1});
-			var poss = $("#possible");
+			var poss = $("#circle-text");
 			tl.call(function () {
 				global.status("Done");
 
-				poss.append("<div><b>Possibilities:</b></div>");
+				var nChar = 270,
+					demoNum = 1;
+
+				//poss.append("<div><b>Possibilities:</b></div>");
 				$.each(global.demos, function (idx, item) {
 					var t = item.info.title;
-					if (t.length > 40)
-						t = t.substring(0, 40) + "...";
 
-					poss.append('<div><i class="material-icons">chevron_right</i> ' + t + "</div>");
+					if (nChar < 27 * demoNum) {
+						var maxlen = 27;
+						if (t.length > maxlen)
+							t = t.substring(0, maxlen) + "...";
+					}
+
+					if (demoNum !== 1)
+						poss.append(", ");
+
+					poss.append(t);
+
+					nChar += t.length;
+					demoNum++;
 				});
 
-				poss.css("left", -poss.width() + "px");
+				poss.circleType({radius: 425});
+
+				//poss.css("left", -poss.width() + "px");
 			});
-			tl.add(new TweenLite.to(poss, 0.5, {left: 10, ease: Power3.easeOut}));
+			//tl.add(new TweenLite.to(poss, 0.5, {left: 10, ease: Power3.easeOut}));
 			tl.play();
 		},
 		showDemo: function () {

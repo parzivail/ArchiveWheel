@@ -66,6 +66,32 @@ define(['modules/global'], function (global) {
 				}
 			});
 
+			global.status("Done");
+
+			var poss = $("#circle-text");
+			var nChar = 270,
+				demoNum = 1;
+
+			//poss.append("<div><b>Possibilities:</b></div>");
+			$.each(global.demos, function (idx, item) {
+				var t = item.info.title;
+
+				var maxlen = nChar / (11 - demoNum);
+				if (t.length > maxlen)
+					t = t.substring(0, maxlen) + "...";
+
+				if (demoNum !== 1)
+					poss.append(" &mdash; ");
+
+				poss.append(t);
+
+				nChar -= t.length;
+				demoNum++;
+			});
+
+			poss.circleType({radius: 425});
+			TweenLite.set(poss, {scaleX: 0, scaleY: 0});
+
 			var l = $("#loaderInfo");
 			var l2 = $("#container");
 			var tl = new TimelineLite();
@@ -81,35 +107,8 @@ define(['modules/global'], function (global) {
 				if (global.enableSound)
 					global.sound.play();
 			});
-			var poss = $("#circle-text");
-			tl.set(poss, {scaleX: 0, scaleY: 0});
-			tl.call(function () {
-				global.status("Done");
-
-				var nChar = 270,
-					demoNum = 1;
-
-				//poss.append("<div><b>Possibilities:</b></div>");
-				$.each(global.demos, function (idx, item) {
-					var t = item.info.title;
-
-					var maxlen = nChar / (11 - demoNum);
-					if (t.length > maxlen)
-						t = t.substring(0, maxlen) + "...";
-
-					if (demoNum !== 1)
-						poss.append(" &mdash; ");
-
-					poss.append(t);
-
-					nChar -= t.length;
-					demoNum++;
-				});
-
-				poss.circleType({radius: 425});
-			});
-			tl.to([l2, poss], 0.2, {scaleX: 1.1, scaleY: 1.1});
-			tl.to([l2, poss], 0.4, {scaleX: 1, scaleY: 1});
+			tl.to([l2, poss], 0.5, {scaleX: 1.1, scaleY: 1.1});
+			tl.to([l2, poss], 0.9, {scaleX: 1, scaleY: 1});
 			tl.play();
 		},
 		showDemo: function () {

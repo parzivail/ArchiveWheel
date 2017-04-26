@@ -13,6 +13,23 @@ body {
   position: absolute;
 }
 
+#about {
+  color: #aeaeae;
+  font-size: 10pt;
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  z-index: 50;
+}
+
+#about a {
+  color: #9b9bc2;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
 #container {
   position: absolute;
   top: 50%;

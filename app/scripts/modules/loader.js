@@ -9,8 +9,10 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 
 			global.status("Initializing...");
 
+			var filename = ['demodisk', 'demodisk_100', 'first', 'gonnagetya', 'who'][Math.floor(Math.random() * 5)];
+
 			global.sound = new Howl({
-				src: ['/sound/demodisk.webm', '/sound/demodisk.mp3']
+				src: ['/sound/' + filename + '.webm', '/sound/' + filename + '.mp3']
 			});
 
 			global.status("Loading demo manifest...");

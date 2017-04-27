@@ -79,7 +79,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow', 'modules/ui'], funct
 
 				global.wheel = new Wheel(wheelX, wheelY, wheelRadius, 10, 0.25, wheelRadius - 0.3);
 				global.wheel.body.angle = (Math.PI / 32.5);
-				global.wheel.body.angularVelocity = -(50 + 15 * Math.random());
+				global.wheel.body.angularVelocity = -(50 + 30 * Math.random());
 				global.arrow = new Arrow(arrowX, arrowY, 0.5, 1.5);
 				global.arrow.body.angularDamping = 1;
 				global.mouseBody = new p2.Body();

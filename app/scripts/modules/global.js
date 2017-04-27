@@ -61,7 +61,7 @@ define(function () {
 		wheelStopped: wheelStopped,
 		//particles: particles,
 		demos: demos,
-		enableSound: false,
+		enableSound: true,
 		sound: null,
 		currentIndex: 0,
 		status: function (status) {

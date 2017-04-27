@@ -8,6 +8,9 @@ define(['modules/global'], function (global) {
 		init: function (window) {
 			this.window = window;
 
+			$("#miss").click($.proxy(this.showMissed, this));
+			$("#missBack").click(this.hideMissed);
+
 			//this.window.setInterval($.proxy(this.cycleBg, this), 500);
 
 			$("#spinAgain").click(function () {
@@ -15,7 +18,6 @@ define(['modules/global'], function (global) {
 			});
 
 			$("#play").click(function () {
-				console.log(global.demos[global.currentIndex]);
 				window.open("https://archive.org/details/" + global.demos[global.currentIndex].info.identifier);
 			});
 
@@ -39,8 +41,7 @@ define(['modules/global'], function (global) {
 			$(".z2").css("z-index", (this.bgIndex + 2) % 3 - 3);
 		},
 		doAnim: function () {
-			var l2 = $("#container"),
-				poss = $("#circle-text");
+			var l2 = $("#container");
 
 			const circle = new mojs.Shape({
 				stroke: '#FF9C00',
@@ -69,36 +70,33 @@ define(['modules/global'], function (global) {
 				},
 				onComplete: function () {
 					var tl = new TimelineLite();
-					tl.to([l2, poss], 0.3, {scaleX: 1.1, scaleY: 1.1});
-					tl.to([l2, poss], 0.5, {scaleX: 1, scaleY: 1});
+					tl.to(l2, 0.3, {scaleX: 1.1, scaleY: 1.1});
+					tl.to(l2, 0.5, {scaleX: 1, scaleY: 1});
 					tl.play();
 				}
 			});
 
 			global.status("Done");
 
-			var nChar = 270,
-				demoNum = 1;
-
-			//poss.append("<div><b>Possibilities:</b></div>");
-			$.each(global.demos, function (idx, item) {
-				var t = item.info.title;
-
-				var maxlen = nChar / (11 - demoNum);
-				if (t.length > maxlen)
-					t = t.substring(0, maxlen) + "...";
-
-				if (demoNum !== 1)
-					poss.append(" &mdash; ");
-
-				poss.append(t);
-
-				nChar -= t.length;
-				demoNum++;
-			});
-
-			poss.circleType({radius: 425});
-			TweenLite.set(poss, {scaleX: 0, scaleY: 0});
+			// var nChar = 270,
+			// 	demoNum = 1;
+			//
+			// //poss.append("<div><b>Possibilities:</b></div>");
+			// $.each(global.demos, function (idx, item) {
+			// 	var t = item.info.title;
+			//
+			// 	var maxlen = nChar / (11 - demoNum);
+			// 	if (t.length > maxlen)
+			// 		t = t.substring(0, maxlen) + "...";
+			//
+			// 	if (demoNum !== 1)
+			// 		poss.append(" &mdash; ");
+			//
+			// 	poss.append(t);
+			//
+			// 	nChar -= t.length;
+			// 	demoNum++;
+			// });
 
 			var l = $("#loaderInfo");
 			var tl = new TimelineLite();
@@ -124,6 +122,33 @@ define(['modules/global'], function (global) {
 
 			TweenLite.fromTo($(".item"), 0.5, {scaleX: 0, scaleY: 0}, {scaleX: 1, scaleY: 1});
 			TweenLite.fromTo($(".overlay"), 1, {opacity: 0}, {opacity: 0.9});
+		},
+		constructMissedDemoList: function () {
+			var list = $("#missedList");
+			list.html("");
+
+			$.each(global.demos, function (idx, item) {
+				var t = item.info.title;
+				var d = item.info.description;
+				var i = item.getFullImageUrl();
+
+				list.append('<div class="missedDemo"><img src="' + i + '"/><h3><a target="_blank" href="https://archive.org/details/' + item.info.identifier + '">' + t + '</a></h3><p>' + d + '</p></div>');
+				list.append('<br />');
+			});
+		},
+		showMissed: function () {
+			this.constructMissedDemoList();
+
+			var tl = new TimelineLite();
+			tl.to($(".item"), 0.25, {scaleX: 0, scaleY: 0});
+			tl.to($(".missedModal"), 0.25, {scaleX: 1, scaleY: 1});
+			tl.play();
+		},
+		hideMissed: function () {
+			var tl = new TimelineLite();
+			tl.to($(".missedModal"), 0.25, {scaleX: 0, scaleY: 0});
+			tl.to($(".item"), 0.25, {scaleX: 1, scaleY: 1});
+			tl.play();
 		}
 	};
 });

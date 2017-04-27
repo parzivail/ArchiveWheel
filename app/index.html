@@ -5,7 +5,7 @@
 	<title>Archive Wheel</title>
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="stylesheet" href="css/hover/hover.css"/>
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 </head>
 <body>
 
@@ -16,6 +16,7 @@
 	<span class="description"></span>
 	<br/>
 	<span class="btns">
+		<a href="#" class="btn green hvr-underline-from-center" id="miss">What'd I Miss?</a>
 		<a href="#" class="btn blue hvr-underline-from-center" id="play">Play This Demo</a>
 		<a href="#" class="btn orange hvr-underline-from-center" id="spinAgain">Spin Again</a>
 	</span>
@@ -26,9 +27,11 @@
 	<canvas id="drawing_canvas"></canvas>
 </div>
 <div id="loaderInfo"></div>
-<div id="possible"></div>
-<div id="container-text">
-	<div id="circle-text"></div>
+<div class="missedModal">
+	<div id="missedList">
+		<!--I don't like sand. It's coarse and rough and irritating and it gets everywhere.-->
+	</div>
+	<a href="#" class="btn green hvr-underline-from-center" id="missBack">Back</a>
 </div>
 <div class="activity"></div>
 <div id="loadStatus"></div>
@@ -42,8 +45,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.3/howler.core.min.js"></script>
 <script src="scripts/pace.min.js"></script>
 <script src="scripts/tl.addDelay.js"></script>
-<script src="scripts/jquery.lettering-0.6.1.min.js"></script>
-<script src="scripts/circletype.min.js"></script>
 <script src="scripts/require.js" data-main="scripts/app"></script>
 </body>
 </html>

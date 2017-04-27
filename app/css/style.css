@@ -161,6 +161,20 @@ body {
       margin-bottom: 8px; }
       .card .card-content .card-title i {
         line-height: 32px; }
+  .card .card-action {
+    position: relative;
+    background-color: inherit;
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+    padding: 16px 24px; }
+    .card .card-action:last-child {
+      border-radius: 0 0 2px 2px; }
+    .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
+      color: #FF983C;
+      margin-right: 24px;
+      transition: color .3s ease;
+      text-transform: uppercase; }
+      .card .card-action a:not(.btn):not(.btn-large):not(.btn-floating):hover {
+        color: #ffcea2; }
   .card .card-reveal {
     padding: 24px;
     position: absolute;

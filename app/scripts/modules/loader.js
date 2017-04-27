@@ -9,11 +9,21 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 
 			global.status("Initializing...");
 
-			var filename = ['demodisk', 'demodisk_100', 'first', 'gonnagetya', 'who'][Math.floor(Math.random() * 5)];
+			var songs = ['demodisk', 'demodisk_100', 'first', 'gonnagetya', 'who'],
+				transcripts = ['BA DA BA DA BA DA (ba du ba da ba da) BEW (bum)',
+					'(unintelligible screeching)',
+					'What do you mean, "first"? There is no first, we get it and that\'s IT!',
+					'Boom! OOOOOH! I\'m gonna get yaaaaa!',
+					'You\'re under arrest for underestimating Brent Spiner! Who?'],
+				rand = Math.floor(Math.random() * 5),
+				filename = songs[rand],
+				musicTranscript = transcripts[rand];
 
 			global.sound = new Howl({
 				src: ['/sound/' + filename + '.webm', '/sound/' + filename + '.mp3']
 			});
+
+			global.musicTranscript = musicTranscript;
 
 			global.status("Loading demo manifest...");
 
@@ -57,6 +67,7 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					$(".activity").addClass("hidden");
 					$("#loadStatus").addClass("hidden");
 					global.status("");
+					console.log(global.musicTranscript);
 				}
 			}
 		}

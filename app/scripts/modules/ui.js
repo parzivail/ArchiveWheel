@@ -70,7 +70,7 @@ define(['modules/global'], function (global) {
 				},
 				onComplete: function () {
 					var tl = new TimelineLite();
-					tl.to(l2, 0.3, {scaleX: 1.1, scaleY: 1.1});
+					tl.to(l2, 0.5, {scaleX: 1.1, scaleY: 1.1});
 					tl.to(l2, 0.5, {scaleX: 1, scaleY: 1});
 					tl.play();
 				}
@@ -139,6 +139,9 @@ define(['modules/global'], function (global) {
 					</div>\
 					<div class="card-content">\
 						<p>' + d + '</p>\
+					</div>\
+					<div class="card-action">\
+						<a href="http://www.archive.org/details/' + item.info.identifier + '">Play This Demo</a>\
 					</div>\
 				</div>';
 

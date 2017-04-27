@@ -23,6 +23,7 @@ define(['modules/global'], function (global) {
 
 			var vivus = new Vivus('loaderInfo', {file: 'images/archivewheel.svg'}, function () {
 			});
+			$("#loaderInfo").removeClass("hidden");
 
 			// Pace.on("done", function () {
 			// 	vivus.setFrameProgress(1);
@@ -78,26 +79,6 @@ define(['modules/global'], function (global) {
 
 			global.status("Done");
 
-			// var nChar = 270,
-			// 	demoNum = 1;
-			//
-			// //poss.append("<div><b>Possibilities:</b></div>");
-			// $.each(global.demos, function (idx, item) {
-			// 	var t = item.info.title;
-			//
-			// 	var maxlen = nChar / (11 - demoNum);
-			// 	if (t.length > maxlen)
-			// 		t = t.substring(0, maxlen) + "...";
-			//
-			// 	if (demoNum !== 1)
-			// 		poss.append(" &mdash; ");
-			//
-			// 	poss.append(t);
-			//
-			// 	nChar -= t.length;
-			// 	demoNum++;
-			// });
-
 			var l = $("#loaderInfo");
 			var tl = new TimelineLite();
 			tl.addDelay(3);
@@ -135,9 +116,9 @@ define(['modules/global'], function (global) {
 				var card = '<div class="card">\
 					<div class="card-image">\
 						<img src="' + i + '">\
-						<span class="card-title">' + t + '</span>\
 					</div>\
 					<div class="card-content">\
+						<span class="card-title">' + t + '</span>\
 						<p>' + d + '</p>\
 					</div>\
 					<div class="card-action">\

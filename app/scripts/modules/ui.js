@@ -129,11 +129,21 @@ define(['modules/global'], function (global) {
 
 			$.each(global.demos, function (idx, item) {
 				var t = item.info.title;
-				var d = item.info.description;
+				var d = item.info.fullDescription;
 				var i = item.getFullImageUrl();
 
-				list.append('<div class="missedDemo"><img src="' + i + '"/><h3><a target="_blank" href="https://archive.org/details/' + item.info.identifier + '">' + t + '</a></h3><p>' + d + '</p></div>');
-				list.append('<br />');
+				var card = '<div class="card">\
+					<div class="card-image">\
+						<img src="' + i + '">\
+						<span class="card-title">' + t + '</span>\
+					</div>\
+					<div class="card-content">\
+						<p>' + d + '</p>\
+					</div>\
+				</div>';
+
+				list.append(card);
+				//list.append('<br />');
 			});
 		},
 		showMissed: function () {

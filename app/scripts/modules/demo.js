@@ -12,8 +12,11 @@ define(['modules/global'], function (global) {
 			if (!this.info.description)
 				this.info.description = "No description provided.";
 
-			if (this.info.description.length > 1000)
+			this.info.fullDescription = this.info.description;
+
+			if (this.info.description.length > 1000) {
 				this.info.description = this.info.description.substring(0, 700) + "[...]";
+			}
 
 			onLoad();
 

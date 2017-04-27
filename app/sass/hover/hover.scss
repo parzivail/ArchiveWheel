@@ -11,249 +11,40 @@
 @import "mixins";
 @import "hacks";
 /* BACKGROUND TRANSITIONS */
-@import "effects/background-transitions/fade";
 
-@if $includeClasses {
-  .#{$nameSpace}-fade {
-    @include fade();
+/* Underline From Center */
+@mixin underline-from-center {
+  $duration: $mediumDuration;
+
+  @include hacks();
+  position: relative;
+  overflow: hidden;
+
+  &:before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	left: 50%;
+	right: 50%;
+	bottom: 0;
+	//background: $activeColor;
+	height: 4px;
+	@include prefixed(transition-property, "left, right");
+	@include prefixed(transition-duration, $duration);
+	@include prefixed(transition-timing-function, ease-out);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+
+	&:before {
+	  left: 0;
+	  right: 0;
+	}
   }
 }
 
-@import "effects/background-transitions/back-pulse";
-@if $includeClasses {
-  .#{$nameSpace}-back-pulse {
-    @include back-pulse();
-  }
-}
-
-@import "effects/background-transitions/sweep-to-right";
-@if $includeClasses {
-  .#{$nameSpace}-sweep-to-right {
-    @include sweep-to-right();
-  }
-}
-
-@import "effects/background-transitions/sweep-to-left";
-@if $includeClasses {
-  .#{$nameSpace}-sweep-to-left {
-    @include sweep-to-left();
-  }
-}
-
-@import "effects/background-transitions/sweep-to-bottom";
-@if $includeClasses {
-  .#{$nameSpace}-sweep-to-bottom {
-    @include sweep-to-bottom();
-  }
-}
-
-@import "effects/background-transitions/sweep-to-top";
-@if $includeClasses {
-  .#{$nameSpace}-sweep-to-top {
-    @include sweep-to-top();
-  }
-}
-
-@import "effects/background-transitions/bounce-to-right";
-@if $includeClasses {
-  .#{$nameSpace}-bounce-to-right {
-    @include bounce-to-right();
-  }
-}
-
-@import "effects/background-transitions/bounce-to-left";
-@if $includeClasses {
-  .#{$nameSpace}-bounce-to-left {
-    @include bounce-to-left();
-  }
-}
-
-@import "effects/background-transitions/bounce-to-bottom";
-@if $includeClasses {
-  .#{$nameSpace}-bounce-to-bottom {
-    @include bounce-to-bottom();
-  }
-}
-
-@import "effects/background-transitions/bounce-to-top";
-@if $includeClasses {
-  .#{$nameSpace}-bounce-to-top {
-    @include bounce-to-top();
-  }
-}
-
-@import "effects/background-transitions/radial-out";
-@if $includeClasses {
-  .#{$nameSpace}-radial-out {
-    @include radial-out();
-  }
-}
-
-@import "effects/background-transitions/radial-in";
-@if $includeClasses {
-  .#{$nameSpace}-radial-in {
-    @include radial-in();
-  }
-}
-
-@import "effects/background-transitions/rectangle-in";
-@if $includeClasses {
-  .#{$nameSpace}-rectangle-in {
-    @include rectangle-in();
-  }
-}
-
-@import "effects/background-transitions/rectangle-out";
-@if $includeClasses {
-  .#{$nameSpace}-rectangle-out {
-    @include rectangle-out();
-  }
-}
-
-@import "effects/background-transitions/shutter-in-horizontal";
-@if $includeClasses {
-  .#{$nameSpace}-shutter-in-horizontal {
-    @include shutter-in-horizontal();
-  }
-}
-
-@import "effects/background-transitions/shutter-out-horizontal";
-@if $includeClasses {
-  .#{$nameSpace}-shutter-out-horizontal {
-    @include shutter-out-horizontal();
-  }
-}
-
-@import "effects/background-transitions/shutter-in-vertical";
-@if $includeClasses {
-  .#{$nameSpace}-shutter-in-vertical {
-    @include shutter-in-vertical();
-  }
-}
-
-@import "effects/background-transitions/shutter-out-vertical";
-@if $includeClasses {
-  .#{$nameSpace}-shutter-out-vertical {
-    @include shutter-out-vertical();
-  }
-}
-
-/* BORDER TRANSITIONS */
-@import "effects/border-transitions/border-fade";
-@if $includeClasses {
-  .#{$nameSpace}-border-fade {
-    @include border-fade();
-  }
-}
-
-@import "effects/border-transitions/hollow";
-@if $includeClasses {
-  .#{$nameSpace}-hollow {
-    @include hollow();
-  }
-}
-
-@import "effects/border-transitions/trim";
-@if $includeClasses {
-  .#{$nameSpace}-trim {
-    @include trim();
-  }
-}
-
-@import "effects/border-transitions/ripple-out";
-@if $includeClasses {
-  .#{$nameSpace}-ripple-out {
-    @include ripple-out();
-  }
-}
-
-@import "effects/border-transitions/ripple-in";
-@if $includeClasses {
-  .#{$nameSpace}-ripple-in {
-    @include ripple-in();
-  }
-}
-
-@import "effects/border-transitions/outline-out";
-@if $includeClasses {
-  .#{$nameSpace}-outline-out {
-    @include outline-out();
-  }
-}
-
-@import "effects/border-transitions/outline-in";
-@if $includeClasses {
-  .#{$nameSpace}-outline-in {
-    @include outline-in();
-  }
-}
-
-@import "effects/border-transitions/round-corners";
-@if $includeClasses {
-  .#{$nameSpace}-round-corners {
-    @include round-corners();
-  }
-}
-
-@import "effects/border-transitions/underline-from-left";
-@if $includeClasses {
-  .#{$nameSpace}-underline-from-left {
-    @include underline-from-left();
-  }
-}
-
-@import "effects/border-transitions/underline-from-center";
-@if $includeClasses {
-  .#{$nameSpace}-underline-from-center {
-    @include underline-from-center();
-  }
-}
-
-@import "effects/border-transitions/underline-from-right";
-@if $includeClasses {
-  .#{$nameSpace}-underline-from-right {
-    @include underline-from-right();
-  }
-}
-
-@import "effects/border-transitions/overline-from-left";
-@if $includeClasses {
-  .#{$nameSpace}-overline-from-left {
-    @include overline-from-left();
-  }
-}
-
-@import "effects/border-transitions/overline-from-center";
-@if $includeClasses {
-  .#{$nameSpace}-overline-from-center {
-    @include overline-from-center();
-  }
-}
-
-@import "effects/border-transitions/overline-from-right";
-@if $includeClasses {
-  .#{$nameSpace}-overline-from-right {
-    @include overline-from-right();
-  }
-}
-
-@import "effects/border-transitions/reveal";
-@if $includeClasses {
-  .#{$nameSpace}-reveal {
-    @include reveal();
-  }
-}
-
-@import "effects/border-transitions/underline-reveal";
-@if $includeClasses {
-  .#{$nameSpace}-underline-reveal {
-    @include underline-reveal();
-  }
-}
-
-@import "effects/border-transitions/overline-reveal";
-@if $includeClasses {
-  .#{$nameSpace}-overline-reveal {
-    @include overline-reveal();
-  }
+.#{$nameSpace}-underline-from-center {
+  @include underline-from-center();
 }

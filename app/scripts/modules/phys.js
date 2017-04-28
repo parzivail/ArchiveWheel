@@ -66,7 +66,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow', 'modules/ui'], funct
 				global.arrowMaterial = new p2.Material();
 				global.pinMaterial = new p2.Material();
 				global.contactMaterial = new p2.ContactMaterial(global.arrowMaterial, global.pinMaterial, {
-					friction: 0.5,
+					friction: 0.7,
 					restitution: 0.1
 				});
 				global.world.addContactMaterial(global.contactMaterial);
@@ -79,7 +79,7 @@ define(['modules/global', 'modules/wheel', 'modules/arrow', 'modules/ui'], funct
 
 				global.wheel = new Wheel(wheelX, wheelY, wheelRadius, 10, 0.25, wheelRadius - 0.3);
 				global.wheel.body.angle = (Math.PI / 32.5);
-				global.wheel.body.angularVelocity = -(50 + 30 * Math.random());
+				global.wheel.body.angularVelocity = -(40 + 30 * Math.random());
 				global.arrow = new Arrow(arrowX, arrowY, 0.5, 1.5);
 				global.arrow.body.angularDamping = 1;
 				global.mouseBody = new p2.Body();

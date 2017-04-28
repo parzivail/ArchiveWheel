@@ -71,7 +71,7 @@ define(['modules/global'], function (global) {
 				},
 				onComplete: function () {
 					var tl = new TimelineLite();
-					tl.to(l2, 0.5, {scaleX: 1.1, scaleY: 1.1});
+					tl.to(l2, 0.3, {scaleX: 1.1, scaleY: 1.1});
 					tl.to(l2, 0.5, {scaleX: 1, scaleY: 1});
 					tl.play();
 				}

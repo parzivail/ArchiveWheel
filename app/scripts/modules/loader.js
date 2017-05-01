@@ -48,22 +48,20 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 			//var allGamesUrl = "http://archive.org/advancedsearch.php?q=collection%3A%28classicpcgames%29&fl%5B%5D=description&fl%5B%5D=headerImage&fl%5B%5D=identifier&fl%5B%5D=title&sort%5B%5D=titleSorter+asc&sort%5B%5D=&sort%5B%5D=&rows=99999&page=1&output=json#raw";
 
 			$.get(demosUrl, function (data) {
-				console.log("Loaded demo manifest off web");
 				loadJsonData(data);
 			});
 
 			var loadJsonData = function (data) {
 				var docs = data;
 				var numDemosTotal = docs.length;
-				console.log("Loaded " + numDemosTotal + " demos");
 
 				$("#numDemos").text(numDemosTotal);
 
 				var randomDemoIndexes = [];
 				for (var i = 0; i < numNeededDemos; i++) {
-					var r = Math.round(Math.random() * numDemosTotal);
+					var r = Math.floor(Math.random() * numDemosTotal);
 					while (randomDemoIndexes.indexOf(r) != -1)
-						r = Math.round(Math.random() * numDemosTotal);
+						r = Math.floor(Math.random() * numDemosTotal);
 					randomDemoIndexes.push(r);
 				}
 
@@ -80,7 +78,6 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					// all demos loaded
 					global.status("Starting physics engine...");
 					phys.begin();
-					console.log("Began phys routine");
 					$(".activity").addClass("hidden");
 					$("#loadStatus").addClass("hidden");
 					global.status("");

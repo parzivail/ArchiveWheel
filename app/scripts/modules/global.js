@@ -63,7 +63,6 @@ define(function () {
 		demos: demos,
 		enableSound: true,
 		sound: null,
-		musicTranscript: "",
 		currentIndex: 0,
 		status: function (status) {
 			$("#loadStatus").text(status);

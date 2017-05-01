@@ -9,21 +9,38 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 
 			global.status("Initializing...");
 
-			var songs = ['demodisk', 'demodisk_100', 'first', 'gonnagetya', 'who'],
-				transcripts = ['BA DA BA DA BA DA (ba du ba da ba da) BEW (bum)',
-					'(unintelligible screeching)',
-					'What do you mean, "first"? There is no first, we get it and that\'s IT!',
-					'Boom! OOOOOH! I\'m gonna get yaaaaa!',
-					'You\'re under arrest for underestimating Brent Spiner! Who?'],
-				rand = Math.floor(Math.random() * 5),
-				filename = songs[rand],
-				musicTranscript = transcripts[rand];
+			var songs = [
+					'demodisk',
+					'demodisk_100',
+					// 'first',
+					// 'gonnagetya',
+					// 'who',
+					// '2questions',
+					// 'anime_games',
+					// 'bruce_in_c',
+					// 'didnt_know_puss',
+					// 'disney_princesses',
+					// 'jet',
+					// 'no_gender',
+					// 'ooooooooo',
+					// 'puss_town',
+					// 'razzle_dazzle',
+					// 'share_pepes',
+					// 'she_was_fat',
+					// 'sidekick',
+					// 'sidney_gallagher',
+					// 'sitcom',
+					// 'snatch',
+					// 'squackin_radio',
+					// 'tongue',
+					// 'volkor'
+				],
+				rand = Math.floor(Math.random() * songs.length),
+				filename = songs[rand];
 
 			global.sound = new Howl({
 				src: ['/sound/' + filename + '.webm', '/sound/' + filename + '.mp3']
 			});
-
-			global.musicTranscript = musicTranscript;
 
 			global.status("Loading demo manifest...");
 
@@ -67,7 +84,6 @@ define(['modules/global', 'modules/demo', 'modules/phys'], function (global, Dem
 					$(".activity").addClass("hidden");
 					$("#loadStatus").addClass("hidden");
 					global.status("");
-					console.log(global.musicTranscript);
 				}
 			}
 		}

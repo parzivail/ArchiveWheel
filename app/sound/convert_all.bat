@@ -1,0 +1,1 @@
+for %%i in ("%cd%\*.ogg") do convert "%%~ni"
